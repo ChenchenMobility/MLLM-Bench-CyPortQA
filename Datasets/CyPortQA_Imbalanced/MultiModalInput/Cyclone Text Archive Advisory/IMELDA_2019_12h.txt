@@ -1,0 +1,82 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Depression Eleven Special Advisory Number   1
+NWS National Hurricane Center Miami FL       AL112019
+1200 PM CDT Tue Sep 17 2019
+
+...TROPICAL DEPRESSION FORMS NEAR THE TEXAS COAST...
+...EXPECTED TO PRODUCE HEAVY RAINFALL AND FLOODING...
+
+
+SUMMARY OF 1200 PM CDT...1700 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...28.7N 95.4W
+ABOUT 15 MI...25 KM SSW OF FREEPORT TEXAS
+ABOUT 55 MI...90 KM SW OF GALVESTON TEXAS
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...N OR 5 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+A Tropical Storm Warning has been issued for the coast of Texas
+from Sargent to Port Bolivar.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Sargent to Port Bolivar
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within the
+next few hours.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 1200 PM CDT (1700 UTC), the center of Tropical Depression Eleven
+was located near latitude 28.7 North, longitude 95.4 West. The
+depression is moving toward the north near 7 mph (11 km/h), and
+this general motion is expected to continue through early
+Wednesday. A north-northwestward motion is expected Wednesday night
+and Thursday.  On the forecast track, the center of the depression
+will move inland over the Upper Texas coast later today, and move
+farther inland tonight and Wednesday.
+
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Some slight strengthening is possible before the center moves
+onshore.
+
+The estimated minimum central pressure is 1009 mb (29.80 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL:  The depression is expected to produce total rainfall
+accumulation of 5 to 10 inches with isolated maximum of 15 inches
+across the upper coastal region of Texas into far southwest
+Louisiana through Thursday.  This rainfall may produce life-
+threatening flash floods.
+
+WIND:  Tropical storm conditions are expected somewhere within the
+warning area this afternoon and evening.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 PM CDT.
+
+$$
+Forecaster Brown
+
+NNNN

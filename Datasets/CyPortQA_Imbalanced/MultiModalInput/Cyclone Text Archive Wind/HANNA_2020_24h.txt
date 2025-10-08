@@ -1,0 +1,89 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM HANNA WIND SPEED PROBABILITIES NUMBER   8            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL082020               
+2100 UTC FRI JUL 24 2020                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM HANNA WAS LOCATED NEAR        
+LATITUDE 27.3 NORTH...LONGITUDE 94.3 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z FRI 06Z SAT 18Z SAT 06Z SUN 18Z SUN 18Z MON 18Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SAT 18Z SAT 06Z SUN 18Z SUN 18Z MON 18Z TUE 18Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+GALVESTON TX   34  1   1( 2)   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+HOUSTON TX     34  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+AUSTIN TX      34  X   1( 1)   3( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+SAN ANTONIO TX 34  X   1( 1)   7( 8)   1( 9)   X( 9)   X( 9)   X( 9)
+ 
+FREEPORT TX    34  1   1( 2)   3( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+GFMX 280N 950W 34 42   3(45)   2(47)   X(47)   X(47)   X(47)   X(47)
+GFMX 280N 950W 50  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+HIGH ISLAND TX 34  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+MATAGORDA TX   34  2   7( 9)   6(15)   1(16)   X(16)   X(16)   X(16)
+ 
+PORT O CONNOR  34  2  19(21)   8(29)   1(30)   X(30)   X(30)   X(30)
+ 
+ROCKPORT TX    34  X  32(32)  18(50)   X(50)   X(50)   X(50)   X(50)
+ 
+CORPUS CHRISTI 34  X  33(33)  28(61)   X(61)   X(61)   X(61)   X(61)
+CORPUS CHRISTI 50  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+GFMX 270N 960W 34 21  51(72)   1(73)   X(73)   X(73)   X(73)   X(73)
+GFMX 270N 960W 50  1  11(12)   X(12)   X(12)   X(12)   X(12)   X(12)
+GFMX 270N 960W 64  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+MCALLEN TX     34  X   2( 2)  31(33)   2(35)   X(35)   X(35)   X(35)
+ 
+HARLINGEN TX   34  X   5( 5)  30(35)   X(35)   X(35)   X(35)   X(35)
+ 
+BROWNSVILLE TX 34  X   4( 4)  18(22)   1(23)   X(23)   X(23)   X(23)
+ 
+GFMX 250N 960W 34  X   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER STEWART                                                  
+NNNN                                                                

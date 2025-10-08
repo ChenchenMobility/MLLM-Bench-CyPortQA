@@ -1,0 +1,177 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Delta Intermediate Advisory Number 13A
+NWS National Hurricane Center Miami FL       AL262020
+700 PM CDT Wed Oct 07 2020
+ 
+...DELTA STRENGTHENING WHILE MOVING OVER THE SOUTH-CENTRAL GULF OF
+MEXICO...
+...LIFE-THREATENING STORM SURGE AND DAMAGING WINDS INCREASINGLY
+LIKELY ALONG PORTIONS OF THE NORTHERN GULF COAST BEGINNING
+FRIDAY...
+ 
+ 
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...22.3N 90.2W
+ABOUT 550 MI...890 KM SSE OF CAMERON LOUISIANA
+MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...973 MB...28.73 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of Mexico has changed the Hurricane Warning from
+Rio Lagartos to Dzilam, Mexico to a Tropical Storm Warning, and
+discontinued all warnings for the remainder of the Yucatan
+Peninsula.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Watch is in effect for...
+* High Island Texas to the Alabama/Florida border including
+Calcasieu Lake, Vermilion Bay, Lake Pontchartrain, Lake Maurepas,
+Lake Borgne and Mobile Bay
+ 
+A Hurricane Watch is in effect for...
+* High Island Texas to Grand Isle Louisiana
+ 
+A Tropical Storm Warning is in effect for...
+* Rio Lagartos to Dzilam Mexico
+ 
+A Tropical Storm Watch is in effect for...
+* San Luis Pass to west of High Island Texas
+* East of Grand Isle Louisiana to Bay St. Louis Mississippi,
+including New Orleans
+* Lake Pontchartrain and Lake Maurepas
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 PM CDT (0000 UTC), the center of Hurricane Delta was located
+by an Air Force Hurricane Hunter aircraft near latitude 22.3 North,
+longitude 90.2 West.  Delta is moving toward the northwest near 17
+mph (28 km/h).  A northwestward motion with a reduction in forward
+speed is expected through early Thursday.  A north-northwestward
+motion is expected by late Thursday, and a faster northward to
+north-northeastward motion is forecast on Friday and Friday night.
+On the forecast track, the center of Delta will move over the
+southern and central Gulf of Mexico through Thursday, and approach
+the northern Gulf coast within the hurricane watch area on Friday.
+Delta is forecast to move inland within the hurricane watch area by
+late Friday or Friday night.
+ 
+Maximum sustained winds have increased to near 90 mph (150 km/h)
+with higher gusts.  Further strengthening is forecast while the
+hurricane moves over the southern and central Gulf of Mexico through
+Thursday, and Delta is expected to become a major hurricane again.
+Some weakening is forecast as Delta approaches the northern Gulf
+coast on Friday.
+ 
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center and tropical-storm-force winds extend outward up to 125
+miles (205 km).  During the past few hours, a Mexican weather 
+station on Isla Perez, off the north coast of the Yucatan 
+Peninsula, measured a sustained wind of 65 mph (105 km/h) and a 
+gust to 90 mph (145 km/h).
+ 
+The estimated minimum central pressure is 973 mb (28.73 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Delta can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1, WMO header WTNT41
+KNHC, and on the web at www.hurricanes.gov/text/MIATCDAT1.shtml.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Pecan Island, LA to Port Fourchon, LA including Vermilion
+Bay...7-11 ft
+Cameron, LA to Pecan Island, LA...4-7 ft
+Port Fourchon, LA to Ocean Springs, MS including Lake
+Borgne...4-6 ft
+Lake Pontchartrain and Lake Maurepas...3-5 ft
+Ocean Springs, MS to AL/FL border including Mobile Bay...2-4 ft
+High Island, TX to Cameron, LA including Calcasieu Lake...2-4 ft
+Sabine Lake...1-3 ft
+Port O'Connor, TX to High Island, TX including Galveston Bay...1-3
+ft
+ 
+The deepest water will occur along the immediate coast near and to
+the east of the landfall location, where the surge will be
+accompanied by large and dangerous waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle,
+and can vary greatly over short distances.  For information
+specific to your area, please see products issued by your local
+National Weather Service forecast office.
+ 
+WIND:  Tropical storm conditions are possible within the watch areas
+along the Gulf coast by late Thursday night or early Friday with
+hurricane conditions possible within the hurricane watch area by
+Friday.
+ 
+RAINFALL:  Through early Thursday, Delta is expected to produce 4 to
+6 inches of rain, with isolated maximum totals of 10 inches, across
+portions of the northern Yucatan Peninsula. This rainfall may result
+in areas of significant flash flooding.
+ 
+Friday through Saturday, Delta is expected to produce 4 to 8 inches
+of rain, with isolated maximum totals of 12 inches across portions
+of the central Gulf Coast north into portions of the Lower to Middle
+Mississippi Valley. These rainfall amounts will lead to flash,
+urban, small stream and minor to isolated moderate river flooding.
+As Delta moves farther inland, 1 to 3 inches of rain, with locally
+higher amounts, is expected in the Ohio Valley and Mid Atlantic this
+weekend.
+ 
+TORNADOES:  The risk of a few tornadoes will increase late Thursday
+night into Friday over portions of southern Louisiana, southern
+Mississippi, and southwest Alabama.
+ 
+SURF:  Swells from Delta will begin to affect portions of the
+northern and western Gulf coast on Thursday. These swells are likely
+to cause life-threatening surf and rip current conditions. Please
+consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 PM CDT.
+ 
+$$
+Forecaster Pasch
+ 
+NNNN

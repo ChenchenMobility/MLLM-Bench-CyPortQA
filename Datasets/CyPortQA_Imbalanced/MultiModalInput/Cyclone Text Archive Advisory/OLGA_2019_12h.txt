@@ -1,0 +1,87 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Depression Seventeen Advisory Number   1
+NWS National Hurricane Center Miami FL       AL172019
+1000 AM CDT Fri Oct 25 2019
+
+...TROPICAL DEPRESSION FORMS IN THE WESTERN GULF OF MEXICO...
+...EXPECTED TO BECOME A GALE-FORCE POST-TROPICAL LOW TONIGHT...
+
+
+SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...25.6N 94.4W
+ABOUT 320 MI...515 KM SSW OF LAKE CHARLES LOUISIANA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...N OR 10 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal tropical cyclone watches or warnings in
+effect.
+
+Please see High Seas Forecasts issued by the National Weather
+Service and products from local National Weather Service forecast
+offices for information on the non-tropical watches and warnings
+associated with this system.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 1000 AM CDT (1500 UTC), the center of Tropical Depression
+Seventeen was located near latitude 25.6 North, longitude 94.4 West.
+The depression is moving toward the north near 16 mph (26 km/h).  A
+motion toward the north-northeast at a faster forward speed is
+expected this afternoon through Sunday.  On the forecast track, the
+center of the cyclone should move across the northwestern Gulf of
+Mexico this afternoon and then move over the northern Gulf coast
+tonight or Saturday morning.
+
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Some strengthening is expected today, and the depression could
+become a tropical storm this afternoon.  The cyclone is then
+expected to merge with a cold front and become a post-tropical low
+with gale-force winds tonight before the center reaches the Gulf
+coast.  An Air Force Reserve Hurricane Hunter aircraft is scheduled
+to investigate the depression this afternoon.
+
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND: Gale-force winds associated with this system should spread
+over portions of the northern Gulf coast tonight and Saturday
+morning.
+
+RAINFALL: The depression and rainfall ahead of the system along and
+north of the frontal boundary across the Central Gulf coast is
+expected to produce total rainfall accumulations of 2 to 4 inches
+with maximum totals of 8 inches across the Central Gulf coast into
+the Lower Mississippi Valley through Saturday morning.  These rains
+may produce flash flooding across the Central Gulf coast into the
+Lower Mississippi Valley.
+
+COASTAL FLOODING: Above-normal tides and associated coastal
+flooding are possible across portions of the northern Gulf coast.
+Please see products from local National Weather Service forecast
+offices for additional information.
+
+TORNADOES:  A couple tornadoes are possible through tonight across
+southeast portions of Louisiana and Mississippi into southwest
+Alabama.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 PM CDT.
+
+$$
+Forecaster Beven
+
+NNNN

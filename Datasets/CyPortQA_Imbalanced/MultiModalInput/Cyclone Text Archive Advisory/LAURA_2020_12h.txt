@@ -1,0 +1,206 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Laura Intermediate Advisory Number 27A
+NWS National Hurricane Center Miami FL       AL132020
+100 PM CDT Wed Aug 26 2020
+ 
+...AIR FORCE HURRICANE HUNTER AIRCRAFT REPORTS LAURA HAS BECOME AN 
+EXTREMELY DANGEROUS CATEGORY 4 HURRICANE...
+...CATASTROPHIC STORM SURGE, EXTREME WINDS, AND FLASH FLOODING
+EXPECTED ALONG THE NORTHWEST GULF COAST TONIGHT...
+...LITTLE TIME REMAINS TO PROTECT LIFE AND PROPERTY...
+ 
+ 
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...27.3N 92.5W
+ABOUT 200 MI...320 KM SSE OF LAKE CHARLES LOUISIANA
+ABOUT 200 MI...320 KM SSE OF PORT ARTHUR TEXAS
+MAXIMUM SUSTAINED WINDS...140 MPH...220 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...952 MB...28.11 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Freeport Texas to the Mouth of the Mississippi River
+ 
+A Hurricane Warning is in effect for...
+* San Luis Pass Texas to Intracoastal City Louisiana
+ 
+A Tropical Storm Warning is in effect for...
+* Sargent Texas to San Luis Pass
+* East of Intracoastal City Louisiana to the Mouth of the
+Mississippi River
+ 
+A Storm Surge Watch is in effect for...
+* Mouth of the Mississippi River to Ocean Springs Mississippi
+* Lake Pontchartrain, Lake Maurepas, and Lake Borgne
+ 
+A Hurricane Watch is in effect for...
+* East of Intracoastal City to west of Morgan City Louisiana
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline in
+the indicated locations. For a depiction of areas at risk, please
+see the National Weather Service Storm Surge Watch/Warning Graphic,
+available at hurricanes.gov.  This is a life-threatening situation.
+Persons located within these areas should take all necessary
+actions to protect life and property from rising water and the
+potential for other dangerous conditions. Promptly follow
+evacuation and other instructions from local officials.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation from rising water moving inland from the
+coastline in the indicated locations.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 100 PM CDT (1800 UTC), the eye of Hurricane Laura was located
+near latitude 27.3 North, longitude 92.5 West. Laura is moving
+toward the northwest near 16 mph (26 km/h). A gradual turn toward
+the north-northwest and north is expected later today and tonight. 
+On the forecast track, Laura will approach the Upper Texas and 
+southwest Louisiana coasts this evening and move inland within
+that area tonight. The center of Laura is forecast to move over
+northwestern Louisiana tomorrow, across Arkansas Thursday night, and
+over the mid-Mississippi Valley on Friday.
+ 
+Reports from an Air Force Reserve Hurricane Hunter aircraft indicate 
+that maximum sustained winds have increased to near 140 mph (220 
+km/h) with higher gusts.  Laura is an extremely dangerous category 4 
+hurricane on the Saffir-Simpson Hurricane Wind Scale.  Some 
+additional strengthening is possible this afternoon, and Laura is 
+forecast to remain a category 4 hurricane through landfall tonight.  
+Rapid weakening is expected after Laura makes over land.
+ 
+Hurricane-force winds extend outward up to 70 miles (110 km) from
+the center and tropical-storm-force winds extend outward up to 175
+miles (280 km). Tropical-storm-force winds have reached the coast 
+of Louisiana and an observing site at Eugene Island recently 
+measured sustained winds of 39 mph (63 km/h) and a gust to 64 mph 
+(104 km/h).
+
+The latest minimum central pressure estimated from reconnaissance
+aircraft data is 952 mb (28.11 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Laura can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT3 and WMO header WTNT43 KNHC.
+ 
+Storm surge and tropical-storm-force winds will arrive within the
+warning areas well in advance of Laura's center. All preparations 
+to protect life and property should be rushed to completion in the 
+next few hours.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Johnson Bayou LA to Rockefeller Wildlife Refuge including Calcasieu
+Lake...15-20 ft
+Sea Rim State Park TX to Johnson Bayou LA including Sabine
+Lake...10-15 ft
+Rockefeller Wildlife Refuge to Intracoastal City LA...10-15 ft
+Intracoastal City LA to Morgan City including Vermilion Bay...8-12
+ft
+Port Bolivar TX to Sea Rim State Park...6-9 ft
+Morgan City LA to Mouth of the Mississippi River...4-7 ft
+Freeport TX to Port Bolivar including Galveston Bay...2-4 ft
+Mouth of the Mississippi River to Ocean Springs MS including Lake
+Borgne...2-4 ft
+Lake Pontchartrain and Lake Maurepas...2-4 ft
+ 
+The deepest water will occur along the immediate coast near and to
+the right of the landfall location, where the surge will be
+accompanied by large and destructive waves.
+ 
+Unsurvivable storm surge with large and destructive waves will cause
+catastrophic damage from Sea Rim State Park, Texas, to Intracoastal
+City, Louisiana, including Calcasieu and Sabine Lakes. This storm
+surge could penetrate up to 30 miles inland from the immediate
+coastline in southwestern Louisiana and far southeastern Texas.
+ 
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.  For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+ 
+WIND:  Hurricane conditions are expected in the hurricane warning
+area tonight and Thursday, with catastrophic wind damage expected
+where Laura's eyewall makes landfall tonight. Tropical storm
+conditions are moving onshore of the coast of Louisiana within the 
+tropical storm warning area and are expected to reach the coast in 
+the hurricane warning area later this afternoon or evening.
+ 
+Hurricane-force winds and damaging wind gusts are also expected to
+spread well inland into portions of eastern Texas and western
+Louisiana early Thursday.
+ 
+RAINFALL:  From this afternoon through Friday, Laura is expected to
+produce rainfall totals of 5 to 10 inches, with isolated maximum
+amounts of 15 inches across portions of the northwestern Gulf Coast
+from western Louisiana to far eastern Texas, and northward into much
+of Arkansas.  This rainfall will cause widespread flash and urban
+flooding, small streams and creeks to overflow their banks, and
+minor to isolated moderate freshwater river flooding.
+ 
+By Friday into Saturday, Laura will produce rainfall totals of 2 to
+4 inches, with isolated maximum amounts of 6 inches across the
+mid-Mississippi and portions of the Lower Ohio and Lower Tennessee
+Valleys.  This rainfall may lead to localized flash and urban
+flooding and rapid rises on small streams.
+ 
+TORNADOES:  A few tornadoes are expected this afternoon through
+tonight over Louisiana, far southeast Texas, and southwestern
+Mississippi. The risk for a few tornadoes should continue into
+Thursday across Louisiana, Arkansas, and western Mississippi.
+ 
+SURF:  Swells produced by Laura are affecting the entire U.S. Gulf
+coast from the west coast of Florida to Texas and northeastern
+Mexico. These swells are likely to cause life-threatening surf and
+rip current conditions.  Please consult products from your local
+weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 PM CDT.
+
+Hourly Tropical Cyclone Updates will begin at 200 PM CDT.  These 
+can be found under WMO header WTNT63 KNHC and under AWIPS header 
+MIATCUAT3.
+ 
+$$
+Forecaster Brown
+ 
+NNNN

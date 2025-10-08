@@ -1,0 +1,109 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Depression Four Advisory Number   1
+NWS National Hurricane Center Miami FL       AL042021
+1100 AM EDT Mon Jun 28 2021
+ 
+...NEW TROPICAL DEPRESSION FORMS OFF THE COAST OF SOUTH CAROLINA...
+...TROPICAL STORM WARNING ISSUED FOR PORTIONS OF THE SOUTH 
+CAROLINA COAST...
+ 
+ 
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...31.9N 78.3W
+ABOUT 145 MI...235 KM ESE OF BEAUFORT SOUTH CAROLINA
+ABOUT 110 MI...180 KM ESE OF CHARLESTON SOUTH CAROLINA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...1013 MB...29.92 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+A Tropical Storm Warning has been issued for a portion of the coast
+of South Carolina from Edisto Beach northeastward to South Santee
+River.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Edisto Beach to South Santee River South Carolina
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within the
+next 12 hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM EDT (1500 UTC), the center of Tropical Depression Four 
+was located near latitude 31.9 North, longitude 78.3 West. The 
+depression is moving toward the west-northwest near 16 mph (26 km/h) 
+and this general motion is expected to continue for the next couple 
+of days.  On the forecast track, the center of the tropical cyclone 
+should make landfall along coast of South Carolina in the warning 
+area later this evening.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Some slight strengthening is expected today, and the depression is 
+forecast to become a tropical storm before it makes landfall.  Rapid 
+weakening is forecast after landfall occurs.
+ 
+The estimated minimum central pressure is 1013 mb (29.92 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Depression Four can be found in the 
+Tropical Cyclone Discussion under AWIPS header MIATCDAT4, WMO header 
+WTNT44 KNHC and on the web at 
+www.hurricanes.gov/graphics_at4.shtml?key_messages. 
+
+WIND:  Tropical storm conditions are expected to first reach
+the coast within the warning area by late this afternoon, making
+outside preparations difficult or dangerous.
+ 
+RAINFALL:  The depression could produce 1 to 3 inches of rainfall 
+with locally higher amounts along the immediate coasts of Georgia 
+and southern South Carolina. This region has been dry, limiting 
+potential widespread flooding impacts, however, local flooding 
+impacts, especially in urban areas along the southern South Carolina 
+and Georgia coasts, cannot be ruled out at this time.
+ 
+Farther inland, 1 to 2 inches of rainfall is possible across Upstate
+South Carolina, the Piedmont of Georgia, and into northeastern
+Alabama.
+
+STORM SURGE:  The combination of storm surge and the tide will cause 
+normally dry areas near the coast to be flooded by rising waters 
+moving inland from the shoreline.  The water could reach the 
+following heights above ground somewhere in the indicated areas if 
+the peak surge occurs at the time of high tide...
+
+Port Royal Sound, SC to South Santee River, SC...1 to 3 ft 
+
+Surge-related flooding depends on the relative timing of the surge 
+and the tidal cycle, and can vary greatly over short distances.  For 
+information specific to your area, please see products issued by 
+your local National Weather Service forecast office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 200 PM EDT.
+Next complete advisory at 500 PM EDT.
+ 
+$$
+Forecaster Stewart
+ 
+NNNN

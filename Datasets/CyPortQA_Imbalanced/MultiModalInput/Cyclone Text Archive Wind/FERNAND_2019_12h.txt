@@ -1,0 +1,59 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM FERNAND WIND SPEED PROBABILITIES NUMBER   4          
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072019               
+0300 UTC WED SEP 04 2019                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM FERNAND WAS LOCATED NEAR      
+LATITUDE 23.2 NORTH...LONGITUDE 96.4 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z WED 12Z WED 00Z THU 12Z THU 00Z FRI 00Z SAT 00Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z WED 00Z THU 12Z THU 00Z FRI 00Z SAT 00Z SUN 00Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+LA PESCA MX    34 67  10(77)   X(77)   X(77)   X(77)   X(77)   X(77)
+LA PESCA MX    50  3   6( 9)   1(10)   X(10)   X(10)   X(10)   X(10)
+LA PESCA MX    64  X   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+TAMPICO MX     34 11   1(12)   X(12)   X(12)   X(12)   X(12)   X(12)
+ 
+$$                                                                  
+FORECASTER AVILA                                                    
+NNNN                                                                

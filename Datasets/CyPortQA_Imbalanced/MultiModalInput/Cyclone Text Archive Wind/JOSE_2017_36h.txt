@@ -1,0 +1,119 @@
+
+ZCZC MIAPWSAT2 ALL
+TTAA00 KNHC DDHHMM
+
+HURRICANE JOSE WIND SPEED PROBABILITIES NUMBER  10
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL122017
+ISSUED BY THE NWS WEATHER PREDICTION CENTER COLLEGE PARK MD
+2100 UTC THU SEP 07 2017
+
+AT 2100Z THE CENTER OF HURRICANE JOSE WAS LOCATED NEAR LATITUDE 15.5
+NORTH...LONGITUDE 52.4 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 105
+KTS...120 MPH...195 KM/H.
+
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME
+
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS
+
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST
+   ...34 KT (39 MPH... 63 KM/H)...
+   ...50 KT (58 MPH... 93 KM/H)...
+   ...64 KT (74 MPH...119 KM/H)...
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS
+
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN
+        18Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)
+
+PROBABILITIES ARE GIVEN IN PERCENT
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.
+
+
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -
+
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM
+  TIME       18Z THU 06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO
+             06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON 18Z TUE
+
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+LOCATION       KT
+
+BERMUDA        34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   9(10)
+BERMUDA        50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+BERMUDA        64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+
+MAYAGUANA      34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+
+GRAND TURK     34  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   2( 8)
+
+PUERTO PLATA   34  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   1( 5)
+
+SANTO DOMINGO  34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   1( 4)
+
+PONCE PR       34  X   X( X)   X( X)   3( 3)   8(11)   1(12)   X(12)
+
+AGUADILLA PR   34  X   X( X)   X( X)   1( 1)   9(10)   1(11)   1(12)
+
+SAN JUAN PR    34  X   X( X)   X( X)   4( 4)  13(17)   1(18)   1(19)
+SAN JUAN PR    50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+SAN JUAN PR    64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+
+VIEQUES PR     34  X   X( X)   1( 1)   4( 5)  15(20)   1(21)   X(21)
+VIEQUES PR     50  X   X( X)   X( X)   X( X)   4( 4)   1( 5)   X( 5)
+VIEQUES PR     64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+
+SAINT THOMAS   34  X   X( X)   1( 1)   7( 8)  22(30)   1(31)   X(31)
+SAINT THOMAS   50  X   X( X)   X( X)   X( X)   9( 9)   X( 9)   X( 9)
+SAINT THOMAS   64  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+
+SAINT CROIX    34  X   X( X)   2( 2)   6( 8)  13(21)   X(21)   X(21)
+SAINT CROIX    50  X   X( X)   X( X)   1( 1)   4( 5)   X( 5)   X( 5)
+SAINT CROIX    64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+
+SAINT MAARTEN  34  X   X( X)   6( 6)  46(52)  15(67)   X(67)   X(67)
+SAINT MAARTEN  50  X   X( X)   1( 1)  18(19)  18(37)   X(37)   X(37)
+SAINT MAARTEN  64  X   X( X)   X( X)   7( 7)  12(19)   X(19)   X(19)
+
+ST KITTS-NEVIS 34  X   1( 1)   8( 9)  37(46)   7(53)   X(53)   X(53)
+ST KITTS-NEVIS 50  X   X( X)   1( 1)  16(17)   5(22)   X(22)   X(22)
+ST KITTS-NEVIS 64  X   X( X)   X( X)   6( 6)   3( 9)   1(10)   X(10)
+
+BARBUDA        34  X   2( 2)  33(35)  45(80)   4(84)   X(84)   X(84)
+BARBUDA        50  X   X( X)   6( 6)  46(52)   5(57)   X(57)   X(57)
+BARBUDA        64  X   X( X)   1( 1)  28(29)   5(34)   X(34)   X(34)
+
+ANTIGUA        34  X   2( 2)  28(30)  35(65)   2(67)   X(67)   X(67)
+ANTIGUA        50  X   X( X)   5( 5)  29(34)   2(36)   X(36)   X(36)
+ANTIGUA        64  X   X( X)   1( 1)  14(15)   2(17)   X(17)   X(17)
+
+GUADELOUPE     34  X   2( 2)  21(23)  18(41)   2(43)   X(43)   X(43)
+GUADELOUPE     50  X   X( X)   4( 4)   8(12)   1(13)   X(13)   X(13)
+GUADELOUPE     64  X   X( X)   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)
+
+AVES           34  X   X( X)   4( 4)   3( 7)   4(11)   X(11)   X(11)
+
+DOMINICA       34  X   2( 2)   5( 7)   5(12)   2(14)   X(14)   X(14)
+DOMINICA       50  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+
+MARTINIQUE     34  X   2( 2)   3( 5)   3( 8)   1( 9)   X( 9)   X( 9)
+
+SAINT LUCIA    34  X   1( 1)   3( 4)   2( 6)   1( 7)   X( 7)   X( 7)
+
+SAINT VINCENT  34  X   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+
+BARBADOS       34  X   2( 2)   2( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+
+$$
+FORECASTER LAMERS/CARBIN
+NNNN

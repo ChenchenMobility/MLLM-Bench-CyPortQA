@@ -1,0 +1,195 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM CCA
+ 
+BULLETIN
+Hurricane Ida Advisory Number  12...Corrected
+NWS National Hurricane Center Miami FL       AL092021
+400 AM CDT Sun Aug 29 2021
+
+Corrected storm surge heights for Mississippi coast
+
+...DANGEROUS CATEGORY 4 HURRICANE IDA STRENGTHENS SOME MORE...
+...LIFE-THREATENING STORM SURGE, POTENTIALLY CATASTROPHIC WIND
+DAMAGE, AND FLOODING RAINFALL WILL IMPACT PORTIONS OF THE NORTHERN
+GULF COAST BEGINNING LATER THIS MORNING...
+ 
+ 
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...28.0N 89.1W
+ABOUT 75 MI...120 KM S OF THE MOUTH OF THE MISSISSIPPI RIVER
+ABOUT 145 MI...235 KM SE OF HOUMA LOUISIANA
+MAXIMUM SUSTAINED WINDS...140 MPH...220 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...946 MB...27.94 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* East of Rockefeller Wildlife Refuge Louisiana to the
+Alabama/Florida border
+* Vermilion Bay, Lake Borgne, Lake Pontchartrain, Lake Maurepas,
+and Mobile Bay
+ 
+A Hurricane Warning is in effect for...
+* Intracoastal City Louisiana to the Mouth of the Pearl River
+* Lake Pontchartrain, Lake Maurepas, and Metropolitan New Orleans
+ 
+A Tropical Storm Warning is in effect for...
+* Cameron Louisiana to west of Intracoastal City Louisiana
+* Mouth of the Pearl River to the Alabama/Florida border
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a depiction
+of areas at risk, please see the National Weather Service Storm
+Surge Watch/Warning Graphic, available at hurricanes.gov.  This is a
+life-threatening situation.  Persons located within these areas
+should take all necessary actions to protect life and property from
+rising water and the potential for other dangerous conditions.
+Promptly follow evacuation and other instructions from local
+officials.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area within the next 6 to 12 hours.
+Preparations to protect life and property should be rushed to
+completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within the
+next 12 to 24 hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 AM CDT (0900 UTC), the center of Hurricane Ida was located 
+near latitude 28.0 North, longitude 89.1 West. Ida is moving toward 
+the northwest near 15 mph (24 km/h), and this general motion should 
+continue through tonight and early Monday, followed by a slower 
+northward motion on Monday afternoon.  A northeastward turn is 
+forecast by Monday night.  On the forecast track, the center of Ida 
+will continue moving across the north-central Gulf of Mexico this 
+morning, and make landfall along the coast of southeastern Louisiana 
+within the hurricane warning area this afternoon or evening. Ida is 
+then forecast to move well inland over portions of Louisiana and 
+western Mississippi on Monday and Monday night.
+ 
+Satellite and Doppler radar data indicate that maximum sustained 
+winds have increased to near 140 mph (220 km/h) with higher gusts.  
+Ida is a category 4 hurricane on the Saffir-Simpson Hurricane Wind 
+Scale.  Some additional strengthening is forecast, and Ida is 
+expected to be an extremely dangerous major hurricane when it makes 
+landfall along the Louisiana coast this afternoon. Rapid weakening 
+is expected after landfall.
+ 
+Hurricane-force winds extend outward up to 40 miles (65 km) from the
+center and tropical-storm-force winds extend outward up to 140 miles
+(220 km).
+ 
+The estimated minimum central pressure is 946 mb (27.94 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Ida can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4, WMO header WTNT44 KNHC,
+and on the web at hurricanes.gov/graphics_at4.shtml?key_messages.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the 
+tide will cause normally dry areas near the coast to be flooded by 
+rising waters moving inland from the shoreline.  The water could 
+reach the following heights above ground somewhere in the indicated 
+areas if the peak surge occurs at the time of high tide...
+
+Port Fourchon, LA to Mouth of the Mississippi River...12-16 ft
+Morgan City, LA to Port Fourchon, LA ...8-12 ft
+Mouth of the Mississippi River to Bay St. Louis, MS including Lake
+Borgne...8-12 ft
+Burns Point, LA to Morgan City, LA...6-9 ft
+Bay St. Louis, MS to Ocean Springs, MS...6-9 ft
+Lake Pontchartrain...5-8 ft
+Ocean Springs, MS to MS/AL border...4-7 ft
+Intracoastal City, LA to Burns Point, LA including Vermilion
+Bay...4-6 ft
+Lake Maurepas...4-6 ft
+Pecan Island, LA to Intracoastal City, LA...2-4 ft
+MS/AL border to AL/FL border including Mobile Bay...3-5 ft
+Sabine Pass to Pecan Island, LA...1-3 ft
+AL/FL border to Okaloosa/Walton County Line including Pensacola 
+Bay...1-3 ft
+
+Overtopping of local levees outside of the Hurricane and Storm
+Damage Risk Reduction System is possible where local inundation
+values may be higher than those shown above.
+
+The deepest water will occur along the immediate coast near and to
+the east of the landfall location, where the surge will be
+accompanied by large and dangerous waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle, and
+can vary greatly over short distances.  For information specific to
+your area, please see products issued by your local National Weather
+Service forecast office.
+ 
+WIND:  Hurricane conditions are expected in the Hurricane Warning
+area along the Louisiana coast beginning by later this morning with
+tropical storm conditions expected to begin by early this morning.
+These conditions will spread inland over portions of Louisiana and
+Mississippi tonight and Monday.
+ 
+RAINFALL:   Heavy rainfall from Ida will begin to impact the
+southeast Louisiana coast this morning, spreading northeast into the
+Lower Mississippi Valley later today into Monday.  Total rainfall
+accumulations of 10 to 18 inches with isolated maximum amounts of
+24 inches are possible across southeast Louisiana into far southern
+Mississippi through Monday. This is likely to result in
+life-threatening flash and urban flooding and significant riverine
+flooding impacts.
+ 
+Ida is forecast to turn to the northeast early Monday and track
+across the Middle Tennessee Valley and Ohio Valley through
+Wednesday, producing the following rainfall totals:
+ 
+Coastal Alabama to the far western Florida panhandle: 5 to 10 inches
+with isolated maximum amounts of 15 inches, today through Tuesday
+morning.
+ 
+Central Mississippi: 4 to 8 inches with isolated maximum amounts of
+12 inches, tonight through Monday night.
+ 
+Middle Tennessee Valley to the Ohio Valley: 3 to 6 inches with
+isolated higher amounts, Tuesday into Wednesday.
+ 
+These rainfall totals will result in considerable flash and riverine
+flooding.
+ 
+TORNADOES:  Tornadoes will be possible today into Monday from
+southeast Louisiana across southeast  Mississippi and southwest
+Alabama to the western Florida Panhandle.
+ 
+SURF:  Swells are beginning to reach the northern Gulf coast and
+will continue to affect that area through Monday.  These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Stewart
+ 
+NNNN

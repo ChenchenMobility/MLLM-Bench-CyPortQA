@@ -1,0 +1,130 @@
+
+ZCZC MIAPWSEP2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL DEPRESSION TWELVE-E WIND SPEED PROBABILITIES NUMBER   1    
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP122022               
+1500 UTC SUN SEP 04 2022                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL DEPRESSION TWELVE-E WAS LOCATED NEAR
+LATITUDE 14.0 NORTH...LONGITUDE 101.4 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z SUN 00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU 12Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ENSENADA       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+IS GUADALUPE   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ 
+PUNTA EUGENIA  34  X   X( X)   X( X)   X( X)   X( X)   3( 3)  23(26)
+PUNTA EUGENIA  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+PUNTA EUGENIA  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+P ABREOJOS     34  X   X( X)   X( X)   X( X)   X( X)  10(10)  31(41)
+P ABREOJOS     50  X   X( X)   X( X)   X( X)   X( X)   2( 2)  12(14)
+P ABREOJOS     64  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+CABO SAN LUCAS 34  X   X( X)   X( X)   X( X)   8( 8)  27(35)   2(37)
+CABO SAN LUCAS 50  X   X( X)   X( X)   X( X)   1( 1)   9(10)   X(10)
+CABO SAN LUCAS 64  X   X( X)   X( X)   X( X)   X( X)   4( 4)   1( 5)
+ 
+SAN JOSE CABO  34  X   X( X)   X( X)   X( X)   7( 7)  23(30)   2(32)
+SAN JOSE CABO  50  X   X( X)   X( X)   X( X)   X( X)   8( 8)   X( 8)
+SAN JOSE CABO  64  X   X( X)   X( X)   X( X)   X( X)   3( 3)   X( 3)
+ 
+LA PAZ         34  X   X( X)   X( X)   X( X)   1( 1)  15(16)   4(20)
+LA PAZ         50  X   X( X)   X( X)   X( X)   X( X)   4( 4)   2( 6)
+LA PAZ         64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+LORETO         34  X   X( X)   X( X)   X( X)   X( X)   8( 8)  11(19)
+LORETO         50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+LORETO         64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+P PENASCO      34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+HERMOSILLO     34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+BAHIA KINO     34  X   X( X)   X( X)   X( X)   X( X)   2( 2)  12(14)
+ 
+GUAYMAS        34  X   X( X)   X( X)   X( X)   X( X)   3( 3)  10(13)
+ 
+HUATABAMPO     34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   3( 6)
+ 
+LOS MOCHIS     34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   2( 5)
+ 
+ISLAS MARIAS   34  X   X( X)   X( X)   1( 1)   3( 4)   3( 7)   X( 7)
+ 
+MAZATLAN       34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+15N 105W       34  1  63(64)  13(77)   1(78)   X(78)   X(78)   X(78)
+15N 105W       50  X  19(19)  10(29)   X(29)   X(29)   X(29)   X(29)
+15N 105W       64  X   3( 3)   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+BARRA NAVIDAD  34  X   X( X)   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+MANZANILLO     34  X   1( 1)   2( 3)   2( 5)   1( 6)   X( 6)   X( 6)
+ 
+L CARDENAS     34  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+15N 110W       34  X   1( 1)   4( 5)  23(28)  11(39)   1(40)   X(40)
+15N 110W       50  X   X( X)   X( X)   3( 3)   6( 9)   X( 9)   X( 9)
+15N 110W       64  X   X( X)   X( X)   1( 1)   1( 2)   1( 3)   X( 3)
+ 
+20N 110W       34  X   X( X)   X( X)   5( 5)  50(55)   8(63)   X(63)
+20N 110W       50  X   X( X)   X( X)   X( X)  21(21)   6(27)   X(27)
+20N 110W       64  X   X( X)   X( X)   X( X)   9( 9)   4(13)   X(13)
+ 
+ISLA SOCORRO   34  X   X( X)   X( X)   7( 7)  75(82)   3(85)   1(86)
+ISLA SOCORRO   50  X   X( X)   X( X)   X( X)  48(48)   5(53)   X(53)
+ISLA SOCORRO   64  X   X( X)   X( X)   X( X)  24(24)   3(27)   X(27)
+ 
+ISLA CLARION   34  X   X( X)   X( X)   X( X)  12(12)   5(17)   X(17)
+ 
+20N 115W       34  X   X( X)   X( X)   X( X)   9( 9)  11(20)   1(21)
+20N 115W       50  X   X( X)   X( X)   X( X)   X( X)   5( 5)   X( 5)
+20N 115W       64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+25N 115W       34  X   X( X)   X( X)   X( X)   X( X)  19(19)  25(44)
+25N 115W       50  X   X( X)   X( X)   X( X)   X( X)   3( 3)  15(18)
+25N 115W       64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   6( 7)
+ 
+25N 120W       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

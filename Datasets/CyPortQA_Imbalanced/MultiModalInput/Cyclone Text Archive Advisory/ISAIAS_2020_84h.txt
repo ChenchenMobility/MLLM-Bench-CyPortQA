@@ -1,0 +1,165 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Isaias Intermediate Advisory Number 13A
+NWS National Hurricane Center Miami FL       AL092020
+800 AM EDT Fri Jul 31 2020
+ 
+...STRONG WINDS AND HEAVY SQUALLS LASHING THE SOUTHEASTERN BAHAMAS
+AND THE TURKS AND CAICOS ISLANDS...
+...HURRICANE CONDITIONS EXPECTED TODAY OVER PORTIONS OF THE
+BAHAMAS...
+ 
+ 
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.3N 73.9W
+ABOUT 30 MI...50 KM NW OF GREAT INAGUA ISLAND
+ABOUT 340 MI...545 KM SE OF NASSAU
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Tropical Storm Warning for Haiti has been discontinued. 
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Northwestern Bahamas including Andros Island, New Providence,
+Eleuthera, Abacos Islands, Berry Islands, Grand Bahamas Island, and
+Bimini
+* Southeastern Bahamas including the Acklins, Crooked Island, Long
+Cay, the Inaguas, Mayaguana, and the Ragged Islands
+* Central Bahamas, including Cat Island, the Exumas, Long Island,
+Rum Cay, and San Salvador
+ 
+A Tropical Storm Warning is in effect for...
+* Dominican Republic entire southern and northern coastlines
+* Turks and Caicos Islands
+ 
+A Tropical Storm Watch is in effect for...
+* East coast of Florida from Ocean Reef to Sebastian Inlet
+* Lake Okeechobee
+ 
+Interests elsewhere along the southeast coast of the United
+States should monitor the progress of this system.  Additional
+watches or warnings may be required for a portion of the Florida
+peninsula later today.  The Tropical Storm Warning for the 
+Dominican Republic will likely be discontinued later this morning.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM EDT (1200 UTC), the center of Hurricane Isaias was located
+by NOAA and Air Force Reserve Hurricane Hunter aircraft near 
+latitude 21.3 North, longitude 73.9 West. Isaias is moving toward 
+the northwest near 17 mph (28 km/h), and a generally northwestward
+motion with some decrease in forward speed is expected for the next
+couple of days followed by a turn toward the north-northwest.  On 
+the forecast track, the center of Isaias will move near or over the
+Southeastern Bahamas today. Isaias is forecast to be near the
+Central Bahamas tonight, and move near or over the Northwestern
+Bahamas and be near or east of the Florida peninsula on Saturday and
+Sunday.
+ 
+Maximum sustained winds are near 80 mph (130 km/h) with higher
+gusts.  Some strengthening is possible today, and Isaias is expected
+to remain a hurricane for the next few days.
+ 
+Hurricane-force winds extend outward up to 45 miles (75 km) from
+the center and tropical-storm-force winds extend outward up to 205
+miles (335 km). A private weather observing site at Long Bay Beach
+in Providenciales recently reported a sustained wind of 55 mph (86
+km/h) and a gust to 59 mph (95 km/h).
+ 
+Reports from the reconnaissance aircraft indicate that the minimum
+central pressure is 990 mb (29.24 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Isaias can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4, WMO header WTNT44 KNHC, and
+on the web at www.hurricanes.gov/text/MIATCDAT4.shtml.
+ 
+STORM SURGE:  A dangerous storm surge will raise water levels by as
+much as 3 to 5 feet above normal tide levels in areas of onshore
+winds in the Bahamas.
+ 
+WIND:  Tropical storm conditions will continue across portions of
+the Dominican Republic and the Turks and Caicos this morning.  
+Hurricane conditions are expected to begin in the southeastern 
+Bahamas this morning and spread into the central and
+northwestern Bahamas tonight and into Saturday.
+ 
+Tropical storm conditions are possible in the watch area in Florida
+beginning Saturday.
+ 
+RAINFALL: Isaias is expected to produce the following rain
+accumulations through Saturday:
+ 
+Dominican Republic and northern Haiti: 4 to 8 inches, with isolated
+maximum totals of 12 inches.
+ 
+Bahamas, Turks and Caicos: 4 to 8 inches.
+ 
+Cuba: 1 to 2 inches, with isolated maximum totals of 4 inches.
+ 
+These rainfall amounts will lead to life-threatening flash flooding
+and mudslides, as well as river flooding. Urban and small stream
+flooding is expected for the U.S. Virgin Islands and Hispaniola.
+ 
+From Friday night through Monday:
+ 
+South Florida into east-Central Florida: 2 to 4 inches, with
+isolated maximum totals of 6 inches.
+ 
+These rainfall amounts could result in isolated flash and urban
+flooding, especially in low-lying and poorly drained areas.
+ 
+Heavy rains associated with Isaias may begin to affect the eastern
+Carolinas by early next week. This rain could result in isolated
+flash and urban flooding, especially in low-lying and poorly drained
+areas, as well as isolated minor river flooding.
+ 
+SURF:  Swells generated by Isaias are affecting portions of Puerto
+Rico, the Dominican Republic, the Turks and Caicos Islands and the
+southeastern Bahamas. These swells will spread along the coast of
+Cuba and into the central and northwestern Bahamas later today and
+along the east coast of Florida on Saturday. These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Stewart
+ 
+NNNN

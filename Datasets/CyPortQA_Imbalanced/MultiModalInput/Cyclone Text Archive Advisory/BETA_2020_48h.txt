@@ -1,0 +1,167 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Beta Intermediate Advisory Number 10A
+NWS National Hurricane Center Miami FL       AL222020
+100 AM CDT Sun Sep 20 2020
+ 
+...BETA STILL NEARLY STATIONARY BUT EXPECTED TO BEGIN MOVING
+TOWARD TEXAS LATER TODAY...
+ 
+ 
+SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...26.9N 92.4W
+ABOUT 220 MI...355 KM SE OF GALVESTON TEXAS
+ABOUT 315 MI...505 KM E OF CORPUS CHRISTI TEXAS
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Port Aransas, Texas to Rockefeller Wildlife Refuge, Louisiana,
+including Copano Bay, Aransas Bay, San Antonio Bay, Matagorda Bay,
+Galveston Bay, Sabine Lake, and Lake Calcasieu
+ 
+A Storm Surge Watch is in effect for...
+* Baffin Bay, Texas to Port Aransas, Texas including Baffin Bay and
+Corpus Christi Bay
+ 
+A Hurricane Watch is in effect for...
+* Port Aransas Texas to High Island Texas
+ 
+A Tropical Storm Warning is in effect for...
+* Port Aransas Texas to Morgan City Louisiana
+ 
+A Tropical Storm Watch is in effect for...
+* South of Port Aransas Texas to the Mouth of the Rio Grande
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a
+depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.  This is a life-threatening situation.  Persons
+located within these areas should take all necessary actions to
+protect life and property from rising water and the potential for
+other dangerous conditions.  Promptly follow evacuation and other
+instructions from local officials.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 100 AM CDT (0600 UTC), the center of Tropical Storm Beta was
+located near latitude 26.9 North, longitude 92.4 West.  Beta has
+been meandering for the past several hours.  A slow motion toward
+the west-northwest is forecast to begin later today, followed by a
+slow northwest to north motion Monday night and Tuesday.  On the
+forecast track, the center of Beta will move toward the coast of
+Texas and likely move inland late Monday or early Tuesday.
+ 
+Data from an Air Force Reserve Hurricane Hunter aircraft indicate
+that maximum sustained winds remain near 60 mph (95 km/h) with
+higher gusts.  Little change in strength is forecast during the next
+couple of days before Beta reaches the Texas coast.  Weakening is
+anticipated once Beta moves inland.
+ 
+Tropical-storm-force winds extend outward up to 185 miles (295 km)
+mainly to the north of the center.
+ 
+The estimated minimum central pressure based on data from the Air
+Force Hurricane Hunters is 997 mb (29.44 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Beta can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2 and WMO header WTNT42 KNHC.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Baffin Bay, TX to Rockefeller Wildlife Refuge, LA including Corpus
+Christi Bay, Baffin Bay, Copano Bay, Aransas Bay, San Antonio Bay,
+Matagorda Bay, Galveston Bay, Sabine Lake, and Calcasieu Lake...2-4
+ft
+Rockefeller Wildlife Refuge, LA to Ocean Springs, MS including
+Vermilion Bay...1-3 ft
+Lake Borgne, Lake Pontchartrain, and Lake Maurepas...1-3 ft
+Mouth of the Rio Grande to Baffin Bay, TX...1-2 ft
+ 
+The deepest water will occur along the immediate coast in areas of
+onshore winds, where the surge will be accompanied by large and
+dangerous waves.  Surge-related flooding depends on the relative
+timing of the surge and the tidal cycle, and can vary greatly over
+short distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
+ 
+WIND:  Tropical storm conditions are likely occurring in the
+tropical storm warning area along the southwestern Louisiana coast
+and will spread westward to the warning areas in Texas late today
+through early Monday.  Hurricane conditions are possible within the
+hurricane watch area by late Monday or Monday night.  Tropical
+storm conditions are possible within the tropical storm watch area
+along the central Louisiana coast this morning, and are possible
+within the tropical storm watch area along the south Texas coast on
+Monday.
+ 
+RAINFALL:  Through Thursday, Beta is expected to produce rainfall
+accumulations of 8 to 12 inches with isolated totals of 20 inches
+across southern Louisiana and coastal southeast Texas, with 3 to 7
+inches spreading northward into the Mid-South mid next week.  Flash
+and urban flooding is likely as well as minor river flooding.
+Isolated moderate flooding along the middle Texas coast is possible.
+ 
+SURF:  Swells are increasing and reaching the coast of Texas and
+the Gulf Coast of Mexico, generated by a combination of Beta and a
+cold front entering the northern Gulf of Mexico.  These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 AM CDT.
+ 
+$$
+Forecaster Cangialosi
+ 
+NNNN

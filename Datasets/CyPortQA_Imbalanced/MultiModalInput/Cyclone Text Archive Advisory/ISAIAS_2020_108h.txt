@@ -1,0 +1,146 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Isaias Intermediate Advisory Number 8A
+NWS National Hurricane Center Miami FL       AL092020
+800 AM AST Thu Jul 30 2020
+ 
+...ISAIAS CAUSING LIFE-THREATENING FLASH FLOODING AND HIGH WINDS
+OVER PUERTO RICO...
+ 
+ 
+SUMMARY OF 800 AM AST...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.6N 68.5W
+ABOUT 125 MI...205 KM W OF PONCE PUERTO RICO
+ABOUT 105 MI...175 KM ESE OF SANTO DOMINGO DOMINICAN REPUBLIC
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 20 MPH...31 KM/H
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Puerto Rico, Vieques, Culebra
+* U.S. Virgin Islands
+* British Virgin Islands
+* Dominican Republic entire southern and northern coastlines
+* North coast of Haiti from Le Mole St Nicholas eastward to the
+northern border with the Dominican Republic
+* Turks and Caicos Islands
+* Southeastern Bahamas including the Acklins, Crooked Island, Long
+Cay, the Inaguas, Mayaguana, and the Ragged Islands
+* Central Bahamas, including Cat Island, the Exumas, Long Island,
+Rum Cay, and San Salvador
+ 
+A Tropical Storm Watch is in effect for...
+* Northwestern Bahamas including Andros Island, New Providence,
+Eleuthera, Abacos Islands, Berry Islands, Grand Bahamas Island, and
+Bimini
+ 
+Interests in Cuba and the Florida peninsula should monitor the
+progress of this system.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM AST (1200 UTC), the center of Tropical Storm Isaias was
+located near latitude 17.6 North, longitude 68.5 West. Isaias is
+moving toward the northwest near 20 mph (31 km/h), and a
+west-northwestward to northwestward motion with some decrease in
+forward speed is expected over the next couple of days.  On the
+forecast track, the center of Isaias will move over Hispaniola later
+today and near the Southeastern Bahamas by tonight or early Friday.
+Isaias is forecast to be near the Central Bahamas Friday night and
+approach the Northwest Bahamas or southern Florida Friday night and
+Saturday.
+ 
+Maximum sustained winds are near 60 mph (95 km/h) with higher
+gusts. Little change in strength is anticipated until landfall in
+Dominican Republic later today, with re-strengthening forecast on
+Friday and Saturday.
+ 
+Tropical-storm-force winds extend outward up to 415 miles (665 km)
+from the center. Tropical-storm-force winds are occuring along the 
+southern coast of Puerto Rico. A Weatherflow station in Yabucoa 
+Tanque de Agua reported sustained winds of 46 mph (74 km/h) with a 
+gust to 56 mph (91 km/h).  A Weatherflow station at Las Mareas 
+reported sustained winds of 43 mph (69 km/h) with a gust to 54 mph 
+(87 km/h).
+ 
+The estimated minimum central pressure is 1003 mb (29.62 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Isaias can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4, WMO header WTNT44 KNHC, and
+on the web at www.hurricanes.gov/text/MIATCDAT4.shtml.
+ 
+WIND:  Tropical storm conditions will continue across portions of
+the U.S. and British Virgin Islands and Puerto Rico through this
+morning or early afternoon. These conditions are forecast to reach
+portions of the Dominican Republic and Haiti within the warning
+area later this morning, and the southeastern Bahamas and Turks
+and Caicos this afternoon.  Tropical storm conditions are expected
+in the Central Bahamas beginning Friday morning and are possible in
+the northwestern Bahamas beginning late Friday.
+ 
+RAINFALL: Isaias is expected to produce the following rain
+accumulations:
+ 
+British and U.S. Virgin Islands and Turks and Caicos: 3 to 6 inches.
+ 
+Puerto Rico and northern Haiti: 3 to 6 inches, with isolated maximum
+totals of 8 inches.
+ 
+Dominican Republic: 4 to 8 inches, with isolated maximum totals of
+10 inches.
+ 
+Bahamas: 4 to 8 inches.
+ 
+Cuba: 2 to 4 inches, with isolated maximum totals of 6 inches.
+ 
+These rainfall amounts will lead to life-threatening flash flooding
+and mudslides, as well as potential riverine flooding beginning
+today. Urban and small stream flooding is expected for the U.S.
+Virgin Islands, eastern Puerto Rico, and Hispaniola.
+ 
+SURF:  Swells generated by Isaias are affecting portions of
+the Leeward Islands, the Virgin Islands, Puerto Rico, the Dominican
+Republic, the Turks and Caicos Islands and the southeastern
+Bahamas.  These swells are likely to cause life-threatening surf
+and rip current conditions.  Please consult products from your
+local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM AST.
+ 
+$$
+Forecaster Brown
+ 
+NNNN

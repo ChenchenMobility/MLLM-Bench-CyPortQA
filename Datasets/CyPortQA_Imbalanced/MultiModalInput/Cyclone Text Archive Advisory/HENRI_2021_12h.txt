@@ -1,0 +1,187 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Henri Intermediate Advisory Number 25A
+NWS National Hurricane Center Miami FL       AL082021
+200 AM EDT Sun Aug 22 2021
+ 
+...HENRI HEADING TOWARD SOUTHERN NEW ENGLAND AND LONG ISLAND...
+...A DANGEROUS STORM SURGE, HURRICANE CONDITIONS, AND FLOODING
+RAINFALL ARE EXPECTED IN PORTIONS OF THE NORTHEAST UNITED STATES
+BEGINNING THIS MORNING...
+ 
+ 
+SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...39.3N 71.0W
+ABOUT 135 MI...215 KM SSE OF MONTAUK POINT NEW YORK
+ABOUT 175 MI...280 KM S OF PROVIDENCE RHODE ISLAND
+MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+PRESENT MOVEMENT...N OR 355 DEGREES AT 21 MPH...33 KM/H
+MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* South shore of Long Island from Mastic Beach to Montauk Point New
+York
+* North shore of Long Island from Montauk Point to Flushing New York
+* Flushing New York to Chatham Massachusetts
+* Nantucket, Martha's Vineyard, and Block Island
+ 
+A Storm Surge Watch is in effect for...
+* East Rockaway Inlet to Mastic New York
+* North of Chatham Massachusetts to Sagamore Beach Massachusetts
+* Cape Cod Bay
+ 
+A Hurricane Warning is in effect for...
+* South shore of Long Island from Fire Island Inlet to Montauk Point
+* North shore of Long Island from Port Jefferson Harbor to Montauk
+Point
+* New Haven Connecticut to west of Westport Massachusetts
+* Block Island
+ 
+A Tropical Storm Warning is in effect for...
+* Port Jefferson Harbor to west of New Haven Connecticut
+* South shore of Long Island from west of Fire Island Inlet to East
+Rockaway Inlet
+* Westport Massachusetts to Chatham Massachusetts, including
+Martha's Vineyard and Nantucket
+* Coastal New York and New Jersey west of East Rockaway Inlet to
+Manasquan Inlet, including New York City
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline. For 
+a depiction of areas at risk, please see the National Weather 
+Service Storm Surge Watch/Warning Graphic, available at 
+hurricanes.gov.  This is a life-threatening situation.  Persons 
+located within these areas should take all necessary actions to 
+protect life and property from rising water and the potential for 
+other dangerous conditions. Promptly follow evacuation and other 
+instructions from local officials.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area, in this case beginning within 
+the next 12 hours. 
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in this case beginning within the next 12 hours. 
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+ 
+Interests elsewhere in the northeastern U.S. should monitor the
+progress of Henri.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 AM EDT (0600 UTC), the center of Hurricane Henri was located
+near latitude 39.3 North, longitude 71.0 West. Henri is moving
+toward the north near 21 mph (33 km/h).  A decrease in forward 
+speed and a turn toward the north-northwest is expected later this 
+morning. On the forecast track, Henri is expected to make landfall 
+in southern New England or on Long Island today.  After landfall, a 
+turn to the north and a slower forward speed are expected as Henri 
+moves over southern New England.
+ 
+Reports from Air Force Reserve Hurricane Hunter aircraft indicate 
+that maximum sustained winds are near 75 mph (120 km/h) with higher 
+gusts.  Slight strengthening is possible early this morning. 
+Weakening is expected to begin later today. However, Henri is 
+expected to be at or near hurricane strength when it reaches the 
+coasts of southern New England and Long island.  Rapid weakening is 
+expected after Henri makes landfall.
+ 
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center and tropical-storm-force winds extend outward up to 150
+miles (240 km).
+ 
+The latest minimum central pressure estimated from data from 
+an Air Force Reserve Hurricane Hunter aircraft is 987 mb (29.15 
+inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Henri can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT3, WMO header WTNT43 KNHC
+and on the web at
+www.hurricanes.gov/graphics_at3.shtml?key_messages.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Flushing, NY to Chatham, MA including Narragansett Bay, Buzzards
+Bay, Vineyard Sound, and Nantucket Sound...3-5 ft
+North shore of Long Island from Flushing to Montauk Point, NY
+including Long Island Sound...3-5 ft
+South shore of Long Island from Mastic Beach to Montauk Point,
+NY...3-5 ft
+Chatham, MA to Sagamore Beach, MA including Cape Cod Bay...2-4 ft
+South shore of Long Island from East Rockaway Inlet to Mastic Beach,
+NY...2-4 ft
+Cape May, NJ to East Rockaway Inlet, NY...1-3 ft
+Sagamore Beach, MA to Merrimack River including Massachusetts
+Bay...1-3 ft
+ 
+The deepest water will occur along the immediate coast in areas of
+onshore winds, where the surge will be accompanied by large and
+dangerous waves.  Surge-related flooding depends on the relative
+timing of the surge and the tidal cycle, and can vary greatly over
+short distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
+ 
+WIND:  Hurricane conditions are expected in the hurricane warning
+area today, with tropical storm conditions beginning within the 
+next few hours.  Tropical storm conditions are expected in the 
+tropical storm warning area beginning this morning and continuing 
+into tonight. 
+
+RAINFALL:  Henri is expected to produce rainfall amounts of 3 to 6
+inches over portions of Long Island, New England, southeast New
+York, and New Jersey today into Monday, with isolated maximum
+totals near 10 inches. Heavy rainfall from Henri may result in
+considerable flash, urban, and small stream flooding, along with the
+potential for widespread minor to isolated moderate river flooding.
+ 
+TORNADOES:  A tornado or two may occur today over southern 
+New England.
+ 
+SURF:  Swells generated by Henri should continue to affect Bermuda
+today.  Swells are expected to increase across much of the east 
+coast of the U.S. and Atlantic Canada today and continue into 
+Monday.  These swells could cause life-threatening surf and rip
+current conditions.  Please consult products from your local
+weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM EDT.
+ 
+$$
+Forecaster Brown/Latto
+ 
+NNNN

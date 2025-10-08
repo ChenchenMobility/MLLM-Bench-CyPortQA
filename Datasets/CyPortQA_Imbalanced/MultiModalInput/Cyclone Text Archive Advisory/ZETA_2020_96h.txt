@@ -1,0 +1,90 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Depression Twenty-Eight Advisory Number   1
+NWS National Hurricane Center Miami FL       AL282020
+500 PM EDT Sat Oct 24 2020
+ 
+...2020 PRODUCES YET ANOTHER TROPICAL DEPRESSION...
+...TROPICAL STORM WATCH ISSUED FOR PART OF WESTERN CUBA...
+ 
+ 
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.7N 83.0W
+ABOUT 255 MI...405 KM SSE OF THE WESTERN TIP OF CUBA
+ABOUT 280 MI...455 KM ESE OF COZUMEL MEXICO
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...NNW OR 345 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of Cuba has issued a Tropical Storm Watch for the
+province of Pinar del Rio.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Watch is in effect for...
+* Pinar del Rio Cuba
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests in the Yucatan Peninsula should monitor the progress of 
+the depression.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM EDT (2100 UTC), the center of Tropical Depression
+Twenty-Eight was located near latitude 18.7 North, longitude 83.0
+West. The depression is moving toward the north-northwest near 2 
+mph (4 km/h), and this motion is expected to continue through early
+Sunday.  The system should gradually turn toward the west-northwest 
+with a faster forward speed by Monday.  On the forecast track, the 
+center of the depression is anticipated to remain south of Cuba 
+tomorrow and approach the Yucatan Channel or Yucatan Peninsula late 
+Monday before emerging into the southern Gulf of Mexico on Tuesday.
+ 
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Slow strengthening is forecast during the next 72 hours, and the 
+system is expected to become a tropical storm on Sunday and could 
+become a hurricane over the southern Gulf of Mexico on Tuesday.
+ 
+The estimated minimum central pressure based on NOAA Hurricane 
+Hunter aircraft data is 1005 mb (29.68 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for the depression can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT3 and WMO header WTNT43 KNHC. 
+
+RAINFALL: Across portions of central and western Cuba, the Cayman
+Islands, Jamaica, the northeast Yucatan Peninsula of Mexico,
+southern Florida and the Florida Keys, storm total rainfall of 4 
+to 8 inches with local amounts of 12 inches are possible through 
+Wednesday. 
+ 
+WIND: Tropical-storm conditions are possible in the watch area
+on Monday.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM EDT.
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Blake
+ 
+NNNN

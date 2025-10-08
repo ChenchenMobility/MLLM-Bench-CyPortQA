@@ -1,0 +1,98 @@
+
+ZCZC MIAPWSAT5 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE DORIAN WIND SPEED PROBABILITIES NUMBER  56                
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL052019               
+0900 UTC SAT SEP 07 2019                                            
+                                                                    
+AT 0900Z THE CENTER OF HURRICANE DORIAN WAS LOCATED NEAR LATITUDE   
+39.7 NORTH...LONGITUDE 68.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+75 KTS...85 MPH...140 KM/H.                                         
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z SAT 18Z SAT 06Z SUN 18Z SUN 06Z MON 06Z TUE 06Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z SAT 06Z SUN 18Z SUN 06Z MON 06Z TUE 06Z WED 06Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CAPE RACE NFLD 34  X   X( X)  10(10)   1(11)   X(11)   X(11)   X(11)
+ 
+ILE ST PIERRE  34  X  30(30)  11(41)   X(41)   X(41)   X(41)   X(41)
+ 
+BURGEO NFLD    34  X  53(53)  20(73)   X(73)   X(73)   X(73)   X(73)
+BURGEO NFLD    50  X   2( 2)  13(15)   X(15)   X(15)   X(15)   X(15)
+ 
+PTX BASQUES    34  X  85(85)  10(95)   X(95)   X(95)   X(95)   X(95)
+PTX BASQUES    50  X  21(21)  47(68)   X(68)   X(68)   X(68)   X(68)
+PTX BASQUES    64  X   1( 1)  13(14)   X(14)   X(14)   X(14)   X(14)
+ 
+EDDY POINT NS  34  9  89(98)   X(98)   X(98)   X(98)   X(98)   X(98)
+EDDY POINT NS  50  X  50(50)   X(50)   X(50)   X(50)   X(50)   X(50)
+EDDY POINT NS  64  X   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+SYDNEY NS      34  6  87(93)   X(93)   X(93)   X(93)   X(93)   X(93)
+SYDNEY NS      50  X  58(58)   2(60)   X(60)   X(60)   X(60)   X(60)
+SYDNEY NS      64  X   8( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+SABLE ISLAND   34 37  35(72)   1(73)   X(73)   X(73)   X(73)   X(73)
+SABLE ISLAND   50  X   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+HALIFAX NS     34 96   4(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+HALIFAX NS     50  1  86(87)   X(87)   X(87)   X(87)   X(87)   X(87)
+HALIFAX NS     64  X  31(31)   X(31)   X(31)   X(31)   X(31)   X(31)
+ 
+YARMOUTH NS    34 94   X(94)   X(94)   X(94)   X(94)   X(94)   X(94)
+YARMOUTH NS    50 23   7(30)   X(30)   X(30)   X(30)   X(30)   X(30)
+ 
+MONCTON NB     34  6  58(64)   X(64)   X(64)   X(64)   X(64)   X(64)
+ 
+ST JOHN NB     34 16  31(47)   X(47)   X(47)   X(47)   X(47)   X(47)
+ 
+EASTPORT ME    34  6  10(16)   X(16)   X(16)   X(16)   X(16)   X(16)
+ 
+BAR HARBOR ME  34  3   3( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+AUGUSTA ME     34  2   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+HYANNIS MA     34  8   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+NANTUCKET MA   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+MONTAUK POINT  34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

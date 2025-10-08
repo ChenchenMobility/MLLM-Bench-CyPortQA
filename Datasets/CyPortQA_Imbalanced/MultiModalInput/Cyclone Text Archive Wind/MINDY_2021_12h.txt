@@ -1,0 +1,79 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM MINDY WIND SPEED PROBABILITIES NUMBER   1            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132021               
+2100 UTC WED SEP 08 2021                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM MINDY WAS LOCATED NEAR        
+LATITUDE 29.0 NORTH...LONGITUDE 86.3 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z WED 06Z THU 18Z THU 06Z FRI 18Z FRI 18Z SAT 18Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z THU 18Z THU 06Z FRI 18Z FRI 18Z SAT 18Z SUN 18Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+KINGS BAY GA   34  1  17(18)   X(18)   X(18)   X(18)   X(18)   X(18)
+ 
+WAYCROSS GA    34  1   7( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+MAYPORT NS FL  34  1  21(22)   X(22)   X(22)   X(22)   X(22)   X(22)
+ 
+JACKSONVILLE   34  1  21(22)   X(22)   X(22)   X(22)   X(22)   X(22)
+ 
+GAINESVILLE FL 34  3   6( 9)   X( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+DAYTONA BEACH  34  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+THE VILLAGES   34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+CEDAR KEY FL   34  4   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+TALLAHASSEE FL 34 13   2(15)   X(15)   X(15)   X(15)   X(15)   X(15)
+ 
+ST MARKS FL    34 18   4(22)   X(22)   X(22)   X(22)   X(22)   X(22)
+ 
+APALACHICOLA   34 14   X(14)   X(14)   X(14)   X(14)   X(14)   X(14)
+ 
+GFMX 290N 850W 34 20   X(20)   X(20)   X(20)   X(20)   X(20)   X(20)
+ 
+PANAMA CITY FL 34  4   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER PAPIN                                                    
+NNNN                                                                

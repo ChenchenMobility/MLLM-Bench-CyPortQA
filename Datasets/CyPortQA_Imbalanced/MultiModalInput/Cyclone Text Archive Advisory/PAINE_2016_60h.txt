@@ -1,0 +1,56 @@
+
+ZCZC MIATCPEP2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+TROPICAL STORM PAINE ADVISORY NUMBER   3
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP172016
+900 AM MDT SUN SEP 18 2016
+
+...PAINE LIKELY TO STRENGTHEN TODAY...
+
+
+SUMMARY OF 900 AM MDT...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.5N 111.4W
+ABOUT 385 MI...620 KM SSW OF CABO SAN LUCAS MEXICO
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 900 AM MDT (1500 UTC), the center of Tropical Storm Paine was
+located near latitude 17.5 North, longitude 111.4 West.  Paine is
+moving toward the northwest near 13 mph (20 km/h), and a turn
+toward the north-northwest is expected over the next 48 hours.
+
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Some strengthening is forecast today and Monday, followed by
+weakening on Tuesday.
+
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center.
+
+The estimated minimum central pressure is 1003 mb (29.62 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+None
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 300 PM MDT.
+
+$$
+Forecaster Pasch
+
+NNNN

@@ -1,0 +1,100 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Beryl Intermediate Advisory Number 10A
+NWS National Hurricane Center Miami FL       AL022018
+800 PM AST Sat Jul 07 2018
+
+...BERYL REMAINS DISORGANIZED AS IT MOVES WEST-NORTHWESTWARD
+TOWARD THE LESSER ANTILLES...
+
+
+SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...12.9N 53.5W
+ABOUT 550 MI...885 KM ESE OF THE LESSER ANTILLES
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...WNW OR 295 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Dominica
+* Guadeloupe
+
+A Tropical Storm Watch is in effect for...
+* Barbados
+* St. Lucia
+* Martinique, St. Martin, and St. Barthelemy
+* Saba and St. Eustatius
+* St. Maarten
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+
+Interests elsewhere in the Leeward Islands, the Virgin Islands,
+Puerto Rico, and the Dominican Republic should monitor the progress
+of Beryl.
+
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM AST (0000 UTC), the center of Tropical Storm Beryl was
+located near latitude 12.9 North, longitude 53.5 West.  Beryl is
+moving toward the west-northwest near 17 mph (28 km/h).  A
+west-northwestward motion with an increase in forward speed is
+expected during the next few days.  On the forecast track, the
+center of Beryl will approach the Lesser Antilles through Sunday,
+cross the island chain Sunday night, and move south of the Virgin
+Islands and Puerto Rico on Monday.
+
+Maximum sustained winds are estimated to be near 50 mph (85 km/h)
+with higher gusts.  Weakening is forecast during the next 48 hours,
+and Beryl is likely to weaken to a tropical depression after moving
+across the Lesser Antilles.  The system could degenerate into an
+open trough by the time it reaches the central Caribbean Sea and
+Hispaniola Monday night.
+
+Tropical-storm-force winds extend outward up to 45 miles (75 km)
+from the center.
+
+The estimated minimum central pressure is 1003 mb (29.62 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND:  Tropical storm conditions are expected in Dominica and
+Guadeloupe Sunday night.  Tropical storm conditions are possible in
+the watch areas of the Lesser Antilles by late Sunday or Monday.
+
+RAINFALL:  Beryl is expected to produce total rain accumulations of
+2 to 4 inches through Monday across the southern Leeward and
+northern Windward Islands.  Across the remainder of the Leeward and
+Windward Islands, the Virgin Islands, and Puerto Rico, rainfall
+amounts of 1 to 2 inches with locally higher amounts are expected.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM AST.
+
+$$
+Forecaster Beven
+
+NNNN

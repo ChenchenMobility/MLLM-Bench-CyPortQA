@@ -1,0 +1,103 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+POST-TROPICAL CYCLONE LEE WIND SPEED PROBABILITIES NUMBER  44       
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132023               
+0900 UTC SAT SEP 16 2023                                            
+                                                                    
+AT 0900Z THE CENTER OF POST-TROPICAL CYCLONE LEE WAS LOCATED NEAR   
+LATITUDE 41.8 NORTH...LONGITUDE 66.0 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 70 KTS...80 MPH...130 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z SAT 18Z SAT 06Z SUN 18Z SUN 06Z MON 06Z TUE 06Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z SAT 06Z SUN 18Z SUN 06Z MON 06Z TUE 06Z WED 06Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ILE ST PIERRE  34  X   1( 1)   4( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+ 
+BURGEO NFLD    34  X   4( 4)   9(13)   1(14)   X(14)   X(14)   X(14)
+ 
+PTX BASQUES    34  X   9( 9)  16(25)   1(26)   X(26)   X(26)   X(26)
+PTX BASQUES    50  X   X( X)   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+EDDY POINT NS  34 31  11(42)   1(43)   X(43)   X(43)   X(43)   X(43)
+ 
+SYDNEY NS      34 15   9(24)   5(29)   X(29)   X(29)   X(29)   X(29)
+ 
+SABLE ISLAND   34 25   3(28)   1(29)   X(29)   X(29)   X(29)   X(29)
+ 
+HALIFAX NS     34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+HALIFAX NS     50 22  12(34)   X(34)   X(34)   X(34)   X(34)   X(34)
+ 
+YARMOUTH NS    34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+YARMOUTH NS    50 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+YARMOUTH NS    64  8   1( 9)   X( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+MONCTON NB     34 79  18(97)   X(97)   X(97)   X(97)   X(97)   X(97)
+MONCTON NB     50  4  40(44)   X(44)   X(44)   X(44)   X(44)   X(44)
+MONCTON NB     64  X   2( 2)   X( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+ST JOHN NB     34 87   9(96)   X(96)   X(96)   X(96)   X(96)   X(96)
+ST JOHN NB     50 54  10(64)   X(64)   X(64)   X(64)   X(64)   X(64)
+ST JOHN NB     64  X   2( 2)   X( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+EASTPORT ME    34 91   1(92)   X(92)   X(92)   X(92)   X(92)   X(92)
+EASTPORT ME    50 55   1(56)   X(56)   X(56)   X(56)   X(56)   X(56)
+ 
+BAR HARBOR ME  34 90   X(90)   X(90)   X(90)   X(90)   X(90)   X(90)
+BAR HARBOR ME  50  8   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+AUGUSTA ME     34 23   X(23)   X(23)   X(23)   X(23)   X(23)   X(23)
+ 
+PORTLAND ME    34  9   1(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+ 
+PORTSMOUTH NH  34  5   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+BOSTON MA      34  4   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+HYANNIS MA     34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+NANTUCKET MA   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+PROVIDENCE RI  34  7   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+MONTAUK POINT  34  5   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+$$                                                                  
+FORECASTER BERG                                                     
+NNNN                                                                

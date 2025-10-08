@@ -1,0 +1,87 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM FRANKLIN WIND SPEED PROBABILITIES NUMBER   5         
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL082023               
+2100 UTC MON AUG 21 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM FRANKLIN WAS LOCATED NEAR     
+LATITUDE 14.3 NORTH...LONGITUDE 70.1 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z MON AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z MON 06Z TUE 18Z TUE 06Z WED 18Z WED 18Z THU 18Z FRI
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z TUE 18Z TUE 06Z WED 18Z WED 18Z THU 18Z FRI 18Z SAT
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+BERMUDA        34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+MAYAGUANA      34  X   X( X)   X( X)   1( 1)   3( 4)   1( 5)   X( 5)
+ 
+GRAND TURK     34  X   X( X)   1( 1)   5( 6)  16(22)   2(24)   2(26)
+GRAND TURK     50  X   X( X)   X( X)   X( X)   4( 4)   1( 5)   X( 5)
+GRAND TURK     64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+PORT-AU-PRINCE 34  X   1( 1)   6( 7)   8(15)   2(17)   X(17)   X(17)
+PORT-AU-PRINCE 50  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+CAPE BEATA     34  X   3( 3)  44(47)   8(55)   1(56)   X(56)   X(56)
+CAPE BEATA     50  X   X( X)  12(12)   6(18)   X(18)   X(18)   X(18)
+CAPE BEATA     64  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+PUERTO PLATA   34  X   1( 1)   3( 4)  22(26)  10(36)   2(38)   1(39)
+PUERTO PLATA   50  X   X( X)   X( X)   4( 4)   3( 7)   1( 8)   X( 8)
+PUERTO PLATA   64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+SANTO DOMINGO  34  X   1( 1)  12(13)  17(30)   2(32)   1(33)   1(34)
+SANTO DOMINGO  50  X   X( X)   1( 1)   4( 5)   1( 6)   X( 6)   X( 6)
+ 
+PONCE PR       34  X   X( X)   2( 2)   1( 3)   2( 5)   2( 7)   1( 8)
+ 
+AGUADILLA PR   34  X   1( 1)   1( 2)   2( 4)   3( 7)   2( 9)   1(10)
+ 
+VIEQUES PR     34  X   X( X)   X( X)   1( 1)   2( 3)   2( 5)   X( 5)
+ 
+SAINT THOMAS   34  X   X( X)   X( X)   1( 1)   X( 1)   3( 4)   1( 5)
+ 
+SAINT JOHN     34  X   X( X)   X( X)   1( 1)   X( 1)   3( 4)   1( 5)
+ 
+SAINT CROIX    34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+$$                                                                  
+FORECASTER PAPIN                                                    
+NNNN                                                                

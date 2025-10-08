@@ -1,0 +1,285 @@
+
+ZCZC MIAPWSAT1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE IRMA WIND SPEED PROBABILITIES NUMBER  26                  
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL112017               
+1500 UTC TUE SEP 05 2017                                            
+                                                                    
+AT 1500Z THE CENTER OF HURRICANE IRMA WAS LOCATED NEAR LATITUDE 16.8
+NORTH...LONGITUDE 58.4 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 155   
+KTS...180 MPH...285 KM/H.                                           
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z TUE 00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT 12Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+KINGS BAY GA   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+WAYCROSS GA    34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+MAYPORT NS FL  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ 
+JACKSONVILLE   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   8( 8)
+ 
+GAINESVILLE FL 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  11(12)
+ 
+DAYTONA BEACH  34  X   X( X)   X( X)   X( X)   X( X)   2( 2)  14(16)
+DAYTONA BEACH  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+DAYTONA BEACH  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+THE VILLAGES   34  X   X( X)   X( X)   X( X)   X( X)   2( 2)  15(17)
+THE VILLAGES   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+THE VILLAGES   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+ORLANDO FL     34  X   X( X)   X( X)   X( X)   X( X)   3( 3)  20(23)
+ORLANDO FL     50  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ORLANDO FL     64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+COCOA BEACH FL 34  X   X( X)   X( X)   X( X)   X( X)   5( 5)  19(24)
+COCOA BEACH FL 50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   6( 7)
+COCOA BEACH FL 64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+PATRICK AFB    34  X   X( X)   X( X)   X( X)   X( X)   5( 5)  19(24)
+PATRICK AFB    50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   6( 7)
+PATRICK AFB    64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+FT PIERCE FL   34  X   X( X)   X( X)   X( X)   X( X)   9( 9)  25(34)
+FT PIERCE FL   50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   9(10)
+FT PIERCE FL   64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   4( 5)
+ 
+W PALM BEACH   34  X   X( X)   X( X)   X( X)   X( X)  16(16)  28(44)
+W PALM BEACH   50  X   X( X)   X( X)   X( X)   X( X)   4( 4)  14(18)
+W PALM BEACH   64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   8( 9)
+ 
+FT LAUDERDALE  34  X   X( X)   X( X)   X( X)   X( X)  22(22)  32(54)
+FT LAUDERDALE  50  X   X( X)   X( X)   X( X)   X( X)   6( 6)  20(26)
+FT LAUDERDALE  64  X   X( X)   X( X)   X( X)   X( X)   3( 3)  10(13)
+ 
+MIAMI FL       34  X   X( X)   X( X)   X( X)   X( X)  25(25)  32(57)
+MIAMI FL       50  X   X( X)   X( X)   X( X)   X( X)   8( 8)  23(31)
+MIAMI FL       64  X   X( X)   X( X)   X( X)   X( X)   3( 3)  13(16)
+ 
+HOMESTEAD ARB  34  X   X( X)   X( X)   X( X)   X( X)  27(27)  34(61)
+HOMESTEAD ARB  50  X   X( X)   X( X)   X( X)   X( X)  10(10)  25(35)
+HOMESTEAD ARB  64  X   X( X)   X( X)   X( X)   X( X)   4( 4)  15(19)
+ 
+MARATHON FL    34  X   X( X)   X( X)   X( X)   X( X)  27(27)  36(63)
+MARATHON FL    50  X   X( X)   X( X)   X( X)   X( X)  10(10)  28(38)
+MARATHON FL    64  X   X( X)   X( X)   X( X)   X( X)   6( 6)  18(24)
+ 
+KEY WEST FL    34  X   X( X)   X( X)   X( X)   X( X)  21(21)  36(57)
+KEY WEST FL    50  X   X( X)   X( X)   X( X)   X( X)   7( 7)  28(35)
+KEY WEST FL    64  X   X( X)   X( X)   X( X)   X( X)   4( 4)  19(23)
+ 
+NAPLES FL      34  X   X( X)   X( X)   X( X)   X( X)  12(12)  37(49)
+NAPLES FL      50  X   X( X)   X( X)   X( X)   X( X)   2( 2)  21(23)
+NAPLES FL      64  X   X( X)   X( X)   X( X)   X( X)   1( 1)  11(12)
+ 
+FT MYERS FL    34  X   X( X)   X( X)   X( X)   X( X)   9( 9)  34(43)
+FT MYERS FL    50  X   X( X)   X( X)   X( X)   X( X)   2( 2)  17(19)
+FT MYERS FL    64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   8( 9)
+ 
+VENICE FL      34  X   X( X)   X( X)   X( X)   X( X)   5( 5)  30(35)
+VENICE FL      50  X   X( X)   X( X)   X( X)   X( X)   1( 1)  13(14)
+VENICE FL      64  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ 
+TAMPA FL       34  X   X( X)   X( X)   X( X)   X( X)   3( 3)  24(27)
+TAMPA FL       50  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+TAMPA FL       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+CEDAR KEY FL   34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  14(15)
+CEDAR KEY FL   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+CEDAR KEY FL   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+TALLAHASSEE FL 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+ST MARKS FL    34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+APALACHICOLA   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   8( 8)
+APALACHICOLA   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+APALACHICOLA   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+GFMX 290N 850W 34  X   X( X)   X( X)   X( X)   X( X)   X( X)  11(11)
+GFMX 290N 850W 50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+GFMX 290N 850W 64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+PANAMA CITY FL 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+WHITING FLD FL 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+PENSACOLA FL   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+GFMX 290N 870W 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ 
+GFMX 280N 890W 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+GRAND BAHAMA   34  X   X( X)   X( X)   X( X)   X( X)  20(20)  20(40)
+GRAND BAHAMA   50  X   X( X)   X( X)   X( X)   X( X)   6( 6)  10(16)
+GRAND BAHAMA   64  X   X( X)   X( X)   X( X)   X( X)   3( 3)   6( 9)
+ 
+NEW PROVIDENCE 34  X   X( X)   X( X)   X( X)   4( 4)  43(47)  13(60)
+NEW PROVIDENCE 50  X   X( X)   X( X)   X( X)   X( X)  20(20)   8(28)
+NEW PROVIDENCE 64  X   X( X)   X( X)   X( X)   X( X)  10(10)   6(16)
+ 
+ANDROS         34  X   X( X)   X( X)   X( X)   7( 7)  57(64)  11(75)
+ANDROS         50  X   X( X)   X( X)   X( X)   1( 1)  35(36)  11(47)
+ANDROS         64  X   X( X)   X( X)   X( X)   X( X)  20(20)   8(28)
+ 
+GREAT EXUMA    34  X   X( X)   X( X)   X( X)  32(32)  43(75)   3(78)
+GREAT EXUMA    50  X   X( X)   X( X)   X( X)   8( 8)  35(43)   3(46)
+GREAT EXUMA    64  X   X( X)   X( X)   X( X)   3( 3)  24(27)   2(29)
+ 
+SAN SALVADOR   34  X   X( X)   X( X)   X( X)  36(36)  21(57)   3(60)
+SAN SALVADOR   50  X   X( X)   X( X)   X( X)  10(10)  14(24)   1(25)
+SAN SALVADOR   64  X   X( X)   X( X)   X( X)   3( 3)  10(13)   1(14)
+ 
+MAYAGUANA      34  X   X( X)   X( X)   3( 3)  75(78)   5(83)   X(83)
+MAYAGUANA      50  X   X( X)   X( X)   X( X)  48(48)   5(53)   1(54)
+MAYAGUANA      64  X   X( X)   X( X)   X( X)  29(29)   6(35)   X(35)
+ 
+GRAND TURK     34  X   X( X)   1( 1)  22(23)  68(91)   X(91)   X(91)
+GRAND TURK     50  X   X( X)   X( X)   4( 4)  67(71)   X(71)   X(71)
+GRAND TURK     64  X   X( X)   X( X)   1( 1)  48(49)   1(50)   X(50)
+ 
+CP SAN ANTONIO 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  10(11)
+CP SAN ANTONIO 50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+CP SAN ANTONIO 64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+HAVANA         34  X   X( X)   X( X)   X( X)   X( X)  13(13)  28(41)
+HAVANA         50  X   X( X)   X( X)   X( X)   X( X)   3( 3)  15(18)
+HAVANA         64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   7( 8)
+ 
+ISLE OF PINES  34  X   X( X)   X( X)   X( X)   X( X)   7( 7)  15(22)
+ISLE OF PINES  50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   7( 9)
+ISLE OF PINES  64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+CIENFUEGOS     34  X   X( X)   X( X)   X( X)   X( X)  33(33)  21(54)
+CIENFUEGOS     50  X   X( X)   X( X)   X( X)   X( X)  10(10)  13(23)
+CIENFUEGOS     64  X   X( X)   X( X)   X( X)   X( X)   4( 4)   7(11)
+ 
+CAMAGUEY       34  X   X( X)   X( X)   X( X)   8( 8)  50(58)   7(65)
+CAMAGUEY       50  X   X( X)   X( X)   X( X)   1( 1)  29(30)   6(36)
+CAMAGUEY       64  X   X( X)   X( X)   X( X)   X( X)  14(14)   4(18)
+ 
+GUANTANAMO BAY 34  X   X( X)   X( X)   X( X)  41(41)  14(55)   1(56)
+GUANTANAMO BAY 50  X   X( X)   X( X)   X( X)  17(17)  11(28)   1(29)
+GUANTANAMO BAY 64  X   X( X)   X( X)   X( X)   7( 7)  10(17)   X(17)
+ 
+GRAND CAYMAN   34  X   X( X)   X( X)   X( X)   X( X)   5( 5)   6(11)
+GRAND CAYMAN   50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+GRAND CAYMAN   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+MONTEGO BAY    34  X   X( X)   X( X)   X( X)   2( 2)   9(11)   2(13)
+MONTEGO BAY    50  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+MONTEGO BAY    64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+KINGSTON       34  X   X( X)   X( X)   X( X)   4( 4)   5( 9)   1(10)
+ 
+LES CAYES      34  X   X( X)   X( X)   1( 1)  17(18)   3(21)   1(22)
+LES CAYES      50  X   X( X)   X( X)   X( X)   4( 4)   1( 5)   X( 5)
+LES CAYES      64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+ 
+PORT-AU-PRINCE 34  X   X( X)   X( X)   4( 4)  23(27)   2(29)   X(29)
+PORT-AU-PRINCE 50  X   X( X)   X( X)   X( X)   8( 8)   X( 8)   X( 8)
+PORT-AU-PRINCE 64  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+CAPE BEATA     34  X   X( X)   1( 1)   4( 5)   7(12)   1(13)   X(13)
+ 
+PUERTO PLATA   34  X   X( X)   2( 2)  36(38)  43(81)   X(81)   X(81)
+PUERTO PLATA   50  X   X( X)   X( X)  11(11)  43(54)   X(54)   X(54)
+PUERTO PLATA   64  X   X( X)   X( X)   2( 2)  31(33)   X(33)   X(33)
+ 
+SANTO DOMINGO  34  X   X( X)   4( 4)  29(33)  12(45)   X(45)   X(45)
+SANTO DOMINGO  50  X   X( X)   X( X)   9( 9)   7(16)   X(16)   X(16)
+SANTO DOMINGO  64  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+PONCE PR       34  X   3( 3)  55(58)  11(69)   X(69)   X(69)   X(69)
+PONCE PR       50  X   X( X)  22(22)  10(32)   X(32)   X(32)   X(32)
+PONCE PR       64  X   X( X)   8( 8)   4(12)   X(12)   X(12)   X(12)
+ 
+AGUADILLA PR   34  X   2( 2)  53(55)  23(78)   X(78)   X(78)   X(78)
+AGUADILLA PR   50  X   X( X)  21(21)  25(46)   X(46)   X(46)   X(46)
+AGUADILLA PR   64  X   X( X)   7( 7)  16(23)   X(23)   X(23)   X(23)
+ 
+SAN JUAN PR    34  X   5( 5)  81(86)   5(91)   X(91)   X(91)   X(91)
+SAN JUAN PR    50  X   1( 1)  58(59)   8(67)   X(67)   X(67)   X(67)
+SAN JUAN PR    64  X   X( X)  33(33)   8(41)   X(41)   X(41)   X(41)
+ 
+VIEQUES PR     34  X  14(14)  76(90)   1(91)   X(91)   X(91)   X(91)
+VIEQUES PR     50  X   1( 1)  62(63)   2(65)   X(65)   X(65)   X(65)
+VIEQUES PR     64  X   X( X)  35(35)   2(37)   X(37)   X(37)   X(37)
+ 
+SAINT THOMAS   34  2  36(38)  60(98)   X(98)   X(98)   X(98)   X(98)
+SAINT THOMAS   50  X   6( 6)  80(86)   X(86)   X(86)   X(86)   X(86)
+SAINT THOMAS   64  X   1( 1)  65(66)   X(66)   X(66)   X(66)   X(66)
+ 
+SAINT CROIX    34  2  32(34)  50(84)   1(85)   X(85)   X(85)   X(85)
+SAINT CROIX    50  X   5( 5)  42(47)   1(48)   X(48)   X(48)   X(48)
+SAINT CROIX    64  X   1( 1)  19(20)   X(20)   X(20)   X(20)   X(20)
+ 
+SAINT MAARTEN  34  4  95(99)   1(99)   X(99)   X(99)   X(99)   X(99)
+SAINT MAARTEN  50  X  93(93)   5(98)   X(98)   X(98)   X(98)   X(98)
+SAINT MAARTEN  64  X  75(75)  12(87)   X(87)   X(87)   X(87)   X(87)
+ 
+ST KITTS-NEVIS 34  6  90(96)   1(97)   X(97)   X(97)   X(97)   X(97)
+ST KITTS-NEVIS 50  1  74(75)   X(75)   X(75)   X(75)   X(75)   X(75)
+ST KITTS-NEVIS 64  X  40(40)   1(41)   X(41)   X(41)   X(41)   X(41)
+ 
+BARBUDA        34 68  32(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+BARBUDA        50  6  93(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+BARBUDA        64  1  89(90)   X(90)   X(90)   X(90)   X(90)   X(90)
+ 
+ANTIGUA        34 58  41(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ANTIGUA        50  5  80(85)   X(85)   X(85)   X(85)   X(85)   X(85)
+ANTIGUA        64  1  48(49)   X(49)   X(49)   X(49)   X(49)   X(49)
+ 
+GUADELOUPE     34 29  41(70)   1(71)   X(71)   X(71)   X(71)   X(71)
+GUADELOUPE     50  3  12(15)   X(15)   X(15)   X(15)   X(15)   X(15)
+GUADELOUPE     64  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+AVES           34  2   4( 6)   2( 8)   1( 9)   X( 9)   X( 9)   X( 9)
+ 
+DOMINICA       34  3   4( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+MARTINIQUE     34  2   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+SAINT LUCIA    34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER BROWN                                                    
+NNNN                                                                

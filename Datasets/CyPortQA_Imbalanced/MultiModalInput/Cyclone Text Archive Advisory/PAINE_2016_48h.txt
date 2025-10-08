@@ -1,0 +1,57 @@
+
+ZCZC MIATCPEP2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+TROPICAL STORM PAINE ADVISORY NUMBER   5
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP172016
+900 PM MDT SUN SEP 18 2016
+
+...PAINE EXPECTED TO BECOME A HURRICANE OVERNIGHT...
+
+
+SUMMARY OF 900 PM MDT...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.5N 113.8W
+ABOUT 345 MI...555 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...992 MB...29.30 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 900 PM MDT (0300 UTC), the center of Tropical Storm Paine was
+located near latitude 19.5 North, longitude 113.8 West. Paine is
+moving toward the northwest near 15 mph (24 km/h), and a turn toward
+the north-northwest and north is expected over the next 48 hours.
+
+Maximum sustained winds have increased to near 70 mph (110 km/h)
+with higher gusts.  Additional strengthening is expected, and
+Paine is forecast to become a hurricane tonight or early Monday.
+A weakening trend should begin by Monday night.
+
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+
+The estimated minimum central pressure is 992 mb (29.30 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+None
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 300 AM MDT.
+
+$$
+Forecaster Brown
+
+NNNN

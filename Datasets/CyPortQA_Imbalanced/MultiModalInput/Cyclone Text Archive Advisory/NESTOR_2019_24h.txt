@@ -1,0 +1,127 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Nestor Intermediate Advisory Number 5A
+NWS National Hurricane Center Miami FL       AL162019
+100 PM CDT Fri Oct 18 2019
+
+...DISTURBANCE BECOMES TROPICAL STORM NESTOR...
+...DANGEROUS STORM SURGE AND TROPICAL STORM FORCE WINDS EXPECTED
+ALONG PORTIONS OF THE NORTHERN GULF COAST LATER TODAY AND TONIGHT...
+
+
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...26.3N 89.5W
+ABOUT 195 MI...315 KM S OF THE MOUTH OF THE MISSISSIPPI RIVER
+ABOUT 355 MI...570 KM SW OF PANAMA CITY FLORIDA
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...NE OR 55 DEGREES AT 22 MPH...35 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Mississippi/Alabama border to Yankeetown Florida
+* Grand Isle Louisiana to the Mouth of the Pearl River
+
+A Storm Surge Warning is in effect for...
+* Indian Pass Florida to Clearwater Beach Florida
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning.
+
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+in the indicated locations. For a depiction of areas at risk, please
+see the National Weather Service Storm Surge Watch/Warning Graphic,
+available at hurricanes.gov. This is a life-threatening situation.
+Persons located within these areas should take all necessary actions
+to protect life and property from rising water and the potential for
+other dangerous conditions. Promptly follow evacuation and other
+instructions from local officials.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+Satellite imagery and ship and buoy data indicate that the
+circulation of the low pressure system has become better defined,
+and the disturbance is now Tropical Storm Nestor.
+
+At 100 PM CDT (1800 UTC), the center of Tropical Storm Nestor was
+located near latitude 26.3 North, longitude 89.5 West. Nestor is
+moving toward the northeast near 22 mph (35 km/h), and this general
+motion is expected to continue through Sunday, followed by a turn
+toward the east-northeast by early Monday. On the forecast track,
+the center of Nestor will approach the northern Gulf Coast later
+today and tonight and move inland across portions of the
+southeastern United States Saturday and Sunday as it becomes a
+post-tropical cyclone. Nestor is expected to move offshore of the
+coast of North Carolina into the western Atlantic by late Sunday.
+
+Maximum sustained winds are near 60 mph (95 km/h) with higher
+gusts. Some strengthening is expected later today, with weakening
+forecast after Nestor moves inland. Nestor is expected to lose
+tropical characteristics and become post-tropical on Saturday.
+
+Tropical-storm-force winds extend outward up to 175 miles (280 km),
+mainly to the northeast and east of the center.
+
+The estimated minimum central pressure is 1001 mb (29.56 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+STORM SURGE: The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+
+Indian Pass FL to Chassahowitzka FL...3 to 5 ft
+Chassahowitzka to Clearwater Beach FL...2 to 4 ft
+Tampa Bay...1 to 3 ft
+
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.  For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+
+WIND: Tropical storm conditions are expected to reach the coast
+within the warning area by later today and this evening, making
+outside preparations difficult or dangerous.
+
+Gale-force winds are likely along portions of the Atlantic coast
+of the southeastern United States by Saturday.
+
+RAINFALL: Nestor is expected to produce total rainfall
+accumulations of 2 to 4 inches this weekend from the central Gulf
+Coast and northern and central Florida to the eastern Carolinas,
+with isolated maximum amounts of 6 inches.
+
+TORNADOES: A tornado or two is possible tonight and early Saturday
+near the Florida Gulf Coast from the central panhandle to western
+parts of the Florida peninsula.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 PM CDT.
+
+$$
+Forecaster Brennan
+
+NNNN

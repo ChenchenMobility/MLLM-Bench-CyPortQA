@@ -1,0 +1,98 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Fernand Intermediate Advisory Number 2A
+NWS National Hurricane Center Miami FL       AL072019
+100 PM CDT Tue Sep 03 2019
+
+...DEPRESSION STRENGTHENS INTO TROPICAL STORM FERNAND...
+
+
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...23.5N 95.3W
+ABOUT 160 MI...255 KM E OF LA PESCA MEXICO
+ABOUT 185 MI...295 KM ENE OF TAMPICO MEXICO
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...W OR 260 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The Government of Mexico has issued a Tropical Storm Warning for
+the northeast coast of Mexico from La Pesca to Barra del Tordo and
+from Barra El Mezquital to the Mouth of the Rio Grande River.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Barra del Tordo to the Mouth of the Rio Grande River
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+
+Interests elsewhere along the northeastern coast of Mexico and the
+lower Texas coast should monitor the progress of this system.
+Additional watches or warnings could be required later today for
+portions of these areas.
+
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 100 PM CDT (1800 UTC), the center of Tropical Storm Fernand
+was located near latitude 23.5 North, longitude 95.3 West.  Fernand
+is moving toward the west near 7 mph (11 km/h), and this motion is
+expected to continue today.  A motion toward the west-northwest is
+forecast tonight and Wednesday.  This motion could bring the center
+of Fernand near or over the coast of northeastern Mexico late
+Wednesday.
+
+Recent satellite wind data indicate that the maximum sustained winds
+have increased to near 40 mph (65 km/h) with higher gusts.
+Additional slow strengthening is forecast before the system moves
+inland.  A NOAA Hurricane Hunter aircraft is scheduled to
+investigate Fernand this afternoon to provide more information on
+the intensity.
+
+Tropical-storm-force winds extend outward up to 105 miles (170 km)
+mainly to the west of the center.
+
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND:  Tropical storm conditions are expected to first reach the
+coast within the warning area late tonight or early Wednesday,
+making outside preparations difficult or dangerous.  Squalls with
+gusts to tropical-storm force are likely north of the warning area
+along portions of the northeastern coast of Mexico and the lower
+Texas coast.
+
+RAINFALL: Fernand is expected to produce the following rainfall
+totals through Friday:
+
+Northeast Mexico: 6 to 12 inches, isolated 15 inches, highest in the
+Sierra Madre Oriental of Tamaulipas and Nuevo Leon. This rainfall
+may cause life-threatening mudslides and flash floods.
+
+South Texas and the Lower Texas Coast: 2 to 4 inches, isolated 6
+inches.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 PM CDT.
+
+$$
+Forecaster Beven
+
+NNNN

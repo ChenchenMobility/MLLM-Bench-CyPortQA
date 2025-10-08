@@ -1,0 +1,87 @@
+
+ZCZC MIATCPEP2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+HURRICANE PAINE ADVISORY NUMBER   9
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP172016
+800 PM PDT MON SEP 19 2016
+
+...PAINE IS BEGINNING TO DECREASE IN INTENSITY...
+
+
+SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...23.8N 116.7W
+ABOUT 285 MI...460 KM WSW OF CABO SAN LAZARO MEXICO
+ABOUT 295 MI...470 KM SSW OF PUNTA EUGENIA MEXICO
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...NNW OR 345 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...984 MB...29.06 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Punta Eugenia to Cabo San Quintin
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected within the warning area, generally within 36 hours.
+
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 800 PM PDT (0300 UTC), the center of Hurricane Paine was located
+near latitude 23.8 North, longitude 116.7 West. Paine is moving
+toward the north-northwest near 13 mph (20 km/h).  A turn toward
+the north is expected tonight, followed by a north-northeastward
+turn and a reduction in forward speed Tuesday night.  On the
+forecast track, the center of Paine is expected to approach the
+northwest coast of the Baja California Tuesday night or early
+Wednesday.
+
+Maximum sustained winds have decreased to near 80 mph (130 km/h)
+with higher gusts.  Rapid weakening is forecast during the next
+day or so, and Paine is expected to weaken to a tropical storm by
+Tuesday morning, and become a remnant low on Wednesday.
+
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center and tropical-storm-force winds extend outward up to 105 miles
+(165 km).
+
+The estimated minimum central pressure is 984 mb (29.06 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL:  Hurricane Paine is expected to produce rainfall amounts
+of 2 to 4 inches across the northern Baja California peninsula with
+isolated storm total amounts of 6 inches through Wednesday.
+
+Moisture in advance of Paine will help spread rains into portions
+of southern California, Arizona, southern Utah, New Mexico, and
+southwestern Colorado with localized maximum amounts of 1 to 2
+inches possible, mainly over the favored higher terrain.
+
+WIND:  Tropical storm conditions are expected within a portion of
+the warning area by Tuesday night.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 1100 PM PDT.
+Next complete advisory at 200 AM PDT.
+
+$$
+Forecaster Brown
+
+NNNN

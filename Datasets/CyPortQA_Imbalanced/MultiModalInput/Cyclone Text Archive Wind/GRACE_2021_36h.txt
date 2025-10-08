@@ -1,0 +1,113 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM GRACE WIND SPEED PROBABILITIES NUMBER  18            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072021               
+2100 UTC TUE AUG 17 2021                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM GRACE WAS LOCATED NEAR        
+LATITUDE 18.4 NORTH...LONGITUDE 77.9 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z TUE 06Z WED 18Z WED 06Z THU 18Z THU 18Z FRI 18Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z WED 18Z WED 06Z THU 18Z THU 18Z FRI 18Z SAT 18Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+GFMX 270N 960W 34  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   X( 4)
+ 
+MCALLEN TX     34  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   X( 4)
+ 
+HARLINGEN TX   34  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   X( 4)
+ 
+BROWNSVILLE TX 34  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   X( 5)
+ 
+GFMX 250N 960W 34  X   X( X)   X( X)   X( X)  11(11)   6(17)   X(17)
+ 
+LA PESCA MX    34  X   X( X)   X( X)   X( X)   4( 4)  16(20)   1(21)
+LA PESCA MX    50  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+LA PESCA MX    64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+TAMPICO MX     34  X   X( X)   X( X)   X( X)   9( 9)  26(35)   3(38)
+TAMPICO MX     50  X   X( X)   X( X)   X( X)   1( 1)  10(11)   X(11)
+TAMPICO MX     64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+TUXPAN MX      34  X   X( X)   X( X)   X( X)  10(10)  27(37)   1(38)
+TUXPAN MX      50  X   X( X)   X( X)   X( X)   2( 2)  11(13)   1(14)
+TUXPAN MX      64  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+ 
+VERACRUZ MX    34  X   X( X)   X( X)   X( X)  13(13)  10(23)   1(24)
+VERACRUZ MX    50  X   X( X)   X( X)   X( X)   2( 2)   6( 8)   X( 8)
+VERACRUZ MX    64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+FRONTERA MX    34  X   X( X)   X( X)   3( 3)   5( 8)   1( 9)   X( 9)
+ 
+MERIDA MX      34  X   X( X)   7( 7)  55(62)   8(70)   X(70)   X(70)
+MERIDA MX      50  X   X( X)   X( X)  25(25)   6(31)   X(31)   X(31)
+MERIDA MX      64  X   X( X)   X( X)   7( 7)   2( 9)   X( 9)   X( 9)
+ 
+COZUMEL MX     34  X   6( 6)  71(77)   8(85)   X(85)   X(85)   X(85)
+COZUMEL MX     50  X   X( X)  41(41)  11(52)   1(53)   X(53)   X(53)
+COZUMEL MX     64  X   X( X)  14(14)   6(20)   X(20)   X(20)   X(20)
+ 
+BELIZE CITY    34  X   1( 1)   4( 5)   3( 8)   1( 9)   X( 9)   X( 9)
+ 
+PUERTO BARRIOS 34  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+GUANAJA        34  X   3( 3)   3( 6)   1( 7)   X( 7)   X( 7)   X( 7)
+ 
+CP SAN ANTONIO 34  X  13(13)  26(39)   1(40)   X(40)   X(40)   X(40)
+CP SAN ANTONIO 50  X   1( 1)   4( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+HAVANA         34  2   6( 8)   3(11)   X(11)   X(11)   X(11)   X(11)
+ 
+ISLE OF PINES  34  3  27(30)   4(34)   X(34)   X(34)   X(34)   X(34)
+ 
+CIENFUEGOS     34  1   3( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+GRAND CAYMAN   34 59  38(97)   X(97)   X(97)   X(97)   X(97)   X(97)
+GRAND CAYMAN   50  4  71(75)   X(75)   X(75)   X(75)   X(75)   X(75)
+GRAND CAYMAN   64  X  18(18)   X(18)   X(18)   X(18)   X(18)   X(18)
+ 
+MONTEGO BAY    34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+MONTEGO BAY    50  9   X( 9)   X( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+KINGSTON       34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+$$                                                                  
+FORECASTER PASCH                                                    
+NNNN                                                                

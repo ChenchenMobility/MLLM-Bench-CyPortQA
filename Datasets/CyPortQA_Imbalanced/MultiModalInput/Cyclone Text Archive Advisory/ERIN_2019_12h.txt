@@ -1,0 +1,60 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Erin Advisory Number   7
+NWS National Hurricane Center Miami FL       AL062019
+500 AM EDT Wed Aug 28 2019
+
+...ERIN MOVING NORTH-NORTHWESTWARD AT A FASTER PACE OVER THE WESTERN
+ATLANTIC...
+
+
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...32.5N 72.4W
+ABOUT 435 MI...705 KM W OF BERMUDA
+ABOUT 265 MI...430 KM SE OF CAPE HATTERAS NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...NNW OR 330 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM EDT (0900 UTC), the center of Tropical Storm Erin was
+located near latitude 32.5 North, longitude 72.4 West.  Erin is
+moving toward the north-northwest near 6 mph (9 km/h).  The cyclone
+is expected to turn northward later today then north-northeastward
+early Thursday morning with an increase in forward speed.
+
+Maximum sustained winds remain near 40 mph (65 km/h) with higher
+gusts.  Some slight strengthening is possible today, but then
+gradually weaken Thursday as it completes a transition to an
+extratropical cyclone.
+
+Tropical-storm-force winds extend outward up to 105 miles (165 km)
+from the center.
+
+The estimated minimum central pressure is 1005 mb (29.68 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+None
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+
+$$
+Forecaster Roberts
+
+NNNN

@@ -1,0 +1,88 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+TROPICAL DEPRESSION TWO ADVISORY NUMBER   4
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL022016
+1100 AM EDT SAT MAY 28 2016
+
+...DEPRESSION FORECAST TO BECOME A TROPICAL STORM LATER TODAY...
+...OUTER RAINBANDS APPROACHING THE SOUTH CAROLINA COAST...
+
+
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...30.3N 78.5W
+ABOUT 195 MI...310 KM SSE OF CHARLESTON SOUTH CAROLINA
+ABOUT 250 MI...405 KM S OF CAPE FEAR NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Savannah River to Little River Inlet South Carolina
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within
+24 hours.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 1100 AM EDT (1500 UTC), the center of Tropical Depression Two was
+estimated by an Air Force Reserve reconnaissance aircraft to be near
+latitude 30.3 North, longitude 78.5 West. The depression is moving
+toward the northwest near 13 mph (20 km/h). This general motion,
+accompanied by a decrease in forward speed, is expected later today
+and on Sunday as the system nears the coast within the warning area.
+
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Recent data from the reconnaissance aircraft indicate that the
+tropical cyclone remains just below tropical storm strength.
+However, the depression is forecast to become a tropical storm later
+today as it moves over the warm waters of the Gulf Stream.
+
+The estimated minimum central pressure is 1009 mb (29.80 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND: Tropical storm conditions are expected to first reach the
+coast within the warning area later tonight or early Sunday.
+
+RAINFALL: The depression is expected to produce total rainfall
+accumulations of 1 to 3 inches from eastern South Carolina through
+southeastern North Carolina.
+
+STORM SURGE: Storm surge inundation of 1 to 2 feet above ground
+level is possible within the tropical storm warning area.
+
+SURF: This system is expected to produce life-threatening surf and
+rip current conditions along portions of the southeastern United
+States coast through the weekend. Please consult products from your
+local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 200 PM EDT.
+Next complete advisory at 500 PM EDT.
+
+$$
+Forecaster Stewart
+
+NNNN

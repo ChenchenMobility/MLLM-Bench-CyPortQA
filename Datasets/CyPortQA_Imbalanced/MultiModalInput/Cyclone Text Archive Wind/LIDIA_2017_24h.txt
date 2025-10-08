@@ -1,0 +1,110 @@
+
+ZCZC MIAPWSEP4 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM LIDIA WIND SPEED PROBABILITIES NUMBER   7            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP142017               
+0900 UTC THU AUG 31 2017                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM LIDIA WAS LOCATED NEAR        
+LATITUDE 21.3 NORTH...LONGITUDE 109.4 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 40 KTS...45 MPH...75 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z THU 18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON 06Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+SAN DIEGO CA   34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+TIJUANA        34  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   X( 4)
+ 
+ENSENADA       34  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   1( 6)
+ 
+IS GUADALUPE   34  X   X( X)   X( X)   X( X)   4( 4)   4( 8)   X( 8)
+ 
+PUNTA EUGENIA  34  X   X( X)   2( 2)   5( 7)  16(23)   1(24)   X(24)
+PUNTA EUGENIA  50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+PUNTA EUGENIA  64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+P ABREOJOS     34  X   1( 1)   4( 5)  22(27)   8(35)   X(35)   1(36)
+P ABREOJOS     50  X   X( X)   X( X)   5( 5)   5(10)   X(10)   X(10)
+P ABREOJOS     64  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+CABO SAN LUCAS 34 78  16(94)   X(94)   X(94)   X(94)   X(94)   X(94)
+CABO SAN LUCAS 50 13  32(45)   X(45)   X(45)   X(45)   X(45)   X(45)
+CABO SAN LUCAS 64  1   5( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+SAN JOSE CABO  34 79  16(95)   1(96)   X(96)   X(96)   X(96)   X(96)
+SAN JOSE CABO  50  8  32(40)   X(40)   X(40)   X(40)   X(40)   X(40)
+SAN JOSE CABO  64  X   5( 5)   1( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+LA PAZ         34 16  57(73)  14(87)   X(87)   X(87)   X(87)   X(87)
+LA PAZ         50  X  22(22)  14(36)   X(36)   X(36)   X(36)   X(36)
+LA PAZ         64  X   4( 4)   4( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+LORETO         34  1   6( 7)  36(43)  24(67)   1(68)   X(68)   X(68)
+LORETO         50  X   X( X)   7( 7)  12(19)   X(19)   X(19)   X(19)
+LORETO         64  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+P PENASCO      34  X   X( X)   X( X)   1( 1)   4( 5)   1( 6)   X( 6)
+ 
+HERMOSILLO     34  X   X( X)   2( 2)   6( 8)   3(11)   X(11)   X(11)
+ 
+BAHIA KINO     34  X   X( X)   2( 2)  11(13)   8(21)   X(21)   X(21)
+BAHIA KINO     50  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+GUAYMAS        34  X   2( 2)   4( 6)  17(23)   2(25)   X(25)   X(25)
+GUAYMAS        50  X   X( X)   X( X)   3( 3)   1( 4)   X( 4)   X( 4)
+ 
+HUATABAMPO     34  X   5( 5)  12(17)   5(22)   1(23)   X(23)   X(23)
+ 
+LOS MOCHIS     34  2  13(15)  11(26)   1(27)   X(27)   X(27)   X(27)
+ 
+CULIACAN       34  5   7(12)   1(13)   1(14)   X(14)   X(14)   X(14)
+ 
+ISLAS MARIAS   34  7   1( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+MAZATLAN       34  6   2( 8)   1( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+20N 110W       34 10   2(12)   X(12)   X(12)   X(12)   X(12)   X(12)
+ 
+25N 115W       34  X   1( 1)   2( 3)   5( 8)   2(10)   X(10)   X(10)
+ 
+30N 120W       34  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   1( 5)
+ 
+$$                                                                  
+FORECASTER BERG                                                     
+NNNN                                                                

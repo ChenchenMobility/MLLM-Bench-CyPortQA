@@ -1,0 +1,112 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Delta Intermediate Advisory Number 3A
+NWS National Hurricane Center Miami FL       AL262020
+800 AM EDT Mon Oct 05 2020
+ 
+...TROPICAL DEPRESSION STRENGTHENS INTO A TROPICAL STORM...
+...ADDITIONAL STRENGTHENING LIKELY OVER THE NEXT FEW DAYS...
+ 
+ 
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.4N 78.4W
+ABOUT 130 MI...210 KM S OF NEGRIL JAMAICA
+ABOUT 270 MI...440 KM SE OF GRAND CAYMAN
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Watch is in effect for...
+* Cuban provinces of Pinar del Rio and Artemisa
+* Isle of Youth
+ 
+A Tropical Storm Warning is in effect for...
+* Cayman Islands including Little Cayman and Cayman Brac
+ 
+A Tropical Storm Watch is in effect for...
+* Cuba province of La Habana
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area, generally within 48 hours.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM EDT (1200 UTC), the center of Tropical Storm Delta was 
+located near latitude 16.4 North, longitude 78.4 West. The 
+storm is moving toward the west-northwest near 9 mph (15 km/h), and 
+this general motion should continue for the next day or so.  A 
+faster northwestward motion is expected on Tuesday and Wednesday.  
+On the forecast track, the center of Delta is expected to 
+move away from Jamaica later today, move near or over the Cayman 
+Islands later tonight, and approach the Isle of Youth and western 
+Cuba Tuesday afternoon or evening. Delta is forecast to move into 
+the southeastern Gulf of Mexico Tuesday night or early Wednesday.
+ 
+Maximum sustained winds have increased to near 40 mph (65 km/h) 
+with higher gusts. Additional strengthening is expected during the 
+next few days, and the tropical storm is expected to be a hurricane 
+when it moves near or over western Cuba.
+
+Tropical-storm-force winds extend outward up to 45 miles (75 km) 
+from the center.
+
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Delta can be found in the Tropical 
+Cyclone Discussion under AWIPS header MIATCDAT1, WMO header WTNT41 
+KNHC, and on the web at www.hurricanes.gov/text/MIATCDAT1.shtml.
+ 
+STORM SURGE:  A dangerous storm surge will raise water levels by
+as much as 3 to 5 feet above normal tide levels along the immediate
+coast of the Isle of Youth and along the south coast of western
+Cuba near and to right of where the center makes landfall. Near the
+coast, the surge will be accompanied by large and dangerous waves.
+ 
+RAINFALL:  Through midweek, Delta is expected to produce 3 to
+5 inches of rain with isolated maximum totals of 8 inches across
+Jamaica and western Cuba. This rainfall could lead to significant
+flash floods and mudslides. Over the Cayman Islands, 2 to 4 inches
+of rainfall will be possible with this system.
+ 
+WIND:  Tropical storm conditions are expected in the Cayman Islands
+beginning late today.  Hurricane conditions are possible within
+the Hurricane Watch area by Tuesday afternoon, with tropical storm
+conditions possible by early Tuesday.  Tropical Storm conditions
+are possible in the Tropical Storm Watch area in Cuba by early
+Tuesday.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Brown
+ 
+NNNN

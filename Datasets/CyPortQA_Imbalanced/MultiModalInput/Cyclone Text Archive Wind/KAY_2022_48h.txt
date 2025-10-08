@@ -1,0 +1,114 @@
+
+ZCZC MIAPWSEP2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE KAY WIND SPEED PROBABILITIES NUMBER   9                   
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP122022               
+1500 UTC TUE SEP 06 2022                                            
+                                                                    
+AT 1500Z THE CENTER OF HURRICANE KAY WAS LOCATED NEAR LATITUDE 18.0 
+NORTH...LONGITUDE 110.0 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 75   
+KTS...85 MPH...140 KM/H.                                            
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z TUE 00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT 12Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+LONG BEACH/LA  34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+S CATALINA IS  34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+ 
+SAN DIEGO CA   34  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   X( 5)
+ 
+TIJUANA        34  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   1( 6)
+ 
+ENSENADA       34  X   X( X)   X( X)   X( X)   4( 4)   6(10)   X(10)
+ 
+IS GUADALUPE   34  X   X( X)   X( X)   X( X)  14(14)  16(30)   1(31)
+IS GUADALUPE   50  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   X( 6)
+IS GUADALUPE   64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+PUNTA EUGENIA  34  X   X( X)   1( 1)   9(10)  49(59)   2(61)   X(61)
+PUNTA EUGENIA  50  X   X( X)   X( X)   1( 1)  21(22)   1(23)   X(23)
+PUNTA EUGENIA  64  X   X( X)   X( X)   X( X)   7( 7)   X( 7)   X( 7)
+ 
+P ABREOJOS     34  X   X( X)   4( 4)  27(31)  31(62)   X(62)   X(62)
+P ABREOJOS     50  X   X( X)   X( X)   4( 4)  13(17)   X(17)   X(17)
+P ABREOJOS     64  X   X( X)   X( X)   1( 1)   5( 6)   X( 6)   X( 6)
+ 
+CABO SAN LUCAS 34  3   7(10)   6(16)   3(19)   1(20)   X(20)   X(20)
+ 
+SAN JOSE CABO  34  2   5( 7)   4(11)   3(14)   1(15)   X(15)   X(15)
+ 
+LA PAZ         34  X   2( 2)   3( 5)   2( 7)   2( 9)   X( 9)   X( 9)
+ 
+LORETO         34  X   X( X)   3( 3)   4( 7)   3(10)   X(10)   X(10)
+ 
+P PENASCO      34  X   X( X)   X( X)   X( X)   4( 4)   2( 6)   X( 6)
+ 
+HERMOSILLO     34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+BAHIA KINO     34  X   X( X)   X( X)   3( 3)   8(11)   1(12)   X(12)
+ 
+GUAYMAS        34  X   X( X)   X( X)   4( 4)   5( 9)   1(10)   X(10)
+ 
+HUATABAMPO     34  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+LOS MOCHIS     34  X   X( X)   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+20N 110W       34 85   1(86)   1(87)   X(87)   X(87)   X(87)   X(87)
+20N 110W       50  3   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+ISLA SOCORRO   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ISLA SOCORRO   50 95   1(96)   X(96)   X(96)   X(96)   X(96)   X(96)
+ISLA SOCORRO   64 81   1(82)   X(82)   X(82)   X(82)   X(82)   X(82)
+ 
+ISLA CLARION   34  3   4( 7)   3(10)   1(11)   X(11)   X(11)   X(11)
+ 
+20N 115W       34  3  14(17)   9(26)   1(27)   1(28)   X(28)   X(28)
+ 
+25N 115W       34  X   1( 1)  14(15)  60(75)  13(88)   X(88)   X(88)
+25N 115W       50  X   X( X)   1( 1)  34(35)  18(53)   X(53)   X(53)
+25N 115W       64  X   X( X)   X( X)  14(14)  15(29)   X(29)   X(29)
+ 
+25N 120W       34  X   X( X)   X( X)   1( 1)   5( 6)   1( 7)   X( 7)
+ 
+30N 120W       34  X   X( X)   X( X)   X( X)   4( 4)   9(13)   3(16)
+30N 120W       50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

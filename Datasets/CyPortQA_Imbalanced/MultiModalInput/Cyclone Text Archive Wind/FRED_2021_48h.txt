@@ -1,0 +1,105 @@
+
+ZCZC MIAPWSAT1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+REMNANTS OF FRED WIND SPEED PROBABILITIES NUMBER  20                
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL062021               
+1500 UTC SAT AUG 14 2021                                            
+                                                                    
+AT 1500Z THE REMNANTS OF FRED WERE LOCATED NEAR LATITUDE 23.3 NORTH 
+...LONGITUDE 83.2 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 30 KTS...35
+MPH...55 KM/H.                                                      
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z SAT 00Z SUN 12Z SUN 00Z MON 12Z MON 12Z TUE 12Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z SUN 12Z SUN 00Z MON 12Z MON 12Z TUE 12Z WED 12Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ATLANTA GA     34  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   X( 5)
+ 
+VENICE FL      34  X   1( 1)   X( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+TAMPA FL       34  X   1( 1)   X( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+CEDAR KEY FL   34  X   X( X)   1( 1)   2( 3)   1( 4)   1( 5)   X( 5)
+ 
+TALLAHASSEE FL 34  X   X( X)   X( X)   1( 1)   4( 5)   1( 6)   X( 6)
+ 
+ST MARKS FL    34  X   X( X)   X( X)   1( 1)   4( 5)   X( 5)   X( 5)
+ 
+APALACHICOLA   34  X   X( X)   3( 3)   6( 9)   5(14)   1(15)   X(15)
+ 
+GFMX 290N 850W 34  X   1( 1)   3( 4)   8(12)   4(16)   X(16)   X(16)
+ 
+PANAMA CITY FL 34  X   X( X)   3( 3)  10(13)   8(21)   1(22)   X(22)
+ 
+DESTIN EXEC AP 34  X   X( X)   X( X)   4( 4)  16(20)   2(22)   X(22)
+DESTIN EXEC AP 50  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+COLUMBUS GA    34  X   X( X)   X( X)   1( 1)   4( 5)   3( 8)   X( 8)
+ 
+BIRMINGHAM AL  34  X   X( X)   X( X)   X( X)   7( 7)   3(10)   X(10)
+ 
+MONTGOMERY AL  34  X   X( X)   X( X)   1( 1)   9(10)   4(14)   X(14)
+ 
+WHITING FLD FL 34  X   X( X)   X( X)   4( 4)  18(22)   2(24)   X(24)
+WHITING FLD FL 50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+ 
+PENSACOLA FL   34  X   X( X)   X( X)   5( 5)  19(24)   2(26)   X(26)
+PENSACOLA FL   50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+ 
+GFMX 290N 870W 34  X   X( X)   9( 9)  29(38)   8(46)   X(46)   X(46)
+GFMX 290N 870W 50  X   X( X)   1( 1)   6( 7)   4(11)   X(11)   X(11)
+GFMX 290N 870W 64  X   X( X)   X( X)   1( 1)   1( 2)   X( 2)   X( 2)
+ 
+MOBILE AL      34  X   X( X)   X( X)   3( 3)  17(20)   2(22)   X(22)
+MOBILE AL      50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+GULFPORT MS    34  X   X( X)   X( X)   2( 2)  10(12)   1(13)   X(13)
+ 
+STENNIS MS     34  X   X( X)   X( X)   2( 2)   7( 9)   1(10)   X(10)
+ 
+BURAS LA       34  X   X( X)   X( X)   2( 2)   4( 6)   X( 6)   X( 6)
+ 
+GFMX 280N 890W 34  X   X( X)   2( 2)   9(11)   4(15)   1(16)   X(16)
+ 
+JACKSON MS     34  X   X( X)   X( X)   1( 1)   3( 4)   1( 5)   X( 5)
+ 
+NEW ORLEANS LA 34  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+NNNN                                                                

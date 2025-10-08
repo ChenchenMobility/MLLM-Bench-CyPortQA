@@ -1,0 +1,109 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Grace Intermediate Advisory Number 4A
+NWS National Hurricane Center Miami FL       AL072021
+800 AM AST Sat Aug 14 2021
+ 
+...GRACE MOVING QUICKLY WESTWARD TOWARD THE LEEWARD ISLANDS...
+ 
+ 
+SUMMARY OF 800 AM AST...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.9N 56.6W
+ABOUT 355 MI...570 KM ESE OF THE LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 22 MPH...35 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of Antigua and Barbuda has issued a Tropical Storm 
+Warning for the British Virgin Islands.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Antigua and Barbuda, Anguilla, St. Kitts and Nevis, and Montserrat
+* Saba and Sint Eustatius
+* Sint Maarten
+* St. Martin and St. Barthelemy
+* British Virgin Islands
+* U.S. Virgin Islands
+* Puerto Rico, including Vieques and Culebra
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+Interests in the Dominican Republic and Haiti should monitor the 
+progress of this system. Additional watches and warnings will 
+likely be required for this area later today.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM AST (1200 UTC), the center of Tropical Storm Grace was
+located near latitude 15.9 North, longitude 56.6 West. Grace is
+moving toward the west near 22 mph (35 km/h).  A motion toward the
+west with a gradual decrease in forward speed is expected during the
+next few days. On the forecast track, the center of the storm is
+forecast to move over the Leeward Islands tonight, over the Virgin
+Islands and Puerto Rico on Sunday, and then over the Dominican
+Republic on Monday.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher
+gusts. Some strengthening is forecast during the next couple of
+days. Weakening is expected early next week as the system interacts
+with the Greater Antilles.
+ 
+Grace is a small tropical storm. Tropical-storm-force winds extend
+outward up to 25 miles (35 km) from the center.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Grace can be found in the Tropical 
+Cyclone Discussion under AWIPS header MIATCDAT2 and WMO header 
+WTNT42 KNHC and on the web at
+www.hurricanes.gov/graphics_at2.shtml?key_messages.
+ 
+WIND:  Tropical storm conditions are expected within the warning
+area over the Leeward Islands by tonight or early Sunday, and the
+Virgin Islands and Puerto Rico beginning on Sunday.
+ 
+RAINFALL: The system is expected to produce the following rainfall
+amounts later today into Monday:
+ 
+Over the northern Leeward Islands and Virgin Islands...3 to 6
+inches. This rainfall may produce scattered areas of flash and urban
+flooding.
+ 
+Over Puerto Rico...3 to 6 inches. Heavy rainfall could lead to
+flash, urban, and small stream flooding as well as potential
+mudslides.
+ 
+Heavy rainfall from this system could impact Florida late next week.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM AST.
+ 
+$$
+Forecaster Berg
+ 
+NNNN

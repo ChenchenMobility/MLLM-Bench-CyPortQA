@@ -1,0 +1,150 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Hanna Intermediate Advisory Number 8A
+NWS National Hurricane Center Miami FL       AL082020
+700 PM CDT Fri Jul 24 2020
+ 
+...HANNA FORECAST TO MAKE LANDFALL AS A HURRICANE IN SOUTH
+TEXAS TOMORROW...
+...CONDITIONS EXPECTED TO DETERIORATE OVERNIGHT...
+ 
+ 
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...27.3N 94.4W
+ABOUT 190 MI...300 KM E OF CORPUS CHRISTI TEXAS
+ABOUT 195 MI...305 KM ENE OF PORT MANSFIELD TEXAS
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Baffin Bay to Sargent Texas
+ 
+A Hurricane Warning is in effect for...
+* Baffin Bay to Mesquite Bay Texas
+ 
+A Tropical Storm Warning is in effect for...
+* Mouth of the Rio Grande to Baffin Bay Texas
+* Mesquite Bay to San Luis Pass Texas
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 24 hours in the indicated locations. For a
+depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.  This is a life-threatening situation.  Persons
+located within these areas should take all necessary actions to
+protect life and property from rising water and the potential for
+other dangerous conditions.  Promptly follow evacuation and other
+instructions from local officials.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area, in this case within the next 24
+hours. Preparations to protect life and property should be rushed
+to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within
+the next 24 hours.
+ 
+Interests elsewhere along the Texas and Louisiana coasts should
+monitor the progress of Hanna.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 PM CDT (0000 UTC), the center of Tropical Storm Hanna was
+located near latitude 27.3 North, longitude 94.4 West. Hanna is
+moving toward the west near 10 mph (17 km/h), and this motion should
+continue through Saturday morning. A gradual turn toward the
+west-southwest is expected Saturday night and that motion should
+continue through Sunday.  On the forecast track, the center of Hanna
+should make landfall along the Texas coast within the hurricane
+warning area Saturday afternoon or early evening.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher
+gusts. Strengthening is forecast, and Hanna is expected to become a
+hurricane before the cyclone makes landfall on Saturday. Steady to
+rapid weakening is expected after Hanna moves inland.
+ 
+Tropical-storm-force winds extend outward up to 60 miles (95 km)
+from the center.
+ 
+The estimated minimum central pressure based on surface
+observations is 998 mb (29.47 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Hanna can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT3 and WMO header WTNT43 KNHC.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Baffin Bay to Sargent TX...including Corpus Christi Bay, Copano
+Bay,
+Aransas Bay, San Antonio Bay, and Matagorda Bay...2 to 4 ft
+Mouth of the Rio Grande to Baffin Bay TX...1 to 3 ft
+North of Sargent to High Island TX...including Galveston Bay...1 to
+2 ft
+ 
+The deepest water will occur along the immediate coast near and to
+the right of the landfall location.  Surge-related flooding depends
+on the relative timing of the surge and the tidal cycle, and can
+vary greatly over short distances.  For information specific to your
+area, please see products issued by your local National Weather
+Service forecast office.
+ 
+WIND:  Hurricane conditions are expected in the warning area
+Saturday afternoon. Tropical storm conditions are expected to begin
+in the warning area later tonight or Saturday morning.
+ 
+RAINFALL: Hanna is expected to produce 5 to 10 inches of rain with
+isolated maximum totals of 15 inches through Sunday night in south
+Texas and into the Mexican states of Coahuila, Nuevo Leon, and
+northern Tamaulipas.  This rain may result in life-threatening flash
+flooding, rapid rises on small streams, and isolated minor to
+moderate river flooding in south Texas.
+ 
+3 to 5 inches of rain is expected along the upper Texas and
+Louisiana coasts.
+ 
+SURF:  Swells generated by Hanna are expected to increase and affect
+much of the Texas and Louisiana coasts during the next couple of
+days. These swells are likely to cause life-threatening surf and rip
+current conditions.  Please consult products from your local weather
+office.
+ 
+TORNADOES: A brief tornado or two will be possible, mainly
+overnight, across portions of the upper Texas and Louisiana Coasts.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 PM CDT.
+ 
+$$
+Forecaster Cangialosi
+ 
+NNNN

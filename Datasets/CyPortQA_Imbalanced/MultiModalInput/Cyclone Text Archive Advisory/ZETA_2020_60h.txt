@@ -1,0 +1,125 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Zeta Advisory Number   7
+NWS National Hurricane Center Miami FL       AL282020
+500 AM EDT Mon Oct 26 2020
+ 
+...NOAA HURRICANE HUNTER AIRCRAFT FINDS ZETA RAPIDLY
+STRENGTHENING...
+...HURRICANE CONDITIONS AND STORM SURGE EXPECTED ACROSS
+PORTIONS OF THE YUCATAN PENINSULA BY LATE TODAY...
+ 
+ 
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.7N 84.3W
+ABOUT 210 MI...340 KM SE OF COZUMEL MEXICO
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of Mexico has extended the Hurricane Warning
+westward along the northern coast of the Yucatan peninsula to
+Dzilam.  The government of Mexico has also issued a Tropical Storm
+Warning from south of Tulum to Punta Allen and from west of Dzilam
+to Progreso.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Tulum to Dzilam Mexico
+* Cozumel
+ 
+ A Tropical Storm Warning is in effect for...
+* Pinar del Rio Cuba
+* South of Tulum to Punta Allen
+* West of Dzilam to Progreso
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM EDT (0900 UTC), the center of Tropical Storm Zeta was
+located by a NOAA Hurricane Hunter aircraft near latitude 18.7 
+North, longitude 84.3 West. Zeta is moving toward the northwest 
+near 9 mph (15 km/h).  A northwestward motion with an increase in 
+forward speed is expected over the day or so, followed by a turn 
+toward the north Tuesday night. A faster northward to 
+north-northeastward motion is forecast on Wednesday.   On the 
+forecast track, the center of Zeta will move near or over the 
+northern Yucatan Peninsula later today or tonight, move over the 
+southern Gulf of Mexico on Tuesday, and approach the northern Gulf 
+Coast on Wednesday.
+ 
+Data from a NOAA Hurricane Hunter aircraft indicate that maximum 
+sustained winds have increased to near 70 mph (110 km/h) with higher 
+gusts.  Strengthening is forecast, and Zeta is expected to become a 
+hurricane later this morning.  Additional strengthening is expected 
+before Zeta moves over the Yucatan Peninsula.
+ 
+Tropical-storm-force winds extend outward up to 115 miles (185 km)
+from the center.
+ 
+The latest minimum central pressure estimated from NOAA 
+reconnaissance aircraft data is 990 mb (29.24 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Zeta can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDAT3, WMO header WTNT43
+KNHC, and on the web at www.hurricanes.gov/text/MIATCDAT3.shtml.
+ 
+RAINFALL:  Rainfall totals of 4 to 8 inches with local amounts of 
+12 inches are possible through Tuesday along and east-northeast of
+Zeta’s track across the Yucatan Peninsula of Mexico, the Cayman
+Islands, and central to western Cuba.
+ 
+Between Tuesday night and Thursday, storm total rainfall of 2 to 4
+inches with isolated amounts of 6 inches is expected across portions
+of the central U.S. Gulf Coast, Tennessee Valley, southern
+Appalachians, and Mid-Atlantic States near and in advance of Zeta.
+The expected rainfall could lead to flash, urban, and small stream
+flooding, along with minor river flooding.
+ 
+WIND:  Hurricane conditions are expected within the Hurricane
+Warning area in the Yucatan Peninsula by late today.  Tropical
+storm conditions are expected within the Tropical Storm Warning
+area in Mexico by late today.  Tropical storm conditions could occur
+in the warning area in western Cuba beginning later today.
+ 
+STORM SURGE:  A dangerous storm surge will raise water levels by
+as much as 1-3 feet above normal tide levels along the immediate
+coast in the Hurricane Warning area near and to the north of where
+the center makes landfall in the Yucatan Peninsula.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Brown
+ 
+NNNN

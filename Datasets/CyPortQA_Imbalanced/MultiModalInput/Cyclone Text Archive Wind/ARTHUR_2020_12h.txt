@@ -1,0 +1,82 @@
+
+ZCZC MIAPWSAT1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM ARTHUR WIND SPEED PROBABILITIES NUMBER   5           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL012020               
+2100 UTC SUN MAY 17 2020                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM ARTHUR WAS LOCATED NEAR       
+LATITUDE 31.5 NORTH...LONGITUDE 77.2 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 40 KTS...45 MPH...75 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SUN 06Z MON 18Z MON 06Z TUE 18Z TUE 18Z WED 18Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z MON 18Z MON 06Z TUE 18Z TUE 18Z WED 18Z THU 18Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+HYANNIS MA     34  X   X( X)   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+NANTUCKET MA   34  X   X( X)   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)
+ 
+MONTAUK POINT  34  X   X( X)   2( 2)   1( 3)   1( 4)   X( 4)   X( 4)
+ 
+CAPE HENLOPEN  34  X   3( 3)   2( 5)   1( 6)   1( 7)   X( 7)   X( 7)
+ 
+OCEAN CITY MD  34  X   4( 4)   3( 7)   1( 8)   1( 9)   X( 9)   X( 9)
+ 
+OCEANA NAS VA  34  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+ELIZABETH CTY  34  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+CAPE HATTERAS  34  7  38(45)   2(47)   X(47)   1(48)   X(48)   X(48)
+CAPE HATTERAS  50  X   5( 5)   1( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+CHERRY PT NC   34  1   3( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+NEW RIVER NC   34 12  14(26)   1(27)   X(27)   X(27)   X(27)   X(27)
+ 
+MOREHEAD CITY  34 10   9(19)   1(20)   X(20)   X(20)   X(20)   X(20)
+ 
+BALD HEAD ISL  34  5   2( 7)   1( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+MYRTLE BEACH   34  1   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+BERMUDA        34  X   X( X)   X( X)   1( 1)  10(11)   9(20)   X(20)
+ 
+$$                                                                  
+FORECASTER BROWN                                                    
+NNNN                                                                

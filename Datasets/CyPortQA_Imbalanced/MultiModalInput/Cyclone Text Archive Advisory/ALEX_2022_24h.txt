@@ -1,0 +1,148 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Potential Tropical Cyclone One Intermediate Advisory Number 3A
+NWS National Hurricane Center Miami FL       AL012022
+700 AM CDT Fri Jun 03 2022
+ 
+...DISTURBANCE MOVING SLOWLY NORTHEASTWARD OVER THE SOUTHEASTERN 
+GULF OF MEXICO...
+ 
+ 
+SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...22.4N 86.8W
+ABOUT 125 MI...200 KM N OF COZUMEL MEXICO
+ABOUT 420 MI...675 KM SW OF FT. MYERS FLORIDA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...NE OR 40 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Florida Keys including the Dry Tortugas
+* Florida Bay
+* West coast of Florida south of the Middle of Longboat Key to Card
+Sound Bridge
+* East coast of Florida south of the Volusia/Brevard County Line to
+Card Sound Bridge
+* Lake Okeechobee
+* Cuban provinces of Pinar del Rio, Artemisa, La Habana, and
+Mayabeque
+* Northwestern Bahamas
+ 
+A Tropical Storm Watch is in effect for...
+* Cuban provinces of Matanzas and the Isle of Youth
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible somewhere within the watch area within 48 hours.
+ 
+Interests elsewhere in the Florida Peninsula should monitor the
+progress of this system.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 AM CDT (1200 UTC), the disturbance was centered near latitude
+22.4 North, longitude 86.8 West.  The system is moving toward the
+northeast near 6 mph (9 km/h), and this general motion with an
+increase in forward speed is expected to begin later today and
+continue through Sunday.  On the forecast track, the system is
+forecast to move across the southeastern Gulf of Mexico through
+tonight, across the southern and central portions of the Florida
+Peninsula on Saturday, and then over the southwestern Atlantic north
+of the northwestern Bahamas Saturday afternoon through Sunday.
+ 
+Data from an Air Force Reserve Hurricane Hunter aircraft indicate
+that maximum sustained winds remain near 40 mph (65 km/h) with 
+higher gusts.  The system is expected to develop a well-defined
+center and become a tropical storm later today, and some slight
+strengthening is possible while it approaches Florida today and
+tonight.  Additional strengthening is possible after the system
+moves east of Florida over the western Atlantic late Saturday and
+Sunday.
+* Formation chance through 48 hours...high...90 percent.
+* Formation chance through 5 days...high...90 percent.
+
+Tropical-storm-force winds extend outward up to 60 miles (95 km) to
+the east of the center.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Potential Tropical Cyclone One can be found in the
+Tropical Cyclone Discussion under AWIPS header MIATCDAT1, WMO
+header WTNT41 KNHC, and on the web at
+hurricanes.gov/graphics_at1.shtml?key_messages.
+ 
+RAINFALL: The potential tropical cyclone will continue to produce
+heavy rains across western Cuba through today. Heavy rain will begin
+to affect Central Florida, South Florida and the Keys today through
+Saturday, and affect the northwestern Bahamas tonight through
+Saturday. The following storm total rainfall amounts are expected:
+ 
+Western Cuba: 6 to 10 inches, with isolated maxima of 14 inches.
+This rain may cause life-threatening flash flooding and mudslides.
+ 
+Central Florida, South Florida, and the Florida Keys: 4 to 8 inches
+with maxima of 12 inches across South Florida and in the Keys. This
+rain may produce considerable flash and urban flooding.
+ 
+Northwestern Bahamas: 3 to 6 inches with maxima of 10 inches. This
+rain may produce flash and urban flooding.
+ 
+WIND:  Tropical storm conditions are expected in the warning area
+in Cuba later today and tonight, in Florida tonight and on Saturday,
+and in the northwestern Bahamas on Saturday.  Tropical storm
+conditions are possible in the watch area in Cuba today and tonight.
+ 
+STORM SURGE:  The combination of storm surge and the tide will
+cause normally dry areas near the coast to be flooded by rising
+waters moving inland from the shoreline.  The water could reach the
+following heights above ground somewhere in the indicated areas if
+the peak surge occurs at the time of high tide...
+ 
+Marco Island, FL to Card Sound Bridge...1-3 ft
+Middle of Longboat Key, FL to Marco Island, FL...1-2 ft
+Charlotte Harbor...1-2 ft
+Florida Keys and Dry Tortugas...1-2 ft
+ 
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.  For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+ 
+TORNADOES:  Isolated tornadoes are possible over South Florida
+beginning this evening and continuing through Saturday.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Beven
+ 
+NNNN

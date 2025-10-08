@@ -1,0 +1,104 @@
+
+ZCZC MIAPWSEP5 ALL
+TTAA00 KNHC DDHHMM
+
+TROPICAL DEPRESSION FIVE-E WIND SPEED PROBABILITIES NUMBER   1
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP052015
+1500 UTC SAT JUL 11 2015
+
+AT 1500Z THE CENTER OF TROPICAL DEPRESSION FIVE-E WAS LOCATED NEAR
+LATITUDE 13.2 NORTH...LONGITUDE 98.9 WEST WITH MAXIMUM SUSTAINED
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.
+
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME
+
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS
+
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST
+   ...34 KT (39 MPH... 63 KM/H)...
+   ...50 KT (58 MPH... 93 KM/H)...
+   ...64 KT (74 MPH...119 KM/H)...
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS
+
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN
+        12Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)
+
+PROBABILITIES ARE GIVEN IN PERCENT
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.
+PROBABILITIES FOR 64 KT ARE SHOWN WHEN THE 5-DAY CUMULATIVE
+PROBABILITY IS AT LEAST 1 PERCENT.
+
+
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -
+
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM
+  TIME       12Z SAT 00Z SUN 12Z SUN 00Z MON 12Z MON 12Z TUE 12Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO
+             00Z SUN 12Z SUN 00Z MON 12Z MON 12Z TUE 12Z WED 12Z THU
+
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+LOCATION       KT
+
+P ABREOJOS     34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+
+CABO SAN LUCAS 34  X   X( X)   X( X)   X( X)   7( 7)  10(17)   7(24)
+CABO SAN LUCAS 50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   2( 5)
+CABO SAN LUCAS 64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+
+SAN JOSE CABO  34  X   X( X)   X( X)   X( X)   6( 6)   9(15)   7(22)
+SAN JOSE CABO  50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   1( 4)
+SAN JOSE CABO  64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+
+LA PAZ         34  X   X( X)   X( X)   X( X)   2( 2)   6( 8)   5(13)
+
+LORETO         34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   3( 5)
+
+HUATABAMPO     34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+
+LOS MOCHIS     34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   2( 5)
+
+CULIACAN       34  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   4(10)
+
+MAZATLAN       34  X   X( X)   X( X)   1( 1)   4( 5)   4( 9)   2(11)
+
+SAN BLAS       34  X   X( X)   1( 1)   3( 4)   6(10)   4(14)   2(16)
+
+P VALLARTA     34  X   X( X)   2( 2)   5( 7)  10(17)   3(20)   2(22)
+P VALLARTA     50  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   1( 4)
+
+BARRA NAVIDAD  34  X   1( 1)   3( 4)  14(18)   7(25)   2(27)   2(29)
+BARRA NAVIDAD  50  X   X( X)   X( X)   3( 3)   2( 5)   X( 5)   1( 6)
+BARRA NAVIDAD  64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+
+MANZANILLO     34  X   1( 1)   4( 5)  10(15)   7(22)   1(23)   2(25)
+MANZANILLO     50  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   1( 4)
+
+L CARDENAS     34  X   3( 3)   4( 7)   3(10)   1(11)   1(12)   1(13)
+
+ZIHUATANEJO    34  X   3( 3)   2( 5)   2( 7)   1( 8)   X( 8)   1( 9)
+
+ACAPULCO       34  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   1( 4)
+
+ISLA SOCORRO   34  X   X( X)   X( X)   2( 2)  13(15)  14(29)   5(34)
+ISLA SOCORRO   50  X   X( X)   X( X)   X( X)   2( 2)   5( 7)   3(10)
+ISLA SOCORRO   64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+
+ISLA CLARION   34  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   5(10)
+ISLA CLARION   50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ISLA CLARION   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+
+ISLAS MARIAS   34  X   X( X)   1( 1)   4( 5)  12(17)   6(23)   2(25)
+ISLAS MARIAS   50  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   2( 6)
+ISLAS MARIAS   64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   1( 2)
+
+$$
+FORECASTER CANGIALOSI
+NNNN

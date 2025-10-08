@@ -1,0 +1,144 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Grace Intermediate Advisory Number 22A
+NWS National Hurricane Center Miami FL       AL072021
+800 PM EDT Wed Aug 18 2021
+ 
+...GRACE EXPECTED TO BRING STRONG WINDS AND A DANGEROUS STORM
+SURGE TO PORTIONS OF THE EASTERN YUCATAN PENINSULA OF MEXICO...
+...AIR FORCE RESERVE AND NOAA HURRICANE HUNTER AIRCRAFT CURRENTLY 
+INVESTIGATING THE HURRICANE... 
+ 
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.8N 84.9W
+ABOUT 170 MI...275 KM E OF TULUM MEXICO
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...989 MB...29.20 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Meteorological Service of the Cayman Islands has discontinued 
+the Tropical Storm Warning for the Cayman Islands.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Yucatan Peninsula of Mexico from Cancun to Punta Herrero,
+including Cozumel
+ 
+A Tropical Storm Warning is in effect for...
+* Yucatan Peninsula of Mexico from north of Cancun to Campeche
+* Yucatan Peninsula of Mexico from south of Punta Herrero to Puerto
+Costa Maya
+ 
+A Tropical Storm Watch is in effect for...
+* Southern coast Cuban province of Pinar del Rio, as well as Isla
+de la Juventud
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of tropical-storm-
+force winds, conditions that make outside preparations difficult or
+dangerous.  Preparations to protect life and property should be
+rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+ 
+Interests elsewhere in eastern mainland Mexico should monitor the
+progress of Grace.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM EDT (0000 UTC), the center of Hurricane Grace was located
+near latitude 19.8 North, longitude 84.9 West. Grace is moving
+toward the west-northwest near 16 mph (26 km/h).  A general
+west-northwestward to westward motion is expected for the next
+several days.  On the forecast track, Grace is expected to make
+landfall in the eastern Yucatan Peninsula Thursday morning, move
+over the Yucatan Peninsula on Thursday, and move over the southwest
+Gulf of Mexico Thursday night or early Friday.
+ 
+Maximum sustained winds are near 80 mph (130 km/h) with higher
+gusts.  Some strengthening is possible before the center of Grace
+reaches the Yucatan Peninsula.  Weakening will occur while the
+center moves over the Yucatan Peninsula on Thursday, with
+restrengthening expected when Grace moves over the southwest Gulf of
+Mexico on Friday.
+ 
+Hurricane-force winds extend outward up to 15 miles (30 km) from
+the center and tropical-storm-force winds extend outward up to 140
+miles (220 km).  NOAA buoy 40256, located west of the center, 
+recently reported sustained winds of 45 mph (72 km/h) and a wind 
+gust of 51 mph (83 km/h).
+ 
+The minimum central pressure estimated from Air Force Reserve and 
+NOAA Hurricane Hunter aircraft data is 989 mb (29.32 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Grace can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2, WMO header WTNT42 KNHC
+and on the web at
+www.hurricanes.gov/graphics_at2.shtml?key_messages.
+ 
+WIND:  Strong gusty winds are likely over portions of the Cayman
+Islands for the next few hours.  Tropical storm conditions are
+possible along the southern coast of Cuba within the watch area for
+the next several hours.  Hurricane conditions are expected within
+the warning area in the Yucatan Peninsula of Mexico late tonight or
+early Thursday, with tropical storm conditions beginning as early as
+this evening.
+ 
+RAINFALL:
+The system is expected to produce the following rainfall amounts:
+ 
+Over the Cayman Islands and central to northern portions of the
+Yucatan Peninsula, 4 to 8 inches of rain with isolated maximum
+totals of 12 inches are expected through Friday.  Heavy rainfall
+from Grace will likely result in areas of flash and urban flooding
+ 
+Over the central to northern Veracruz state of Mexico, 5 to 10
+inches of rain with isolated maximum totals of 15 inches are
+expected from Friday through Sunday.  Heavy rainfall from Grace will
+likely result in areas of flash and urban flooding, and will also be
+capable of producing mudslides.
+ 
+STORM SURGE:  A dangerous storm surge will raise water levels by as
+much as 3 to 5 ft above normal tide levels along the immediate
+coast near and to the north of where the center makes landfall in
+the northeastern Yucatan Peninsula late tonight or early Thursday.
+Near the coast, the surge will be accompanied by large and
+destructive waves.
+ 
+SURF:  Swells generated by Grace will spread westward from Jamaica
+and the Cayman Islands to the southern coast of Cuba and the Yucatan
+Peninsula of Mexico through Thursday.  These swells are likely to
+cause life-threatening surf and rip current conditions.  Please
+consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Beven
+ 
+NNNN

@@ -1,0 +1,62 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+TROPICAL STORM CLAUDETTE ADVISORY NUMBER   3
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL032015
+1100 PM AST MON JUL 13 2015
+
+...CLAUDETTE MOVING QUICKLY EAST-NORTHEASTWARD WITH NO CHANGE IN
+STRENGTH...
+
+
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...38.9N 64.9W
+ABOUT 320 MI...515 KM ESE OF NANTUCKET MASSACHUSETTS
+ABOUT 400 MI...640 KM S OF HALIFAX NOVA SCOTIA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...ENE OR 60 DEGREES AT 20 MPH...31 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Claudette
+was located near latitude 38.9 North, longitude 64.9 West.
+Claudette is moving toward the east-northeast near 20 mph (31 km/h).
+A northeastward to north-northeastward motion with some increase in
+forward speed is expected during the next day or two.  On the
+forecast track, the center will move southeast of Nova Scotia during
+the next 24 hours.
+
+Maximum sustained winds remain near 50 mph (85 km/h) with higher
+gusts. Slow weakening is forecast, and Claudette is expected to
+become a post-tropical cyclone by Tuesday night, and to dissipate on
+Wednesday.
+
+Tropical storm force winds extend outward up to 70 miles (110 km)
+from the center.
+
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+None
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+
+$$
+Forecaster Cangialosi
+
+NNNN

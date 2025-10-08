@@ -1,0 +1,328 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE LAURA WIND SPEED PROBABILITIES NUMBER  23                 
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132020               
+1500 UTC TUE AUG 25 2020                                            
+                                                                    
+AT 1500Z THE CENTER OF HURRICANE LAURA WAS LOCATED NEAR LATITUDE    
+23.7 NORTH...LONGITUDE 87.0 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+65 KTS...75 MPH...120 KM/H.                                         
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z TUE 00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT 12Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+WORCESTER MA   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+SPRINGFIELD MA 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+BOSTON MA      34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+HYANNIS MA     34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+NANTUCKET MA   34  X   X( X)   X( X)   X( X)   X( X)   X( X)  10(10)
+NANTUCKET MA   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+NANTUCKET MA   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+PROVIDENCE RI  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+ 
+BRIDGEPORT CT  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ 
+NEW HAVEN CT   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+HARTFORD CT    34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+NEW LONDON CT  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+POUGHKEEPSIE   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+MONTAUK POINT  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  11(11)
+MONTAUK POINT  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+MONTAUK POINT  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+ISLIP NY       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+ISLIP NY       50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+NYC JFK AIRPRT 34  X   X( X)   X( X)   X( X)   X( X)   X( X)  12(12)
+NYC JFK AIRPRT 50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+NYC JFK AIRPRT 64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+NYC CNTRL PARK 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   8( 8)
+ 
+NEWARK NJ      34  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+ 
+TRENTON NJ     34  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+TRENTON NJ     50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+TRENTON NJ     64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+NWS EARLE NJ   34  X   X( X)   X( X)   X( X)   X( X)   X( X)  11(11)
+NWS EARLE NJ   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+NWS EARLE NJ   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+ALLENTOWN PA   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   8( 8)
+ 
+PHILADELPHIA   34  X   X( X)   X( X)   X( X)   X( X)   X( X)  11(11)
+PHILADELPHIA   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+PHILADELPHIA   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+ATLANTIC CITY  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  13(13)
+ATLANTIC CITY  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ATLANTIC CITY  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+BALTIMORE MD   34  X   X( X)   X( X)   X( X)   X( X)   X( X)  13(13)
+BALTIMORE MD   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+BALTIMORE MD   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+DOVER DE       34  X   X( X)   X( X)   X( X)   X( X)   X( X)  13(13)
+DOVER DE       50  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+DOVER DE       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+ANNAPOLIS MD   34  X   X( X)   X( X)   X( X)   X( X)   X( X)  13(13)
+ANNAPOLIS MD   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ANNAPOLIS MD   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+WASHINGTON DC  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  13(13)
+WASHINGTON DC  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+WASHINGTON DC  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+CAPE HENLOPEN  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  16(16)
+CAPE HENLOPEN  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+CAPE HENLOPEN  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+OCEAN CITY MD  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  16(16)
+OCEAN CITY MD  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+OCEAN CITY MD  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+PAX RIVER NAS  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  15(15)
+PAX RIVER NAS  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+PAX RIVER NAS  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+WALLOPS CDA    34  X   X( X)   X( X)   X( X)   X( X)   X( X)  16(16)
+WALLOPS CDA    50  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+WALLOPS CDA    64  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+CHARLOTTESVIL  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  12(12)
+CHARLOTTESVIL  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+CHARLOTTESVIL  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+RICHMOND VA    34  X   X( X)   X( X)   X( X)   X( X)   X( X)  14(14)
+RICHMOND VA    50  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+RICHMOND VA    64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+DANVILLE VA    34  X   X( X)   X( X)   X( X)   X( X)   X( X)  11(11)
+ 
+NORFOLK NAS    34  X   X( X)   X( X)   X( X)   X( X)   X( X)  14(14)
+NORFOLK NAS    50  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+NORFOLK NAS    64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+NORFOLK VA     34  X   X( X)   X( X)   X( X)   X( X)   X( X)  14(14)
+NORFOLK VA     50  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+NORFOLK VA     64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+OCEANA NAS VA  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  14(14)
+OCEANA NAS VA  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+OCEANA NAS VA  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+ELIZABETH CTY  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  12(12)
+ELIZABETH CTY  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ELIZABETH CTY  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+GREENSBORO NC  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+ 
+RALEIGH NC     34  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+ 
+ROCKY MT NC    34  X   X( X)   X( X)   X( X)   X( X)   X( X)  10(10)
+ROCKY MT NC    50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+CAPE HATTERAS  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   8( 8)
+ 
+FAYETTEVILLE   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+CHARLOTTE NC   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+CHERRY PT NC   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ 
+NEW RIVER NC   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+MOREHEAD CITY  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+SURF CITY NC   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+WILMINGTON NC  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+BALD HEAD ISL  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+FLORENCE SC    34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+LITTLE RIVER   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+MYRTLE BEACH   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+GFMX 290N 870W 34  2   3( 5)   2( 7)   1( 8)   X( 8)   X( 8)   X( 8)
+ 
+MOBILE AL      34  X   X( X)   2( 2)   6( 8)   2(10)   X(10)   X(10)
+ 
+GULFPORT MS    34  X   2( 2)   4( 6)  10(16)   3(19)   X(19)   X(19)
+ 
+STENNIS MS     34  X   3( 3)   5( 8)  13(21)   4(25)   X(25)   X(25)
+ 
+BURAS LA       34  1   5( 6)   6(12)  10(22)   3(25)   X(25)   X(25)
+ 
+GFMX 280N 890W 34  7  29(36)   6(42)   2(44)   X(44)   X(44)   X(44)
+ 
+JACKSON MS     34  X   X( X)   2( 2)  17(19)   6(25)   X(25)   X(25)
+ 
+NEW ORLEANS LA 34  X   5( 5)   9(14)  19(33)   3(36)   X(36)   X(36)
+NEW ORLEANS LA 50  X   X( X)   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)
+ 
+GFMX 280N 910W 34  4  52(56)  28(84)   1(85)   X(85)   X(85)   X(85)
+GFMX 280N 910W 50  X   8( 8)  23(31)   1(32)   X(32)   X(32)   X(32)
+GFMX 280N 910W 64  X   1( 1)   8( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+BATON ROUGE LA 34  X   3( 3)  15(18)  34(52)   4(56)   X(56)   X(56)
+BATON ROUGE LA 50  X   X( X)   1( 1)   9(10)   2(12)   X(12)   X(12)
+BATON ROUGE LA 64  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+MORGAN CITY LA 34  X   5( 5)  27(32)  26(58)   3(61)   X(61)   X(61)
+MORGAN CITY LA 50  X   X( X)   3( 3)   9(12)   1(13)   X(13)   X(13)
+MORGAN CITY LA 64  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+ALEXANDRIA LA  34  X   X( X)  10(10)  56(66)  10(76)   X(76)   X(76)
+ALEXANDRIA LA  50  X   X( X)   1( 1)  26(27)   7(34)   X(34)   X(34)
+ALEXANDRIA LA  64  X   X( X)   X( X)   9( 9)   3(12)   X(12)   X(12)
+ 
+LAFAYETTE LA   34  X   4( 4)  26(30)  43(73)   4(77)   X(77)   X(77)
+LAFAYETTE LA   50  X   X( X)   4( 4)  25(29)   3(32)   X(32)   X(32)
+LAFAYETTE LA   64  X   X( X)   X( X)  11(11)   2(13)   X(13)   X(13)
+ 
+NEW IBERIA LA  34  X   4( 4)  32(36)  37(73)   3(76)   X(76)   X(76)
+NEW IBERIA LA  50  X   X( X)   5( 5)  22(27)   2(29)   X(29)   X(29)
+NEW IBERIA LA  64  X   X( X)   1( 1)   8( 9)   1(10)   X(10)   X(10)
+ 
+GFMX 280N 930W 34  2  33(35)  60(95)   3(98)   X(98)   X(98)   X(98)
+GFMX 280N 930W 50  X   4( 4)  78(82)   9(91)   X(91)   X(91)   X(91)
+GFMX 280N 930W 64  X   X( X)  64(64)   9(73)   X(73)   X(73)   X(73)
+ 
+SHREVEPORT LA  34  X   X( X)   4( 4)  44(48)  18(66)   X(66)   X(66)
+SHREVEPORT LA  50  X   X( X)   X( X)  13(13)  18(31)   X(31)   X(31)
+SHREVEPORT LA  64  X   X( X)   X( X)   X( X)   5( 5)   X( 5)   X( 5)
+ 
+FORT POLK LA   34  X   1( 1)  14(15)  62(77)  10(87)   X(87)   X(87)
+FORT POLK LA   50  X   X( X)   1( 1)  44(45)   9(54)   X(54)   X(54)
+FORT POLK LA   64  X   X( X)   X( X)  24(24)   5(29)   X(29)   X(29)
+ 
+LAKE CHARLES   34  X   3( 3)  34(37)  52(89)   4(93)   X(93)   X(93)
+LAKE CHARLES   50  X   X( X)   6( 6)  56(62)   6(68)   X(68)   X(68)
+LAKE CHARLES   64  X   X( X)   1( 1)  36(37)   4(41)   X(41)   X(41)
+ 
+CAMERON LA     34  X   6( 6)  59(65)  30(95)   1(96)   X(96)   X(96)
+CAMERON LA     50  X   X( X)  25(25)  49(74)   4(78)   X(78)   X(78)
+CAMERON LA     64  X   X( X)   6( 6)  45(51)   2(53)   X(53)   X(53)
+ 
+JASPER TX      34  X   X( X)  14(14)  64(78)   9(87)   X(87)   X(87)
+JASPER TX      50  X   X( X)   2( 2)  47(49)  10(59)   X(59)   X(59)
+JASPER TX      64  X   X( X)   X( X)  30(30)   6(36)   X(36)   X(36)
+ 
+KOUNTZE TX     34  X   1( 1)  23(24)  58(82)   5(87)   X(87)   X(87)
+KOUNTZE TX     50  X   X( X)   4( 4)  50(54)   7(61)   X(61)   X(61)
+KOUNTZE TX     64  X   X( X)   1( 1)  33(34)   5(39)   X(39)   X(39)
+ 
+PORT ARTHUR TX 34  X   2( 2)  34(36)  52(88)   3(91)   X(91)   X(91)
+PORT ARTHUR TX 50  X   X( X)   9( 9)  56(65)   6(71)   X(71)   X(71)
+PORT ARTHUR TX 64  X   X( X)   1( 1)  39(40)   5(45)   X(45)   X(45)
+ 
+GALVESTON TX   34  X   5( 5)  50(55)  25(80)   1(81)   X(81)   X(81)
+GALVESTON TX   50  X   X( X)  19(19)  31(50)   2(52)   X(52)   X(52)
+GALVESTON TX   64  X   X( X)   7( 7)  21(28)   1(29)   X(29)   X(29)
+ 
+HOUSTON TX     34  X   1( 1)  16(17)  39(56)   4(60)   X(60)   X(60)
+HOUSTON TX     50  X   X( X)   3( 3)  24(27)   2(29)   X(29)   X(29)
+HOUSTON TX     64  X   X( X)   X( X)  10(10)   2(12)   X(12)   X(12)
+ 
+AUSTIN TX      34  X   X( X)   3( 3)   7(10)   2(12)   X(12)   X(12)
+ 
+SAN ANTONIO TX 34  X   X( X)   2( 2)   4( 6)   1( 7)   X( 7)   X( 7)
+ 
+FREEPORT TX    34  X   2( 2)  25(27)  27(54)   2(56)   X(56)   X(56)
+FREEPORT TX    50  X   X( X)   7( 7)  13(20)   1(21)   X(21)   X(21)
+FREEPORT TX    64  X   X( X)   1( 1)   6( 7)   1( 8)   X( 8)   X( 8)
+ 
+GFMX 280N 950W 34  X   7( 7)  51(58)  11(69)   X(69)   X(69)   X(69)
+GFMX 280N 950W 50  X   X( X)  22(22)   8(30)   X(30)   X(30)   X(30)
+GFMX 280N 950W 64  X   X( X)   7( 7)   5(12)   X(12)   X(12)   X(12)
+ 
+HIGH ISLAND TX 34  X   3( 3)  39(42)  42(84)   3(87)   X(87)   X(87)
+HIGH ISLAND TX 50  X   X( X)  15(15)  44(59)   3(62)   X(62)   X(62)
+HIGH ISLAND TX 64  X   X( X)   3( 3)  31(34)   3(37)   X(37)   X(37)
+ 
+MATAGORDA TX   34  X   3( 3)  25(28)  15(43)   1(44)   X(44)   X(44)
+MATAGORDA TX   50  X   X( X)   5( 5)   5(10)   1(11)   X(11)   X(11)
+MATAGORDA TX   64  X   X( X)   1( 1)   1( 2)   X( 2)   X( 2)   X( 2)
+ 
+PORT O CONNOR  34  X   2( 2)  18(20)   9(29)   1(30)   X(30)   X(30)
+PORT O CONNOR  50  X   X( X)   2( 2)   2( 4)   1( 5)   X( 5)   X( 5)
+ 
+ROCKPORT TX    34  X   X( X)   5( 5)   5(10)   2(12)   X(12)   X(12)
+ 
+CORPUS CHRISTI 34  X   X( X)   4( 4)   3( 7)   1( 8)   X( 8)   X( 8)
+ 
+GFMX 270N 960W 34  X   5( 5)  13(18)   5(23)   X(23)   X(23)   X(23)
+GFMX 270N 960W 50  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+MCALLEN TX     34  X   X( X)   2( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+HARLINGEN TX   34  X   X( X)   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+BROWNSVILLE TX 34  X   X( X)   3( 3)   1( 4)   1( 5)   X( 5)   X( 5)
+ 
+GFMX 250N 960W 34  X   4( 4)   4( 8)   1( 9)   X( 9)   X( 9)   X( 9)
+ 
+MERIDA MX      34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+COZUMEL MX     34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+CP SAN ANTONIO 34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+PENSACOLA NAS  34  X   X( X)   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)
+ 
+KEESLER AB     34  X   3( 3)   8(11)   7(18)   2(20)   X(20)   X(20)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+NNNN                                                                

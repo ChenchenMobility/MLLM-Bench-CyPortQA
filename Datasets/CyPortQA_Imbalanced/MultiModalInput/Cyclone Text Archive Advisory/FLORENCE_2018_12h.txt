@@ -1,0 +1,164 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Hurricane Florence Advisory Number  60
+NWS National Hurricane Center Miami FL       AL062018
+500 AM EDT Fri Sep 14 2018
+
+...FLORENCE ABOUT TO MAKE LANDFALL IN NORTH CAROLINA...
+...CAUSING LIFE-THREATENING STORM SURGES AND HURRICANE-FORCE
+WINDS...
+...CATASTROPHIC FRESHWATER FLOODING EXPECTED OVER PORTIONS OF NORTH
+AND SOUTH CAROLINA...
+
+
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...34.2N 77.4W
+ABOUT 25 MI...35 KM E OF WILMINGTON NORTH CAROLINA
+ABOUT 55 MI...85 KM SW OF MOREHEAD CITY NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...958 MB...28.29 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Storm Surge Warning is in effect for...
+* South Santee River South Carolina to Duck North Carolina
+* Albemarle and Pamlico Sounds, including the Neuse and Pamlico
+Rivers
+
+A Storm Surge Watch is in effect for...
+* Edisto Beach South Carolina to South Santee River South Carolina
+
+A Hurricane Warning is in effect for...
+* South Santee River South Carolina to Duck North Carolina
+* Albemarle and Pamlico Sounds
+
+A Hurricane Watch is in effect for...
+* Edisto Beach South Carolina to South Santee River South Carolina
+
+A Tropical Storm Warning is in effect for...
+* North of Duck North Carolina to Cape Charles Light Virginia
+* Chesapeake Bay south of New Point Comfort
+* Edisto Beach South Carolina to South Santee River South Carolina
+
+Interests elsewhere in the southeastern and mid-Atlantic states
+should monitor the progress of Florence.
+
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline. For
+a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline.
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area, in this case within the next 24
+hours.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM EDT (0900 UTC), the center of the eye of Hurricane
+Florence was located by an Air Force Hurricane Hunter aircraft and
+NOAA Doppler radar near latitude 34.2 North, longitude 77.4 West.
+Florence is moving toward the west-northwest near 6 mph (9 km/h).  A
+turn toward the west at a slow forward speed is expected today,
+followed by a slow west-southwestward motion tonight and Saturday.
+On the forecast track, the center of Florence is expected to move
+inland across extreme southeastern North Carolina and extreme
+eastern South Carolina today and Saturday.  Florence will then move
+generally northward across the western Carolinas and the central
+Appalachian Mountains early next week.
+
+Maximum sustained winds remain near 90 mph (150 km/h) with higher
+gusts.  Gradual weakening is forecast later today and tonight.
+Significant weakening is expected over the weekend and into early
+next week while Florence moves farther inland.
+
+Hurricane-force winds extend outward up to 80 miles (130 km) from
+the center and tropical-storm-force winds extend outward up to 195
+miles (315 km).  A NOAA observing site at Cape Lookout, North
+Carolina, recently reported a sustained wind of 72 mph (116 km/h)
+and a gust of 90 mph (145 km/h).
+
+The minimum central pressure estimated from Hurricane Hunter data is
+958 mb (28.29 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water has the
+potential to reach the following heights above ground...
+
+Cape Fear NC to Cape Lookout NC...7-11 ft, with locally higher
+amounts in the Neuse, Pamlico, Pungo, and Bay Rivers
+Cape Lookout NC to Ocracoke Inlet NC...6-9 ft
+South Santee River SC to Cape Fear NC...4-6 ft
+Ocracoke Inlet NC to Salvo NC...4-6 ft
+Salvo NC to Duck NC...2-4 ft
+Edisto Beach SC to South Santee River SC...2-4 ft
+
+The deepest water will occur along the immediate coast in areas of
+onshore winds, where the surge will be accompanied by large and
+destructive waves.  Surge-related flooding can vary greatly over
+short distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
+
+RAINFALL: Florence is expected to produce heavy and excessive
+rainfall in the following areas...
+
+Southeastern coastal North Carolina into far northeastern South
+Carolina...an additional 20 to 25 inches, with isolated storm totals
+of 30 to 40 inches. This rainfall will produce catastrophic flash
+flooding and prolonged significant river flooding.
+
+Remainder of South Carolina and North Carolina into southwest
+Virginia...5 to 10 inches, isolated 15 inches. This rainfall will
+produce life-threatening flash flooding.
+
+TORNADOES:  A few tornadoes are possible in eastern North Carolina
+today.
+
+SURF:  Swells generated by Florence are affecting Bermuda, portions
+of the U.S. East Coast, and the northwestern and central Bahamas.
+These swells are likely to cause life-threatening surf and rip
+current conditions. Please consult products from your local weather
+office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
+
+$$
+Forecaster Pasch
+
+NNNN
