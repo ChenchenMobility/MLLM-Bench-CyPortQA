@@ -1,0 +1,112 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE BERYL WIND SPEED PROBABILITIES NUMBER   8                 
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL022018               
+0900 UTC SAT JUL 07 2018                                            
+                                                                    
+AT 0900Z THE CENTER OF HURRICANE BERYL WAS LOCATED NEAR LATITUDE    
+11.1 NORTH...LONGITUDE 49.8 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+65 KTS...75 MPH...120 KM/H.                                         
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z SAT 18Z SAT 06Z SUN 18Z SUN 06Z MON 06Z TUE 06Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z SAT 06Z SUN 18Z SUN 06Z MON 06Z TUE 06Z WED 06Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+PORT-AU-PRINCE 34  X   X( X)   X( X)   X( X)   5( 5)   X( 5)   X( 5)
+ 
+CAPE BEATA     34  X   X( X)   X( X)   X( X)  16(16)   X(16)   X(16)
+ 
+PUERTO PLATA   34  X   X( X)   X( X)   X( X)   6( 6)   X( 6)   X( 6)
+ 
+SANTO DOMINGO  34  X   X( X)   X( X)   X( X)   9( 9)   X( 9)   X( 9)
+ 
+PONCE PR       34  X   X( X)   X( X)   X( X)  12(12)   X(12)   X(12)
+ 
+AGUADILLA PR   34  X   X( X)   X( X)   X( X)   8( 8)   X( 8)   X( 8)
+ 
+SAN JUAN PR    34  X   X( X)   X( X)   X( X)   7( 7)   X( 7)   X( 7)
+ 
+VIEQUES PR     34  X   X( X)   X( X)   1( 1)  18(19)   X(19)   X(19)
+VIEQUES PR     50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+SAINT THOMAS   34  X   X( X)   X( X)   1( 1)  13(14)   X(14)   X(14)
+ 
+SAINT CROIX    34  X   X( X)   X( X)   2( 2)  22(24)   X(24)   X(24)
+SAINT CROIX    50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+SAINT MAARTEN  34  X   X( X)   X( X)   2( 2)   9(11)   X(11)   X(11)
+ 
+ST KITTS-NEVIS 34  X   X( X)   X( X)   6( 6)  14(20)   X(20)   X(20)
+ 
+BARBUDA        34  X   X( X)   X( X)   6( 6)   5(11)   X(11)   X(11)
+ 
+ANTIGUA        34  X   X( X)   1( 1)  10(11)   7(18)   X(18)   X(18)
+ 
+GUADELOUPE     34  X   X( X)   1( 1)  25(26)   8(34)   X(34)   X(34)
+GUADELOUPE     50  X   X( X)   X( X)   4( 4)   2( 6)   X( 6)   X( 6)
+GUADELOUPE     64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+AVES           34  X   X( X)   X( X)  10(10)  41(51)   X(51)   X(51)
+AVES           50  X   X( X)   X( X)   1( 1)  15(16)   X(16)   X(16)
+AVES           64  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+DOMINICA       34  X   X( X)   2( 2)  46(48)   8(56)   X(56)   X(56)
+DOMINICA       50  X   X( X)   X( X)  16(16)   4(20)   X(20)   X(20)
+DOMINICA       64  X   X( X)   X( X)   3( 3)   1( 4)   X( 4)   X( 4)
+ 
+MARTINIQUE     34  X   X( X)   2( 2)  53(55)   3(58)   X(58)   X(58)
+MARTINIQUE     50  X   X( X)   X( X)  20(20)   2(22)   X(22)   X(22)
+MARTINIQUE     64  X   X( X)   X( X)   4( 4)   1( 5)   X( 5)   X( 5)
+ 
+SAINT LUCIA    34  X   X( X)   2( 2)  34(36)   1(37)   X(37)   X(37)
+SAINT LUCIA    50  X   X( X)   X( X)  10(10)   2(12)   X(12)   X(12)
+SAINT LUCIA    64  X   X( X)   X( X)   2( 2)   X( 2)   X( 2)   X( 2)
+ 
+SAINT VINCENT  34  X   X( X)   2( 2)  11(13)   X(13)   X(13)   X(13)
+SAINT VINCENT  50  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+BARBADOS       34  X   1( 1)   8( 9)  19(28)   X(28)   X(28)   X(28)
+BARBADOS       50  X   X( X)   2( 2)   6( 8)   X( 8)   X( 8)   X( 8)
+BARBADOS       64  X   X( X)   X( X)   2( 2)   X( 2)   X( 2)   X( 2)
+ 
+GRENADA        34  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER BROWN                                                    
+NNNN                                                                

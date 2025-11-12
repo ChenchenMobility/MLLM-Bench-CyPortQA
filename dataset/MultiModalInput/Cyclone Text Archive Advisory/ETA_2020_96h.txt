@@ -1,0 +1,197 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Eta Advisory Number  32
+NWS National Hurricane Center Miami FL       AL292020
+400 AM EST Sun Nov 08 2020
+ 
+...ETA MAKING LANDFALL ALONG THE SOUTH-CENTRAL COAST OF CUBA...
+...FORECAST TO PRODUCE DANGEROUS STORM SURGE, FLASH FLOODS AND
+STRONG WINDS OVER PORTIONS OF CUBA AND FLORIDA...
+ 
+ 
+SUMMARY OF 400 AM EST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.5N 79.3W
+ABOUT 90 MI...145 KM W OF CAMAGUEY CUBA
+ABOUT 300 MI...485 KM S OF MIAMI FLORIDA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...NE OR 35 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...991 MB...29.27 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Watch is in effect for...
+* Florida coast from Golden Beach to Bonita Beach, including
+Biscayne Bay
+* Florida Keys from Ocean Reef to the Dry Tortugas, including
+Florida Bay
+ 
+A Hurricane Watch is in effect for...
+* Florida coast from Deerfield Beach to Bonita Beach
+* Florida Keys from Ocean Reef to the Dry Tortugas, including
+Florida Bay
+ 
+A Tropical Storm Warning is in effect for...
+* The Cuban provinces of Camaguey, Ciego de Avila, Sancti Spiritus,
+Villa Clara, Cienfuegos, and Matanzas
+* Northwestern Bahamas, including the Abacos, Andros Island,
+Berry Islands, Bimini, Eleuthera, Grand Bahama Island, and New
+Providence
+* Florida coast from Brevard/Volusia County line to Englewood
+including Florida Bay
+* Florida Keys from Ocean Reef to the Dry Tortugas
+* Lake Okeechobee
+ 
+A Tropical Storm Watch is in effect for...
+* The Cuban provinces of La Habana, Artemisa, Mayabeque, Pinar del
+Rio, and the Isle of Youth
+* Florida coast from north of Englewood to Anna Maria Island.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area, in this case within the next 24 hours.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, generally within 36
+hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere in Cuba and the Florida peninsula should
+monitor the progress of this system as additional Tropical Storm
+Watches or Warnings could be required for some of these areas
+on Sunday.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 AM EST (0900 UTC), the center of Tropical Storm Eta was
+located near latitude 21.5 North, longitude 79.3 West. Eta is moving
+toward the northeast near 12 mph (19 km/h).  A turn toward the north
+and northwest at a slower forward speed is expected later today and
+tonight, followed by a westward motion on Monday. On the forecast
+track, the center of Eta will move across central Cuba during the 
+next few hours and then move into the Florida Straits later this 
+morning. Eta is forecast to pass near or over the Florida Keys
+tonight and early Monday and be over the southeastern Gulf of Mexico
+late Monday and Tuesday.
+ 
+Maximum sustained winds are near 65 mph (100 km/h) with higher 
+gusts. Some weakening is possible during the next few hours as Eta 
+moves across Cuba, but the storm is forecast to be near hurricane 
+strength when it moves near or over the Florida Keys.
+ 
+Tropical-storm-force winds extend outward up to 115 miles (185 km)
+from the center.
+ 
+The estimated minimum central pressure is 991 mb (29.27 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Eta can be found in the Tropical Cyclone Discussion
+under AWIPS header MIATCDAT4, WMO header WTNT44 KNHC, and on the
+web at www.hurricanes.gov/text/MIATCDAT4.shtml.
+ 
+RAINFALL:  Eta is expected to produce the following rainfall amounts
+through Friday morning:
+ 
+Jamaica: An additional 2 to 4 inches (50 to 100 mm), isolated
+maximum storm totals of 15 inches (380 mm).
+ 
+Portions of Cuba: an additional 5 to 10 inches (125 to 255 mm),
+isolated maximum storm totals of 25 inches (635 mm).
+ 
+The Bahamas: an additional 4 to 8 inches (100 to 200 mm), isolated
+maximum storm totals of 15 inches (380 mm).
+ 
+Portions of the central and southern Florida peninsula, including
+the Keys: 6 to 12 inches (150 to 300 mm), isolated maximum totals of
+18 inches (450 mm).
+ 
+Significant, life-threatening flash and river flooding will be
+possible in Cuba, along with landslides in areas of higher terrain.
+Flash and urban flooding will also be possible for Jamaica, the
+Bahamas, and Southern Florida.  Minor river flooding is also
+possible for Central Florida.
+ 
+STORM SURGE:  A dangerous storm surge will raise water levels by as
+much as 2 to 4 feet above normal tide levels along the coast of Cuba
+near and to the east of where the center makes landfall.  Near the
+coast, the surge will be accompanied by large and destructive waves.
+ 
+The combination of a dangerous storm surge and the tide will cause
+normally dry areas near the coast to be flooded by rising waters
+moving inland from the shoreline.  The water could reach the
+following heights above ground somewhere in the indicated areas if
+the peak surge occurs at the time of high tide...
+ 
+Bonita Beach, FL to Golden Beach, FL including Biscayne Bay...2-4 ft
+Florida Keys from Ocean Reef to the Dry Tortugas including Florida
+Bay...2-4 ft
+Flagler/Volusia County Line to Altamaha Sound...2-3 ft
+Golden Beach to Flagler/Volusia County Line...1-2 ft
+ 
+The deepest water will occur along the immediate coast in areas of
+onshore winds, where the surge will be accompanied by large and
+dangerous waves.  Surge-related flooding depends on the relative
+timing of the surge and the tidal cycle, and can vary greatly over
+short distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
+ 
+WIND: Tropical storm conditions are expected to continue in the
+warning areas in Cuba during the next several hours and in the
+northwestern Bahamas through tonight.  Tropical storm conditions
+are expected to begin in south Florida and the Florida Keys
+this afternoon or evening, and hurricane conditions are possible in
+the hurricane watch area in Florida tonight and early Monday.
+Tropical storm conditions are possible in the Tropical Storm Watch
+area in Cuba during the next few hours and in the watch area in
+Florida by early Monday.
+ 
+TORNADOES: A tornado or two may occur this evening through Monday
+over south Florida and the Keys.
+ 
+SURF:  Swells generated by Eta are expected to affect the
+north coast of Cuba, the northwestern Bahamas, southern Florida and
+the Florida Keys during the next couple of days.  Swells will
+gradually subside along the south coast of Cuba, the Cayman Islands
+and Jamaica later today.  These swells are likely to cause
+life-threatening surf and rip current conditions. Please consult
+products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 AM EST.
+Next complete advisory at 1000 AM EST.
+ 
+$$
+Forecaster Cangialosi
+ 
+NNNN

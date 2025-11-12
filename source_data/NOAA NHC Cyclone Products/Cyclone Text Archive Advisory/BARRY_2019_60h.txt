@@ -1,0 +1,134 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Potential Tropical Cyclone Two Advisory Number   3
+NWS National Hurricane Center Miami FL       AL022019
+1000 PM CDT Wed Jul 10 2019
+
+...SYSTEM IS ALMOST A TROPICAL DEPRESSION...
+...STORM SURGE, HEAVY RAINS, AND HURRICANE CONDITIONS ARE
+POSSIBLE ACROSS THE NORTH-CENTRAL GULF COAST IN A COUPLE OF DAYS...
+
+
+SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...27.7N 88.0W
+ABOUT 120 MI...190 KM SE OF THE MOUTH OF THE MISSISSIPPI RIVER
+ABOUT 240 MI...385 KM SE OF MORGAN CITY LOUISIANA
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...WSW OR 245 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY...
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT...
+
+A Storm Surge Watch is in effect for...
+* Mouth of the Pearl River to Intracoastal City
+
+A Hurricane Watch is in effect for...
+* Mouth of the Mississippi River to Cameron
+
+A Tropical Storm Watch is in effect for...
+* Mouth of the Mississippi River northward to the Mouth of the Pearl
+River
+
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation from rising water moving inland from the
+coastline in the indicated locations during the next 48 hours.
+For a depiction of areas at risk please see the National Weather
+Service Storm Surge Watch/Warning Graphic available at
+hurricanes.gov.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds conditions that make outside preparations difficult or
+dangerous.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area generally within 48 hours.
+
+Interests elsewhere along the U.S. Gulf Coast from the Upper Texas
+Coast to the Florida Panhandle should monitor the progress of this
+system.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 1000 PM CDT (0300 UTC), the disturbance was centered near
+latitude 27.7 North, longitude 88.0 West.  The system is moving
+toward the west-southwest near 9 mph (15 km/h). A motion toward the
+west is expected on Thursday, followed by a west-northwest motion on
+Friday and a northwestward motion by early Saturday. On the forecast
+track, the system is expected to approach the Louisiana coast this
+weekend.
+
+Maximum sustained winds remain near 30 mph (45 km/h) with higher
+gusts. Strengthening is forecast during the next couple of days, and
+the disturbance is forecast to become a tropical depression early
+Thursday, a tropical storm by late Thursday, and a hurricane by late
+Friday.
+
+The circulation of the low continues to become better defined, and
+the system is expected to become a tropical depression on Thursday.
+*Formation chance through 48 hours...high...near 100 percent
+*Formation chance through 5 days...high...near 100 percent
+
+The estimated minimum central pressure based on data from the NOAA
+Hurricane Hunters and surface observations is 1009 mb (29.80
+inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+Key Messages for this system can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2 and WMO header WTNT32 KNHC.
+
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+
+Mouth of the Pearl River to Intracoastal City...3 to 6 ft
+
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances. For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+
+RAINFALL:  The system is expected to produce total additional rain
+accumulations of 10 to 15 inches near and inland of the central Gulf
+Coast through early next week, with isolated maximum rainfall
+amounts of 20 inches.
+
+Rainfall amounts exceeding 6 to 9 inches have already occurred
+across portions of the New Orleans metropolitan area today, which
+has resulted in flooding.
+
+WIND:  Hurricane conditions are possible within the Hurricane Watch
+area by Friday night, with tropical storm conditions possible by
+early Friday.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 100 AM CDT.
+Next complete advisory at 400 AM CDT.
+
+$$
+Forecaster Cangialosi
+
+NNNN

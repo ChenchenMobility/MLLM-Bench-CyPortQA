@@ -1,0 +1,196 @@
+
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Elsa Intermediate Advisory Number 22A
+NWS National Hurricane Center Miami FL       AL052021
+800 PM EDT Mon Jul 05 2021
+ 
+...ELSA PASSING JUST EAST OF HAVANA CUBA WITH HEAVY RAINS...
+...EXPECTED TO MOVE NEAR THE LOWER FLORIDA KEYS ON TUESDAY...
+ 
+ 
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...22.9N 81.9W
+ABOUT 30 MI...50 KM E OF HAVANA CUBA
+ABOUT 115 MI...185 KM S OF KEY WEST FLORIDA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...NW OR 325 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* West coast of Florida from Bonita Beach to the Aucilla River
+including Tampa Bay
+ 
+A Tropical Storm Warning is in effect for...
+* The Cuban provinces of Cienfuegos, Matanzas, Villa Clara,
+Mayabeque, Havana, and Artemisa
+* The Florida Keys from Craig Key westward to the Dry Tortugas
+* West coast of Florida from Flamingo northward to Ochlockonee River
+ 
+A Storm Surge Watch is in effect for...
+* West of the Aucilla River to the Ochlockonee River
+ 
+A Tropical Storm Watch is in effect for...
+* West of the Ochlockonee River to Indian Pass, Florida
+ 
+A Storm Surge Warning means there is a danger of life-threatening 
+inundation, from rising water moving inland from the coastline, 
+during the next 36 hours in the indicated locations. For a depiction 
+of areas at risk, please see the National Weather Service Storm 
+Surge Watch/Warning Graphic, available at hurricanes.gov.  This is a 
+life-threatening situation.  Persons located within these areas 
+should take all necessary actions to protect life and property from 
+rising water and the potential for other dangerous conditions.  
+Promptly follow evacuation and other instructions from local 
+officials.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+ 
+Interests in coastal Georgia and the Carolinas should monitor the
+progress of Elsa.
+ 
+For storm information specific to your area in the United States, 
+including possible inland watches and warnings, please monitor 
+products issued by your local National Weather Service forecast 
+office. For storm information specific to your area outside of the 
+United States, please monitor products issued by your national 
+meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM EDT (0000 UTC), the center of Tropical Storm Elsa was 
+located by radars from Key West, Florida, and Havana, Cuba, near 
+latitude 22.9 North, longitude 81.9 West.  Elsa is moving toward the 
+northwest near 13 mph (20 km/h), and this general motion is expected 
+to continue tonight, followed by a turn toward the north-northwest 
+on Tuesday, and a turn toward the north on Tuesday night.  A 
+north-northeastward motion is expected on Wednesday.  On the 
+forecast track, Elsa should emerge off the coast western Cuba during 
+the next hour or so, move into the Florida Straits this evening, and 
+pass near the Florida Keys early Tuesday. Elsa is then forecast to 
+move near or over portions of the west coast of Florida by late 
+Tuesday and continuing into Wednesday.
+ 
+Data from the NOAA Doppler weather radar in Key West indicate that 
+maximum sustained winds are near 50 mph (85 km/h) with higher gusts 
+over water. Some restrengthening is forecast after Elsa moves over 
+the Straits of Florida tonight and over the Gulf of Mexico on 
+Tuesday. An Air Force Reserve reconnaissance aircraft is en route 
+to investigate Elsa once the storm moves back over water.
+ 
+Tropical-storm-force winds extend outward up to 70 miles (110 km), 
+mainly north through northeast of the center.
+ 
+The estimated minimum central pressure is 1008 mb (29.77 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Elsa can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT5, WMO header WTNT45 KNHC and
+on the web at
+www.hurricanes.gov/graphics_at5.shtml?key_messages.
+ 
+WIND: Tropical storm conditions should continue over portions of
+central and western Cuba for the next several hours.  Tropical
+storm conditions are expected in the warning area in the Florida
+Keys beginning tonight and along the Florida west coast beginning
+Tuesday.  Tropical storm conditions are expected to spread
+northward into the Florida Big Bend region within the Tropical
+Storm Warning area Tuesday night and early Wednesday.  Tropical
+storm conditions are possible in the watch area beginning
+late Tuesday night.
+ 
+STORM SURGE: A storm surge will raise water levels above normal
+tide levels by as much as the following amounts in areas of onshore
+winds within the Tropical Storm Warning areas...
+ 
+Southern coast of Cuba...2 to 4 ft
+ 
+The combination of a storm surge and the tide will cause normally
+dry areas near the coast to be flooded by rising waters moving
+inland from the shoreline.  The water could reach the following
+heights above ground somewhere in the indicated areas if the peak
+surge occurs at the time of high tide...
+ 
+Englewood, FL to Aucilla River including Tampa Bay...3 to 5 ft
+Bonita Beach, FL to Englewood, FL including Charlotte Harbor...2 to
+4 ft
+Aucilla River to Ochlockonee River...2 to 4 ft
+Flamingo, FL to Bonita Beach, FL...1 to 3 ft
+Craig Key, FL to Dry Tortugas...1 to 2 ft
+Ochlockonee River to Indian Pass...1 to 2 ft
+ 
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.  For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+ 
+RAINFALL: Across portions of Cuba tonight, rainfall of 5 to 10
+inches with isolated maximum amounts of 15 inches is expected.
+This will result in significant flash flooding and mudslides.
+Across the Cayman Islands tonight, rainfall of 3 to 5 inches is
+expected. This rain may lead to scattered flash flooding.
+ 
+Elsa is expected to produce the following rainfall amounts and
+impacts this week:
+ 
+Across the Keys into southwest and western portions of the Florida
+Peninsula...3 to 5 inches with localized maximum totals up to 8
+inches through Wednesday, which may result in considerable flash 
+and urban flooding, along with minor to isolated moderate river
+flooding.
+ 
+Across the rest of Florida into southeast Georgia and the Low
+Country of South Carolina...2 to 4 inches with localized maximum
+totals up to 6 inches through Wednesday night, which may result in
+isolated flash, urban, and minor river flooding.
+ 
+Across coastal portions of North Carolina into southeastern
+Virginia...1 to 3 inches with isolated totals up to 5 inches
+Wednesday night through Thursday night, which could lead to isolated
+flash and urban flooding.
+ 
+TORNADOES: A few tornadoes are possible across south Florida tonight
+and across the Florida Peninsula on Tuesday.
+ 
+SURF: Swells generated by Elsa will spread westward along the
+southern coast of Cuba tonight.  Swells will increase near the
+Florida Keys and south Florida tonight and spread northward
+along the west coast of Florida tonight through Tuesday night.
+Please consult products from your local weather office for more
+details.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Stewart/Latto
+ 
+NNNN

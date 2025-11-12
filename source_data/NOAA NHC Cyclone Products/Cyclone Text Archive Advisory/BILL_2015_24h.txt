@@ -1,0 +1,99 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+TROPICAL STORM BILL ADVISORY NUMBER   1
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL022015
+1000 PM CDT MON JUN 15 2015
+
+...TROPICAL STORM WARNING ISSUED AS TROPICAL STORM BILL FORMS...
+...EXPECTED TO BRING HEAVY RAINFALL TO PORTIONS OF EASTERN TEXAS...
+
+
+SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...27.1N 94.2W
+ABOUT 160 MI...260 KM ESE OF PORT OCONNOR TEXAS
+ABOUT 155 MI...250 KM SSE OF GALVESTON TEXAS
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...NW OR 320 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+A Tropical Storm Warning has been issued for the coast of Texas
+from Baffin Bay to High Island.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Baffin Bay to High Island Texas
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 1000 PM CDT (0300 UTC), the center of Tropical Storm Bill was
+located near latitude 27.1 North, longitude 94.2 West.  Bill is
+moving toward the northwest near 12 mph (19 km/h) and this general
+motion is expected to continue tonight and Tuesday.  On the forecast
+track the center of Bill is expected to make landfall in the warning
+area along the Texas coast Tuesday morning and move inland over
+south-central Texas Tuesday afternoon and Tuesday night.
+
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Some slight strengthening is possible before landfall.  Weakening is
+forecast after the center moves inland on Tuesday, and Bill is
+expected to weaken to a tropical depression Tuesday night.
+
+Tropical storm force winds extend outward up to 160 miles (260 km)
+from the center.
+
+The estimated minimum central pressure is 1005 mb (29.68 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL:  Bill is expected to produce total rain accumulations of 4
+to 8 inches over eastern Texas and eastern Oklahoma and 2 to 4
+inches over western Louisiana and western Arkansas, with possible
+isolated maximum amounts of 12 inches in eastern Texas.
+
+WIND:  Tropical storm conditions are expected to first reach the
+coast within the warning area tonight.
+
+STORM SURGE:  The combination of a storm surge and the tide will
+cause normally dry areas near the coast to be flooded by rising
+waters.  The water could reach the following heights above ground if
+the peak surge occurs at the time of high tide...
+
+Upper Texas coast...2 to 4 feet
+Western Louisiana coast...1 to 2 feet
+
+The deepest water will occur along the immediate coast near and to
+the right of the landfall location.  Surge-related flooding depends
+on the relative timing of the surge and the tidal cycle, and can
+vary greatly over short distances.  For information specific to your
+area, please see products issued by your local National Weather
+Service forecast office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 100 AM CDT.
+Next complete advisory at 400 AM CDT.
+
+$$
+Forecaster Brennan
+
+NNNN

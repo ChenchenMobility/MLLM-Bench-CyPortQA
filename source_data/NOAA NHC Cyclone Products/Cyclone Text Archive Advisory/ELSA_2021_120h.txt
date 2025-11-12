@@ -1,0 +1,155 @@
+
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Elsa Special Advisory Number   8
+NWS National Hurricane Center Miami FL       AL052021
+830 AM AST Fri Jul 02 2021
+ 
+...ELSA STRENGTHENS INTO A HURRICANE...
+...HURRICANE CONDITIONS SPREADING THROUGH THE WINDWARD ISLANDS..
+ 
+ 
+SUMMARY OF 830 AM AST...1230 UTC...INFORMATION
+----------------------------------------------
+LOCATION...13.1N 60.1W
+ABOUT 40 MI...65 KM W OF BARBADOS
+ABOUT 75 MI...120 KM E OF ST. VINCENT
+MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 28 MPH...44 KM/H
+MINIMUM CENTRAL PRESSURE...995 MB...29.39 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Meteorological Service of Barbados has issued a Hurricane
+Warning for Barbados, St. Vincent, and the Grenadines.
+ 
+The Meteorological Service of St. Lucia has issued a Hurricane
+Warning for St. Lucia.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Barbados
+* St. Lucia
+* St. Vincent and the Grenadines
+ 
+A Tropical Storm Warning is in effect for...
+* Martinique
+* The southern coast of Dominican Republic from Cabo Engano to the
+border with Haiti
+* Entire coast of Haiti
+ 
+A Hurricane Watch is in effect for...
+* Southern portion of Haiti from Port Au Prince to the southern
+border with the Dominican Republic
+ 
+A Tropical Storm Watch is in effect for...
+* Grenada and its dependencies
+* Saba and Sint Eustatius
+* Jamaica
+* Dominica
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area, in this case in the next few
+hours.  Preparations to protect life and property should be rushed
+to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+ 
+Interests elsewhere in the Windward Islands, Leeward Islands, the
+Virgin Islands, Puerto Rico, the Dominican Republic, and Cuba
+should monitor the progress of Elsa. Additional watches and
+warnings will likely be required later today, including Hurricane
+Warnings for portions of Haiti and the Dominican Republic.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 830 AM AST (1230 UTC), the center of Hurricane Elsa was located
+near latitude 13.1 North, longitude 60.1 West. Elsa is moving toward
+the west-northwest near 28 mph (44 km/h), and this motion is 
+expected to continue during the next couple of days.  On the 
+forecast track, Elsa will pass near or over portions of the
+Windward Islands or the southern Leeward Islands this morning, move
+across the eastern Caribbean Sea late today and tonight, and move
+near the southern coast of Hispaniola on Saturday.  By Sunday, Elsa
+is forecast to move near Jamaica and portions of eastern Cuba.
+ 
+Reports from Barbados indicate that maximum sustained winds have 
+increased to near 75 mph (120 km/h) with higher gusts.  Little 
+change in strength is forecast during the next 48 hours.
+ 
+Hurricane-force winds extend outward up to 25 miles (35 km) from the
+center and tropical-storm-force winds extend outward up to 140 miles
+(220 km).  Barbados recently reported sustained winds of 74 mph 
+(119 km/h) and a wind gust of 86 mph (138 km/h).
+ 
+The estimated minimum central pressure is 995 mb (29.39 inches).  
+Barbados recently reported a pressure of 998 mb (29.47 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Elsa can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT5, WMO header WTNT45 KNHC and
+on the web at
+www.hurricanes.gov/graphics_at5.shtml?key_messages.
+ 
+WIND: Hurricane conditions are occurring on Barbados, and are
+expected in the hurricane warning area in the Windward Islands in 
+the next few hours. Tropical storm conditions are expected in 
+portions of the Windward and southern Leeward Islands within the 
+tropical storm warning areas and are possible in the tropical storm 
+watch areas later today.  Tropical storm conditions are expected in 
+the warning areas in the Dominican Republic and Haiti on Saturday, 
+with hurricane conditions possible in southern Haiti.  Tropical 
+storm conditions are possible in Jamaica Saturday night or early 
+Sunday.
+ 
+STORM SURGE: A storm surge will raise water levels by as much as 1
+to 3 feet above normal tide levels in areas of onshore winds in 
+the hurricane warning area in the Windward Islands and along the 
+southern coast of Hispaniola.
+ 
+RAINFALL: Elsa is expected to produce rainfall totals of 3 to 6
+inches with maximum amounts of 10 inches today across the Windward
+and southern Leeward Islands, including Barbados. This rain may
+lead to isolated flash flooding and mudslides.
+ 
+Over Puerto Rico, rainfall of 1 to 3 inches with localized amounts
+of 5 inches is expected late today into Saturday. This rain may lead
+to isolated flash flooding and minor river flooding, along with the
+potential for mudslides.
+ 
+Across portions of southern Hispaniola and Jamaica, rainfall of 4 to
+8 inches with isolated maximum amounts of 12 inches is possible
+Saturday into Sunday.  This rain may lead to scattered flash
+flooding and mudslides.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM AST.
+ 
+$$
+Forecaster Beven
+ 
+NNNN

@@ -1,0 +1,208 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM CCA
+ 
+BULLETIN
+Hurricane Ida Advisory Number   8...Corrected
+NWS National Hurricane Center Miami FL       AL092021
+400 AM CDT Sat Aug 28 2021
+
+Corrected Storm Surge Hazard Section
+
+...IDA CONTINUES MOVING NORTHWESTWARD ACROSS THE SOUTHEASTERN
+GULF OF MEXICO...
+...FORECAST TO RAPIDLY INTENSIFY BEFORE REACHING THE NORTHERN GULF
+COAST...
+ 
+ 
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...24.0N 85.2W
+ABOUT 510 MI...825 KM SE OF NEW ORLEANS LOUISIANA
+ABOUT 185 MI...300 KM WNW OF HAVANA CUBA
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Government of Cuba has discontinued all warnings for Cuba.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* East of Rockefeller Wildlife Refuge Louisiana to the
+Mississippi/Alabama border
+* Vermilion Bay, Lake Borgne, Lake Pontchartrain, and Lake Maurepas
+ 
+A Hurricane Warning is in effect for...
+* Intracoastal City Louisiana to the Mouth of the Pearl River
+* Lake Pontchartrain, Lake Maurepas, and Metropolitan New Orleans
+ 
+A Storm Surge Watch is in effect for...
+* Sabine Pass to Rockefeller Wildlife Refuge Louisiana
+* Mobile Bay
+ 
+A Hurricane Watch is in effect for...
+* Cameron Louisiana to west of Intracoastal City Louisiana
+* Mouth of the Pearl River to the Mississippi/Alabama border
+ 
+A Tropical Storm Warning is in effect for...
+* Cameron Louisiana to west of Intracoastal City Louisiana
+* Mouth of the Pearl River to the Mississippi/Alabama border
+ 
+A Tropical Storm Watch is in effect for...
+* Mississippi/Alabama border to the Alabama/Florida border
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a
+depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.  This is a life-threatening situation.  Persons
+located within these areas should take all necessary actions to
+protect life and property from rising water and the potential for
+other dangerous conditions.  Promptly follow evacuation and other
+instructions from local officials.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere along the northern U.S. Gulf coast should
+monitor the progress of this system.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 AM CDT (0900 UTC), the center of Hurricane Ida was located
+near latitude 24.0 North, longitude 85.2 West. Ida is moving toward
+the northwest near 16 mph (26 km/h) and this general motion should
+continue through late Sunday or early Monday.  A slower northward 
+motion is forecast on Monday.  On the forecast track, the center of 
+Ida will move over the southeastern Gulf of Mexico today and over 
+the north central Gulf of Mexico on Sunday.  Ida is then expected 
+to make landfall along the U.S. northern Gulf coast within the 
+hurricane warning area by late Sunday or early Monday, then move 
+through portions of Louisiana or western Mississippi later on 
+Monday.
+ 
+Maximum sustained winds are near 80 mph (130 km/h) with higher
+gusts.  Rapid strengthening is forecast during the next 24 to 36 
+hours and Ida is expected to be an extremely dangerous major
+hurricane when it approaches the northern Gulf coast on Sunday.  
+Weakening is expected after Ida makes landfall.
+ 
+Hurricane-force winds extend outward up to 25 miles (35 km) from the
+center and tropical-storm-force winds extend outward up to 115 miles
+(185 km).
+ 
+The estimated minimum central pressure is 987 mb (29.15 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Ida can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4, WMO header WTNT44 KNHC,
+and on the web at hurricanes.gov/graphics_at4.shtml?key_messages.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the 
+tide will cause normally dry areas near the coast to be flooded by 
+rising waters moving inland from the shoreline.  The water could 
+reach the following heights above ground somewhere in the indicated 
+areas if the peak surge occurs at the time of high tide...
+
+Morgan City, LA to Mouth of the Mississippi River...10-15 ft
+Mouth of the Mississippi River to Ocean Springs, MS including Lake
+Borgne...7-11 ft
+Intracoastal City, LA to Morgan City, LA including Vermilion
+Bay...6-9 ft
+Ocean Springs, MS to MS/AL border...4-7 ft
+Lake Pontchartrain...4-7 ft
+Lake Maurepas...3-5 ft
+Pecan Island, LA to Intracoastal City, LA...3-5 ft
+MS/AL border to AL/FL border including Mobile Bay...2-4 ft
+Sabine Pass to Pecan Island, LA...2-4 ft
+
+Overtopping of local levees outside of the Hurricane and Storm
+Damage Risk Reduction System is possible where local inundation
+values may be higher than those shown above.
+
+The deepest water will occur along the immediate coast near and to
+the east of the landfall location, where the surge will be
+accompanied by large and dangerous waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle,
+and can vary greatly over short distances.  For information
+specific to your area, please see products issued by your local
+National Weather Service forecast office.
+ 
+WIND:  Hurricane conditions are expected in the hurricane warning
+area along the northern Gulf coast beginning Sunday with tropical
+storm conditions expected to begin by late Saturday night or early
+Sunday morning.  These conditions will spread inland over portions
+of Louisiana and Mississippi Sunday night and Monday.  Gusty winds
+are possible over portions of western Cuba and the Florida Keys
+this morning.
+ 
+RAINFALL:  Ida will continue to lift north of Cuba this morning
+bringing an additional 2 to 4 inches of rain with isolated maximum
+amounts of 6 inches across western Cuba through today. These
+rainfall amounts may produce flash floods and mudslides.
+ 
+As Ida moves into the Louisiana coast late Sunday, total rainfall
+accumulations of 8 to 16 inches with isolated maximum amounts of 20
+inches are possible across southeast Louisiana and southern
+Mississippi through Monday. This is likely to result in significant
+flash and riverine flooding impacts.
+ 
+Ida is forecast to turn northeast as it moves inland later Monday,
+with rainfall totals of 4 to 8 inches possible from northeastern
+Louisiana and central Mississippi into the Tennessee Valley. This is
+likely to result in considerable flash and riverine flooding
+impacts.
+ 
+TORNADOES: A few tornadoes will be possible Sunday through early
+Monday across southeast Louisiana and southern Mississippi.
+ 
+SURF:  Swells generated by Ida will continue to affect western Cuba
+through Saturday morning.  Swells will begin reaching portions of
+the northern Gulf coast Saturday night or early Sunday.  These
+swells are likely to cause life-threatening surf and rip current
+conditions. Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Beven
+ 
+NNNN

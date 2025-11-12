@@ -1,0 +1,122 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE LEE WIND SPEED PROBABILITIES NUMBER  40                   
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132023               
+0900 UTC FRI SEP 15 2023                                            
+                                                                    
+AT 0900Z THE CENTER OF HURRICANE LEE WAS LOCATED NEAR LATITUDE 34.4 
+NORTH...LONGITUDE 67.5 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 75 KTS
+...85 MPH...140 KM/H.                                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z FRI 18Z FRI 06Z SAT 18Z SAT 06Z SUN 06Z MON 06Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z FRI 06Z SAT 18Z SAT 06Z SUN 06Z MON 06Z TUE 06Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ILE ST PIERRE  34  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+BURGEO NFLD    34  X   X( X)   X( X)   2( 2)   8(10)   X(10)   X(10)
+ 
+PTX BASQUES    34  X   X( X)   X( X)   7( 7)  12(19)   X(19)   X(19)
+ 
+EDDY POINT NS  34  X   X( X)  14(14)  14(28)   2(30)   X(30)   X(30)
+ 
+SYDNEY NS      34  X   X( X)   4( 4)  11(15)   5(20)   X(20)   X(20)
+ 
+SABLE ISLAND   34  X   X( X)  10(10)   4(14)   1(15)   X(15)   X(15)
+ 
+HALIFAX NS     34  X   4( 4)  25(29)  16(45)   1(46)   X(46)   X(46)
+HALIFAX NS     50  X   X( X)   2( 2)   4( 6)   X( 6)   X( 6)   X( 6)
+ 
+YARMOUTH NS    34  X  30(30)  56(86)   4(90)   X(90)   X(90)   X(90)
+YARMOUTH NS    50  X   X( X)  58(58)   6(64)   X(64)   X(64)   X(64)
+YARMOUTH NS    64  X   X( X)  19(19)   3(22)   X(22)   X(22)   X(22)
+ 
+MONCTON NB     34  X   X( X)  14(14)  40(54)   2(56)   X(56)   X(56)
+MONCTON NB     50  X   X( X)   1( 1)  10(11)   2(13)   X(13)   X(13)
+MONCTON NB     64  X   X( X)   X( X)   2( 2)   X( 2)   X( 2)   X( 2)
+ 
+ST JOHN NB     34  X   6( 6)  48(54)  23(77)   1(78)   X(78)   X(78)
+ST JOHN NB     50  X   X( X)  14(14)  27(41)   X(41)   X(41)   X(41)
+ST JOHN NB     64  X   X( X)   2( 2)   7( 9)   X( 9)   X( 9)   X( 9)
+ 
+EASTPORT ME    34  X  10(10)  49(59)  13(72)   X(72)   X(72)   X(72)
+EASTPORT ME    50  X   X( X)  21(21)  12(33)   X(33)   X(33)   X(33)
+EASTPORT ME    64  X   X( X)   3( 3)   3( 6)   X( 6)   X( 6)   X( 6)
+ 
+BAR HARBOR ME  34  X   5( 5)  30(35)   3(38)   X(38)   X(38)   X(38)
+BAR HARBOR ME  50  X   X( X)   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+AUGUSTA ME     34  X   4( 4)   9(13)   1(14)   X(14)   X(14)   X(14)
+ 
+PORTLAND ME    34  X   4( 4)   6(10)   X(10)   X(10)   X(10)   X(10)
+ 
+CONCORD NH     34  X   3( 3)   2( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+ 
+PORTSMOUTH NH  34  X   5( 5)   3( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+WORCESTER MA   34  X   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+SPRINGFIELD MA 34  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+BOSTON MA      34  X   5( 5)   3( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+HYANNIS MA     34  X  12(12)   4(16)   X(16)   X(16)   X(16)   X(16)
+ 
+NANTUCKET MA   34  3  33(36)   5(41)   X(41)   X(41)   X(41)   X(41)
+NANTUCKET MA   50  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+PROVIDENCE RI  34  X  14(14)   4(18)   X(18)   X(18)   X(18)   X(18)
+ 
+BRIDGEPORT CT  34  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+NEW HAVEN CT   34  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+HARTFORD CT    34  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+NEW LONDON CT  34  X   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+MONTAUK POINT  34  X  11(11)   3(14)   X(14)   X(14)   X(14)   X(14)
+ 
+ISLIP NY       34  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+BERMUDA        34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+$$                                                                  
+FORECASTER BERG                                                     
+NNNN                                                                

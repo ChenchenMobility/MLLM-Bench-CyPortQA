@@ -1,0 +1,97 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM GRACE WIND SPEED PROBABILITIES NUMBER  20            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072021               
+0900 UTC WED AUG 18 2021                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM GRACE WAS LOCATED NEAR        
+LATITUDE 18.8 NORTH...LONGITUDE 80.9 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 55 KTS...65 MPH...100 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z WED 18Z WED 06Z THU 18Z THU 06Z FRI 06Z SAT 06Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z WED 06Z THU 18Z THU 06Z FRI 06Z SAT 06Z SUN 06Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+BROWNSVILLE TX 34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+GFMX 250N 960W 34  X   X( X)   X( X)   1( 1)   8( 9)   1(10)   X(10)
+ 
+LA PESCA MX    34  X   X( X)   X( X)   X( X)   6( 6)   7(13)   X(13)
+ 
+TAMPICO MX     34  X   X( X)   X( X)   X( X)  20(20)  14(34)   X(34)
+TAMPICO MX     50  X   X( X)   X( X)   X( X)   4( 4)   7(11)   X(11)
+TAMPICO MX     64  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+TUXPAN MX      34  X   X( X)   X( X)   X( X)  29(29)  15(44)   X(44)
+TUXPAN MX      50  X   X( X)   X( X)   X( X)   8( 8)   7(15)   X(15)
+TUXPAN MX      64  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   X( 4)
+ 
+VERACRUZ MX    34  X   X( X)   X( X)   1( 1)  24(25)   3(28)   X(28)
+VERACRUZ MX    50  X   X( X)   X( X)   X( X)   7( 7)   2( 9)   X( 9)
+VERACRUZ MX    64  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+FRONTERA MX    34  X   X( X)   2( 2)   1( 3)   3( 6)   X( 6)   X( 6)
+ 
+MERIDA MX      34  X   5( 5)  47(52)   9(61)   1(62)   X(62)   X(62)
+MERIDA MX      50  X   X( X)  14(14)   6(20)   X(20)   X(20)   X(20)
+MERIDA MX      64  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+COZUMEL MX     34  3  76(79)  10(89)   X(89)   X(89)   X(89)   X(89)
+COZUMEL MX     50  X  43(43)  21(64)   X(64)   X(64)   X(64)   X(64)
+COZUMEL MX     64  X  14(14)  12(26)   X(26)   X(26)   X(26)   X(26)
+ 
+BELIZE CITY    34  X   6( 6)   3( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+GUANAJA        34  1   5( 6)   1( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+CP SAN ANTONIO 34  6  32(38)   1(39)   X(39)   X(39)   X(39)   X(39)
+CP SAN ANTONIO 50  X   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+HAVANA         34  5   5(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+ 
+ISLE OF PINES  34 17   9(26)   1(27)   X(27)   X(27)   X(27)   X(27)
+ 
+CIENFUEGOS     34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+GRAND CAYMAN   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+GRAND CAYMAN   50 77   X(77)   X(77)   X(77)   X(77)   X(77)   X(77)
+ 
+$$                                                                  
+FORECASTER STEWART                                                  
+NNNN                                                                

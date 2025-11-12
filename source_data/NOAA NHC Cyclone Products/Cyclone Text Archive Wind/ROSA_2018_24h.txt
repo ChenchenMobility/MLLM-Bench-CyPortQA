@@ -1,0 +1,69 @@
+
+ZCZC MIAPWSEP5 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM ROSA WIND SPEED PROBABILITIES NUMBER  24             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP202018               
+0300 UTC MON OCT 01 2018                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM ROSA WAS LOCATED NEAR LATITUDE
+26.0 NORTH...LONGITUDE 117.6 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+55 KTS...65 MPH...100 KM/H.                                         
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z MON AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z MON 12Z MON 00Z TUE 12Z TUE 00Z WED 00Z THU 00Z FRI
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z MON 00Z TUE 12Z TUE 00Z WED 00Z THU 00Z FRI 00Z SAT
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+YUMA AZ        34  X   X( X)   7( 7)  11(18)   X(18)   X(18)   X(18)
+YUMA AZ        50  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+ENSENADA       34  X   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+IS GUADALUPE   34  5   2( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+PUNTA EUGENIA  34 13  21(34)   X(34)   X(34)   X(34)   X(34)   X(34)
+PUNTA EUGENIA  50  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+P ABREOJOS     34  2   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+P PENASCO      34  X   1( 1)  19(20)   7(27)   X(27)   X(27)   X(27)
+P PENASCO      50  X   X( X)   3( 3)   2( 5)   X( 5)   X( 5)   X( 5)
+ 
+25N 115W       34  5   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+$$                                                                  
+FORECASTER BERG                                                     
+NNNN                                                                

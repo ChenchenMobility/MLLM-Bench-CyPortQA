@@ -1,0 +1,57 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Depression Two Advisory Number   1
+NWS National Hurricane Center Miami FL       AL022021
+1100 AM EDT Mon Jun 14 2021
+ 
+...TROPICAL DEPRESSION FORMS OFFSHORE OF NORTH CAROLINA...
+...HEADING AWAY FROM THE UNITED STATES...
+ 
+ 
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...35.0N 73.7W
+ABOUT 105 MI...165 KM E OF CAPE HATTERAS NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NE OR 50 DEGREES AT 21 MPH...33 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM EDT (1500 UTC), the center of Tropical Depression Two was
+located near latitude 35.0 North, longitude 73.7 West. The
+depression is moving toward the northeast near 21 mph (33 km/h), and
+this general motion is expected through Wednesday with increasing 
+forward speed.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+The depression is expected to become a tropical storm by tonight 
+and could continue to strengthen on Tuesday.  The system should 
+begin to weaken by Tuesday night and is expected to dissipate on 
+Wednesday.
+ 
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM EDT.
+ 
+$$
+Forecaster Blake
+ 
+NNNN

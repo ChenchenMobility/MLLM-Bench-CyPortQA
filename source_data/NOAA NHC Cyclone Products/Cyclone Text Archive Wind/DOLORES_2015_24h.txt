@@ -1,0 +1,107 @@
+
+ZCZC MIAPWSEP5 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL DEPRESSION FIVE-E WIND SPEED PROBABILITIES NUMBER   2      
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP052015               
+2100 UTC SAT JUL 11 2015                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL DEPRESSION FIVE-E WAS LOCATED NEAR  
+LATITUDE 13.7 NORTH...LONGITUDE 99.5 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 64 KT ARE SHOWN WHEN THE 5-DAY CUMULATIVE         
+PROBABILITY IS AT LEAST 1 PERCENT.                                  
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SAT 06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED 18Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+P ABREOJOS     34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+CABO SAN LUCAS 34  X   X( X)   X( X)   1( 1)   6( 7)  12(19)   6(25)
+CABO SAN LUCAS 50  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   2( 6)
+CABO SAN LUCAS 64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+SAN JOSE CABO  34  X   X( X)   X( X)   1( 1)   5( 6)  10(16)   7(23)
+SAN JOSE CABO  50  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   2( 6)
+SAN JOSE CABO  64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+LA PAZ         34  X   X( X)   X( X)   X( X)   2( 2)   7( 9)   5(14)
+LA PAZ         50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+LORETO         34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   3( 5)
+ 
+HUATABAMPO     34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+LOS MOCHIS     34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   3( 6)
+ 
+CULIACAN       34  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   4(10)
+CULIACAN       64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+MAZATLAN       34  X   X( X)   X( X)   1( 1)   4( 5)   5(10)   3(13)
+ 
+SAN BLAS       34  X   X( X)   1( 1)   4( 5)   8(13)   4(17)   2(19)
+SAN BLAS       50  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+P VALLARTA     34  X   X( X)   3( 3)   8(11)  10(21)   3(24)   2(26)
+P VALLARTA     50  X   X( X)   X( X)   1( 1)   2( 3)   1( 4)   1( 5)
+ 
+BARRA NAVIDAD  34  X   1( 1)  10(11)  14(25)   8(33)   2(35)   2(37)
+BARRA NAVIDAD  50  X   X( X)   1( 1)   3( 4)   3( 7)   1( 8)   X( 8)
+BARRA NAVIDAD  64  X   X( X)   X( X)   1( 1)   1( 2)   X( 2)   X( 2)
+ 
+MANZANILLO     34  X   1( 1)  10(11)  11(22)   6(28)   2(30)   1(31)
+MANZANILLO     50  X   X( X)   1( 1)   2( 3)   2( 5)   1( 6)   X( 6)
+ 
+L CARDENAS     34  X   5( 5)   7(12)   2(14)   2(16)   1(17)   1(18)
+ 
+ZIHUATANEJO    34  X   4( 4)   3( 7)   2( 9)   1(10)   1(11)   1(12)
+ 
+ACAPULCO       34  X   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+ISLA SOCORRO   34  X   X( X)   X( X)   3( 3)  16(19)  17(36)   6(42)
+ISLA SOCORRO   50  X   X( X)   X( X)   X( X)   3( 3)   8(11)   3(14)
+ISLA SOCORRO   64  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   1( 4)
+ 
+ISLA CLARION   34  X   X( X)   X( X)   X( X)   1( 1)   6( 7)   6(13)
+ISLA CLARION   50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ISLA CLARION   64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+ISLAS MARIAS   34  X   X( X)   1( 1)   6( 7)  13(20)   6(26)   3(29)
+ISLAS MARIAS   50  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   1( 6)
+ISLAS MARIAS   64  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

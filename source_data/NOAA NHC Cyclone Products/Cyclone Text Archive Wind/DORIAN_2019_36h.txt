@@ -1,0 +1,204 @@
+
+ZCZC MIAPWSAT5 ALL
+TTAA00 KNHC DDHHMM
+
+HURRICANE DORIAN WIND SPEED PROBABILITIES NUMBER  52
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL052019
+0900 UTC FRI SEP 06 2019
+
+AT 0900Z THE CENTER OF HURRICANE DORIAN WAS LOCATED NEAR LATITUDE
+34.6 NORTH...LONGITUDE 76.2 WEST WITH MAXIMUM SUSTAINED WINDS NEAR
+80 KTS...90 MPH...150 KM/H.
+
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME
+
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS
+
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST
+   ...34 KT (39 MPH... 63 KM/H)...
+   ...50 KT (58 MPH... 93 KM/H)...
+   ...64 KT (74 MPH...119 KM/H)...
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS
+
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN
+        06Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)
+
+PROBABILITIES ARE GIVEN IN PERCENT
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.
+
+
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -
+
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM
+  TIME       06Z FRI 18Z FRI 06Z SAT 18Z SAT 06Z SUN 06Z MON 06Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO
+             18Z FRI 06Z SAT 18Z SAT 06Z SUN 06Z MON 06Z TUE 06Z WED
+
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+LOCATION       KT
+
+CAPE RACE NFLD 34  X   X( X)   X( X)   X( X)   5( 5)   X( 5)   X( 5)
+
+ILE ST PIERRE  34  X   X( X)   X( X)  17(17)  10(27)   X(27)   X(27)
+
+BURGEO NFLD    34  X   X( X)   X( X)  30(30)  25(55)   X(55)   X(55)
+BURGEO NFLD    50  X   X( X)   X( X)   1( 1)   5( 6)   X( 6)   X( 6)
+
+PTX BASQUES    34  X   X( X)   X( X)  53(53)  24(77)   X(77)   X(77)
+PTX BASQUES    50  X   X( X)   X( X)   9( 9)  22(31)   X(31)   X(31)
+PTX BASQUES    64  X   X( X)   X( X)   1( 1)   5( 6)   X( 6)   X( 6)
+
+EDDY POINT NS  34  X   X( X)   3( 3)  75(78)   X(78)   X(78)   X(78)
+EDDY POINT NS  50  X   X( X)   X( X)  23(23)   X(23)   X(23)   X(23)
+EDDY POINT NS  64  X   X( X)   X( X)   4( 4)   1( 5)   X( 5)   X( 5)
+
+SYDNEY NS      34  X   X( X)   2( 2)  73(75)   3(78)   X(78)   X(78)
+SYDNEY NS      50  X   X( X)   X( X)  24(24)   3(27)   X(27)   X(27)
+SYDNEY NS      64  X   X( X)   X( X)   3( 3)   1( 4)   X( 4)   X( 4)
+
+SABLE ISLAND   34  X   X( X)  11(11)  39(50)   X(50)   X(50)   X(50)
+SABLE ISLAND   50  X   X( X)   X( X)   4( 4)   X( 4)   X( 4)   X( 4)
+
+HALIFAX NS     34  X   X( X)  14(14)  74(88)   X(88)   X(88)   X(88)
+HALIFAX NS     50  X   X( X)   X( X)  41(41)   X(41)   X(41)   X(41)
+HALIFAX NS     64  X   X( X)   X( X)   8( 8)   X( 8)   X( 8)   X( 8)
+
+YARMOUTH NS    34  X   X( X)  53(53)  13(66)   X(66)   X(66)   X(66)
+YARMOUTH NS    50  X   X( X)  10(10)   9(19)   X(19)   X(19)   X(19)
+YARMOUTH NS    64  X   X( X)   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)
+
+MONCTON NB     34  X   X( X)   3( 3)  22(25)   1(26)   X(26)   X(26)
+
+ST JOHN NB     34  X   X( X)   4( 4)  17(21)   X(21)   X(21)   X(21)
+
+EASTPORT ME    34  X   X( X)   4( 4)   7(11)   X(11)   X(11)   X(11)
+
+BAR HARBOR ME  34  X   X( X)   3( 3)   2( 5)   X( 5)   X( 5)   X( 5)
+
+AUGUSTA ME     34  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+
+PORTLAND ME    34  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+CONCORD NH     34  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+PORTSMOUTH NH  34  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+WORCESTER MA   34  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+SPRINGFIELD MA 34  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+BOSTON MA      34  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+HYANNIS MA     34  X  13(13)   7(20)   X(20)   X(20)   X(20)   X(20)
+
+NANTUCKET MA   34  X  19(19)  12(31)   X(31)   X(31)   X(31)   X(31)
+NANTUCKET MA   50  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+PROVIDENCE RI  34  X   4( 4)   2( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+
+BRIDGEPORT CT  34  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+NEW HAVEN CT   34  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+HARTFORD CT    34  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+NEW LONDON CT  34  X   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+
+MONTAUK POINT  34  X  10(10)   3(13)   X(13)   X(13)   X(13)   X(13)
+
+ISLIP NY       34  1   3( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+NYC JFK AIRPRT 34  1   3( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+NYC CNTRL PARK 34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+NEWARK NJ      34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+TRENTON NJ     34  2   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+NWS EARLE NJ   34  2   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+ALLENTOWN PA   34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+PHILADELPHIA   34  2   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+ATLANTIC CITY  34  3   3( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+
+BALTIMORE MD   34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+DOVER DE       34  3   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+
+ANNAPOLIS MD   34  3   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+WASHINGTON DC  34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+CAPE HENLOPEN  34  6   4(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+
+OCEAN CITY MD  34  9   4(13)   X(13)   X(13)   X(13)   X(13)   X(13)
+
+PAX RIVER NAS  34  3   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+
+WALLOPS CDA    34  5   2( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+
+RICHMOND VA    34  3   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+DANVILLE VA    34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+NORFOLK NAS    34  5   2( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+
+NORFOLK VA     34  6   1( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+
+OCEANA NAS VA  34  8   2(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+
+ELIZABETH CTY  34 61   1(62)   X(62)   X(62)   X(62)   X(62)   X(62)
+
+RALEIGH NC     34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+ROCKY MT NC    34  4   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+
+CAPE HATTERAS  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+CAPE HATTERAS  50 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+CAPE HATTERAS  64 98   X(98)   X(98)   X(98)   X(98)   X(98)   X(98)
+
+FAYETTEVILLE   34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+CHERRY PT NC   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+CHERRY PT NC   50 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+
+NEW RIVER NC   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+NEW RIVER NC   50 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+NEW RIVER NC   64 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+
+MOREHEAD CITY  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+MOREHEAD CITY  50 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+MOREHEAD CITY  64 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+
+SURF CITY NC   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+SURF CITY NC   50 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+
+WILMINGTON NC  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+
+BALD HEAD ISL  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+
+FLORENCE SC    34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+LITTLE RIVER   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+
+MYRTLE BEACH   34  5   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+
+GEORGETOWN SC  34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+
+$$
+FORECASTER CANGIALOSI
+NNNN

@@ -1,0 +1,114 @@
+
+ZCZC MIAPWSEP2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE KAY WIND SPEED PROBABILITIES NUMBER  13                   
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP122022               
+1500 UTC WED SEP 07 2022                                            
+                                                                    
+AT 1500Z THE CENTER OF HURRICANE KAY WAS LOCATED NEAR LATITUDE 21.1 
+NORTH...LONGITUDE 112.6 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 90   
+KTS...105 MPH...165 KM/H.                                           
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z WED 00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN 12Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+OXNARD CA      34  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   1( 3)
+ 
+SANTA CRUZ IS  34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+LONG BEACH/LA  34  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+ 
+S CATALINA IS  34  X   X( X)   X( X)   2( 2)   4( 6)   X( 6)   X( 6)
+ 
+SAN DIEGO CA   34  X   X( X)   X( X)   4( 4)   5( 9)   X( 9)   X( 9)
+ 
+TIJUANA        34  X   X( X)   1( 1)   4( 5)   5(10)   X(10)   X(10)
+ 
+ENSENADA       34  X   X( X)   3( 3)   6( 9)   8(17)   X(17)   X(17)
+ 
+IS GUADALUPE   34  X   X( X)   8( 8)  14(22)   8(30)   X(30)   X(30)
+IS GUADALUPE   50  X   X( X)   X( X)   1( 1)   5( 6)   X( 6)   X( 6)
+IS GUADALUPE   64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+PUNTA EUGENIA  34  X  11(11)  66(77)  10(87)   X(87)   X(87)   X(87)
+PUNTA EUGENIA  50  X   X( X)  31(31)  18(49)   X(49)   X(49)   X(49)
+PUNTA EUGENIA  64  X   X( X)   8( 8)  10(18)   X(18)   X(18)   X(18)
+ 
+P ABREOJOS     34  4  45(49)  38(87)   1(88)   X(88)   X(88)   X(88)
+P ABREOJOS     50  X   3( 3)  27(30)   X(30)   X(30)   X(30)   X(30)
+P ABREOJOS     64  X   X( X)   8( 8)   1( 9)   X( 9)   X( 9)   X( 9)
+ 
+CABO SAN LUCAS 34 13   3(16)   1(17)   X(17)   X(17)   X(17)   X(17)
+ 
+SAN JOSE CABO  34  9   3(12)   X(12)   X(12)   X(12)   X(12)   X(12)
+ 
+LA PAZ         34  6   2( 8)   2(10)   X(10)   X(10)   X(10)   X(10)
+ 
+LORETO         34  2   8(10)   2(12)   X(12)   X(12)   X(12)   X(12)
+ 
+P PENASCO      34  X   X( X)   4( 4)   4( 8)   1( 9)   X( 9)   X( 9)
+ 
+HERMOSILLO     34  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+BAHIA KINO     34  X   5( 5)   9(14)   2(16)   X(16)   X(16)   X(16)
+ 
+GUAYMAS        34  X   6( 6)   4(10)   1(11)   1(12)   X(12)   X(12)
+ 
+HUATABAMPO     34  X   2( 2)   1( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+LOS MOCHIS     34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+20N 110W       34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+ISLA SOCORRO   34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+ISLA CLARION   34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+20N 115W       34  4   3( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+25N 115W       34 14  67(81)   4(85)   X(85)   X(85)   X(85)   X(85)
+25N 115W       50  1  30(31)  10(41)   X(41)   X(41)   X(41)   X(41)
+25N 115W       64  X   7( 7)   8(15)   X(15)   X(15)   X(15)   X(15)
+ 
+25N 120W       34  X   1( 1)   2( 3)   X( 3)   1( 4)   X( 4)   X( 4)
+ 
+30N 120W       34  X   X( X)   1( 1)   4( 5)   8(13)   1(14)   X(14)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

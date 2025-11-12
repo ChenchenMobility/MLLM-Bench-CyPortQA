@@ -1,0 +1,209 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Isaias Intermediate Advisory Number 25A
+NWS National Hurricane Center Miami FL       AL092020
+800 AM EDT Mon Aug 03 2020
+ 
+...ISAIAS PASSING WELL OFFSHORE THE NORTHEAST FLORIDA COAST...
+...FORECAST TO BECOME A HURRICANE LATER TODAY...
+ 
+ 
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...30.2N 80.1W
+ABOUT 100 MI...155 KM ESE OF JACKSONVILLE FLORIDA
+ABOUT 250 MI...400 KM SSW OF MYRTLE BEACH SOUTH CAROLINA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...N OR 355 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...994 MB...29.36 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Edisto Beach South Carolina to Cape Fear North Carolina
+ 
+A Storm Surge Watch is in effect for...
+* Cape Fear to Duck North Carolina
+* Pamlico and Albemarle Sounds
+ 
+A Hurricane Warning is in effect for...
+* South Santee River South Carolina to Surf City North Carolina
+ 
+A Tropical Storm Warning is in effect for...
+* Flagler/Volusia County Line Florida to South Santee River
+South Carolina
+* North of Surf City North Carolina to west of Watch Hill Rhode
+Island
+* Chesapeake Bay south of North Beach
+* Tidal Potomac River south of Cobb Island
+* Delaware Bay
+* Long Island and Long Island Sound
+* Pamlico and Albemarle Sounds
+ 
+A Tropical Storm Watch is in effect for...
+* Watch Hill Rhode Island to Stonington, Maine
+* Martha's Vineyard, Nantucket, and Block Island
+ 
+Interests elsewhere along the northeast coast of the United States
+should monitor the progress of Isaias.  Additional watches or
+warnings may be required later today.
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a depiction
+of areas at risk, please see the National Weather Service Storm
+Surge Watch/Warning Graphic at hurricanes.gov.  This is a
+life-threatening situation.  Persons located within these areas
+should take all necessary actions to protect life and property from
+rising water and the potential for other dangerous conditions.
+Promptly follow evacuation and other instructions from local
+officials.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area, in this case within 24 hours.
+Preparations to protect life and property should be rushed to
+completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, generally within 36
+hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM EDT (1200 UTC), the center of Tropical Storm Isaias was
+located by an Air Force Reserve reconnaissance aircraft and NOAA
+Doppler weather radars near latitude 30.2 North, longitude 80.1
+West. Isaias is moving toward the north near 13 mph (20 km/h).  A
+turn toward the north and north-northeast along with an increase in
+forward speed is expected later today and Tuesday.  On the forecast
+track, the center of Isaias will pass well east of the Georgia coast
+through this morning.  The center of Isaias will then approach the
+coast of northeastern South Carolina and southern North Carolina
+within the hurricane warning area later today.  The center will then
+move inland over eastern North Carolina tonight, and move along the
+coast of the mid-Atlantic states on Tuesday and into the
+northeastern United States by Tuesday night.
+ 
+Maximum sustained winds are near 70 mph (110 km/h) with higher
+gusts. Some strengthening is anticipated today, and Isaias is
+forecast to regain hurricane strength before it reaches the coast of
+northeastern South Carolina or southern North Carolina tonight. Slow
+weakening is forecast after Isaias makes landfall in the Carolinas
+and moves across the U.S. mid-Atlantic region tonight and Tuesday.
+ 
+Tropical-storm-force winds extend outward up to 125 miles (205 km)
+from the center. During the past hour a wind gust to 40 mph (65
+km/h) was observed at the St, Augustine Pier, Florida, and a
+sustained wind of 34 mph (55 km/h) and a gust to 40 mph (65 km/h)
+were measured by a Weatherflow station at the Jacksonville Beach
+Pier, Florida.
+ 
+The estimated minimum central pressure is 994 mb (29.36 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Isaias can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4, WMO header WTNT44 KNHC, and
+on the web at www.hurricanes.gov/text/MIATCDAT4.shtml.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+South Santee River SC to Cape Fear NC...3-5 ft
+Edisto Beach SC to South Santee River SC...2-4 ft
+Cape Fear NC to Cape Hatteras NC including Pamlico Sound, Neuse and
+Pamlico Rivers...2-4 ft
+Flagler/Volusia County Line FL to Edisto Beach SC...1-3 ft
+North of Cape Hatteras NC to Cape May NJ including Albemarle Sound,
+Chesapeake Bay, the Tidal Potomac River, and Delaware Bay...1-3 ft
+ 
+The deepest water will occur along the immediate coast in areas of
+onshore winds, where the surge will be accompanied by large waves.
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.
+For information specific to your area, please see products issued
+by your local National Weather Service forecast office.
+ 
+WIND:  Hurricane conditions are expected within the hurricane
+warning area in South and North Carolina this evening through
+tonight.
+ 
+Tropical storm conditions will spread northward within the Tropical
+Storm Warning area from Florida to southern New England through
+Tuesday afternoon.
+ 
+Tropical storm conditions are possible in the Tropical Storm Watch
+area in New England beginning late Tuesday.
+ 
+RAINFALL: The following rainfall accumulations are expected
+along and near the track of Isaias:
+ 
+Northwest Bahamas: Additional 1 to 3 inches, isolated storm totals
+12 inches.
+ 
+Eastern Florida and coastal Georgia: Up to an additional 1 to 2
+inches.
+ 
+Carolinas and the mid-Atlantic: 3 to 6 inches, isolated maximum
+totals 8 inches.
+ 
+Southeast New York and much of New England: 2 to 4 inches, isolated
+maximum totals 6 inches.
+ 
+Heavy rainfall will result in flash and urban flooding, some of
+which may be significant in the eastern Carolinas and the
+mid-Atlantic, through midweek along and near the path of Isaias
+across the East Coast of the United States. Widespread minor to
+moderate river flooding is possible across portions of the Carolinas
+and the mid-Atlantic. Additionally, quick-responding rivers in the
+southern Appalachians and Northeast will be susceptible to minor
+river flooding.
+ 
+SURF:  Swells generated by Isaias are affecting portions of the
+Bahamas and the southeast coast of the United States and will spread
+northward along the U.S. east coast during the next couple of days.
+These swells are likely to cause life-threatening surf and rip
+current conditions.  Please consult products from your local weather
+office.
+ 
+TORNADOES:  A few tornadoes will be possible over coastal South
+Carolina beginning this evening, spreading across eastern North
+Carolina tonight into Tuesday morning. A couple tornadoes will be
+possible on Tuesday from eastern Virginia northeastward into
+southern New England.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Stewart
+ 
+NNNN

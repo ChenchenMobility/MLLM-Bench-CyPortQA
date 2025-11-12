@@ -1,0 +1,58 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Depression Six Advisory Number   5
+NWS National Hurricane Center Miami FL       AL062019
+500 PM EDT Tue Aug 27 2019
+
+...TROPICAL DEPRESSION FORECAST TO MOVE NORTHWARD AND NORTHEASTWARD
+OVER THE OPEN ATLANTIC...
+
+
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...31.8N 71.8W
+ABOUT 410 MI...660 KM W OF BERMUDA
+ABOUT 315 MI...510 KM SE OF CAPE HATTERAS NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NNW OR 344 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM EDT (2100 UTC), the center of Tropical Depression Six was
+located near latitude 31.8 North, longitude 71.8 West. The
+depression is moving toward the north-northwest near 7 mph
+(11 km/h), but the cyclone should begin to move generally northward
+and then northeastward on Wednesday with an increase in forward
+speed.
+
+Maximum sustained winds remain near 35 mph (55 km/h) with higher
+gusts. The cyclone is forecast to become a tropical storm on
+Wednesday, but it should begin to acquire extratropical
+characteristics and weaken on Thursday.
+
+The estimated minimum central pressure is 1008 mb (29.77 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+None
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+
+$$
+Forecaster Avila
+
+NNNN

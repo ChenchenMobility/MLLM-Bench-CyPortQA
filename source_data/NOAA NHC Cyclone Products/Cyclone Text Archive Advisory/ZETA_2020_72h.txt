@@ -1,0 +1,118 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM CCA
+ 
+BULLETIN
+Tropical Storm Zeta Advisory Number   5...Corrected
+NWS National Hurricane Center Miami FL       AL282020
+500 PM EDT Sun Oct 25 2020
+
+Corrected Present Movement
+
+...ZETA STRONGER...
+...LIKELY TO BECOME A HURRICANE BY THE TIME IT NEARS THE YUCATAN
+PENINSULA...
+ 
+ 
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.7N 83.4W
+ABOUT 305 MI...490 KM SSE OF THE WESTERN TIP OF CUBA
+ABOUT 300 MI...480 KM SE OF COZUMEL MEXICO
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...STATIONARY
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of Mexico has issued a Hurricane Warning for the
+Yucatan Peninsula from Tulum to Rio Lagartos, including Cozumel.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Tulum to Rio Lagartos Mexico
+* Cozumel
+ 
+ A Tropical Storm Warning is in effect for...
+* Pinar del Rio Cuba
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM EDT (2100 UTC), the center of Tropical Storm Zeta was
+located near latitude 17.7 North, longitude 83.4 West.  Zeta has 
+been meandering or nearly stationary, but a generally northwestward
+motion is expected over the next couple of days.  On the forecast
+track, the center of Zeta will pass south of western Cuba early
+Monday and move near or over the northern Yucatan Peninsula or the
+Yucatan Channel late Monday, move into the southern Gulf of Mexico
+on Tuesday, and reach the central Gulf of Mexico by late Tuesday.
+ 
+Reports from a NOAA Hurricane Hunter aircraft indicate that 
+the maximum sustained winds have increased near 50 mph (85 km/h) 
+with higher gusts.  Strengthening is forecast during the next 48 
+hours, and Zeta is expected to become a hurricane before it moves 
+near or over the Yucatan Peninsula late Monday.
+ 
+Tropical-storm-force winds extend outward up to 115 miles (185 km)
+from the center.
+ 
+The minimum central pressure estimated from NOAA Hurricane Hunter 
+aircraft observations is 999 mb (29.50 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Zeta can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDAT3 and WMO header
+WTNT43 KNHC.
+ 
+RAINFALL: Rainfall totals of 4 to 8 inches with local amounts of 12
+inches are possible through Wednesday along and east-northeast of
+Zeta’s track from Jamaica, the Cayman Islands, central to western
+Cuba,  and the northeast Yucatan peninsula of Mexico.  Additional
+rainfall amounts of 1 to 3 inches with local amounts of 5 inches
+possible across Southern Florida and the Keys over the next 2 days,
+with isolated storm totals of 8 inches.
+ 
+By Wednesday, heavy rainfall associated with Zeta will begin to
+affect the central Gulf Coast region, which may lead to flash
+flooding in urban areas.
+ 
+WIND:  Hurricane conditions are expected within the Hurricane
+Warning area in the Yucatan Peninsula by late Monday.  Tropical
+storm conditions could occur in the warning area in Western Cuba on
+Monday.
+ 
+STORM SURGE:  A dangerous storm surge will raise water levels by
+as much as 1-3 feet above normal tide levels along the immediate
+coast in the Hurricane Warning area near and to the north of where
+the center makes landfall in the Yucatan Peninsula.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM EDT.
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Pasch
+ 
+NNNN

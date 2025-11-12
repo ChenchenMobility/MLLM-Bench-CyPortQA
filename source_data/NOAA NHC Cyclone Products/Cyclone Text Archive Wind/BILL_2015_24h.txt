@@ -1,0 +1,88 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM BILL WIND SPEED PROBABILITIES NUMBER   1             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL022015               
+0300 UTC TUE JUN 16 2015                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM BILL WAS LOCATED NEAR LATITUDE
+27.1 NORTH...LONGITUDE 94.2 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+45 KTS...50 MPH...85 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 64 KT ARE SHOWN WHEN THE 5-DAY CUMULATIVE         
+PROBABILITY IS AT LEAST 1 PERCENT.                                  
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z TUE 12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT 00Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+GFMX 280N 910W 34  3   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+BATON ROUGE LA 34  4   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+NEW IBERIA LA  34  7   1( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+GFMX 280N 930W 34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+SHREVEPORT LA  34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+PORT ARTHUR TX 34 28   2(30)   X(30)   X(30)   X(30)   X(30)   X(30)
+ 
+GALVESTON TX   34 58   3(61)   X(61)   X(61)   X(61)   X(61)   X(61)
+ 
+HOUSTON TX     34 33  13(46)   X(46)   X(46)   X(46)   X(46)   X(46)
+ 
+AUSTIN TX      34  3  13(16)   9(25)   X(25)   X(25)   X(25)   X(25)
+ 
+SAN ANTONIO TX 34  3   5( 8)   3(11)   X(11)   X(11)   X(11)   X(11)
+ 
+FREEPORT TX    34 69   8(77)   X(77)   X(77)   X(77)   X(77)   X(77)
+FREEPORT TX    50  7   4(11)   X(11)   X(11)   X(11)   X(11)   X(11)
+ 
+GFMX 280N 950W 34 89   3(92)   X(92)   X(92)   X(92)   X(92)   X(92)
+GFMX 280N 950W 50 24   X(24)   X(24)   X(24)   X(24)   X(24)   X(24)
+GFMX 280N 950W 64  1   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+PORT O CONNOR  34 32  21(53)   X(53)   X(53)   X(53)   X(53)   X(53)
+PORT O CONNOR  50  6   6(12)   X(12)   X(12)   X(12)   X(12)   X(12)
+PORT O CONNOR  64  X   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+CORPUS CHRISTI 34  6   4(10)   1(11)   X(11)   X(11)   X(11)   X(11)
+ 
+GFMX 270N 960W 34 23   2(25)   1(26)   X(26)   X(26)   X(26)   X(26)
+ 
+$$                                                                  
+FORECASTER BRENNAN                                                  
+NNNN                                                                

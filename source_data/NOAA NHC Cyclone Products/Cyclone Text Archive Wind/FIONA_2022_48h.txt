@@ -1,0 +1,142 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM FIONA WIND SPEED PROBABILITIES NUMBER  11            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072022               
+0300 UTC SAT SEP 17 2022                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM FIONA WAS LOCATED NEAR        
+LATITUDE 16.6 NORTH...LONGITUDE 62.2 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 50 KTS...60 MPH...95 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SAT 12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED 00Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+GRAND BAHAMA   34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+NEW PROVIDENCE 34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   4( 6)
+ 
+ANDROS         34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   4( 6)
+ 
+GREAT EXUMA    34  X   X( X)   X( X)   X( X)   1( 1)   6( 7)   8(15)
+GREAT EXUMA    50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+GREAT EXUMA    64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+SAN SALVADOR   34  X   X( X)   X( X)   X( X)   2( 2)  12(14)  13(27)
+SAN SALVADOR   50  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   6(10)
+SAN SALVADOR   64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+MAYAGUANA      34  X   X( X)   X( X)   1( 1)  10(11)  22(33)  11(44)
+MAYAGUANA      50  X   X( X)   X( X)   X( X)   1( 1)  10(11)   7(18)
+MAYAGUANA      64  X   X( X)   X( X)   X( X)   X( X)   4( 4)   1( 5)
+ 
+GRAND TURK     34  X   X( X)   1( 1)   5( 6)  24(30)  20(50)   7(57)
+GRAND TURK     50  X   X( X)   X( X)   X( X)   9( 9)  10(19)   4(23)
+GRAND TURK     64  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   2( 7)
+ 
+GUANTANAMO BAY 34  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   1( 5)
+ 
+LES CAYES      34  X   X( X)   X( X)   1( 1)   1( 2)   2( 4)   1( 5)
+ 
+PORT-AU-PRINCE 34  X   X( X)   1( 1)   3( 4)   5( 9)   5(14)   2(16)
+ 
+CAPE BEATA     34  X   X( X)   2( 2)   4( 6)   5(11)   3(14)   1(15)
+ 
+PUERTO PLATA   34  X   X( X)   4( 4)  12(16)  23(39)   8(47)   3(50)
+PUERTO PLATA   50  X   X( X)   X( X)   2( 2)   9(11)   3(14)   1(15)
+PUERTO PLATA   64  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   1( 5)
+ 
+SANTO DOMINGO  34  X   1( 1)   3( 4)  22(26)  12(38)   2(40)   1(41)
+SANTO DOMINGO  50  X   X( X)   X( X)   7( 7)   6(13)   X(13)   1(14)
+SANTO DOMINGO  64  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+PONCE PR       34  1  39(40)  30(70)   2(72)   1(73)   X(73)   X(73)
+PONCE PR       50  X   3( 3)  11(14)   2(16)   X(16)   X(16)   X(16)
+PONCE PR       64  X   X( X)   1( 1)   1( 2)   X( 2)   X( 2)   X( 2)
+ 
+AGUADILLA PR   34  2  25(27)  37(64)   7(71)   2(73)   X(73)   X(73)
+AGUADILLA PR   50  X   2( 2)  17(19)   6(25)   1(26)   X(26)   X(26)
+AGUADILLA PR   64  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+SAN JUAN PR    34  1  43(44)  16(60)   1(61)   1(62)   X(62)   X(62)
+SAN JUAN PR    50  X   3( 3)   7(10)   1(11)   X(11)   X(11)   X(11)
+SAN JUAN PR    64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+VIEQUES PR     34 21  51(72)   6(78)   X(78)   1(79)   X(79)   X(79)
+VIEQUES PR     50  X  23(23)   4(27)   1(28)   X(28)   X(28)   X(28)
+VIEQUES PR     64  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+SAINT THOMAS   34 36  30(66)   3(69)   X(69)   1(70)   X(70)   X(70)
+SAINT THOMAS   50  1  12(13)   X(13)   X(13)   X(13)   X(13)   X(13)
+SAINT THOMAS   64  X   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+SAINT JOHN     34 42  25(67)   2(69)   X(69)   1(70)   X(70)   X(70)
+SAINT JOHN     50  1  11(12)   X(12)   X(12)   X(12)   X(12)   X(12)
+ 
+SAINT CROIX    34 58  32(90)   1(91)   X(91)   X(91)   X(91)   X(91)
+SAINT CROIX    50  3  42(45)   2(47)   X(47)   X(47)   X(47)   X(47)
+SAINT CROIX    64  X   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+SAINT MAARTEN  34 68   1(69)   1(70)   X(70)   X(70)   X(70)   X(70)
+SAINT MAARTEN  50  5   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+SABA           34 88   1(89)   X(89)   X(89)   X(89)   X(89)   X(89)
+SABA           50 31   2(33)   X(33)   X(33)   X(33)   X(33)   X(33)
+SABA           64  1   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+ST EUSTATIUS   34 95   X(95)   X(95)   X(95)   X(95)   X(95)   X(95)
+ST EUSTATIUS   50 42   1(43)   X(43)   X(43)   X(43)   X(43)   X(43)
+ 
+ST KITTS-NEVIS 34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ST KITTS-NEVIS 50 58   X(58)   X(58)   X(58)   X(58)   X(58)   X(58)
+ 
+BARBUDA        34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+ANTIGUA        34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ANTIGUA        50 70   X(70)   X(70)   X(70)   X(70)   X(70)   X(70)
+ 
+GUADELOUPE     34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+AVES           34 28   4(32)   1(33)   X(33)   X(33)   X(33)   X(33)
+ 
+DOMINICA       34  7   X( 7)   1( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

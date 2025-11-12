@@ -1,0 +1,170 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Harvey Advisory Number  16
+NWS National Hurricane Center Miami FL       AL092017
+1000 AM CDT Thu Aug 24 2017
+
+...HARVEY QUICKLY STRENGTHENING AND FORECAST TO BE A MAJOR
+HURRICANE WHEN IT APPROACHES THE MIDDLE TEXAS COAST...
+...LIFE-THREATENING STORM SURGE AND FRESHWATER FLOODING EXPECTED...
+
+
+SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...24.0N 93.3W
+ABOUT 365 MI...590 KM SE OF CORPUS CHRISTI TEXAS
+ABOUT 360 MI...580 KM SSE OF PORT OCONNOR TEXAS
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...NNW OR 340 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...982 MB...29.00 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Storm Surge Warning is in effect for...
+* Port Mansfield to San Luis Pass Texas
+
+A Storm Surge Watch is in effect for...
+* South of Port Mansfield Texas to the Mouth of the Rio Grande
+* North of San Luis Pass to High Island Texas
+
+A Hurricane Warning is in effect for...
+* Port Mansfield to Matagorda Texas
+
+A Tropical Storm Warning is in effect for...
+* North of Matagorda to High Island Texas
+* South of Port Mansfield Texas to the Mouth of the Rio Grande
+
+A Hurricane Watch is in effect for...
+* South of Port Mansfield Texas to the Mouth of the Rio Grande
+
+A Tropical Storm Watch is in effect for...
+* South of the Mouth of the Rio Grande to Boca de Catan Mexico
+
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a
+depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.  This is a life-threatening situation.  Persons
+located within these areas should take all necessary actions to
+protect life and property from rising water and the potential for
+other dangerous conditions.  Promptly follow evacuation and other
+instructions from local officials.
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of tropical-storm-
+force winds, conditions that make outside preparations difficult or
+dangerous.  Preparations to protect life and property should be
+rushed to completion.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+
+In addition, interests in southwestern Louisiana should continue to
+monitor the progress of this system.
+
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area outside
+the United States, please monitor products issued by your national
+meteorological service.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 1000 AM CDT (1500 UTC), the center of Tropical Storm Harvey was
+located by an Air Force Reserve Hurricane Hunter aircraft near
+latitude 24.0 North, longitude 93.3 West. Harvey is moving toward
+the north-northwest near 10 mph (17 km/h).  A turn toward the
+northwest is expected later today, and Harvey's forward speed is
+forecast to slow down during the next couple of days.  On the
+forecast track, Harvey will approach the middle Texas coast on
+Friday and make landfall Friday night or early Saturday, and then
+stall near the middle Texas coast through the weekend.
+
+Data from the Hurricane Hunter plane indicate that maximum sustained
+winds have increased to near 65 mph (100 km/h) with higher gusts.
+Rapid strengthening is forecast, and Harvey is expected to become a
+major hurricane before it reaches the middle Texas coast.
+
+Tropical-storm-force winds extend outward up to 90 miles (150 km)
+from the center.
+
+The minimum central pressure based on reconnaissance data is 982 mb
+(29.00 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL:  Harvey is expected to produce total rain accumulations of
+12 to 20 inches and isolated maximum amounts of 30 inches over the
+middle and upper Texas coast through next Wednesday. During the same
+time period Harvey is expected to produce total rain accumulations
+of 5 to 12 inches in far south Texas and the Texas Hill Country to
+central Louisiana, with accumulations of less than 5 inches
+extending into other parts of Texas and the lower Mississippi
+Valley. Rainfall from Harvey may cause life-threatening flooding.
+
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water is
+expected to reach the following heights above ground if the peak
+surge occurs at the time of high tide...
+
+N Entrance Padre Island Natl Seashore to Sargent...6 to 10 ft
+Sargent to San Luis Pass...5 to 7 ft
+Port Mansfield to N Entrance Padre Island Natl Seashore...5 to 7 ft
+San Luis Pass to High Island...2 to 4 ft
+Mouth of the Rio Grande to Port Mansfield...2 to 4 ft
+High Island to Morgan City...1 to 3 ft
+
+The deepest water will occur along the immediate coast near and to
+the northeast of the landfall location, where the surge will be
+accompanied by large and destructive waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle, and
+can vary greatly over short distances.  For information specific to
+your area, please see products issued by your local National Weather
+Service forecast office.
+
+WIND:  Hurricane conditions are likely within the hurricane warning
+area late Friday or Friday night, with tropical storm conditions
+expected to first reach the coast in the hurricane warning area
+Friday.
+
+SURF:  Swells generated by Harvey are likely to affect the Texas,
+Louisiana, and northeast Mexico coasts by Friday.  These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 100 PM CDT.
+Next complete advisory at 400 PM CDT.
+
+$$
+Forecaster Berg
+
+NNNN

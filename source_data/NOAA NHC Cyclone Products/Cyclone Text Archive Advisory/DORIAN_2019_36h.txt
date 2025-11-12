@@ -1,0 +1,187 @@
+
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Hurricane Dorian Intermediate Advisory Number 52A
+NWS National Hurricane Center Miami FL       AL052019
+800 AM EDT Fri Sep 06 2019
+
+...EYE OF DORIAN NEAR CAPE HATTERAS NORTH CAROLINA...
+
+
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...35.2N 75.7W
+ABOUT 10 MI...15 KM WSW OF CAPE HATTERAS NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
+PRESENT MOVEMENT...NE OR 50 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...956 MB...28.23 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The Hurricane Warning and the Tropical Storm Warning have been
+discontinued west of Surf City, North Carolina.
+
+The Storm Surge Warning south of Salter Path, North Carolina has
+been discontinued.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Storm Surge Warning is in effect for...
+* Salter Path NC to Poquoson VA
+* Pamlico and Albemarle Sounds
+* Neuse and Pamlico Rivers
+* Hampton Roads
+
+A Hurricane Warning is in effect for...
+* Surf City to the North Carolina/Virginia border
+* Pamlico and Albemarle Sounds
+
+A Hurricane Watch is in effect for...
+* Nova Scotia
+
+A Tropical Storm Warning is in effect for...
+* North Carolina/Virginia border to Fenwick Island DE
+* Chesapeake Bay from Drum Point southward
+* Tidal Potomac south of Cobb Island
+* Woods Hole to Sagamore Beach MA
+* Nantucket and Martha's Vineyard MA
+
+A Tropical Storm Watch is in effect for...
+* Prince Edward Island
+* Magdalen Islands
+* Fundy National Park to Shediac
+* Francois to Boat Harbour
+
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a depiction
+of areas at risk, please see the National Weather Service
+Storm Surge Watch/Warning Graphic, available at hurricanes.gov.
+This is a life-threatening situation.  Persons located within these
+areas should take all necessary actions to protect life and property
+from rising water and the potential for other dangerous conditions.
+Promptly follow evacuation and other instructions from local
+officials.
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  Preparations to protect life and
+property should be rushed to completion.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected within the warning area within 36 hours.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, in this case within 36 hours.
+
+Interests elsewhere along the Mid-Atlantic and New England coasts of
+the United States should monitor the progress of Dorian.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM EDT (1200 UTC), the center of Hurricane Dorian was located
+near latitude 35.2 North, longitude 75.7 West. Dorian is moving
+toward the northeast near 14 mph (22 km/h) and this general motion
+with an increase in forward speed is expected through Saturday.  On
+the forecast track, the center of Dorian will move near or over the
+coast of North Carolina during the next few hours.  The center
+should move to the southeast of extreme southeastern New England
+tonight and Saturday morning, and then across Nova Scotia late
+Saturday or Saturday night.
+
+Maximum sustained winds are near 90 mph (150 km/h) with higher
+gusts.  Dorian should remain a powerful hurricane as it moves near
+or along the coast of North Carolina during the next few hours.
+Dorian is forecast to become a post-tropical cyclone with
+hurricane-force winds by Saturday night as it approaches Nova
+Scotia.
+
+Hurricane-force winds extend outward up to 45 miles (75 km) from
+the center and tropical-storm-force winds extend outward up to 220
+miles (350 km).  A Weatherflow station at Buxton, North Carolina,
+recently reported a sustained wind of 67 mph (107 km/h) and a gust
+to 85 mph (145 km/h).
+
+The estimated minimum central pressure based on data from the Air
+Force Hurricane Hunters and surface observations is 956 mb (28.23
+inches).  An automated station in Ocracoke recently reported a
+pressure of 960.4 mb (28.36 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND:  Hurricane conditions should continue along portions of the
+North Carolina coast for the next few hours.  Tropical storm
+conditions are spreading onto the Virginia coast in the warning
+area.
+
+Tropical storm conditions are expected elsewhere in the Tropical
+Storm Warning area in the Mid-Atlantic states later today and over
+portions of extreme southeastern Massachusetts tonight or early
+Saturday.
+
+Hurricane conditions are possible in Nova Scotia on Saturday.
+
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+
+Salter Path to Duck NC, including Pamlico and Albemarle
+Sounds and the Neuse and Pamlico Rivers...4 to 7 ft
+Duck NC to Poquoson VA, including Hampton Roads...2 to 4 ft
+
+Water levels could begin to rise well in advance of the arrival of
+strong winds.  The surge will be accompanied by large and
+destructive waves.  Surge-related flooding depends on the how close
+the center of Dorian comes to the coast, and can vary greatly over
+short distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
+
+RAINFALL:  Dorian is expected to produce the following rainfall
+totals through Saturday.
+
+Northeastern North Carolina...Additional 3 to 8 inches, isolated
+storm totals 15 inches.
+Far southeast Virginia...3 to 8 inches.
+Extreme southeastern New England...2 to 4 inches.
+Nova Scotia and Prince Edward Island...3 to 5 inches.
+Newfoundland...1 to 2 inches.
+
+This rainfall may cause life-threatening flash floods
+
+SURF:  Large swells will affect much of the southeastern United
+States coast from northern Florida through North Carolina during
+the next couple of days.  These swells are likely to cause
+life-threatening surf and rip current conditions. Please consult
+products from your local weather office.
+
+TORNADOES:  A few tornadoes are possible this morning across
+eastern North Carolina into southeastern Virginia.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+
+$$
+Forecaster Beven
+
+NNNN

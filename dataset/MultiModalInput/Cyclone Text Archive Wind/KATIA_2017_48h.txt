@@ -1,0 +1,75 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE KATIA WIND SPEED PROBABILITIES NUMBER   5                 
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132017               
+2100 UTC WED SEP 06 2017                                            
+                                                                    
+AT 2100Z THE CENTER OF HURRICANE KATIA WAS LOCATED NEAR LATITUDE    
+21.7 NORTH...LONGITUDE 95.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+65 KTS...75 MPH...120 KM/H.                                         
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z WED 06Z THU 18Z THU 06Z FRI 18Z FRI 18Z SAT 18Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z THU 18Z THU 06Z FRI 18Z FRI 18Z SAT 18Z SUN 18Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+BROWNSVILLE TX 34  X   X( X)   2( 2)   1( 3)   1( 4)   X( 4)   X( 4)
+ 
+GFMX 250N 960W 34  1   2( 3)   2( 5)   3( 8)   2(10)   X(10)   X(10)
+ 
+LA PESCA MX    34  1   2( 3)   2( 5)   4( 9)   5(14)   X(14)   X(14)
+ 
+TAMPICO MX     34  1   3( 4)   4( 8)  18(26)  14(40)   X(40)   X(40)
+TAMPICO MX     50  X   X( X)   1( 1)   2( 3)   7(10)   X(10)   X(10)
+TAMPICO MX     64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+TUXPAN MX      34  1   3( 4)  12(16)  35(51)  23(74)   X(74)   X(74)
+TUXPAN MX      50  X   1( 1)   2( 3)  13(16)  19(35)   X(35)   X(35)
+TUXPAN MX      64  X   X( X)   X( X)   4( 4)   8(12)   X(12)   X(12)
+ 
+VERACRUZ MX    34  1   3( 4)  10(14)  18(32)  13(45)   X(45)   X(45)
+VERACRUZ MX    50  X   1( 1)   2( 3)   4( 7)   8(15)   X(15)   X(15)
+VERACRUZ MX    64  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+FRONTERA MX    34  1   2( 3)   2( 5)   2( 7)   1( 8)   X( 8)   X( 8)
+ 
+MERIDA MX      34  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER AVILA                                                    
+NNNN                                                                

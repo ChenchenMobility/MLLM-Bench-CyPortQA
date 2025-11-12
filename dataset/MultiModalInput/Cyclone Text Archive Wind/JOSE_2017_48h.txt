@@ -1,0 +1,118 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE JOSE WIND SPEED PROBABILITIES NUMBER   8                  
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL122017               
+0900 UTC THU SEP 07 2017                                            
+                                                                    
+AT 0900Z THE CENTER OF HURRICANE JOSE WAS LOCATED NEAR LATITUDE 14.8
+NORTH...LONGITUDE 49.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 80 KTS
+...90 MPH...150 KM/H.                                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z THU 18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON 06Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+SAN SALVADOR   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+MAYAGUANA      34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ 
+GRAND TURK     34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   3( 7)
+ 
+PUERTO PLATA   34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+ 
+SANTO DOMINGO  34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+ 
+PONCE PR       34  X   X( X)   X( X)   X( X)   7( 7)   5(12)   X(12)
+ 
+AGUADILLA PR   34  X   X( X)   X( X)   X( X)   5( 5)   7(12)   X(12)
+AGUADILLA PR   50  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   X( 2)
+AGUADILLA PR   64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+SAN JUAN PR    34  X   X( X)   X( X)   X( X)  13(13)   7(20)   X(20)
+SAN JUAN PR    50  X   X( X)   X( X)   X( X)   2( 2)   3( 5)   X( 5)
+SAN JUAN PR    64  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   X( 2)
+ 
+VIEQUES PR     34  X   X( X)   X( X)   X( X)  18(18)   5(23)   1(24)
+VIEQUES PR     50  X   X( X)   X( X)   X( X)   4( 4)   3( 7)   X( 7)
+VIEQUES PR     64  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   X( 2)
+ 
+SAINT THOMAS   34  X   X( X)   X( X)   1( 1)  26(27)   7(34)   X(34)
+SAINT THOMAS   50  X   X( X)   X( X)   X( X)   8( 8)   5(13)   X(13)
+SAINT THOMAS   64  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   X( 5)
+ 
+SAINT CROIX    34  X   X( X)   X( X)   1( 1)  20(21)   5(26)   X(26)
+SAINT CROIX    50  X   X( X)   X( X)   X( X)   6( 6)   1( 7)   X( 7)
+SAINT CROIX    64  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+SAINT MAARTEN  34  X   X( X)   1( 1)   5( 6)  48(54)   2(56)   1(57)
+SAINT MAARTEN  50  X   X( X)   X( X)   X( X)  28(28)   2(30)   X(30)
+SAINT MAARTEN  64  X   X( X)   X( X)   X( X)  16(16)   2(18)   X(18)
+ 
+ST KITTS-NEVIS 34  X   X( X)   1( 1)   6( 7)  37(44)   1(45)   X(45)
+ST KITTS-NEVIS 50  X   X( X)   X( X)   1( 1)  18(19)   X(19)   X(19)
+ST KITTS-NEVIS 64  X   X( X)   X( X)   X( X)   9( 9)   X( 9)   X( 9)
+ 
+BARBUDA        34  X   X( X)   3( 3)  19(22)  46(68)   X(68)   X(68)
+BARBUDA        50  X   X( X)   X( X)   4( 4)  37(41)   1(42)   X(42)
+BARBUDA        64  X   X( X)   X( X)   1( 1)  21(22)   X(22)   X(22)
+ 
+ANTIGUA        34  X   X( X)   3( 3)  19(22)  34(56)   1(57)   X(57)
+ANTIGUA        50  X   X( X)   X( X)   4( 4)  22(26)   X(26)   X(26)
+ANTIGUA        64  X   X( X)   X( X)   X( X)  15(15)   X(15)   X(15)
+ 
+GUADELOUPE     34  X   X( X)   3( 3)  17(20)  17(37)   1(38)   X(38)
+GUADELOUPE     50  X   X( X)   X( X)   4( 4)   9(13)   X(13)   X(13)
+GUADELOUPE     64  X   X( X)   X( X)   X( X)   5( 5)   X( 5)   X( 5)
+ 
+AVES           34  X   X( X)   X( X)   4( 4)   7(11)   X(11)   1(12)
+ 
+DOMINICA       34  X   X( X)   3( 3)   7(10)   7(17)   X(17)   X(17)
+DOMINICA       50  X   X( X)   X( X)   2( 2)   2( 4)   X( 4)   X( 4)
+ 
+MARTINIQUE     34  X   X( X)   3( 3)   4( 7)   5(12)   X(12)   X(12)
+ 
+SAINT LUCIA    34  X   X( X)   3( 3)   2( 5)   3( 8)   X( 8)   X( 8)
+ 
+SAINT VINCENT  34  X   X( X)   1( 1)   2( 3)   2( 5)   X( 5)   X( 5)
+ 
+BARBADOS       34  X   X( X)   3( 3)   3( 6)   1( 7)   X( 7)   X( 7)
+ 
+$$                                                                  
+FORECASTER ROBERTS                                                  
+NNNN                                                                

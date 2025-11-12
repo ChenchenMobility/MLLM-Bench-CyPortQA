@@ -1,0 +1,158 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM GRACE WIND SPEED PROBABILITIES NUMBER   6            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072021               
+2100 UTC SAT AUG 14 2021                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM GRACE WAS LOCATED NEAR        
+LATITUDE 15.9 NORTH...LONGITUDE 60.7 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SAT 06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED 18Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+FT PIERCE FL   34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ 
+W PALM BEACH   34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   2( 5)
+ 
+FT LAUDERDALE  34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   3( 7)
+ 
+MIAMI FL       34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ 
+HOMESTEAD ARB  34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   2( 5)
+ 
+MARATHON FL    34  X   X( X)   X( X)   X( X)   X( X)   8( 8)   7(15)
+MARATHON FL    50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+KEY WEST FL    34  X   X( X)   X( X)   X( X)   X( X)   7( 7)  10(17)
+KEY WEST FL    50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+NAPLES FL      34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   5( 9)
+ 
+FT MYERS FL    34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+VENICE FL      34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   5( 7)
+ 
+TAMPA FL       34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   4( 5)
+ 
+GFMX 290N 850W 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+GFMX 290N 870W 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+GFMX 280N 890W 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+GRAND BAHAMA   34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+ 
+NEW PROVIDENCE 34  X   X( X)   X( X)   X( X)   X( X)   6( 6)   1( 7)
+ 
+ANDROS         34  X   X( X)   X( X)   X( X)   2( 2)   8(10)   2(12)
+ 
+GREAT EXUMA    34  X   X( X)   X( X)   X( X)   5( 5)   6(11)   1(12)
+ 
+SAN SALVADOR   34  X   X( X)   X( X)   X( X)   3( 3)   3( 6)   X( 6)
+ 
+MAYAGUANA      34  X   X( X)   X( X)   1( 1)   8( 9)   1(10)   X(10)
+ 
+GRAND TURK     34  X   X( X)   1( 1)   2( 3)   6( 9)   X( 9)   X( 9)
+ 
+CP SAN ANTONIO 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   4( 5)
+ 
+HAVANA         34  X   X( X)   X( X)   X( X)   X( X)   7( 7)   9(16)
+HAVANA         50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+ISLE OF PINES  34  X   X( X)   X( X)   X( X)   X( X)   6( 6)   6(12)
+ 
+CIENFUEGOS     34  X   X( X)   X( X)   X( X)   X( X)   9( 9)   3(12)
+ 
+CAMAGUEY       34  X   X( X)   X( X)   X( X)   3( 3)  11(14)   1(15)
+ 
+GUANTANAMO BAY 34  X   X( X)   X( X)   1( 1)  13(14)   4(18)   X(18)
+GUANTANAMO BAY 50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+GRAND CAYMAN   34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+ 
+MONTEGO BAY    34  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   X( 6)
+ 
+KINGSTON       34  X   X( X)   X( X)   X( X)   3( 3)   3( 6)   X( 6)
+ 
+LES CAYES      34  X   X( X)   X( X)   1( 1)  10(11)   X(11)   X(11)
+ 
+PORT-AU-PRINCE 34  X   X( X)   1( 1)   7( 8)  20(28)   1(29)   X(29)
+PORT-AU-PRINCE 50  X   X( X)   X( X)   1( 1)   5( 6)   X( 6)   X( 6)
+PORT-AU-PRINCE 64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+CAPE BEATA     34  X   X( X)   2( 2)  15(17)   7(24)   X(24)   X(24)
+CAPE BEATA     50  X   X( X)   X( X)   3( 3)   4( 7)   X( 7)   X( 7)
+CAPE BEATA     64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+PUERTO PLATA   34  X   X( X)   3( 3)  10(13)   6(19)   X(19)   X(19)
+PUERTO PLATA   50  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+SANTO DOMINGO  34  X   X( X)   7( 7)  22(29)   3(32)   X(32)   X(32)
+SANTO DOMINGO  50  X   X( X)   1( 1)   3( 4)   1( 5)   X( 5)   X( 5)
+ 
+PONCE PR       34  X  11(11)  16(27)   1(28)   X(28)   X(28)   X(28)
+ 
+AGUADILLA PR   34  X   2( 2)  24(26)   1(27)   1(28)   X(28)   X(28)
+AGUADILLA PR   50  X   X( X)   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+SAN JUAN PR    34  X   5( 5)   4( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+VIEQUES PR     34  X  12(12)   2(14)   X(14)   X(14)   X(14)   X(14)
+ 
+SAINT THOMAS   34  X   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+SAINT CROIX    34  X  21(21)   X(21)   X(21)   X(21)   X(21)   X(21)
+ 
+SABA           34  3   1( 4)   X( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+ST EUSTATIUS   34  4   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+ST KITTS-NEVIS 34  6   1( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+ANTIGUA        34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+GUADELOUPE     34 54   X(54)   X(54)   X(54)   X(54)   X(54)   X(54)
+ 
+AVES           34  3   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+$$                                                                  
+FORECASTER BERG                                                     
+NNNN                                                                

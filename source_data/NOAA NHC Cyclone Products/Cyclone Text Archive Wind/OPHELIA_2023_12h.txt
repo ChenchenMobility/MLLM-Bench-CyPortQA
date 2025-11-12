@@ -1,0 +1,161 @@
+
+ZCZC MIAPWSAT1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM OPHELIA WIND SPEED PROBABILITIES NUMBER   6          
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL162023               
+2100 UTC FRI SEP 22 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM OPHELIA WAS LOCATED NEAR      
+LATITUDE 32.9 NORTH...LONGITUDE 76.3 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 60 KTS...70 MPH...110 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z FRI 06Z SAT 18Z SAT 06Z SUN 18Z SUN 18Z MON 18Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SAT 18Z SAT 06Z SUN 18Z SUN 18Z MON 18Z TUE 18Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+BRIDGEPORT CT  34  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+MONTAUK POINT  34  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+ISLIP NY       34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+NYC JFK AIRPRT 34  X   1( 1)   2( 3)   1( 4)   5( 9)   X( 9)   X( 9)
+ 
+NYC CNTRL PARK 34  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+NEWARK NJ      34  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+TRENTON NJ     34  X   X( X)   1( 1)   2( 3)   2( 5)   X( 5)   X( 5)
+ 
+NWS EARLE NJ   34  X   X( X)   X( X)   2( 2)   3( 5)   X( 5)   X( 5)
+ 
+ALLENTOWN PA   34  X   X( X)   X( X)   2( 2)   2( 4)   X( 4)   X( 4)
+ 
+PHILADELPHIA   34  X   X( X)   1( 1)   3( 4)   3( 7)   X( 7)   X( 7)
+ 
+ATLANTIC CITY  34  X   1( 1)   1( 2)   3( 5)   2( 7)   X( 7)   X( 7)
+ 
+BALTIMORE MD   34  X   2( 2)   4( 6)   4(10)   1(11)   X(11)   X(11)
+ 
+DOVER DE       34  X   3( 3)   3( 6)   3( 9)   2(11)   X(11)   X(11)
+ 
+ANNAPOLIS MD   34  1   3( 4)   5( 9)   4(13)   2(15)   X(15)   X(15)
+ 
+WASHINGTON DC  34  1   3( 4)   6(10)   3(13)   1(14)   X(14)   X(14)
+ 
+CAPE HENLOPEN  34  8   8(16)   4(20)   5(25)   2(27)   X(27)   X(27)
+CAPE HENLOPEN  50  X   X( X)   X( X)   2( 2)   2( 4)   X( 4)   X( 4)
+CAPE HENLOPEN  64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+OCEAN CITY MD  34 14  11(25)   4(29)   3(32)   1(33)   X(33)   X(33)
+OCEAN CITY MD  50  X   X( X)   1( 1)   2( 3)   2( 5)   X( 5)   X( 5)
+OCEAN CITY MD  64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+PAX RIVER NAS  34  3  11(14)  10(24)   3(27)   1(28)   X(28)   X(28)
+ 
+WALLOPS CDA    34 18  15(33)   4(37)   2(39)   1(40)   X(40)   X(40)
+WALLOPS CDA    50  X   X( X)   2( 2)   2( 4)   1( 5)   X( 5)   X( 5)
+WALLOPS CDA    64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+CHARLOTTESVIL  34  2   6( 8)   4(12)   1(13)   X(13)   X(13)   X(13)
+ 
+RICHMOND VA    34  9  30(39)  10(49)   1(50)   1(51)   X(51)   X(51)
+ 
+DANVILLE VA    34  4   6(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+ 
+NORFOLK NAS    34 32  33(65)   2(67)   1(68)   X(68)   X(68)   X(68)
+ 
+NORFOLK VA     34 38  31(69)   1(70)   X(70)   X(70)   X(70)   X(70)
+NORFOLK VA     50  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+OCEANA NAS VA  34 49  19(68)   1(69)   1(70)   X(70)   X(70)   X(70)
+OCEANA NAS VA  50  X   3( 3)   2( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+OCEANA NAS VA  64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+ELIZABETH CTY  34 82   8(90)   1(91)   X(91)   X(91)   X(91)   X(91)
+ELIZABETH CTY  50  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+GREENSBORO NC  34  3   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+RALEIGH NC     34 22  10(32)   X(32)   X(32)   X(32)   X(32)   X(32)
+ 
+ROCKY MT NC    34 71  15(86)   X(86)   X(86)   X(86)   X(86)   X(86)
+ROCKY MT NC    50  X   9( 9)   X( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+CAPE HATTERAS  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+CAPE HATTERAS  50  3   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+FAYETTEVILLE   34 36   3(39)   X(39)   X(39)   X(39)   X(39)   X(39)
+ 
+CHERRY PT NC   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+CHERRY PT NC   50 26  18(44)   X(44)   X(44)   X(44)   X(44)   X(44)
+ 
+NEW RIVER NC   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+NEW RIVER NC   50 36   4(40)   X(40)   X(40)   X(40)   X(40)   X(40)
+NEW RIVER NC   64  3   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+MOREHEAD CITY  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+MOREHEAD CITY  50 53   5(58)   X(58)   X(58)   X(58)   X(58)   X(58)
+MOREHEAD CITY  64  4   3( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+SURF CITY NC   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+SURF CITY NC   50 57   2(59)   X(59)   X(59)   X(59)   X(59)   X(59)
+SURF CITY NC   64  5   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+WILMINGTON NC  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+WILMINGTON NC  50 13   1(14)   X(14)   X(14)   X(14)   X(14)   X(14)
+ 
+BALD HEAD ISL  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+BALD HEAD ISL  50 27   1(28)   X(28)   X(28)   X(28)   X(28)   X(28)
+ 
+FLORENCE SC    34  5   1( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+LITTLE RIVER   34 41   2(43)   X(43)   X(43)   1(44)   X(44)   X(44)
+LITTLE RIVER   50  6   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+MYRTLE BEACH   34 29   2(31)   X(31)   X(31)   X(31)   X(31)   X(31)
+ 
+GEORGETOWN SC  34  4   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+CHARLESTON SC  34  6   2( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+BEAUFORT MCAS  34  4   2( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+$$                                                                  
+FORECASTER REINHART                                                 
+NNNN                                                                

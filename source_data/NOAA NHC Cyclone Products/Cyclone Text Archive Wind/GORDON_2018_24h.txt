@@ -1,0 +1,111 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM GORDON WIND SPEED PROBABILITIES NUMBER   7           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072018               
+0300 UTC TUE SEP 04 2018                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM GORDON WAS LOCATED NEAR       
+LATITUDE 26.9 NORTH...LONGITUDE 84.3 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 50 KTS...60 MPH...95 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z TUE 12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT 00Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+APALACHICOLA   34  2   1( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+GFMX 290N 850W 34  6   2( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+PANAMA CITY FL 34  2   3( 5)   1( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+DESTIN EXEC AP 34  1  12(13)   1(14)   X(14)   X(14)   X(14)   X(14)
+ 
+BIRMINGHAM AL  34  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+MONTGOMERY AL  34  X   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+WHITING FLD FL 34  X   6( 6)   6(12)   X(12)   X(12)   X(12)   X(12)
+ 
+PENSACOLA FL   34  X  17(17)   3(20)   X(20)   X(20)   X(20)   X(20)
+ 
+GFMX 290N 870W 34 38  60(98)   X(98)   X(98)   X(98)   X(98)   X(98)
+GFMX 290N 870W 50  6  57(63)   X(63)   X(63)   X(63)   X(63)   X(63)
+GFMX 290N 870W 64  X  10(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+ 
+MOBILE AL      34  X  58(58)  15(73)   X(73)   X(73)   X(73)   X(73)
+MOBILE AL      50  X  13(13)   9(22)   X(22)   X(22)   X(22)   X(22)
+MOBILE AL      64  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+GULFPORT MS    34  X  69(69)  18(87)   X(87)   X(87)   X(87)   X(87)
+GULFPORT MS    50  X  21(21)  25(46)   X(46)   X(46)   X(46)   X(46)
+GULFPORT MS    64  X   1( 1)   8( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+STENNIS MS     34  X  41(41)  33(74)   X(74)   X(74)   X(74)   X(74)
+STENNIS MS     50  X   7( 7)  29(36)   X(36)   X(36)   X(36)   X(36)
+STENNIS MS     64  X   X( X)   8( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+BURAS LA       34  X  16(16)  10(26)   X(26)   X(26)   X(26)   X(26)
+BURAS LA       50  X   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+GFMX 280N 890W 34  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+JACKSON MS     34  X   1( 1)  40(41)   5(46)   X(46)   X(46)   X(46)
+JACKSON MS     50  X   X( X)   6( 6)   1( 7)   X( 7)   X( 7)   X( 7)
+JACKSON MS     64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+NEW ORLEANS LA 34  X   6( 6)  22(28)   X(28)   X(28)   X(28)   X(28)
+NEW ORLEANS LA 50  X   X( X)   6( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+BATON ROUGE LA 34  X   1( 1)   9(10)   1(11)   X(11)   X(11)   X(11)
+ 
+MORGAN CITY LA 34  X   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+ALEXANDRIA LA  34  X   1( 1)   3( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+LAFAYETTE LA   34  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+NEW IBERIA LA  34  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+SHREVEPORT LA  34  X   X( X)   2( 2)   1( 3)   2( 5)   X( 5)   X( 5)
+ 
+FORT POLK LA   34  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER BROWN                                                    
+NNNN                                                                

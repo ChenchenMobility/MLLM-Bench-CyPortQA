@@ -1,0 +1,172 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Hurricane Florence Advisory Number  58
+NWS National Hurricane Center Miami FL       AL062018
+500 PM EDT Thu Sep 13 2018
+
+...HURRICANE-FORCE WINDS GETTING CLOSER TO THE NORTH CAROLINA OUTER
+BANKS AND COASTAL SOUTHEASTERN NORTH CAROLINA...
+...LIFE-THREATENING STORM SURGE AND RAINFALL EXPECTED...
+
+
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...33.7N 76.2W
+ABOUT 100 MI...160 KM ESE OF WILMINGTON NORTH CAROLINA
+ABOUT 155 MI...250 KM E OF MYRTLE BEACH SOUTH CAROLINA
+MAXIMUM SUSTAINED WINDS...100 MPH...155 KM/H
+PRESENT MOVEMENT...WNW OR 295 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...955 MB...28.20 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+A Tropical Storm Warning has been issued from south of South Santee
+River to Edisto Beach, South Carolina.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Storm Surge Warning is in effect for...
+* South Santee River South Carolina to Duck North Carolina
+* Albemarle and Pamlico Sounds, including the Neuse and Pamlico
+Rivers
+
+A Storm Surge Watch is in effect for...
+* Edisto Beach South Carolina to South Santee River South Carolina
+* North of Duck North Carolina to the North Carolina/Virginia border
+
+A Hurricane Warning is in effect for...
+* South Santee River South Carolina to Duck North Carolina
+* Albemarle and Pamlico Sounds
+
+A Hurricane Watch is in effect for...
+* Edisto Beach South Carolina to South Santee River South Carolina
+
+A Tropical Storm Warning is in effect for...
+* North of Duck North Carolina to Cape Charles Light Virginia
+* Chesapeake Bay south of New Point Comfort
+* Edisto Beach South Carolina to South Santee River South Carolina
+
+Interests elsewhere in the southeastern and mid-Atlantic states
+should monitor the progress of Florence.
+
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline. For
+a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline.
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area, in this case within the next 12
+to 24 hours.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM EDT (2100 UTC), data from NOAA Doppler weather radars
+indicate that the center of the eye of Florence was located near
+latitude 33.7 North, longitude 76.2 West. Florence is moving toward
+the west-northwest near 5 mph (7 km/h), and this general motion is
+forecast to continue into Friday. A slow westward to west-
+southwestward motion is expected Friday night and Saturday. On
+the forecast track, the center of Florence will approach the coasts
+of North and South Carolina later tonight, then move near or over
+the coast of southern North Carolina and northeastern South Carolina
+in the hurricane warning area on Friday. A slow motion across
+portions of eastern and central South Carolina is forecast Friday
+night through Saturday night.
+
+Doppler radar data indicate that maximum sustained winds have
+decreased to near 100 mph (155 km/h) with higher gusts. Little
+change in strength is expected before the eye of Florence reaches
+the coast, with slow weakening expected after the center moves
+inland or meanders near the coast. More significant weakening is
+forecast on Saturday as Florence moves farther inland over central
+South Carolina.
+
+Hurricane-force winds extend outward up to 80 miles (130 km) from
+the center and tropical-storm-force winds extend outward up to 195
+miles (315 km).  A NOAA reporting station at Cape Lookout, North
+Carolina, recently reported a sustained wind of 68 mph (109 km/h)
+and a gust to 85 mph (137 km/h).
+
+The estimated minimum central pressure is 955 mb (28.20 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water has the
+potential to reach the following heights above ground...
+
+Cape Fear NC to Cape Lookout NC...7-11 ft, with locally higher
+amounts in the Neuse, Pamlico, Pungo, and Bay Rivers
+Cape Lookout NC to Ocracoke Inlet NC...6-9 ft
+South Santee River SC to Cape Fear NC...4-6 ft
+Ocracoke Inlet NC to Salvo NC...4-6 ft
+Salvo NC to North Carolina/Virginia Border...2-4 ft
+Edisto Beach SC to South Santee River SC...2-4 ft
+
+The deepest water will occur along the immediate coast in areas of
+onshore winds, where the surge will be accompanied by large and
+destructive waves.  Surge-related flooding can vary greatly over
+short distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
+
+RAINFALL: Florence is expected to produce heavy and excessive
+rainfall in the following areas...
+
+Southeastern coastal North Carolina into far northeastern South
+Carolina...20 to 30 inches, isolated 40 inches. This rainfall will
+produce catastrophic flash flooding and prolonged significant river
+flooding.
+
+Remainder of South Carolina and North Carolina into southwest
+Virginia...6 to 12 inches, isolated 15 inches. This rainfall will
+produce life-threatening flash flooding.
+
+WIND:  Hurricane conditions are expected to reach the coast within
+the hurricane warning area this evening or early Friday.  Tropical
+storm conditions are already moving onshore within the warning
+area.
+
+TORNADOES:  A few tornadoes are possible in eastern and
+southeastern North Carolina through Friday.
+
+SURF:  Swells generated by Florence are affecting Bermuda, portions
+of the U.S. East Coast, and the northwestern and central Bahamas.
+These swells are likely to cause life-threatening surf and rip
+current conditions. Please consult products from your local weather
+office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM EDT.
+Next complete advisory at 1100 PM EDT.
+
+$$
+Forecaster Stewart
+
+NNNN

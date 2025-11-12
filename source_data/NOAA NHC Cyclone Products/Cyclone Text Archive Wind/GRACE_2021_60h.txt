@@ -1,0 +1,123 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL DEPRESSION GRACE WIND SPEED PROBABILITIES NUMBER  14       
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072021               
+2100 UTC MON AUG 16 2021                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL DEPRESSION GRACE WAS LOCATED NEAR   
+LATITUDE 17.9 NORTH...LONGITUDE 72.4 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z MON AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z MON 06Z TUE 18Z TUE 06Z WED 18Z WED 18Z THU 18Z FRI
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z TUE 18Z TUE 06Z WED 18Z WED 18Z THU 18Z FRI 18Z SAT
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+MARATHON FL    34  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+KEY WEST FL    34  X   X( X)   X( X)   3( 3)   1( 4)   X( 4)   X( 4)
+ 
+GFMX 280N 910W 34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+GFMX 280N 930W 34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   X( 3)
+ 
+GFMX 280N 950W 34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ 
+PORT O CONNOR  34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+CORPUS CHRISTI 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+GFMX 270N 960W 34  X   X( X)   X( X)   X( X)   X( X)   5( 5)   3( 8)
+ 
+MCALLEN TX     34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   6( 9)
+ 
+HARLINGEN TX   34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   5( 9)
+ 
+BROWNSVILLE TX 34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   7(11)
+ 
+GFMX 250N 960W 34  X   X( X)   X( X)   X( X)   1( 1)  16(17)   9(26)
+GFMX 250N 960W 50  X   X( X)   X( X)   X( X)   X( X)   4( 4)   3( 7)
+GFMX 250N 960W 64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+LA PESCA MX    34  X   X( X)   X( X)   X( X)   X( X)   7( 7)  18(25)
+LA PESCA MX    50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   6( 7)
+LA PESCA MX    64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+TAMPICO MX     34  X   X( X)   X( X)   X( X)   X( X)   9( 9)  18(27)
+TAMPICO MX     50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   6( 8)
+TAMPICO MX     64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+TUXPAN MX      34  X   X( X)   X( X)   X( X)   X( X)   6( 6)  13(19)
+TUXPAN MX      50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   4( 5)
+TUXPAN MX      64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+VERACRUZ MX    34  X   X( X)   X( X)   X( X)   X( X)   6( 6)   4(10)
+ 
+MERIDA MX      34  X   X( X)   X( X)   X( X)  19(19)   5(24)   1(25)
+MERIDA MX      50  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   X( 5)
+MERIDA MX      64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+COZUMEL MX     34  X   X( X)   X( X)   3( 3)  33(36)   1(37)   X(37)
+COZUMEL MX     50  X   X( X)   X( X)   X( X)  12(12)   X(12)   X(12)
+COZUMEL MX     64  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+BELIZE CITY    34  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+CP SAN ANTONIO 34  X   X( X)   X( X)  13(13)  27(40)   X(40)   X(40)
+CP SAN ANTONIO 50  X   X( X)   X( X)   1( 1)   9(10)   X(10)   X(10)
+CP SAN ANTONIO 64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+ 
+HAVANA         34  X   X( X)   1( 1)   6( 7)   3(10)   X(10)   X(10)
+ 
+ISLE OF PINES  34  X   X( X)   2( 2)  22(24)   4(28)   X(28)   X(28)
+ISLE OF PINES  50  X   X( X)   X( X)   3( 3)   1( 4)   X( 4)   X( 4)
+ISLE OF PINES  64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+GRAND CAYMAN   34  X   X( X)  11(11)  18(29)   1(30)   X(30)   X(30)
+GRAND CAYMAN   50  X   X( X)   1( 1)   6( 7)   X( 7)   X( 7)   X( 7)
+GRAND CAYMAN   64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+MONTEGO BAY    34  X   8( 8)   6(14)   1(15)   X(15)   X(15)   X(15)
+ 
+KINGSTON       34  X   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+LES CAYES      34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER BERG                                                     
+NNNN                                                                

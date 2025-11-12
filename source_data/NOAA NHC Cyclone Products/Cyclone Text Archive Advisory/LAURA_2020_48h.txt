@@ -1,0 +1,175 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Laura Intermediate Advisory Number 21A
+NWS National Hurricane Center Miami FL       AL132020
+200 AM EDT Tue Aug 25 2020
+ 
+...LAURA BECOMING BETTER ORGANIZED OVER THE SOUTHEASTERN GULF OF
+MEXICO...
+...EXPECTED TO BECOME A HURRICANE LATER TODAY...
+ 
+ 
+SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...22.6N 85.0W
+ABOUT 50 MI...85 KM N OF THE WESTERN TIP OF CUBA
+ABOUT 765 MI...1165 KM SE OF LAKE CHARLES LOUISIANA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 20 MPH...31 KM/H
+MINIMUM CENTRAL PRESSURE...995 MB...29.38 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Watch is in effect for...
+* San Luis Pass Texas to Ocean Springs Mississippi
+* Lake Pontchartrain, Lake Maurepas, and Lake Borgne
+ 
+A Hurricane Watch is in effect for...
+* Port Bolivar Texas to west of Morgan City Louisiana
+ 
+A Tropical Storm Warning is in effect for...
+* Cuban provinces of Villa Clara, Cienfuegos, Matanzas, Mayabeque,
+La Habana, Artemisa, Pinar del Rio, and the Isle of Youth
+* Florida Keys from the Seven Mile Bridge to Key West
+* Dry Tortugas
+ 
+A Tropical Storm Watch is in effect for...
+* South of Port Bolivar to San Luis Pass Texas
+* Morgan City Louisiana to the Mouth of the Mississippi River
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 AM EDT (0600 UTC), the center of Tropical Storm Laura was
+located near latitude 22.6 North, longitude 85.0 West. While Laura
+has recently taken a jog to the west, it is expected to move toward
+the west-northwest near 20 mph (31 km/h) today with some decrease in
+forward speed likely by this evening.  A turn toward the northwest
+is forecast by Wednesday, and a northwestward to north-northwestward
+motion should continue through Wednesday night.  On the forecast
+track, the center of Laura will move away from Cuba and over the
+southeastern Gulf of Mexico this morning.  Laura is then forecast to
+move over the central and northwestern Gulf of Mexico tonight and
+Wednesday, and approach the coasts of Texas and Louisiana on
+Wednesday night.
+ 
+Maximum sustained winds are near 65 mph (100 km/h) with higher
+gusts. Strengthening is expected, and Laura is forecast to become a
+hurricane later today.  Additional strengthening is forecast on
+Wednesday, and Laura could be near major hurricane strength when it
+approaches the coast.
+ 
+Tropical-storm-force winds extend outward up to 175 miles (280 km)
+from the center.
+ 
+The estimated minimum central pressure based on data from an Air
+Force Hurricane Hunter aircraft is 995 mb (29.38 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Laura can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT3 and WMO header WTNT43 KNHC.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+High Island TX to Morgan City LA including Sabine Lake, Calcasieu
+Lake, and Vermilion Bay...7-11 ft
+Port Bolivar TX to High Island TX...4-6 ft
+Morgan City LA to Mouth of the Mississippi River...4-6 ft
+Mouth of the Mississippi River to Ocean Springs MS including Lake
+Borgne...3-5 ft
+San Luis Pass TX to Port Bolivar TX...2-4 ft
+Galveston Bay...2-4 ft
+Lake Pontchartrain and Lake Maurepas...2-4 ft
+ 
+The deepest water will occur along the immediate coast near and to
+the right of the landfall location, where the surge will be
+accompanied by large and destructive waves.  Surge-related
+flooding depends on the relative timing of the surge and the tidal
+cycle, and can vary greatly over short distances.  For information
+specific to your area, please see products issued by your local
+National Weather Service forecast office.
+ 
+RAINFALL: Laura is expected to produce the following storm total
+rainfall accumulations:
+ 
+Western Cuba: 4 to 6 inches, with maximum amounts of 10 inches.
+This heavy rainfall could lead to life-threatening flash and urban
+flooding, and the potential for mudslides.
+ 
+From Wednesday afternoon into Saturday, Laura is expected to produce
+rainfall of 4 to 8 inches, with isolated maximum amounts of 12
+inches across portions of the west-central U.S. Gulf Coast near the
+Texas and Louisiana border north into portions of the lower
+Mississippi Valley.  This rainfall could cause widespread flash and
+urban flooding, small streams to overflow their banks, and minor to
+isolated moderate river flooding.
+ 
+WIND:  Tropical storm conditions are expected to spread westward
+within the warning area in western Cuba during the next few hours.
+Tropical storm conditions are also expected within the warning area
+in the lower Florida Keys and the Dry Tortugas for a few more hours.
+ 
+Hurricane conditions are possible in the hurricane watch area along
+the Gulf Coast by late Wednesday, with tropical storm conditions
+possible by Wednesday afternoon.
+ 
+SURF:  Swells generated by Laura are affecting portions of Cuba, the
+central Bahamas, and the Florida Keys. Swells are expected to
+spread northward along portions of the west coast of Florida
+peninsula and the coast of the Florida panhandle later today and
+tonight, and reach the northern and northwest Gulf coast by
+Wednesday. These swells are likely to cause life-threatening surf
+and rip current conditions.  Please consult products from your
+local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM EDT.
+ 
+$$
+Forecaster Blake
+ 
+NNNN

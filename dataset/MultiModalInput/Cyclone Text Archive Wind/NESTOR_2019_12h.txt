@@ -1,0 +1,162 @@
+
+ZCZC MIAPWSAT1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM NESTOR WIND SPEED PROBABILITIES NUMBER   7           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL162019               
+0300 UTC SAT OCT 19 2019                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM NESTOR WAS LOCATED NEAR       
+LATITUDE 28.5 NORTH...LONGITUDE 87.0 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 50 KTS...60 MPH...95 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SAT 12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED 00Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+NORFOLK NAS    34  X   X( X)   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)
+ 
+NORFOLK VA     34  X   X( X)   1( 1)   5( 6)   X( 6)   X( 6)   X( 6)
+ 
+OCEANA NAS VA  34  X   X( X)   1( 1)   7( 8)   X( 8)   X( 8)   X( 8)
+ 
+ELIZABETH CTY  34  X   X( X)   3( 3)  13(16)   X(16)   X(16)   X(16)
+ 
+RALEIGH NC     34  X   1( 1)   5( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+ROCKY MT NC    34  X   X( X)   9( 9)   3(12)   X(12)   X(12)   X(12)
+ 
+CAPE HATTERAS  34  X   X( X)   5( 5)  27(32)   X(32)   X(32)   X(32)
+CAPE HATTERAS  50  X   X( X)   X( X)   5( 5)   X( 5)   X( 5)   X( 5)
+ 
+FAYETTEVILLE   34  X   1( 1)  18(19)   X(19)   X(19)   X(19)   X(19)
+ 
+CHERRY PT NC   34  X   X( X)  20(20)  13(33)   X(33)   X(33)   X(33)
+CHERRY PT NC   50  X   X( X)   2( 2)   3( 5)   X( 5)   X( 5)   X( 5)
+ 
+NEW RIVER NC   34  X   X( X)  14(14)  17(31)   X(31)   X(31)   X(31)
+NEW RIVER NC   50  X   X( X)   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)
+ 
+MOREHEAD CITY  34  X   X( X)  18(18)  15(33)   X(33)   X(33)   X(33)
+MOREHEAD CITY  50  X   X( X)   2( 2)   3( 5)   X( 5)   X( 5)   X( 5)
+ 
+SURF CITY NC   34  X   1( 1)  28(29)   4(33)   X(33)   X(33)   X(33)
+SURF CITY NC   50  X   X( X)   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+WILMINGTON NC  34  X   1( 1)  29(30)   2(32)   X(32)   X(32)   X(32)
+WILMINGTON NC  50  X   X( X)   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+BALD HEAD ISL  34  X   1( 1)  25(26)   1(27)   X(27)   X(27)   X(27)
+BALD HEAD ISL  50  X   X( X)   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+FLORENCE SC    34  X   2( 2)  21(23)   X(23)   X(23)   X(23)   X(23)
+ 
+COLUMBIA SC    34  X   4( 4)   8(12)   X(12)   X(12)   X(12)   X(12)
+ 
+LITTLE RIVER   34  X   1( 1)  30(31)   X(31)   X(31)   X(31)   X(31)
+LITTLE RIVER   50  X   X( X)   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+MYRTLE BEACH   34  X   2( 2)  29(31)   X(31)   X(31)   X(31)   X(31)
+MYRTLE BEACH   50  X   X( X)   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+GEORGETOWN SC  34  X   2( 2)  26(28)   X(28)   X(28)   X(28)   X(28)
+GEORGETOWN SC  50  X   X( X)   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+CHARLESTON SC  34  X   4( 4)  21(25)   X(25)   X(25)   X(25)   X(25)
+CHARLESTON SC  50  X   X( X)   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+BEAUFORT MCAS  34  1  12(13)  11(24)   X(24)   X(24)   X(24)   X(24)
+BEAUFORT MCAS  50  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+AUGUSTA GA     34  1  11(12)   2(14)   X(14)   X(14)   X(14)   X(14)
+ 
+SAVANNAH GA    34  1  20(21)   4(25)   X(25)   X(25)   X(25)   X(25)
+ 
+KINGS BAY GA   34  3  12(15)   X(15)   X(15)   X(15)   X(15)   X(15)
+ 
+WAYCROSS GA    34  6  36(42)   X(42)   X(42)   X(42)   X(42)   X(42)
+WAYCROSS GA    50  X   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+MAYPORT NS FL  34  3   9(12)   X(12)   X(12)   X(12)   X(12)   X(12)
+ 
+JACKSONVILLE   34  4  11(15)   X(15)   X(15)   X(15)   X(15)   X(15)
+ 
+GAINESVILLE FL 34 12   8(20)   X(20)   X(20)   X(20)   X(20)   X(20)
+ 
+DAYTONA BEACH  34  3   3( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+THE VILLAGES   34  8   3(11)   X(11)   X(11)   X(11)   X(11)   X(11)
+ 
+ORLANDO FL     34  3   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+COCOA BEACH FL 34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+PATRICK AFB    34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+VENICE FL      34  3   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+TAMPA FL       34  8   2(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+ 
+CEDAR KEY FL   34 26   2(28)   X(28)   X(28)   X(28)   X(28)   X(28)
+ 
+TALLAHASSEE FL 34 80  12(92)   X(92)   X(92)   X(92)   X(92)   X(92)
+TALLAHASSEE FL 50 10  15(25)   X(25)   X(25)   X(25)   X(25)   X(25)
+TALLAHASSEE FL 64  X   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+ST MARKS FL    34 84   8(92)   X(92)   X(92)   X(92)   X(92)   X(92)
+ST MARKS FL    50 12  16(28)   X(28)   X(28)   X(28)   X(28)   X(28)
+ST MARKS FL    64  X   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+APALACHICOLA   34 98   X(98)   X(98)   X(98)   X(98)   X(98)   X(98)
+APALACHICOLA   50 34   1(35)   X(35)   X(35)   X(35)   X(35)   X(35)
+APALACHICOLA   64  2   X( 2)   X( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+GFMX 290N 850W 34 93   X(93)   X(93)   X(93)   X(93)   X(93)   X(93)
+GFMX 290N 850W 50 19   X(19)   X(19)   X(19)   X(19)   X(19)   X(19)
+ 
+PANAMA CITY FL 34 90   X(90)   X(90)   X(90)   X(90)   X(90)   X(90)
+PANAMA CITY FL 50 13   X(13)   X(13)   X(13)   X(13)   X(13)   X(13)
+ 
+DESTIN EXEC AP 34  7   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+COLUMBUS GA    34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+GFMX 290N 870W 34 95   X(95)   X(95)   X(95)   X(95)   X(95)   X(95)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

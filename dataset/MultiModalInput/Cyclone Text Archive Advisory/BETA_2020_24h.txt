@@ -1,0 +1,152 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Beta Intermediate Advisory Number 14A
+NWS National Hurricane Center Miami FL       AL222020
+100 AM CDT Mon Sep 21 2020
+ 
+...BETA EXPECTED TO PRODUCE TROPICAL STORM CONDITIONS OVER PORTIONS
+OF THE TEXAS COAST LATER THIS MORNING...
+ 
+ 
+SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...27.6N 94.8W
+ABOUT 110 MI...180 KM ESE OF PORT OCONNOR TEXAS
+ABOUT 115 MI...190 KM S OF GALVESTON TEXAS
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...995 MB...29.39 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Port Aransas, Texas to Rockefeller Wildlife Refuge, Louisiana,
+including Copano Bay, Aransas Bay, San Antonio Bay, Matagorda Bay,
+Galveston Bay, Sabine Lake, and Lake Calcasieu
+ 
+A Tropical Storm Warning is in effect for...
+* Port Aransas Texas to Morgan City Louisiana
+ 
+A Tropical Storm Watch is in effect for...
+* Baffin Bay to Port Aransas Texas
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a depiction
+of areas at risk, please see the National Weather Service Storm
+Surge Watch/Warning Graphic, available at hurricanes.gov.  This is
+a life-threatening situation.  Persons located within these areas
+should take all necessary actions to protect life and property from
+rising water and the potential for other dangerous conditions.
+Promptly follow evacuation and other instructions from local
+officials.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, in this case within the next 36
+hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 100 AM CDT (0600 UTC), the center of Tropical Storm Beta was
+located near latitude 27.6 North, longitude 94.8 West. Beta is
+moving toward the west-northwest near 6 mph (9 km/h), and this
+general motion is forecast to continue for the next day or so. A
+decrease in forward speed and a sharp turn to the north and
+northeast is expected Monday night and Tuesday.  On the forecast
+track, the center of Beta will continue to move toward the central
+coast of Texas and will likely move inland by Monday night. Beta is
+forecast to remain close to the coast of southeastern Texas on
+Tuesday.
+ 
+Maximum sustained winds are near 60 mph (95 km/h) with higher
+gusts. Little change in strength is forecast before Beta reaches the
+Texas coast. Weakening is anticipated once Beta moves inland.
+ 
+Tropical-storm-force winds extend outward up to 195 miles (315 km)
+from the center.
+ 
+The latest minimum central pressure estimated based on data from an
+Air Force Reserve reconnaissance aircraft is 995 mb (29.39 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Beta can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2 and WMO header WTNT42 KNHC.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+San Luis Pass, TX to Sabine Pass, TX including Galveston Bay...3-5
+ft
+Port Aransas, TX to San Luis Pass, TX including Copano Bay, Aransas
+Bay, San Antonio Bay, and Matagorda Bay...2-4 ft
+Sabine Pass, TX to Rockefeller Wildlife Refuge, LA including Sabine
+Lake and Calcasieu Lake...2-4 ft
+Rockefeller Wildlife Refuge, LA to Ocean Springs, MS including
+Vermilion Bay, Lake Borgne, Lake Pontchartrain, and Lake
+Maurepas...1-3 ft
+Baffin Bay, TX to Port Aransas, TX including Corpus Christi Bay and
+Baffin Bay... 1-3 ft
+Mouth of the Rio Grande to Baffin Bay, TX...1-2 ft
+ 
+The deepest water will occur along the immediate coast in areas of
+onshore winds, where the surge will be accompanied by large and
+dangerous waves.  Surge-related flooding depends on the relative
+timing of the surge and the tidal cycle, and can vary greatly over
+short distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
+ 
+WIND:  Tropical storm conditions are occurring in the tropical
+storm warning area along the southwestern Louisiana coast and will
+spread westward to the warning areas in Texas later this morning.
+Tropical storm conditions are possible within the tropical storm
+watch area along the south Texas coast later today.
+ 
+RAINFALL: Through Friday, Beta is expected to produce rainfall
+accumulations of 6 to 12 inches with isolated totals of 15 inches
+from the middle Texas coast to southern Louisiana.  Rainfall totals
+of 3 to 5 inches are expected northward into the ArkLaTex region and
+east into the Lower Mississippi Valley.   Flash and urban flooding
+is likely, as well as minor to isolated moderate river flooding.
+ 
+TORNADOES:  A tornado or two could occur today near
+the middle-to-upper Texas coast or the southwestern Louisiana coast.
+ 
+SURF:  Swells generated by a combination of Beta and cold front
+over the northern Gulf of Mexico will continue along the coasts of
+Louisiana and Texas during the next couple of days.  These swells
+are likely to cause life-threatening surf and rip current
+conditions. Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 AM CDT.
+ 
+$$
+Forecaster Cangialosi
+ 
+NNNN

@@ -1,0 +1,91 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+POTENTIAL TROPICAL CYCLONE EIGHTEEN                                 
+WIND SPEED PROBABILITIES NUMBER   2                                 
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL182017               
+0300 UTC SAT OCT 28 2017                                            
+                                                                    
+AT 0300Z THE CENTER OF POTENTIAL TROPICAL CYCLONE EIGHTEEN WAS      
+LOCATED NEAR LATITUDE 18.2 NORTH...LONGITUDE 84.4 WEST WITH MAXIMUM 
+SUSTAINED WINDS NEAR 35 KTS...40 MPH...65 KM/H.                     
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SAT 12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED 00Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+W PALM BEACH   34  X   X( X)   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+FT LAUDERDALE  34  X   1( 1)   7( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+MIAMI FL       34  X   1( 1)   9(10)   X(10)   X(10)   X(10)   X(10)
+ 
+HOMESTEAD ARB  34  X   1( 1)  12(13)   X(13)   X(13)   X(13)   X(13)
+ 
+MARATHON FL    34  X   3( 3)  11(14)   X(14)   X(14)   X(14)   X(14)
+ 
+KEY WEST FL    34  X   3( 3)   4( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+GRAND BAHAMA   34  X   X( X)  21(21)   3(24)   X(24)   X(24)   X(24)
+GRAND BAHAMA   50  X   X( X)   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+NEW PROVIDENCE 34  X   1( 1)  53(54)   2(56)   X(56)   X(56)   X(56)
+NEW PROVIDENCE 50  X   X( X)   7( 7)   1( 8)   X( 8)   X( 8)   X( 8)
+ 
+ANDROS         34  X   2( 2)  38(40)   X(40)   X(40)   X(40)   X(40)
+ANDROS         50  X   X( X)   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+GREAT EXUMA    34  X   X( X)  10(10)   1(11)   X(11)   X(11)   X(11)
+ 
+SAN SALVADOR   34  X   X( X)   7( 7)   2( 9)   X( 9)   X( 9)   X( 9)
+ 
+HAVANA         34  X  23(23)   2(25)   X(25)   X(25)   X(25)   X(25)
+ 
+ISLE OF PINES  34  4  55(59)   X(59)   X(59)   X(59)   X(59)   X(59)
+ISLE OF PINES  50  X   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+CIENFUEGOS     34  X  49(49)   4(53)   X(53)   X(53)   X(53)   X(53)
+CIENFUEGOS     50  X   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+CAMAGUEY       34  X   4( 4)   5( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+GRAND CAYMAN   34  8   7(15)   X(15)   X(15)   X(15)   X(15)   X(15)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+NNNN                                                                

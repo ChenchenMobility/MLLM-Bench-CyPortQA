@@ -1,24 +1,16 @@
-# CyPortQA – runtime dependencies
-# Requires Python ≥ 3.10
-
-# ─── Core data  ML stack ────────────────────────────────────────────
-numpy=1.26,2.0
-pandas=2.2,3.0
-scikit-learn=1.4,2.0
-matplotlib=3.9,4.0
-tqdm=4.66,5.0
-
-# ─── Deep-learning & HF ecosystem (CPU install by default) ───────────
-torch=2.2,3.0
-transformers=4.44,5.0
-datasets=2.19,3.0          # handy for batch processing QA files
-
-# ─── LLM API clients ────────────────────────────────────────────────
-openai=1.23,2.0            # ChatGPT-4o, etc.
-google-generativeai=0.4,1.0  # Gemini 2.5 Flash-Lite
-
-# ─── Evaluation & misc utilities ────────────────────────────────────
-jsonschema=4.22,5.0        # dataset integrity checks
-python-dotenv=1.0,2.0      # load API keys from .env
-requests=2.31,3.0
-shapely=2.0,3.0            # lightweight spatial ops for cone  port logic
+torch>=2.2
+transformers>=4.43
+datasets>=2.19
+tiktoken>=0.6
+langchain>=0.2
+langchain-core>=0.2
+langchain-community>=0.2
+pandas
+numpy
+tqdm
+matplotlib
+scikit-learn
+joblib
+Pillow
+openai
+google-generativeai

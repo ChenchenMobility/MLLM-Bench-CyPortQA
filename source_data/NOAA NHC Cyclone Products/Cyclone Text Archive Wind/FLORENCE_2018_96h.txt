@@ -1,0 +1,223 @@
+
+ZCZC MIAPWSAT1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE FLORENCE WIND SPEED PROBABILITIES NUMBER  45              
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL062018               
+1500 UTC MON SEP 10 2018                                            
+                                                                    
+AT 1500Z THE CENTER OF HURRICANE FLORENCE WAS LOCATED NEAR LATITUDE 
+25.0 NORTH...LONGITUDE 60.0 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+100 KTS...115 MPH...185 KM/H.                                       
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z MON AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z MON 00Z TUE 12Z TUE 00Z WED 12Z WED 12Z THU 12Z FRI
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z TUE 12Z TUE 00Z WED 12Z WED 12Z THU 12Z FRI 12Z SAT
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+NYC JFK AIRPRT 34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+NYC CNTRL PARK 34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+NEWARK NJ      34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+TRENTON NJ     34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   2( 6)
+ 
+NWS EARLE NJ   34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   2( 5)
+ 
+ALLENTOWN PA   34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   2( 6)
+ 
+PHILADELPHIA   34  X   X( X)   X( X)   X( X)   X( X)   7( 7)   2( 9)
+ 
+ATLANTIC CITY  34  X   X( X)   X( X)   X( X)   X( X)   8( 8)   2(10)
+ 
+BALTIMORE MD   34  X   X( X)   X( X)   X( X)   1( 1)  13(14)   4(18)
+ 
+DOVER DE       34  X   X( X)   X( X)   X( X)   1( 1)  12(13)   3(16)
+ 
+ANNAPOLIS MD   34  X   X( X)   X( X)   X( X)   1( 1)  16(17)   4(21)
+ANNAPOLIS MD   50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+WASHINGTON DC  34  X   X( X)   X( X)   X( X)   1( 1)  19(20)   4(24)
+WASHINGTON DC  50  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+ 
+CAPE HENLOPEN  34  X   X( X)   X( X)   X( X)   2( 2)  13(15)   2(17)
+CAPE HENLOPEN  50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+CAPE HENLOPEN  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+OCEAN CITY MD  34  X   X( X)   X( X)   X( X)   5( 5)  15(20)   3(23)
+OCEAN CITY MD  50  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+OCEAN CITY MD  64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+PAX RIVER NAS  34  X   X( X)   X( X)   X( X)   3( 3)  23(26)   4(30)
+PAX RIVER NAS  50  X   X( X)   X( X)   X( X)   X( X)   4( 4)   2( 6)
+PAX RIVER NAS  64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+WALLOPS CDA    34  X   X( X)   X( X)   X( X)   4( 4)  22(26)   3(29)
+WALLOPS CDA    50  X   X( X)   X( X)   X( X)   X( X)   4( 4)   1( 5)
+WALLOPS CDA    64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+CHARLOTTESVIL  34  X   X( X)   X( X)   X( X)   2( 2)  35(37)   6(43)
+CHARLOTTESVIL  50  X   X( X)   X( X)   X( X)   X( X)   6( 6)   3( 9)
+CHARLOTTESVIL  64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+RICHMOND VA    34  X   X( X)   X( X)   X( X)   6( 6)  39(45)   5(50)
+RICHMOND VA    50  X   X( X)   X( X)   X( X)   X( X)  11(11)   2(13)
+RICHMOND VA    64  X   X( X)   X( X)   X( X)   X( X)   4( 4)   1( 5)
+ 
+DANVILLE VA    34  X   X( X)   X( X)   X( X)   6( 6)  59(65)   6(71)
+DANVILLE VA    50  X   X( X)   X( X)   X( X)   1( 1)  23(24)   5(29)
+DANVILLE VA    64  X   X( X)   X( X)   X( X)   X( X)   5( 5)   2( 7)
+ 
+NORFOLK NAS    34  X   X( X)   X( X)   X( X)  10(10)  38(48)   4(52)
+NORFOLK NAS    50  X   X( X)   X( X)   X( X)   2( 2)  11(13)   2(15)
+NORFOLK NAS    64  X   X( X)   X( X)   X( X)   X( X)   6( 6)   1( 7)
+ 
+NORFOLK VA     34  X   X( X)   X( X)   X( X)  11(11)  38(49)   4(53)
+NORFOLK VA     50  X   X( X)   X( X)   X( X)   2( 2)  11(13)   3(16)
+NORFOLK VA     64  X   X( X)   X( X)   X( X)   X( X)   6( 6)   1( 7)
+ 
+OCEANA NAS VA  34  X   X( X)   X( X)   X( X)  11(11)  38(49)   3(52)
+OCEANA NAS VA  50  X   X( X)   X( X)   X( X)   2( 2)  11(13)   2(15)
+OCEANA NAS VA  64  X   X( X)   X( X)   X( X)   X( X)   6( 6)   1( 7)
+ 
+ELIZABETH CTY  34  X   X( X)   X( X)   X( X)  19(19)  41(60)   3(63)
+ELIZABETH CTY  50  X   X( X)   X( X)   X( X)   3( 3)  20(23)   1(24)
+ELIZABETH CTY  64  X   X( X)   X( X)   X( X)   1( 1)   9(10)   2(12)
+ 
+GREENSBORO NC  34  X   X( X)   X( X)   X( X)   6( 6)  61(67)   6(73)
+GREENSBORO NC  50  X   X( X)   X( X)   X( X)   1( 1)  27(28)   4(32)
+GREENSBORO NC  64  X   X( X)   X( X)   X( X)   X( X)   7( 7)   3(10)
+ 
+RALEIGH NC     34  X   X( X)   X( X)   X( X)  13(13)  64(77)   5(82)
+RALEIGH NC     50  X   X( X)   X( X)   X( X)   2( 2)  39(41)   4(45)
+RALEIGH NC     64  X   X( X)   X( X)   X( X)   1( 1)  17(18)   3(21)
+ 
+ROCKY MT NC    34  X   X( X)   X( X)   X( X)  19(19)  59(78)   5(83)
+ROCKY MT NC    50  X   X( X)   X( X)   X( X)   4( 4)  39(43)   3(46)
+ROCKY MT NC    64  X   X( X)   X( X)   X( X)   1( 1)  19(20)   2(22)
+ 
+CAPE HATTERAS  34  X   X( X)   X( X)   X( X)  62(62)  18(80)   1(81)
+CAPE HATTERAS  50  X   X( X)   X( X)   X( X)  21(21)  16(37)   2(39)
+CAPE HATTERAS  64  X   X( X)   X( X)   X( X)   6( 6)  11(17)   1(18)
+ 
+FAYETTEVILLE   34  X   X( X)   X( X)   X( X)  23(23)  61(84)   4(88)
+FAYETTEVILLE   50  X   X( X)   X( X)   X( X)   6( 6)  51(57)   4(61)
+FAYETTEVILLE   64  X   X( X)   X( X)   X( X)   2( 2)  31(33)   2(35)
+ 
+CHARLOTTE NC   34  X   X( X)   X( X)   X( X)   5( 5)  49(54)   6(60)
+CHARLOTTE NC   50  X   X( X)   X( X)   X( X)   X( X)  19(19)   5(24)
+CHARLOTTE NC   64  X   X( X)   X( X)   X( X)   X( X)   7( 7)   1( 8)
+ 
+CHERRY PT NC   34  X   X( X)   X( X)   X( X)  52(52)  37(89)   1(90)
+CHERRY PT NC   50  X   X( X)   X( X)   X( X)  18(18)  43(61)   2(63)
+CHERRY PT NC   64  X   X( X)   X( X)   X( X)   6( 6)  28(34)   2(36)
+ 
+NEW RIVER NC   34  X   X( X)   X( X)   X( X)  76(76)  17(93)   X(93)
+NEW RIVER NC   50  X   X( X)   X( X)   X( X)  37(37)  29(66)   1(67)
+NEW RIVER NC   64  X   X( X)   X( X)   X( X)  16(16)  23(39)   2(41)
+ 
+MOREHEAD CITY  34  X   X( X)   X( X)   X( X)  76(76)  18(94)   X(94)
+MOREHEAD CITY  50  X   X( X)   X( X)   X( X)  36(36)  33(69)   1(70)
+MOREHEAD CITY  64  X   X( X)   X( X)   X( X)  15(15)  28(43)   2(45)
+ 
+SURF CITY NC   34  X   X( X)   X( X)   X( X)  57(57)  35(92)   2(94)
+SURF CITY NC   50  X   X( X)   X( X)   X( X)  22(22)  48(70)   2(72)
+SURF CITY NC   64  X   X( X)   X( X)   X( X)   9( 9)  40(49)   2(51)
+ 
+WILMINGTON NC  34  X   X( X)   X( X)   X( X)  52(52)  39(91)   2(93)
+WILMINGTON NC  50  X   X( X)   X( X)   X( X)  19(19)  53(72)   2(74)
+WILMINGTON NC  64  X   X( X)   X( X)   X( X)   7( 7)  41(48)   2(50)
+ 
+BALD HEAD ISL  34  X   X( X)   X( X)   X( X)  73(73)  21(94)   X(94)
+BALD HEAD ISL  50  X   X( X)   X( X)   X( X)  37(37)  38(75)   2(77)
+BALD HEAD ISL  64  X   X( X)   X( X)   X( X)  16(16)  39(55)   2(57)
+ 
+FLORENCE SC    34  X   X( X)   X( X)   X( X)  17(17)  57(74)   3(77)
+FLORENCE SC    50  X   X( X)   X( X)   X( X)   3( 3)  34(37)   3(40)
+FLORENCE SC    64  X   X( X)   X( X)   X( X)   1( 1)  21(22)   2(24)
+ 
+COLUMBIA SC    34  X   X( X)   X( X)   X( X)   6( 6)  41(47)   5(52)
+COLUMBIA SC    50  X   X( X)   X( X)   X( X)   X( X)  18(18)   3(21)
+COLUMBIA SC    64  X   X( X)   X( X)   X( X)   X( X)   8( 8)   2(10)
+ 
+LITTLE RIVER   34  X   X( X)   X( X)   X( X)  43(43)  42(85)   2(87)
+LITTLE RIVER   50  X   X( X)   X( X)   X( X)  14(14)  45(59)   2(61)
+LITTLE RIVER   64  X   X( X)   X( X)   X( X)   5( 5)  33(38)   2(40)
+ 
+MYRTLE BEACH   34  X   X( X)   X( X)   X( X)  54(54)  30(84)   2(86)
+MYRTLE BEACH   50  X   X( X)   X( X)   X( X)  17(17)  39(56)   2(58)
+MYRTLE BEACH   64  X   X( X)   X( X)   X( X)   6( 6)  28(34)   3(37)
+ 
+GEORGETOWN SC  34  X   X( X)   X( X)   X( X)  27(27)  45(72)   2(74)
+GEORGETOWN SC  50  X   X( X)   X( X)   X( X)   6( 6)  32(38)   3(41)
+GEORGETOWN SC  64  X   X( X)   X( X)   X( X)   2( 2)  18(20)   2(22)
+ 
+CHARLESTON SC  34  X   X( X)   X( X)   X( X)  14(14)  36(50)   3(53)
+CHARLESTON SC  50  X   X( X)   X( X)   X( X)   2( 2)  18(20)   2(22)
+CHARLESTON SC  64  X   X( X)   X( X)   X( X)   X( X)   9( 9)   2(11)
+ 
+BEAUFORT MCAS  34  X   X( X)   X( X)   X( X)   7( 7)  24(31)   4(35)
+BEAUFORT MCAS  50  X   X( X)   X( X)   X( X)   X( X)   9( 9)   2(11)
+BEAUFORT MCAS  64  X   X( X)   X( X)   X( X)   X( X)   4( 4)   1( 5)
+ 
+ATLANTA GA     34  X   X( X)   X( X)   X( X)   X( X)   8( 8)   3(11)
+ 
+AUGUSTA GA     34  X   X( X)   X( X)   X( X)   2( 2)  25(27)   4(31)
+AUGUSTA GA     50  X   X( X)   X( X)   X( X)   X( X)   7( 7)   2( 9)
+AUGUSTA GA     64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+SAVANNAH GA    34  X   X( X)   X( X)   X( X)   3( 3)  19(22)   4(26)
+SAVANNAH GA    50  X   X( X)   X( X)   X( X)   X( X)   5( 5)   1( 6)
+SAVANNAH GA    64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+KINGS BAY GA   34  X   X( X)   X( X)   X( X)   2( 2)   8(10)   1(11)
+ 
+WAYCROSS GA    34  X   X( X)   X( X)   X( X)   1( 1)   7( 8)   3(11)
+ 
+MAYPORT NS FL  34  X   X( X)   X( X)   X( X)   3( 3)   6( 9)   3(12)
+ 
+JACKSONVILLE   34  X   X( X)   X( X)   X( X)   1( 1)   6( 7)   1( 8)
+ 
+GAINESVILLE FL 34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+DAYTONA BEACH  34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+COLUMBUS GA    34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+ 
+$$                                                                  
+FORECASTER BLAKE                                                    
+NNNN                                                                

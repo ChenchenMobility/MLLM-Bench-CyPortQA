@@ -1,0 +1,60 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Gert Advisory Number   6
+NWS National Hurricane Center Miami FL       AL082017
+500 AM EDT Mon Aug 14 2017
+
+...GERT MOVING NORTH-NORTHWESTWARD OVER THE WESTERN ATLANTIC WELL
+AWAY FROM LAND...
+
+
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...29.7N 72.2W
+ABOUT 475 MI...760 KM WSW OF BERMUDA
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...NNW OR 345 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 500 AM EDT (0900 UTC), the center of Tropical Storm Gert was
+located near latitude 29.7 North, longitude 72.2 West. Gert is
+moving toward the north-northwest near 9 mph (15 km/h).  A turn
+toward the north is forecast to occur later this morning, followed
+by a turn toward the north-northeast by tonight.  On the forecast
+track, Gert is expected to pass about midway between the United
+States east coast and Bermuda on Tuesday.
+
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Some strengthening is forecast during the next 48 hours, and Gert
+could become a hurricane by Wednesday.
+
+Tropical-storm-force winds extend outward up to 90 miles (150 km)
+from the center.
+
+The estimated minimum central pressure is 1009 mb (29.80 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+None.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+
+$$
+Forecaster Stewart
+
+NNNN

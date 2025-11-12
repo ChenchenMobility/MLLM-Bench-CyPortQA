@@ -1,0 +1,100 @@
+
+ZCZC MIAPWSEP4 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM ROSLYN WIND SPEED PROBABILITIES NUMBER   3           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP192022               
+1500 UTC THU OCT 20 2022                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM ROSLYN WAS LOCATED NEAR       
+LATITUDE 15.2 NORTH...LONGITUDE 102.0 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z THU 00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON 12Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CABO SAN LUCAS 34  X   X( X)   X( X)   X( X)   3( 3)   4( 7)   X( 7)
+ 
+SAN JOSE CABO  34  X   X( X)   X( X)   X( X)   4( 4)   3( 7)   X( 7)
+ 
+CULIACAN       34  X   X( X)   X( X)   X( X)   1( 1)   8( 9)   X( 9)
+ 
+ISLAS MARIAS   34  X   X( X)   X( X)   2( 2)  40(42)  17(59)   X(59)
+ISLAS MARIAS   50  X   X( X)   X( X)   X( X)  14(14)  17(31)   X(31)
+ISLAS MARIAS   64  X   X( X)   X( X)   X( X)   5( 5)   8(13)   X(13)
+ 
+MAZATLAN       34  X   X( X)   X( X)   X( X)  12(12)  23(35)   X(35)
+MAZATLAN       50  X   X( X)   X( X)   X( X)   1( 1)  10(11)   X(11)
+MAZATLAN       64  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+ 
+SAN BLAS       34  X   X( X)   X( X)   1( 1)  19(20)  28(48)   X(48)
+SAN BLAS       50  X   X( X)   X( X)   X( X)   4( 4)  15(19)   X(19)
+SAN BLAS       64  X   X( X)   X( X)   X( X)   1( 1)   6( 7)   X( 7)
+ 
+P VALLARTA     34  X   X( X)   X( X)   1( 1)  34(35)  16(51)   X(51)
+P VALLARTA     50  X   X( X)   X( X)   X( X)  10(10)  10(20)   X(20)
+P VALLARTA     64  X   X( X)   X( X)   X( X)   3( 3)   5( 8)   X( 8)
+ 
+15N 105W       34  X   5( 5)  19(24)   6(30)   3(33)   X(33)   X(33)
+15N 105W       50  X   X( X)   5( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+15N 105W       64  X   X( X)   1( 1)   X( 1)   1( 2)   X( 2)   X( 2)
+ 
+BARRA NAVIDAD  34  X   X( X)   1( 1)   3( 4)  32(36)   3(39)   X(39)
+BARRA NAVIDAD  50  X   X( X)   X( X)   X( X)   9( 9)   2(11)   X(11)
+BARRA NAVIDAD  64  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+MANZANILLO     34  X   1( 1)   3( 4)  13(17)  30(47)   2(49)   X(49)
+MANZANILLO     50  X   X( X)   X( X)   2( 2)   8(10)   1(11)   X(11)
+MANZANILLO     64  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+L CARDENAS     34  X   2( 2)   2( 4)   4( 8)   5(13)   X(13)   X(13)
+ 
+ZIHUATANEJO    34  X   1( 1)   2( 3)   2( 5)   4( 9)   1(10)   X(10)
+ 
+15N 100W       34  X   1( 1)   1( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+ACAPULCO       34  X   1( 1)   1( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+15N 110W       34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+20N 110W       34  X   X( X)   X( X)   X( X)   9( 9)   2(11)   X(11)
+ 
+ISLA SOCORRO   34  X   X( X)   X( X)   X( X)   4( 4)   1( 5)   X( 5)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+NNNN                                                                

@@ -1,0 +1,103 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Karen Advisory Number   3
+NWS National Hurricane Center Miami FL       AL122019
+500 PM AST Sun Sep 22 2019
+
+...GUSTY WINDS AND FLOODING RAINS STILL AFFECTING PORTIONS OF THE
+SOUTHERN WINDWARD ISLANDS...
+
+
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...12.9N 62.7W
+ABOUT 85 MI...140 KM NW OF GRENADA
+ABOUT 360 MI...580 KM SSE OF ST. CROIX
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 295 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Grenada and its dependencies
+* St. Vincent and the Grenadines
+
+A Tropical Storm Watch is in effect for...
+* U.S. Virgin Islands
+* Puerto Rico, including Vieques and Culebra
+* British Virgin Islands
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+
+Interests elsewhere in the Lesser Antilles should monitor the
+progress of Karen.
+
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM AST (2100 UTC), the center of Tropical Storm Karen was
+located near latitude 12.9 North, longitude 62.7 West. Karen is
+moving toward the west-northwest near 13 mph (20 km/h).  A turn
+toward the northwest is forecast to occur later tonight or on
+Monday, followed by a turn toward the north on Tuesday. On the
+forecast track, the center of Karen will continue to move away from
+the Windward Islands this evening, and then move across the eastern
+Caribbean Sea tonight and Monday.  On Tuesday, Karen is expected to
+pass near or over Puerto Rico and the Virgin Islands.
+
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Little change in strength is forecast during the next 48 hours.
+
+Tropical-storm-force winds extend outward up to 105 miles (165 km)
+from the center.
+
+The latest minimum central pressure reported by reconnaissance
+aircraft is 1007 mb (29.74 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND:  Tropical storm conditions are expected within the warning
+area through this evening.  Tropical storm conditions are possible
+within the watch area beginning Tuesday morning.
+
+RAINFALL:  Karen is expected to produce the following rainfall
+accumulations through Wednesday:
+
+Windward Islands...3 to 6 inches, isolated 8 inches.
+Puerto Rico and the Virgin Islands...2 to 4 inches, isolated 6
+inches.
+Leeward Islands...1 to 3 inches, isolated 5 inches.
+Far northeast Venezuela and Barbados...1 to 3 inches.
+
+These rains may cause flash flooding and mudslides, especially in
+mountainous areas.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM AST.
+Next complete advisory at 1100 PM AST.
+
+$$
+Forecaster Brown
+
+NNNN

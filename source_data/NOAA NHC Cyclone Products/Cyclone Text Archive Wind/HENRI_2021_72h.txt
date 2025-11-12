@@ -1,0 +1,205 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM HENRI WIND SPEED PROBABILITIES NUMBER  15            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL082021               
+1500 UTC THU AUG 19 2021                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM HENRI WAS LOCATED NEAR        
+LATITUDE 29.5 NORTH...LONGITUDE 70.5 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 60 KTS...70 MPH...110 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z THU 00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON 12Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+EDDY POINT NS  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+SYDNEY NS      34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+SABLE ISLAND   34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+HALIFAX NS     34  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   9(15)
+ 
+YARMOUTH NS    34  X   X( X)   X( X)   X( X)   8( 8)  13(21)  12(33)
+YARMOUTH NS    50  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   5( 9)
+YARMOUTH NS    64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+MONCTON NB     34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   2( 5)
+ 
+ST JOHN NB     34  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   5(10)
+ 
+EASTPORT ME    34  X   X( X)   X( X)   X( X)   5( 5)  12(17)   9(26)
+EASTPORT ME    50  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   2( 4)
+ 
+BAR HARBOR ME  34  X   X( X)   X( X)   X( X)   4( 4)  13(17)   5(22)
+BAR HARBOR ME  50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   2( 5)
+BAR HARBOR ME  64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+AUGUSTA ME     34  X   X( X)   X( X)   X( X)   4( 4)  14(18)   5(23)
+AUGUSTA ME     50  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   1( 5)
+ 
+PORTLAND ME    34  X   X( X)   X( X)   X( X)   6( 6)  16(22)   5(27)
+PORTLAND ME    50  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   1( 7)
+PORTLAND ME    64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+CONCORD NH     34  X   X( X)   X( X)   X( X)   7( 7)  15(22)   4(26)
+CONCORD NH     50  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   1( 6)
+CONCORD NH     64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+PORTSMOUTH NH  34  X   X( X)   X( X)   X( X)   8( 8)  19(27)   5(32)
+PORTSMOUTH NH  50  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   2( 8)
+PORTSMOUTH NH  64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+WORCESTER MA   34  X   X( X)   X( X)   X( X)  10(10)  18(28)   4(32)
+WORCESTER MA   50  X   X( X)   X( X)   X( X)   2( 2)   8(10)   1(11)
+WORCESTER MA   64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+SPRINGFIELD MA 34  X   X( X)   X( X)   X( X)   9( 9)  15(24)   3(27)
+SPRINGFIELD MA 50  X   X( X)   X( X)   X( X)   1( 1)   6( 7)   1( 8)
+SPRINGFIELD MA 64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+BOSTON MA      34  X   X( X)   X( X)   X( X)  13(13)  20(33)   5(38)
+BOSTON MA      50  X   X( X)   X( X)   X( X)   3( 3)   8(11)   2(13)
+BOSTON MA      64  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+HYANNIS MA     34  X   X( X)   X( X)   X( X)  24(24)  19(43)   4(47)
+HYANNIS MA     50  X   X( X)   X( X)   X( X)   7( 7)  10(17)   1(18)
+HYANNIS MA     64  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+NANTUCKET MA   34  X   X( X)   X( X)   X( X)  48(48)  18(66)   3(69)
+NANTUCKET MA   50  X   X( X)   X( X)   X( X)  19(19)  13(32)   3(35)
+NANTUCKET MA   64  X   X( X)   X( X)   X( X)   7( 7)   6(13)   1(14)
+ 
+PROVIDENCE RI  34  X   X( X)   X( X)   X( X)  32(32)  20(52)   4(56)
+PROVIDENCE RI  50  X   X( X)   X( X)   X( X)   9( 9)  12(21)   2(23)
+PROVIDENCE RI  64  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   1( 7)
+ 
+BRIDGEPORT CT  34  X   X( X)   X( X)   X( X)  10(10)  12(22)   2(24)
+BRIDGEPORT CT  50  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   1( 6)
+BRIDGEPORT CT  64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+NEW HAVEN CT   34  X   X( X)   X( X)   X( X)  11(11)  13(24)   3(27)
+NEW HAVEN CT   50  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   2( 8)
+NEW HAVEN CT   64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+HARTFORD CT    34  X   X( X)   X( X)   X( X)  10(10)  15(25)   3(28)
+HARTFORD CT    50  X   X( X)   X( X)   X( X)   2( 2)   6( 8)   1( 9)
+HARTFORD CT    64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+NEW LONDON CT  34  X   X( X)   X( X)   X( X)  15(15)  15(30)   4(34)
+NEW LONDON CT  50  X   X( X)   X( X)   X( X)   3( 3)   7(10)   1(11)
+NEW LONDON CT  64  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+ALBANY NY      34  X   X( X)   X( X)   X( X)   3( 3)  10(13)   2(15)
+ 
+POUGHKEEPSIE   34  X   X( X)   X( X)   X( X)   6( 6)   9(15)   2(17)
+POUGHKEEPSIE   50  X   X( X)   X( X)   X( X)   X( X)   3( 3)   X( 3)
+ 
+MONTAUK POINT  34  X   X( X)   X( X)   X( X)  36(36)  16(52)   3(55)
+MONTAUK POINT  50  X   X( X)   X( X)   X( X)   9( 9)  10(19)   2(21)
+MONTAUK POINT  64  X   X( X)   X( X)   X( X)   3( 3)   4( 7)   X( 7)
+ 
+ISLIP NY       34  X   X( X)   X( X)   X( X)  11(11)  11(22)   2(24)
+ISLIP NY       50  X   X( X)   X( X)   X( X)   2( 2)   3( 5)   1( 6)
+ISLIP NY       64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+NYC JFK AIRPRT 34  X   X( X)   X( X)   X( X)  18(18)  12(30)   2(32)
+NYC JFK AIRPRT 50  X   X( X)   X( X)   X( X)   2( 2)   3( 5)   1( 6)
+NYC JFK AIRPRT 64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+NYC CNTRL PARK 34  X   X( X)   X( X)   X( X)   8( 8)   8(16)   2(18)
+NYC CNTRL PARK 50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+NEWARK NJ      34  X   X( X)   X( X)   X( X)   6( 6)   8(14)   2(16)
+NEWARK NJ      50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+TRENTON NJ     34  X   X( X)   X( X)   X( X)   5( 5)   5(10)   2(12)
+ 
+NWS EARLE NJ   34  X   X( X)   X( X)   X( X)   8( 8)   6(14)   1(15)
+NWS EARLE NJ   50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+ALLENTOWN PA   34  X   X( X)   X( X)   X( X)   4( 4)   4( 8)   1( 9)
+ 
+PHILADELPHIA   34  X   X( X)   X( X)   X( X)   5( 5)   3( 8)   1( 9)
+ 
+ATLANTIC CITY  34  X   X( X)   X( X)   X( X)   7( 7)   4(11)   1(12)
+ 
+BALTIMORE MD   34  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   X( 4)
+ 
+DOVER DE       34  X   X( X)   X( X)   X( X)   4( 4)   3( 7)   X( 7)
+ 
+ANNAPOLIS MD   34  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   1( 5)
+ 
+WASHINGTON DC  34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   1( 4)
+ 
+CAPE HENLOPEN  34  X   X( X)   X( X)   2( 2)  12(14)   3(17)   1(18)
+ 
+OCEAN CITY MD  34  X   X( X)   X( X)   3( 3)  11(14)   3(17)   1(18)
+ 
+PAX RIVER NAS  34  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   X( 4)
+ 
+WALLOPS CDA    34  X   X( X)   X( X)   3( 3)  10(13)   2(15)   1(16)
+ 
+RICHMOND VA    34  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   1( 3)
+ 
+NORFOLK NAS    34  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   1( 5)
+ 
+NORFOLK VA     34  X   X( X)   X( X)   2( 2)   2( 4)   1( 5)   X( 5)
+ 
+OCEANA NAS VA  34  X   X( X)   1( 1)   3( 4)   7(11)   1(12)   1(13)
+ 
+ELIZABETH CTY  34  X   X( X)   X( X)   2( 2)   3( 5)   X( 5)   X( 5)
+ 
+CAPE HATTERAS  34  X   X( X)   4( 4)   8(12)   5(17)   X(17)   X(17)
+ 
+CHERRY PT NC   34  X   X( X)   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)
+ 
+NEW RIVER NC   34  X   1( 1)   3( 4)   4( 8)   2(10)   X(10)   1(11)
+ 
+MOREHEAD CITY  34  X   X( X)   3( 3)   3( 6)   3( 9)   X( 9)   X( 9)
+ 
+SURF CITY NC   34  X   X( X)   3( 3)   2( 5)   1( 6)   X( 6)   X( 6)
+ 
+BALD HEAD ISL  34  X   X( X)   3( 3)   1( 4)   X( 4)   X( 4)   1( 5)
+ 
+LITTLE RIVER   34  X   X( X)   2( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

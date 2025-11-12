@@ -1,0 +1,104 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+POTENTIAL TROPICAL CYCLONE THREE WIND SPEED PROBABILITIES NUMBER   1
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL032021               
+2100 UTC THU JUN 17 2021                                            
+                                                                    
+AT 2100Z THE CENTER OF POTENTIAL TROPICAL CYCLONE THREE WAS LOCATED 
+NEAR LATITUDE 22.9 NORTH...LONGITUDE 92.4 WEST WITH MAXIMUM         
+SUSTAINED WINDS NEAR 25 KTS...30 MPH...45 KM/H.                     
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z THU 06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON 18Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ATLANTA GA     34  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+DESTIN EXEC AP 34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+COLUMBUS GA    34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+BIRMINGHAM AL  34  X   X( X)   X( X)   2( 2)   6( 8)   X( 8)   X( 8)
+ 
+MONTGOMERY AL  34  X   X( X)   X( X)   2( 2)   4( 6)   X( 6)   X( 6)
+ 
+WHITING FLD FL 34  X   X( X)   X( X)   2( 2)   2( 4)   X( 4)   X( 4)
+ 
+PENSACOLA FL   34  X   X( X)   X( X)   3( 3)   1( 4)   X( 4)   X( 4)
+ 
+MOBILE AL      34  X   X( X)   1( 1)   8( 9)   2(11)   X(11)   X(11)
+ 
+GULFPORT MS    34  X   X( X)   1( 1)  13(14)   2(16)   X(16)   X(16)
+ 
+STENNIS MS     34  X   X( X)   1( 1)  18(19)   1(20)   X(20)   X(20)
+ 
+BURAS LA       34  X   X( X)   2( 2)  12(14)   X(14)   X(14)   X(14)
+ 
+GFMX 280N 890W 34  X   1( 1)   3( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+JACKSON MS     34  X   X( X)   1( 1)   4( 5)   2( 7)   X( 7)   X( 7)
+ 
+NEW ORLEANS LA 34  X   X( X)   3( 3)  21(24)   X(24)   X(24)   X(24)
+NEW ORLEANS LA 50  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+GFMX 280N 910W 34  X   5( 5)  23(28)   1(29)   X(29)   X(29)   X(29)
+GFMX 280N 910W 50  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+BATON ROUGE LA 34  X   X( X)   5( 5)  15(20)   X(20)   X(20)   X(20)
+BATON ROUGE LA 50  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+MORGAN CITY LA 34  X   X( X)  10(10)  16(26)   X(26)   X(26)   X(26)
+MORGAN CITY LA 50  X   X( X)   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)
+ 
+ALEXANDRIA LA  34  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+LAFAYETTE LA   34  X   X( X)   6( 6)   8(14)   X(14)   X(14)   X(14)
+ 
+NEW IBERIA LA  34  X   X( X)   8( 8)  10(18)   X(18)   X(18)   X(18)
+ 
+GFMX 280N 930W 34  X   6( 6)  17(23)   X(23)   X(23)   X(23)   X(23)
+GFMX 280N 930W 50  X   X( X)   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+LAKE CHARLES   34  X   X( X)   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)
+ 
+CAMERON LA     34  X   1( 1)   6( 7)   1( 8)   X( 8)   X( 8)   X( 8)
+ 
+$$                                                                  
+FORECASTER PASCH                                                    
+NNNN                                                                

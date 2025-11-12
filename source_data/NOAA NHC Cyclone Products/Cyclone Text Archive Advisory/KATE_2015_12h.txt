@@ -1,0 +1,82 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+TROPICAL DEPRESSION TWELVE INTERMEDIATE ADVISORY NUMBER   1A
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL122015
+100 AM EST MON NOV 09 2015
+
+...TROPICAL DEPRESSION MOVING NORTHWESTWARD NEAR THE SOUTHEASTERN
+BAHAMAS...
+
+
+SUMMARY OF 100 AM EST...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...23.2N 73.6W
+ABOUT 80 MI...130 KM SE OF SAN SALVADOR
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1010 MB...29.83 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* The Acklins, Samana Cays, Crooked Island, and Long Cay in the
+southeastern Bahamas
+* Central Bahamas
+* Northwestern Bahamas
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within the
+next 12 to 24 hours.
+
+For storm information specific to your area, please monitor products
+issued by your national meteorological service.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 100 AM EST (0600 UTC), the center of Tropical Depression Twelve
+was located near latitude 23.2 North, longitude 73.6 West.  The
+depression is moving toward the northwest near 14 mph (22 km/h), and
+this motion is expected to continue through this morning.  A turn
+toward the north-northwest and north are expected later today and
+tonight.  On the forecast track, the center of the depression is
+forecast to pass near or over portions of the central Bahamas later
+this morning and near or over the northwestern Bahamas this
+afternoon and tonight.
+
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Some strengthening is forecast during the next day or so, and the
+depression is forecast to become a tropical storm later today.
+
+The estimated minimum central pressure is 1010 mb (29.83 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND:  Tropical storm conditions are expected over portions of the
+southeastern and central Bahamas through this morning and will
+spread over portions of the northwestern Bahamas this afternoon.
+
+RAINFALL:  The tropical depression is expected to produce total rain
+accumulations of 1 to 3 inches over the Turks and Caicos Islands and
+the Bahamas through tonight.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 AM EST.
+
+$$
+Forecaster Berg/Brennan
+
+NNNN

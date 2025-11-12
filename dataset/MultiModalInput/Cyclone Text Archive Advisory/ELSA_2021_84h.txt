@@ -1,0 +1,175 @@
+
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Elsa Intermediate Advisory Number 14A
+NWS National Hurricane Center Miami FL       AL052021
+800 PM EDT Sat Jul 03 2021
+ 
+...ELSA SLOWS DOWN AS IT PASSES BETWEEN HAITI AND JAMAICA...
+...RECONNAISSANCE AIRCRAFT EN ROUTE TO INVESTIGATE THE STORM...
+ 
+ 
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.8N 74.7W
+ABOUT 40 MI...65 KM SSW OF TIBURON HAITI
+ABOUT 140 MI...225 KM E OF KINGSTON JAMAICA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 23 MPH...37 KM/H
+MINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Government of the Dominican Republic has discontinued the 
+Tropical Storm Warning and the Tropical Storm Watch for the 
+Dominican Republic.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Southern portion of Haiti from Port Au Prince to the southern
+border with the Dominican Republic.
+ 
+A Tropical Storm Warning is in effect for...
+* The coast of Haiti north of Port Au Prince
+* The Cuban provinces of Camaguey, Granma, Guantanamo, Holguin,
+Las Tunas, Santiago de Cuba, Ciego de Avila, Sancti Spiritus, Villa
+Clara, and Cienfuegos
+* Jamaica
+ 
+A Hurricane Watch is in effect for...
+* The Cuban provinces of Camaguey, Granma, Guantanamo, Holguin,
+Las Tunas, and Santiago de Cuba
+ 
+A Tropical Storm Watch is in effect for...
+* Cayman Brac and Little Cayman
+* The Cuban provinces of Matanzas, Mayabeque, and Havana
+* The Florida Keys from Craig Key westward to the Dry Tortugas
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+ 
+Interests elsewhere in the Cuba, the Cayman Islands, the Florida
+peninsula, and the Florida Keys should monitor the progress of Elsa.
+Additional watches and warnings will likely be required tonight or
+on Sunday.
+ 
+For storm information specific to your area in the United States, 
+including possible inland watches and warnings, please monitor 
+products issued by your local National Weather Service forecast 
+office. For storm information specific to your area outside of the 
+United States, please monitor products issued by your national 
+meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM EDT (0000 UTC), the center of Tropical Storm Elsa was
+located near latitude 17.8 North, longitude 74.7 West. Elsa is
+moving toward the west-northwest near 23 mph (37 km/h).  An 
+additional decrease in forward speed is expected tonight and on 
+Sunday, followed by a turn toward the northwest Sunday night or 
+Monday. On the forecast track, Elsa will move near the southwestern 
+peninsula of Haiti over the next few hours, and then move near 
+Jamaica and portions of eastern Cuba on Sunday.  By Monday, Elsa is 
+expected to move across central and western Cuba and head toward the 
+Florida Straits. Elsa is then forecast to move move near or over 
+portions of the west coast of Florida on Tuesday.
+ 
+Maximum sustained winds remain near 70 mph (110 km/h) with higher
+gusts.  Little change in strength is forecast through Sunday, but
+gradual weakening is forecast on Sunday night and Monday when Elsa
+is expected to be near or over Cuba.
+ 
+Tropical-storm-force winds extend outward up to 125 miles (205 km)
+mainly to the north of the center. A wind gust to 46 mph (74 km/h) 
+was recently reported in Port-au-Prince, Haiti.
+ 
+The estimated minimum central pressure is 998 mb (29.47 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Elsa can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT5, WMO header WTNT45 KNHC and
+on the web at
+www.hurricanes.gov/graphics_at5.shtml?key_messages.
+ 
+WIND: Hurricane conditions are still possible in the hurricane
+warning area in Haiti for a few more hours. Hurricane conditions
+are possible in eastern Cuba on Sunday. Tropical Storm conditions
+are possible for a few more hours over portions of the Dominican
+Republic, and are expected on Jamaica and over eastern and central
+Cuba on Sunday.  Tropical storm conditions are possible in the
+watch area in the Cayman Islands Sunday and Sunday night and in
+western Cuba and the Florida Keys Sunday night and Monday.
+ 
+STORM SURGE: A storm surge will raise water levels above normal tide
+levels by as much as the following amounts in areas of onshore flow
+within the hurricane watch and warning areas...
+ 
+Southern coast of Cuba...3 to 5 feet
+Southern coast of Hispaniola...2 to 4 feet
+ 
+The combination of a storm surge and the tide will cause normally
+dry areas near the coast to be flooded by rising waters moving
+inland from the shoreline.  The water could reach the following
+heights above ground somewhere in the indicated areas if the peak
+surge occurs at the time of high tide...
+ 
+Craig Key, FL to Dry Tortugas...1-2 ft
+ 
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.  For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+ 
+RAINFALL: Across portions of southern Hispaniola and Jamaica,
+rainfall of 4 to 8 inches with isolated maximum amounts of 15 inches
+is expected today into Sunday. This rain may lead to scattered flash
+flooding and mudslides, some of which may be significant in nature.
+ 
+Across portions of Cuba Sunday into Monday, rainfall of 5 to 10
+inches with isolated maximum amounts of 15 inches is expected. This
+will result in significant flash flooding and mudslides.
+ 
+Across the Cayman Islands Sunday into Monday, rainfall of 3 to 6
+inches is expected. This rain may lead to scattered flash flooding.
+ 
+Rainfall from Elsa is likely to impact portions of the Florida Keys
+and Florida Peninsula early next week. Amounts of 2 to 4 inches with
+localized maximum amounts up to 6 inches will be possible, which may
+result in isolated flash, urban, and minor river flooding.
+ 
+SURF: Swells generated by Elsa will spread westward across the
+Caribbean Sea through the weekend. These swells are likely to cause
+life-threatening surf and rip current conditions.  Please consult
+products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Stewart/Papin
+ 
+NNNN

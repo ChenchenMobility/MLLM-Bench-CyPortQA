@@ -1,0 +1,195 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Isaias Intermediate Advisory Number 17A
+NWS National Hurricane Center Miami FL       AL092020
+800 AM EDT Sat Aug 01 2020
+ 
+...RAGGED EYE OF ISAIAS NEAR EASTERN ANDROS ISLAND...
+...EXPECTED TO APPROACH THE SOUTHEAST COAST OF FLORIDA LATER TODAY
+AND SUNDAY...
+ 
+ 
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...24.3N 77.5W
+ABOUT 20 MI...30 KM E OF ANDROS ISLAND BAHAMAS
+ABOUT 50 MI...85 KM S OF NASSAU BAHAMAS
+MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Hurricane Warning for the Central Bahamas has been discontinued.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Boca Raton to the Volusia/Flagler County Line Florida
+* Northwestern Bahamas
+ 
+A Hurricane Watch is in effect for...
+* Hallandale Beach to south of Boca Raton Florida
+ 
+A Storm Surge Watch is in effect for...
+* Jupiter Inlet to Ponte Vedra Beach Florida
+ 
+A Tropical Storm Warning is in effect for...
+* North of Ocean Reef to south of Boca Raton Florida
+* Lake Okeechobee
+ 
+A Tropical Storm Watch is in effect for...
+* Volusia/Flagler County Line to Ponte Vedra Beach Florida
+ 
+Interests elsewhere along the southeast coast of the United States
+should monitor the progress of Isaias.  Additional watches or
+warnings may be required later today.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area. A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area in the United States, 
+including possible inland watches and warnings, please monitor 
+products issued by your local National Weather Service forecast 
+office. For storm information specific to your area outside of the 
+United States, please monitor products issued by your national 
+meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM EDT (1200 UTC), the center of Hurricane Isaias was located 
+by NOAA and Air Force Reserve Hurricane Hunter aircraft and Bahamas 
+radar near latitude 24.3 North, longitude 77.5 West. Isaias is 
+moving toward the northwest near 12 mph (19 km/h). A general 
+northwestward motion with some decrease in forward speed is expected 
+for the next day or so, followed by a turn toward the 
+north-northwest by late Sunday.  On the forecast track, the center 
+of Isaias will move near or over Andros Island in the Northwestern 
+Bahamas this morning and continue to move near or over the rest of 
+Northwestern Bahamas later today, and move near the east coast of 
+the Florida peninsula tonight through Sunday.
+ 
+Reports from the reconnaissance aircraft indicate that maximum 
+sustained winds remain near 85 mph (140 km/h) with higher gusts.  
+Little change in strength is expected through Sunday, and and 
+Isaias is forecast to remain a hurricane during this time.
+ 
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center and tropical-storm-force winds extend outward up to 175
+miles (280 km).
+ 
+The minimum central pressure recently measured by the aircraft was 
+987 mb (29.15 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Isaias can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4, WMO header WTNT44 KNHC, and
+on the web at www.hurricanes.gov/text/MIATCDAT4.shtml.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Jupiter Inlet to Ponte Vedra Beach FL...2-4 ft
+North Miami Beach to Jupiter Inlet FL...1-3 ft
+ 
+The deepest water will occur along the immediate coast near and to
+the right of the center, where the surge will be accompanied by
+large waves.  Surge-related flooding depends on the relative timing
+of the surge and the tidal cycle, and can vary greatly over short
+distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
+ 
+A dangerous storm surge will raise water levels by as much as 
+3 to 5 feet above normal tide levels in areas of onshore winds in 
+the Northwestern Bahamas.
+ 
+WIND:  Hurricane conditions will continue to spread over the 
+Northwestern Bahamas later today.
+ 
+Hurricane conditions are expected to reach the coast within the
+hurricane warning area in Florida tonight and will spread northward
+through Sunday. Winds are expected to first reach tropical storm
+strength later today, making outside preparations difficult or
+dangerous. Preparations to protect life and property should be
+rushed to completion.  Tropical storm conditions are expected
+within the tropical storm warning area, and are possible within the
+watch area, over southern Florida by this afternoon or evening.
+ 
+RAINFALL: Isaias is expected to produce the following rain
+accumulations:
+ 
+Bahamas: 4 to 8 inches.
+ 
+Cuba: 1 to 2 inches, with isolated maximum totals of 4 inches.
+ 
+These rainfall amounts could lead to life-threatening flash  and
+urban flooding, especially in low-lying and poorly drained areas.
+ 
+From Friday night through Tuesday:
+ 
+South Florida into east-Central Florida: 2 to 4 inches, with
+isolated maximum totals of 6 inches.
+ 
+Northeast Florida into coastal Georgia: 1 to 2 inches.
+ 
+Carolinas into the mid Atlantic, including the southern and central
+Appalachians: 2 to 4 inches, with isolated maximum totals of 6
+inches.
+ 
+Heavy rainfall from Isaias could result in potentially
+life-threatening flash and urban flooding, especially in low-lying
+and poorly drained areas. Minor river flooding is possible across
+portions of the Carolinas and into Virginia.
+ 
+SURF:  Swells generated by Isaias are affecting portions of
+Hispaniola, eastern Cuba, the Turks and Caicos, and the southeastern
+and central Bahamas. These swells will spread along the east coast
+of Florida and the southeastern United States coast today.  These
+swells are likely to cause life-threatening surf and rip current
+conditions. Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Stewart
+ 
+NNNN

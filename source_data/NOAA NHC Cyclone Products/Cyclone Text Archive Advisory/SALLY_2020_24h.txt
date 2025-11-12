@@ -1,0 +1,169 @@
+
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Sally Intermediate Advisory Number 16A
+NWS National Hurricane Center Miami FL       AL192020
+700 AM CDT Tue Sep 15 2020
+ 
+...HISTORIC FLOODING IS POSSIBLE FROM SALLY WITH EXTREME LIFE-
+THREATENING FLASH FLOODING LIKELY THROUGH WEDNESDAY ALONG PORTIONS
+OF THE NORTHERN GULF COAST...
+ 
+ 
+SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...29.1N 88.0W
+ABOUT 65 MI...110 KM E OF THE MOUTH OF THE MISSISSIPPI RIVER
+ABOUT 105 MI...170 KM SSE OF BILOXI MISSISSIPPI
+MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...982 MB...29.00 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Mouth of the Mississippi River to the Okaloosa/Walton County Line
+Florida
+* Mobile Bay
+ 
+A Hurricane Warning is in effect for...
+* East of the Mouth of the Pearl River to Navarre Florida
+ 
+A Tropical Storm Warning is in effect for...
+* East of Navarre Florida to Indian Pass Florida
+* Mouth of the Pearl River westward to Grand Isle Louisiana,
+including Lake Pontchartrain and Lake Maurepas and metropolitan
+New Orleans
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a depiction
+of areas at risk, please see the National Weather Service Storm
+Surge Watch/Warning Graphic, available at hurricanes.gov.  This is a
+life-threatening situation.  Persons located within these areas
+should take all necessary actions to protect life and property from
+rising water and the potential for other dangerous conditions.
+Promptly follow evacuation and other instructions from local
+officials.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 AM CDT (1200 UTC), the center of Hurricane Sally was located
+near latitude 29.1 North, longitude 88.0 West. Sally is moving 
+toward the northwest near 2 mph (4 km/h), and this general motion is 
+expected to continue this morning. A northward turn is expected this 
+afternoon, followed by a slow north-northeastward to northeastward 
+motion tonight and continuing through Wednesday night. On the 
+forecast track, the center of Sally will pass near the coast of 
+southeastern Louisiana today, and make landfall in the hurricane 
+warning area tonight or Wednesday morning.
+ 
+Maximum sustained winds are near 85 mph (140 km/h) with higher
+gusts.  Although little change in strength is forecast until
+landfall occurs, Sally is still expected to be a dangerous hurricane
+when it moves onshore along the north-central Gulf coast.
+ 
+Hurricane-force winds extend outward up to 45 miles (75 km) from
+the center and tropical-storm-force winds extend outward up to 125
+miles (205 km).
+ 
+The estimated minimum central pressure based on data from the Air
+Force Hurricane Hunter aircraft is 982 mb (29.00 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Sally can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4 and WMO header WTNT44 KNHC,
+and on the web at www.hurricanes.gov/text/MIATCDAT4.shtml
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Ocean Springs, MS to Dauphin Island, AL including Mobile Bay...6-9 
+ft
+Mouth of the Mississippi River to Ocean Springs, MS including Lake 
+Borgne...4-7 ft
+Dauphin Island, AL to AL/FL Border...4-7 ft
+AL/FL Border to Okaloosa/Walton County Line, FL including Pensacola 
+Bay and Choctawhatchee Bay...2-4 ft
+Lake Pontchartrain and Lake Maurepas...2-4 ft
+Port Fourchon, LA to Mouth of the Mississippi River...1-3 ft
+Okaloosa/Walton County Line to Chassahowitzka, FL including Saint 
+Andrew Bay...1-3 ft
+
+The deepest water will occur along the immediate coast in areas of
+onshore winds, where the surge will be accompanied by large and
+damaging waves.  Surge-related flooding depends on the relative
+timing of the surge and the tidal cycle, and can vary greatly over
+short distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
+ 
+WIND:  Hurricane conditions are expected to begin within the
+hurricane warning area this late afternoon or tonight. Tropical
+storm conditions are occurring in portions of the warning area
+across the western Florida Panhandle and Alabama, and  these
+conditions will gradually spread westward this morning and continue
+into Wednesday.
+ 
+RAINFALL:  Sally is expected to be a slow moving system as it
+approaches land producing 10 to 20 inches of rainfall with isolated
+amounts of 30 inches along and just inland of the central Gulf Coast
+from the western Florida Panhandle to far southeastern Mississippi.
+Historic flooding is possible with extreme life-threatening flash
+flooding likely through Wednesday.  In addition, this rainfall will
+lead to widespread moderate to major flooding on area rivers.
+ 
+Sally is forecast to move inland early Wednesday and move 
+across the Southeast producing rainfall of 4 to 8 inches, with 
+isolated maximum amounts of 12 inches, across portions of 
+southeastern Mississippi, southern and central Alabama, northern 
+Georgia, and the western Carolinas. Significant flash and urban 
+flooding is likely, as well as widespread minor to moderate 
+flooding on some rivers.
+ 
+TORNADOES:  A tornado or two will be possible this morning in
+coastal areas of the Florida Panhandle and Alabama.  The tornado
+threat should increase and slowly spread inland the rest of today
+into Wednesday.
+ 
+SURF:  Swells from Sally will continue to affect the coast from the
+Florida Big Bend westward to southeastern Louisiana during the next
+couple of days. These swells are likely to cause life-threatening
+surf and rip current conditions.  Please consult products from your
+local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Brown
+ 
+NNNN

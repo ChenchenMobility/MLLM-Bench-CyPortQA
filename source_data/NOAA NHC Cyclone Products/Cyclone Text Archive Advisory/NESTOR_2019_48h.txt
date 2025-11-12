@@ -1,0 +1,115 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Potential Tropical Cyclone Sixteen Intermediate Advisory Number 1A
+NWS National Hurricane Center Miami FL       AL162019
+100 PM CDT Thu Oct 17 2019
+
+...DISTURBANCE OVER THE SOUTHWESTERN GULF OF MEXICO MOVING
+NORTHWARD...
+...EXPECTED TO DEVELOP INTO A TROPICAL OR SUBTROPICAL STORM LATER
+TODAY OR TONIGHT...
+
+
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...22.6N 95.5W
+ABOUT 155 MI...250 KM E OF TAMPICO MEXICO
+ABOUT 600 MI...965 KM SW OF THE MOUTH OF THE MISSISSIPPI RIVER
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...N OR 5 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Mississippi/Alabama border to the Ochlockonee River, Florida
+* Grand Isle, Louisiana to the Mouth of the Pearl River
+
+A Tropical Storm Watch is in effect for...
+* East of the Ochlockonee River to Yankeetown, Florida
+
+A Storm Surge Watch is in effect for...
+* Indian Pass to Clearwater Beach, Florida
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 100 PM CDT (1800 UTC), the disturbance was centered near latitude
+22.6 North, longitude 95.5 West.  The system is moving toward the
+north near 7 mph (11 km/h).  A turn toward the northeast is expected
+this afternoon or tonight, and a northeastward motion at a faster
+forward speed is expected on Friday and Saturday.  On the forecast
+track, the system will approach the northern Gulf Coast Friday and
+Friday night.
+
+Maximum sustained winds are near 35 mph (55 km/h) with higher
+gusts. The disturbance is expected to develop into a tropical or
+subtropical storm later today or tonight, with slow strengthening
+then expected through Friday night.
+* Formation chance through 48 hours...high...90 percent
+* Formation chance through 5 days...high ...90 percent
+
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+STORM SURGE: The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+
+Indian Pass FL to Chassahowitzka FL...3 to 5 ft
+Chassahowitzka to Clearwater Beach FL...2 to 4 ft
+
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.  For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+
+WIND:  Tropical storm conditions are expected to first reach the
+coast within the warning area by late Friday, making outside
+preparations difficult or dangerous.
+
+RAINFALL: The disturbance is expected to produce total rainfall
+accumulations of 2 to 4 inches this weekend from the central Gulf
+Coast and northern and central Florida to the eastern Carolinas,
+with isolated maximum amounts of 5 inches.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 PM CDT.
+
+$$
+Forecaster Beven
+
+NNNN

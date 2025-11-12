@@ -1,0 +1,165 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Grace Intermediate Advisory Number 18A
+NWS National Hurricane Center Miami FL       AL072021
+800 PM EDT Tue Aug 17 2021
+ 
+...NOAA AND AIR FORCE RECONNAISSANCE AIRCRAFT FIND THE CENTER OF 
+GRACE JUST WEST OF JAMAICA...
+...HEAVY RAINFALL AND FLASH FLOOD THREAT CONTINUES IN JAMAICA...
+ 
+ 
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.3N 78.6W
+ABOUT 50 MI...80 KM W OF MONTEGO BAY JAMAICA
+ABOUT 185 MI...295 KM ESE OF GRAND CAYMAN
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Yucatan Peninsula of Mexico from Cancun to Punta Herrero,
+including Cozumel
+ 
+A Hurricane Watch is in effect for...
+* Cayman Islands
+ 
+A Tropical Storm Warning is in effect for...
+* Jamaica
+* Southern coast of the Cuban provinces of Santiago de Cuba, Granma,
+Las Tunas, and Camaguey
+* Cayman Islands
+* Yucatan Peninsula of Mexico from north of Cancun to Cabo Catoche
+* Yucatan Peninsula of Mexico from south of Punta Herrero to Puerto
+Costa Maya
+ 
+A Tropical Storm Watch is in effect for...
+* Southern coast of the Cuban provinces of Ciego de Avila, Sancti
+Spiritus, Cienfuegos, Matanzas, and Pinar del Rio, as well as Isla
+de la Juventud.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of tropical-storm- 
+force winds, conditions that make outside preparations difficult or 
+dangerous.  Preparations to protect life and property should be 
+rushed to completion.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+ 
+Interests elsewhere in the Yucatan Peninsula of Mexico should
+monitor the progress of Grace.
+ 
+Additional watches or warnings may be required tonight.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM EDT (0000 UTC), the center of Tropical Storm Grace was
+located just west of the western tip of Jamaica near latitude 
+18.3 North, longitude 78.6 West. Grace is moving toward the west 
+near 15 mph (24 km/h).  A general westward to west-northwestward 
+motion is expected for the next several days.  On the forecast 
+track, the center of Grace will move away from the western coast 
+of Jamaica this evening.  Grace is forecast to move near or over the
+Cayman Islands late tonight and early Wednesday, and then approach
+the Yucatan peninsula of Mexico late Wednesday or early Thursday.
+ 
+Reports from NOAA and Air Force Reserve Hurricane Hunter aircraft 
+indicate that the maximum sustained winds have increased to near 
+60 mph (95 km/h) with higher gusts.  Grace is forecast to 
+strengthen into a hurricane on Wednesday, with some additional 
+strengthening possible prior to the center reaching the Yucatan 
+Peninsula.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.  A sustained wind of 40 mph (65 km/h) and a gust 
+to 52 mph (83 km/h) was recently reported at Kingston, Jamaica.
+ 
+The latest minimum central pressure reported by an Air Force 
+Reserve Hurricane Hunter aircraft is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Grace can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2, WMO header WTNT42 KNHC
+and on the web at
+www.hurricanes.gov/graphics_at2.shtml?key_messages.
+ 
+WIND:  Tropical storm conditions are expected to continue over
+portions of Jamaica through early tonight.  Tropical storm
+conditions are expected along a portion of the southern coast of 
+Cuba within the warning area through early tonight, and over the 
+Cayman Islands beginning tonight and into early Wednesday. Hurricane 
+conditions are possible in the Cayman Islands by early Wednesday.  
+Tropical storm conditions are possible along the southern coast of 
+Cuba within the watch area tonight and Wednesday. Hurricane 
+conditions are expected within the warning area in the Yucatan 
+Peninsula of Mexico on Wednesday night with tropical storm 
+conditions beginning as early as Wednesday evening.
+ 
+RAINFALL:  The system is expected to produce the following rainfall
+amounts:
+ 
+Over Haiti...an additional 1 to 2 inches of rain with isolated
+maximum totals of 15 inches are expected across the southern terrain
+areas today.  This heavy rainfall will likely cause flash and
+urban flooding, along with possible mudslides.
+ 
+Over far southern Cuba...and additional 2 to 4 inches of rain.
+Additional heavy rainfall could lead to flash and urban
+flooding, along with possible mudslides.
+ 
+Over Jamaica, the Cayman Islands, and portions of the Yucatan
+Peninsula....3 to 6 inches of rain with isolated maximum totals of
+10 inches are expected through Thursday.  This heavy rainfall could
+lead to flash and urban flooding.
+ 
+STORM SURGE: A storm surge could raise water levels as high as 1 to
+3 ft above normal tide levels in portions of the Cayman Islands.
+ 
+A dangerous storm surge will raise water levels by as much as 3-5
+feet above normal tide levels along the immediate coast near and to
+the north of where the center makes landfall in the northeastern
+Yucatan Peninsula late Wednesday or early Thursday. Near the
+coast, the surge will be accompanied by large and destructive waves.
+ 
+SURF:  Swells generated by Grace will spread westward from Jamaica
+to the Cayman Islands, the southern coast of Cuba, and the
+Yucatan Peninsula of Mexico.  These swells are likely to cause
+life-threatening surf and rip current conditions. Please consult
+products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Brown
+ 
+NNNN

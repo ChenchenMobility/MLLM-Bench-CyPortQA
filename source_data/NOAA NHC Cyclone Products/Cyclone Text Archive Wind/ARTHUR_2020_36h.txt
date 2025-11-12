@@ -1,0 +1,129 @@
+
+ZCZC MIAPWSAT1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL DEPRESSION ONE WIND SPEED PROBABILITIES NUMBER   1         
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL012020               
+2100 UTC SAT MAY 16 2020                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL DEPRESSION ONE WAS LOCATED NEAR     
+LATITUDE 28.4 NORTH...LONGITUDE 78.6 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SAT 06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED 18Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+YARMOUTH NS    34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+BOSTON MA      34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+HYANNIS MA     34  X   X( X)   X( X)   X( X)   7( 7)   5(12)   X(12)
+ 
+NANTUCKET MA   34  X   X( X)   X( X)   X( X)   9( 9)   7(16)   X(16)
+NANTUCKET MA   50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+PROVIDENCE RI  34  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   X( 4)
+ 
+BRIDGEPORT CT  34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+NEW HAVEN CT   34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+HARTFORD CT    34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+NEW LONDON CT  34  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   X( 4)
+ 
+MONTAUK POINT  34  X   X( X)   X( X)   X( X)   9( 9)   4(13)   X(13)
+ 
+ISLIP NY       34  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   X( 4)
+ 
+NYC JFK AIRPRT 34  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   X( 4)
+ 
+NYC CNTRL PARK 34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+NEWARK NJ      34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+NWS EARLE NJ   34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+PHILADELPHIA   34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+ATLANTIC CITY  34  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   X( 5)
+ 
+DOVER DE       34  X   X( X)   X( X)   1( 1)   1( 2)   1( 3)   X( 3)
+ 
+CAPE HENLOPEN  34  X   X( X)   X( X)   2( 2)   9(11)   3(14)   X(14)
+ 
+OCEAN CITY MD  34  X   X( X)   X( X)   4( 4)  10(14)   3(17)   X(17)
+ 
+PAX RIVER NAS  34  X   X( X)   X( X)   1( 1)   1( 2)   1( 3)   X( 3)
+ 
+WALLOPS CDA    34  X   X( X)   X( X)   1( 1)   4( 5)   1( 6)   X( 6)
+ 
+NORFOLK NAS    34  X   X( X)   X( X)   2( 2)   2( 4)   1( 5)   X( 5)
+ 
+NORFOLK VA     34  X   X( X)   X( X)   3( 3)   3( 6)   X( 6)   X( 6)
+ 
+OCEANA NAS VA  34  X   X( X)   1( 1)   3( 4)   3( 7)   1( 8)   X( 8)
+ 
+ELIZABETH CTY  34  X   X( X)   1( 1)   5( 6)   4(10)   X(10)   X(10)
+ 
+ROCKY MT NC    34  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+CAPE HATTERAS  34  X   1( 1)   7( 8)  29(37)   7(44)   X(44)   X(44)
+CAPE HATTERAS  50  X   X( X)   X( X)   8( 8)   2(10)   X(10)   X(10)
+CAPE HATTERAS  64  X   X( X)   X( X)   1( 1)   1( 2)   X( 2)   X( 2)
+ 
+CHERRY PT NC   34  X   X( X)   2( 2)   6( 8)   1( 9)   X( 9)   X( 9)
+ 
+NEW RIVER NC   34  X   1( 1)  11(12)  19(31)   3(34)   X(34)   X(34)
+NEW RIVER NC   50  X   X( X)   1( 1)   5( 6)   1( 7)   X( 7)   X( 7)
+NEW RIVER NC   64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+MOREHEAD CITY  34  X   1( 1)  11(12)  14(26)   3(29)   X(29)   X(29)
+MOREHEAD CITY  50  X   X( X)   1( 1)   4( 5)   X( 5)   X( 5)   X( 5)
+ 
+SURF CITY NC   34  X   X( X)   3( 3)   3( 6)   1( 7)   X( 7)   X( 7)
+ 
+WILMINGTON NC  34  X   X( X)   3( 3)   1( 4)   1( 5)   X( 5)   X( 5)
+ 
+BALD HEAD ISL  34  X   1( 1)  12(13)   2(15)   1(16)   X(16)   X(16)
+ 
+MYRTLE BEACH   34  X   1( 1)   5( 6)   1( 7)   1( 8)   X( 8)   X( 8)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

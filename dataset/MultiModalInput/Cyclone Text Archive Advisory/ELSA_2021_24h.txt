@@ -1,0 +1,210 @@
+
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Elsa Intermediate Advisory Number 24A
+NWS National Hurricane Center Miami FL       AL052021
+800 AM EDT Tue Jul 06 2021
+ 
+...ELSA JUST WEST OF KEY WEST...
+...EXPECTED TO STRENGTHEN...
+ 
+ 
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...24.5N 82.6W
+ABOUT 55 MI...90 KM W OF KEY WEST FLORIDA
+ABOUT 240 MI...385 KM S OF TAMPA FLORIDA
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...NNW OR 340 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* West coast of Florida from Bonita Beach to the Aucilla
+River, including Tampa Bay
+ 
+A Tropical Storm Warning is in effect for...
+* The Cuban provinces of Matanzas, Mayabeque, Havana, and Artemisa
+* The Florida Keys from Craig Key westward to the Dry Tortugas
+* West coast of Florida from Flamingo northward to Ochlockonee River
+ 
+A Hurricane Watch is in effect for...
+* Egmont Key to the Steinhatchee River, Florida
+ 
+A Storm Surge Watch is in effect for...
+* West of the Aucilla River to the Ochlockonee River, Florida
+ 
+A Tropical Storm Watch is in effect for...
+* West of the Ochlockonee River to Indian Pass, Florida
+* Mouth of St. Marys River to South Santee River, South Carolina
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a depiction
+of areas at risk, please see the National Weather Service Storm
+Surge Watch/Warning Graphic, available at hurricanes.gov.  This is a
+life-threatening situation.  Persons located within these areas
+should take all necessary actions to protect life and property from
+rising water and the potential for other dangerous conditions.
+Promptly follow evacuation and other instructions from local
+officials.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+ 
+Interests elsewhere in the Carolinas and the mid-Atlantic coast
+should monitor the progress of Elsa.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM EDT (1200 UTC), the center of Tropical Storm Elsa was 
+located near latitude 24.5 North, longitude 82.6 West. Elsa is 
+moving toward the north-northwest near 12 mph (19 km/h) and this 
+general motion is expected to continue today, followed by a turn 
+toward the north by tonight.  A north-northeastward motion is 
+expected on Wednesday.  On the forecast track, Elsa will continue to 
+pass near the Florida Keys this morning, and move near or over 
+portions of the west coast of Florida later today through tonight. 
+On Wednesday morning, Elsa is forecast to make landfall along the 
+north Florida Gulf coast and then move northeastward across the 
+southeastern United States through Thursday.
+ 
+Maximum sustained winds remain near 60 mph (95 km/h) with higher
+gusts. Slow strengthening is forecast through tonight, and Elsa
+could be near hurricane strength before it makes landfall in
+Florida.  Weakening is expected after Elsa moves inland.
+ 
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center.  A C-MAN station at Sand Key, Florida, recently
+measured a wind gust of 52 mph (83 km/h). The Key West 
+International Airport also recently measured a wind gust of 48 mph 
+(77 km/h).
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Elsa can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT5, WMO header WTNT45 KNHC and
+on the web at
+www.hurricanes.gov/graphics_at5.shtml?key_messages.
+ 
+WIND: Tropical storm conditions should continue over portions of
+central and western Cuba during the next several hours.  Tropical
+storm conditions are beginning in the warning area in the Florida
+Keys and are expected along the Florida west coast later today.
+Tropical storm conditions are expected to spread northward into
+west-central Florida and the Florida Big Bend region tonight and
+early Wednesday, where hurricane conditions are possible. Tropical
+storm conditions are possible in the watch area in Florida beginning
+late tonight and in Georgia and South Carolina Wednesday night and
+early Thursday.
+ 
+STORM SURGE: A storm surge will raise water levels above normal
+tide levels by as much as the following amounts in areas of onshore
+winds within the Tropical Storm Warning areas...
+ 
+Southern coast of Cuba...2 to 4 ft
+ 
+The combination of a storm surge and the tide will cause normally
+dry areas near the coast to be flooded by rising waters moving
+inland from the shoreline.  The water could reach the following
+heights above ground somewhere in the indicated areas if the peak
+surge occurs at the time of high tide...
+ 
+Englewood, FL to Aucilla River including Tampa Bay...3 to 5 ft
+Bonita Beach, FL to Englewood, FL including Charlotte Harbor...2 to
+4 ft
+Aucilla River to Ochlockonee River...2 to 4 ft
+Flamingo, FL to Bonita Beach, FL...1 to 3 ft
+Craig Key, FL to Dry Tortugas...1 to 2 ft
+Ochlockonee River to Indian Pass...1 to 2 ft
+ 
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.  For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+ 
+RAINFALL: Across portions of Cuba through tonight, rainfall of 5 to
+10 inches with isolated maximum amounts of 15 inches is expected.
+This will result in significant flash flooding and mudslides.
+ 
+Elsa is expected to produce the following rainfall amounts and
+impacts this week:
+ 
+Across the Florida Keys into southwest and western portions of the
+Florida Peninsula...3 to 5 inches with localized maximum totals up
+to 8 inches through Wednesday, which may result in considerable
+flash and urban flooding, along with minor to isolated moderate
+river flooding.
+ 
+Across the rest of Florida...2 to 4 inches with localized maximum
+totals up to 6 inches through Wednesday night, which may result in
+isolated flash, urban, and minor river flooding.
+ 
+Across portions of southeast Georgia and the Lowcountry of South
+Carolina, 3 to 5 inches with isolated maximum totals up to 8 inches
+will be possible, which may result in considerable flash and urban
+flooding.
+ 
+Across coastal portions of North Carolina into southeastern
+Virginia...1 to 3 inches with isolated totals up to 5 inches
+Wednesday night through Thursday night, which could lead to isolated
+flash and urban flooding.
+ 
+TORNADOES: A few tornadoes are possible today through tonight across
+the Florida Peninsula. The tornado threat will continue on Wednesday
+across north Florida, southeast Georgia, and the Lowcountry of 
+South Carolina. The tornado threat should shift to the eastern 
+Carolinas and far southeast Virginia on Thursday.
+ 
+SURF: Swells will spread northward across portions of the Florida
+Keys and the west coast of Florida through early Wednesday. These
+swells are likely to cause life-threatening surf and rip current
+conditions.  Please consult products from your local weather office
+for more details.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Pasch/Papin
+ 
+NNNN

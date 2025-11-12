@@ -1,0 +1,153 @@
+
+ZCZC MIAPWSEP4 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM HILARY WIND SPEED PROBABILITIES NUMBER   2           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP092023               
+2100 UTC WED AUG 16 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM HILARY WAS LOCATED NEAR       
+LATITUDE 13.7 NORTH...LONGITUDE 103.7 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z WED 06Z THU 18Z THU 06Z FRI 18Z FRI 18Z SAT 18Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z THU 18Z THU 06Z FRI 18Z FRI 18Z SAT 18Z SUN 18Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+OXNARD CA      34  X   X( X)   X( X)   X( X)   X( X)   X( X)  25(25)
+OXNARD CA      50  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+OXNARD CA      64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+SANTA CRUZ IS  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  23(23)
+SANTA CRUZ IS  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+SANTA CRUZ IS  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+LONG BEACH/LA  34  X   X( X)   X( X)   X( X)   X( X)   X( X)  31(31)
+LONG BEACH/LA  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+LONG BEACH/LA  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+S CATALINA IS  34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  32(33)
+S CATALINA IS  50  X   X( X)   X( X)   X( X)   X( X)   X( X)  13(13)
+S CATALINA IS  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+SAN DIEGO CA   34  X   X( X)   X( X)   X( X)   X( X)   2( 2)  35(37)
+SAN DIEGO CA   50  X   X( X)   X( X)   X( X)   X( X)   X( X)  12(12)
+SAN DIEGO CA   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+YUMA AZ        34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+TIJUANA        34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  21(22)
+TIJUANA        50  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+ENSENADA       34  X   X( X)   X( X)   X( X)   X( X)   4( 4)  38(42)
+ENSENADA       50  X   X( X)   X( X)   X( X)   X( X)   X( X)  14(14)
+ENSENADA       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+IS GUADALUPE   34  X   X( X)   X( X)   X( X)   X( X)  10(10)  15(25)
+IS GUADALUPE   50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   6( 7)
+IS GUADALUPE   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+PUNTA EUGENIA  34  X   X( X)   X( X)   X( X)   1( 1)  53(54)   8(62)
+PUNTA EUGENIA  50  X   X( X)   X( X)   X( X)   X( X)  21(21)   6(27)
+PUNTA EUGENIA  64  X   X( X)   X( X)   X( X)   X( X)   9( 9)   2(11)
+ 
+P ABREOJOS     34  X   X( X)   X( X)   X( X)   3( 3)  62(65)   2(67)
+P ABREOJOS     50  X   X( X)   X( X)   X( X)   X( X)  30(30)   1(31)
+P ABREOJOS     64  X   X( X)   X( X)   X( X)   X( X)  12(12)   1(13)
+ 
+CABO SAN LUCAS 34  X   X( X)   X( X)   3( 3)  12(15)   3(18)   X(18)
+ 
+SAN JOSE CABO  34  X   X( X)   X( X)   2( 2)   9(11)   4(15)   X(15)
+ 
+LA PAZ         34  X   X( X)   X( X)   1( 1)  11(12)   8(20)   1(21)
+LA PAZ         50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+LORETO         34  X   X( X)   X( X)   X( X)   5( 5)  23(28)   1(29)
+LORETO         50  X   X( X)   X( X)   X( X)   X( X)   6( 6)   X( 6)
+LORETO         64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+P PENASCO      34  X   X( X)   X( X)   X( X)   X( X)   6( 6)  13(19)
+P PENASCO      50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+HERMOSILLO     34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+BAHIA KINO     34  X   X( X)   X( X)   X( X)   X( X)  17(17)   2(19)
+BAHIA KINO     50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+GUAYMAS        34  X   X( X)   X( X)   X( X)   X( X)  12(12)   1(13)
+ 
+HUATABAMPO     34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   X( 3)
+ 
+LOS MOCHIS     34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   X( 3)
+ 
+15N 105W       34 94   4(98)   X(98)   X(98)   X(98)   X(98)   X(98)
+15N 105W       50 39  21(60)   X(60)   X(60)   X(60)   X(60)   X(60)
+15N 105W       64  3   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+15N 110W       34  X   2( 2)  12(14)   4(18)   1(19)   X(19)   X(19)
+15N 110W       50  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+20N 110W       34  X   1( 1)   3( 4)  39(43)  13(56)   X(56)   X(56)
+20N 110W       50  X   X( X)   X( X)   7( 7)   6(13)   1(14)   X(14)
+20N 110W       64  X   X( X)   X( X)   2( 2)   2( 4)   X( 4)   X( 4)
+ 
+ISLA SOCORRO   34  X   1( 1)   9(10)  76(86)   9(95)   X(95)   X(95)
+ISLA SOCORRO   50  X   X( X)   1( 1)  51(52)  18(70)   X(70)   X(70)
+ISLA SOCORRO   64  X   X( X)   X( X)  28(28)  16(44)   X(44)   X(44)
+ 
+ISLA CLARION   34  X   X( X)   1( 1)   5( 6)  18(24)   1(25)   X(25)
+ISLA CLARION   50  X   X( X)   X( X)   X( X)   5( 5)   X( 5)   X( 5)
+ISLA CLARION   64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+ 
+15N 115W       34  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+20N 115W       34  X   X( X)   X( X)   4( 4)  38(42)   2(44)   X(44)
+20N 115W       50  X   X( X)   X( X)   X( X)  13(13)   1(14)   X(14)
+20N 115W       64  X   X( X)   X( X)   X( X)   5( 5)   X( 5)   X( 5)
+ 
+25N 115W       34  X   X( X)   X( X)   X( X)  15(15)  56(71)   1(72)
+25N 115W       50  X   X( X)   X( X)   X( X)   2( 2)  35(37)   1(38)
+25N 115W       64  X   X( X)   X( X)   X( X)   1( 1)  17(18)   1(19)
+ 
+25N 120W       34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   1( 5)
+ 
+30N 120W       34  X   X( X)   X( X)   X( X)   X( X)   3( 3)  12(15)
+30N 120W       50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+30N 120W       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+$$                                                                  
+FORECASTER BUCCI                                                    
+NNNN                                                                

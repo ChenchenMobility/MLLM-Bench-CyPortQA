@@ -1,0 +1,134 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM CCA
+ 
+BULLETIN
+Potential Tropical Cyclone Three Advisory Number   3...Corrected
+NWS National Hurricane Center Miami FL       AL032021
+400 AM CDT Fri Jun 18 2021
+
+Corrected to add states to storm surge communication points
+
+...POTENTIAL TROPICAL CYCLONE THREE EXPECTED TO BRING HEAVY 
+RAINFALL AND FLOODING TO THE NORTHERN GULF COAST STARTING LATER 
+TODAY...
+ 
+ 
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...25.2N 91.5W
+ABOUT 310 MI...500 KM S OF MORGAN CITY LOUISIANA
+ABOUT 435 MI...695 KM SSW OF MOBILE ALABAMA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Tropical Storm Warning has been extended eastward for the
+Florida Panhandle from the Alabama/Florida border to the
+Okaloosa/Walton County line.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Intracoastal City Louisiana to the Okaloosa/Walton County line.
+* Lake Pontchartrain, Lake Maurepas, and Metropolitan New Orleans
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within 12
+to 24 hours.
+ 
+Interests elsewhere along the northern Gulf Coast should monitor
+the progress of this system.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 AM CDT (0900 UTC), the poorly defined disturbance was 
+centered near latitude 25.2 North, longitude 91.5 West. The system 
+is moving toward the north near 14 mph (22 km/h), and this 
+general motion is expected for the next day or so.  On the forecast 
+track, the system will approach the north-central Gulf Coast 
+tonight or early Saturday.  A slow northeastward motion across the 
+southeastern United States is likely after landfall through the 
+weekend.
+
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Some strengthening is forecast, and a subtropical or tropical storm 
+is likely to form over the west-central or northwestern Gulf of 
+Mexico later today.
+* Formation chance through 48 hours...high...90 percent.
+* Formation chance through 5 days...high...90 percent.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches), 
+based on observations from NOAA buoy 42001.
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Potential Tropical Cyclone Three can be found in
+the Tropical Cyclone Discussion under AWIPS header MIATCDAT3, 
+WMO header WTNT43 KNHC, and on the web at 
+www.huricanes.gov/graphics_at3.shtml?key_messages.
+ 
+RAINFALL: Rainfall totals of 4 to 8 inches with isolated maximum 
+amounts of 12 inches are expected across portions of the Central 
+Gulf Coast beginning today. Considerable flash, urban and small 
+stream flooding impacts as well as new and renewed minor to isolated 
+moderate river flooding are likely. 
+
+As the system continues to lift northeast through the weekend, 
+anticipate heavy rain to expand across southeastern Mississippi, 
+southern and central Alabama, and central Georgia resulting in 
+rainfall totals of 3 to 5 inches with isolated maximum amounts of 7 
+inches. Flash, urban, small stream and isolated minor river flooding 
+impacts are possible. 
+
+The potential tropical cyclone is expected to produce total 
+rainfall of 3 to 6 inches with isolated amounts of 8 inches across 
+the Yucatan Peninsula of Mexico.  
+ 
+STORM SURGE:  The combination of storm surge and the tide will
+cause normally dry areas near the coast to be flooded by rising
+waters moving inland from the shoreline.  The water could reach the
+following heights above ground somewhere in the indicated areas if
+the peak surge occurs at the time of high tide...
+ 
+Intracoastal City, LA to Okaloosa/Walton County Line, FL...2-3 ft
+Vermilion Bay, Lake Borgne and Mobile Bay ...2-3 ft
+Lake Pontchartrain and Lake Maurepas...1-2 ft
+Okaloosa/Walton County Line, FL to Panama City, FL... 1-2 ft
+Cameron, LA to Intracoastal City, LA...1-2 ft
+ 
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.  For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+ 
+WIND:  Tropical storm conditions are expected to first reach the
+coast within the warning area later today, making outside
+preparations difficult or dangerous.
+ 
+TORNADOES: The threat for a tornado or two will begin this afternoon
+across coastal Louisiana, then spread overnight into Saturday across
+southern portions of Louisiana, Mississippi, and Alabama, to the
+western Florida Panhandle.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Blake
+ 
+NNNN

@@ -1,0 +1,112 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE LEE WIND SPEED PROBABILITIES NUMBER  38                   
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132023               
+2100 UTC THU SEP 14 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF HURRICANE LEE WAS LOCATED NEAR LATITUDE 31.7 
+NORTH...LONGITUDE 68.3 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 75 KTS
+...85 MPH...140 KM/H.                                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z THU 06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON 18Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ILE ST PIERRE  34  X   X( X)   X( X)   X( X)   4( 4)   2( 6)   X( 6)
+ 
+BURGEO NFLD    34  X   X( X)   X( X)   X( X)   8( 8)   4(12)   X(12)
+ 
+PTX BASQUES    34  X   X( X)   X( X)   X( X)  17(17)   3(20)   X(20)
+PTX BASQUES    50  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+EDDY POINT NS  34  X   X( X)   X( X)  11(11)  14(25)   X(25)   X(25)
+ 
+SYDNEY NS      34  X   X( X)   X( X)   3( 3)  14(17)   1(18)   X(18)
+ 
+SABLE ISLAND   34  X   X( X)   1( 1)   7( 8)   5(13)   X(13)   X(13)
+ 
+HALIFAX NS     34  X   X( X)   3( 3)  17(20)  12(32)   X(32)   X(32)
+HALIFAX NS     50  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+YARMOUTH NS    34  X   X( X)  22(22)  49(71)   7(78)   X(78)   X(78)
+YARMOUTH NS    50  X   X( X)   1( 1)  37(38)   8(46)   X(46)   X(46)
+YARMOUTH NS    64  X   X( X)   X( X)  11(11)   2(13)   X(13)   X(13)
+ 
+MONCTON NB     34  X   X( X)   X( X)  10(10)  25(35)   X(35)   X(35)
+MONCTON NB     50  X   X( X)   X( X)   1( 1)   4( 5)   X( 5)   X( 5)
+ 
+ST JOHN NB     34  X   X( X)   5( 5)  37(42)  21(63)   X(63)   X(63)
+ST JOHN NB     50  X   X( X)   X( X)   9( 9)  15(24)   X(24)   X(24)
+ST JOHN NB     64  X   X( X)   X( X)   2( 2)   3( 5)   X( 5)   X( 5)
+ 
+EASTPORT ME    34  X   X( X)   8( 8)  38(46)  12(58)   X(58)   X(58)
+EASTPORT ME    50  X   X( X)   X( X)  14(14)   8(22)   X(22)   X(22)
+EASTPORT ME    64  X   X( X)   X( X)   2( 2)   2( 4)   X( 4)   X( 4)
+ 
+BAR HARBOR ME  34  X   X( X)   3( 3)  19(22)   4(26)   X(26)   X(26)
+BAR HARBOR ME  50  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+AUGUSTA ME     34  X   X( X)   2( 2)   7( 9)   1(10)   X(10)   X(10)
+ 
+PORTLAND ME    34  X   X( X)   2( 2)   4( 6)   X( 6)   X( 6)   X( 6)
+ 
+CONCORD NH     34  X   X( X)   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)
+ 
+PORTSMOUTH NH  34  X   X( X)   2( 2)   3( 5)   X( 5)   X( 5)   X( 5)
+ 
+WORCESTER MA   34  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+BOSTON MA      34  X   X( X)   3( 3)   2( 5)   X( 5)   X( 5)   X( 5)
+ 
+HYANNIS MA     34  X   1( 1)   6( 7)   2( 9)   X( 9)   X( 9)   X( 9)
+ 
+NANTUCKET MA   34  X   4( 4)  18(22)   5(27)   X(27)   X(27)   X(27)
+ 
+PROVIDENCE RI  34  X   X( X)   9( 9)   3(12)   X(12)   X(12)   X(12)
+ 
+NEW LONDON CT  34  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+MONTAUK POINT  34  X   X( X)   9( 9)   2(11)   X(11)   X(11)   X(11)
+ 
+BERMUDA        34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+BERMUDA        50  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER BROWN                                                    
+NNNN                                                                

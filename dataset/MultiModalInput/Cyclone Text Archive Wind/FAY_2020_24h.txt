@@ -1,0 +1,135 @@
+
+ZCZC MIAPWSAT1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM FAY WIND SPEED PROBABILITIES NUMBER   1              
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL062020               
+2100 UTC THU JUL 09 2020                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM FAY WAS LOCATED NEAR LATITUDE 
+35.5 NORTH...LONGITUDE 74.9 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+40 KTS...45 MPH...75 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z THU 06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON 18Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+PORTLAND ME    34  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+CONCORD NH     34  X   X( X)   3( 3)   6( 9)   X( 9)   X( 9)   X( 9)
+ 
+PORTSMOUTH NH  34  X   X( X)   1( 1)   4( 5)   X( 5)   X( 5)   X( 5)
+ 
+WORCESTER MA   34  X   X( X)   7( 7)   5(12)   X(12)   X(12)   X(12)
+WORCESTER MA   50  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+SPRINGFIELD MA 34  X   X( X)  13(13)   5(18)   X(18)   X(18)   X(18)
+SPRINGFIELD MA 50  X   X( X)   3( 3)   2( 5)   X( 5)   X( 5)   X( 5)
+ 
+BOSTON MA      34  X   X( X)   3( 3)   3( 6)   X( 6)   X( 6)   X( 6)
+ 
+PROVIDENCE RI  34  X   X( X)   7( 7)   2( 9)   X( 9)   X( 9)   X( 9)
+PROVIDENCE RI  50  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+BRIDGEPORT CT  34  X   1( 1)  26(27)   2(29)   X(29)   X(29)   X(29)
+BRIDGEPORT CT  50  X   X( X)   6( 6)   1( 7)   X( 7)   X( 7)   X( 7)
+BRIDGEPORT CT  64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+NEW HAVEN CT   34  X   X( X)  23(23)   3(26)   X(26)   X(26)   X(26)
+NEW HAVEN CT   50  X   X( X)   5( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+NEW HAVEN CT   64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+HARTFORD CT    34  X   X( X)  17(17)   3(20)   X(20)   X(20)   X(20)
+HARTFORD CT    50  X   X( X)   4( 4)   2( 6)   X( 6)   X( 6)   X( 6)
+ 
+NEW LONDON CT  34  X   X( X)  13(13)   2(15)   X(15)   X(15)   X(15)
+NEW LONDON CT  50  X   X( X)   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+ALBANY NY      34  X   X( X)   6( 6)   5(11)   X(11)   X(11)   X(11)
+ALBANY NY      50  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+POUGHKEEPSIE   34  X   X( X)  15(15)   2(17)   X(17)   X(17)   X(17)
+POUGHKEEPSIE   50  X   X( X)   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+MONTAUK POINT  34  X   1( 1)  12(13)   1(14)   X(14)   X(14)   X(14)
+MONTAUK POINT  50  X   X( X)   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+ISLIP NY       34  X   2( 2)  26(28)   1(29)   X(29)   X(29)   X(29)
+ISLIP NY       50  X   X( X)   6( 6)   1( 7)   X( 7)   X( 7)   X( 7)
+ISLIP NY       64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+NYC JFK AIRPRT 34  X   6( 6)  24(30)   1(31)   X(31)   X(31)   X(31)
+NYC JFK AIRPRT 50  X   1( 1)   7( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+NYC JFK AIRPRT 64  X   X( X)   2( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+NYC CNTRL PARK 34  X   2( 2)  23(25)   1(26)   X(26)   X(26)   X(26)
+NYC CNTRL PARK 50  X   X( X)   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+NYC CNTRL PARK 64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+NEWARK NJ      34  X   2( 2)  19(21)   1(22)   X(22)   X(22)   X(22)
+NEWARK NJ      50  X   X( X)   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+NEWARK NJ      64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+TRENTON NJ     34  X   2( 2)  10(12)   X(12)   X(12)   X(12)   X(12)
+TRENTON NJ     50  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+NWS EARLE NJ   34  X   5( 5)  20(25)   X(25)   X(25)   X(25)   X(25)
+NWS EARLE NJ   50  X   1( 1)   4( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+NWS EARLE NJ   64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+ALLENTOWN PA   34  X   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+PHILADELPHIA   34  X   3( 3)   4( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+ATLANTIC CITY  34  X  14(14)  10(24)   X(24)   X(24)   X(24)   X(24)
+ATLANTIC CITY  50  X   3( 3)   1( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ATLANTIC CITY  64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+DOVER DE       34  X   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+CAPE HENLOPEN  34  4  17(21)   2(23)   X(23)   X(23)   X(23)   X(23)
+CAPE HENLOPEN  50  X   7( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+OCEAN CITY MD  34 11  17(28)   X(28)   X(28)   X(28)   X(28)   X(28)
+OCEAN CITY MD  50  1   6( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+WALLOPS CDA    34 12   7(19)   X(19)   X(19)   X(19)   X(19)   X(19)
+WALLOPS CDA    50  1   3( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER BROWN                                                    
+NNNN                                                                

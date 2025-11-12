@@ -1,0 +1,117 @@
+
+ZCZC MIAPWSAT1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+SUBTROPICAL STORM ANA WIND SPEED PROBABILITIES NUMBER   5           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL012015               
+0300 UTC SAT MAY 09 2015                                            
+                                                                    
+AT 0300Z THE CENTER OF SUBTROPICAL STORM ANA WAS LOCATED NEAR       
+LATITUDE 32.1 NORTH...LONGITUDE 77.4 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 50 KTS...60 MPH...95 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 64 KT ARE SHOWN WHEN THE 5-DAY CUMULATIVE         
+PROBABILITY IS AT LEAST 1 PERCENT.                                  
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SAT 12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED 00Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+NEW YORK CITY  34  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+ 
+NEWARK NJ      34  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+TRENTON NJ     34  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+ATLANTIC CITY  34  X   X( X)   X( X)   X( X)   8( 8)   X( 8)   X( 8)
+ 
+BALTIMORE MD   34  X   X( X)   X( X)   1( 1)   5( 6)   X( 6)   X( 6)
+ 
+DOVER DE       34  X   X( X)   X( X)   1( 1)   8( 9)   X( 9)   X( 9)
+ 
+ANNAPOLIS MD   34  X   X( X)   X( X)   1( 1)   6( 7)   X( 7)   X( 7)
+ 
+WASHINGTON DC  34  X   X( X)   X( X)   1( 1)   6( 7)   X( 7)   X( 7)
+ 
+OCEAN CITY MD  34  X   X( X)   X( X)   1( 1)  12(13)   X(13)   X(13)
+ 
+RICHMOND VA    34  1   1( 2)   1( 3)   2( 5)  11(16)   X(16)   X(16)
+ 
+NORFOLK NAS    34  1   2( 3)   1( 4)   2( 6)  16(22)   X(22)   X(22)
+NORFOLK NAS    50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+NORFOLK VA     34  1   2( 3)   1( 4)   3( 7)  15(22)   X(22)   X(22)
+NORFOLK VA     50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+WALLOPS CDA    34  X   X( X)   1( 1)   X( 1)  15(16)   X(16)   X(16)
+ 
+GREENSBORO NC  34  2   2( 4)   3( 7)   4(11)   4(15)   X(15)   X(15)
+ 
+RALEIGH NC     34  2   6( 8)   4(12)   6(18)   7(25)   X(25)   X(25)
+RALEIGH NC     50  X   X( X)   1( 1)   1( 2)   2( 4)   X( 4)   X( 4)
+ 
+CAPE HATTERAS  34  3   6( 9)   2(11)   1(12)  11(23)   X(23)   X(23)
+CAPE HATTERAS  50  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+CHARLOTTE NC   34  2   4( 6)   2( 8)   3(11)   3(14)   X(14)   X(14)
+ 
+MOREHEAD CITY  34 11  10(21)   3(24)   4(28)   7(35)   X(35)   X(35)
+MOREHEAD CITY  50  X   1( 1)   1( 2)   1( 3)   1( 4)   X( 4)   X( 4)
+ 
+WILMINGTON NC  34 24  18(42)   7(49)   4(53)   3(56)   X(56)   X(56)
+WILMINGTON NC  50  1   3( 4)   4( 8)   2(10)   1(11)   X(11)   X(11)
+WILMINGTON NC  64  X   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+COLUMBIA SC    34  3   7(10)   4(14)   5(19)   1(20)   X(20)   X(20)
+ 
+MYRTLE BEACH   34 33  21(54)   8(62)   2(64)   1(65)   X(65)   X(65)
+MYRTLE BEACH   50  X   6( 6)   5(11)   1(12)   1(13)   X(13)   X(13)
+MYRTLE BEACH   64  X   1( 1)   X( 1)   X( 1)   1( 2)   X( 2)   X( 2)
+ 
+CHARLESTON SC  34 14  15(29)   5(34)   3(37)   1(38)   X(38)   X(38)
+CHARLESTON SC  50  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+AUGUSTA GA     34  2   3( 5)   1( 6)   2( 8)   X( 8)   X( 8)   X( 8)
+ 
+SAVANNAH GA    34  2   5( 7)   2( 9)   2(11)   1(12)   X(12)   X(12)
+ 
+MAYPORT NS     34  1   2( 3)   1( 4)   X( 4)   1( 5)   X( 5)   X( 5)
+ 
+JACKSONVILLE   34  1   2( 3)   X( 3)   X( 3)   1( 4)   X( 4)   X( 4)
+ 
+DAYTONA BEACH  34  1   1( 2)   X( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER PASCH                                                    
+NNNN                                                                

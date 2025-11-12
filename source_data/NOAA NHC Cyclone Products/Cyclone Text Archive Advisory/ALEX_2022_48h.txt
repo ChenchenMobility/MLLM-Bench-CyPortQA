@@ -1,0 +1,142 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Potential Tropical Cyclone One Advisory Number   1
+NWS National Hurricane Center Miami FL       AL012022
+400 PM CDT Thu Jun 02 2022
+ 
+...HEAVY RAINFALL TO SPREAD OVER PORTIONS OF CUBA, THE FLORIDA KEYS, 
+AND SOUTHERN FLORIDA ON FRIDAY AND SATURDAY WITH FLOODING 
+POSSIBLE...
+...TROPICAL STORM WATCH ISSUED FOR PORTIONS OF THE FLORIDA 
+PENINSULA, THE FLORIDA KEYS, AND CUBA...
+ 
+ 
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.4N 87.5W
+ABOUT 75 MI...120 KM NNW OF COZUMEL MEXICO
+ABOUT 505 MI...810 KM SW OF FT. MYERS FLORIDA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+A Tropical Storm Watch has been issued for the west coast of the
+Florida peninsula south of the Middle of Longboat Key and for the
+east coast of the Florida peninsula south of the Volusia/Brevard
+County line, including Lake Okeechobee.
+ 
+A Tropical Storm Watch has been issued for all of the Florida Keys,
+including the Dry Tortugas and Florida Bay.
+ 
+The government of Cuba has issued a Tropical Storm Watch for the
+Cuban provinces of Matanzas, Mayabeque, La Habana, Artemisa, and
+Pinar del Rio, and the Isle of Youth.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Watch is in effect for..
+* West coast of Florida south of the Middle of Longboat Key
+* East coast of Florida south of the Volusia/Brevard County Line
+* Florida Keys including the Dry Tortugas
+* Lake Okeechobee
+* Florida Bay
+* Cuban provinces of Matanzas, Mayabeque, Havana, Artemisa, Pinar
+del Rio, and the Isle of Youth
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible somewhere within the watch area within 48 hours.
+ 
+Interests elsewhere in the Florida Peninsula and the northwestern
+Bahamas should monitor the progress of this system.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 PM CDT (2100 UTC), the disturbance was centered near latitude
+21.4 North, longitude 87.5 West. The system is moving toward the
+north near 5 mph (7 km/h) and this motion is expected to continue 
+tonight.  A turn toward the northeast is expected on Friday, and a 
+faster motion toward the northeast is expected Friday night and 
+Saturday.  On the forecast track, the system should move across the 
+southeastern Gulf of Mexico through Friday night, and then move 
+across the southern and central portions of the Florida Peninsula 
+on Saturday.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+The system is expected to become a tropical depression on Friday 
+and a tropical storm late Friday or Friday night.
+* Formation chance through 48 hours...high...90 percent.
+* Formation chance through 5 days...high...90 percent.
+ 
+The estimated minimum central pressure is 1003 mb (29.62 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Potential Tropical Cyclone One can be found in the
+Tropical Cyclone Discussion under AWIPS header MIATCDAT1, WMO
+header WTNT41 KNHC, and on the web at
+hurricanes.gov/graphics_at1.shtml?key_messages.
+
+RAINFALL: The potential tropical cyclone is expected to produce
+heavy rains over the eastern portions of the Yucatan Peninsula, the
+Cayman Islands and western Cuba through Friday.  Heavy rains will
+begin to affect South Florida and the Keys Friday and continue
+through Saturday. The following storm total rainfall amounts are 
+currently expected:
+ 
+Eastern portions of the Yucatan Peninsula and the Cayman Islands: 2
+to 4 inches, with isolated maximum of 6 inches.
+ 
+Western Cuba: 6 to 10 inches, with isolated maximum of 14 inches.
+This rain may cause life-threatening flash flooding and mudslides.
+ 
+South Florida including the Keys:  4 to 8 inches with maximum totals
+of 12 inches.  This rain may produce considerable flash and urban
+flooding especially across the urban corridors.
+
+WIND:  Tropical storm conditions are possible within the watch
+area in Cuba on Friday, and in the watch area in Florida by Friday 
+night or Saturday morning.
+ 
+STORM SURGE:  The combination of storm surge and the tide will 
+cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+
+Marco Island, FL to Card Sound Bridge...1-3 ft
+Middle of Longboat Key, FL to Marco Island, Florida...1-2 ft
+Charlotte Harbor...1-2 ft
+Florida Keys and Dry Tortugas...1-2 ft
+ 
+Surge-related flooding depends on the relative timing of the surge 
+and the tidal cycle, and can vary greatly over short distances.  For 
+information specific to your area, please see products issued by 
+your local National Weather Service forecast office.
+
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 PM CDT.
+Next complete advisory at 1000 PM CDT.
+ 
+$$
+Forecaster Beven
+ 
+NNNN

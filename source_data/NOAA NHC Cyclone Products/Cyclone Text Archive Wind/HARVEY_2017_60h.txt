@@ -1,0 +1,173 @@
+
+ZCZC MIAPWSAT4 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL DEPRESSION HARVEY WIND SPEED PROBABILITIES NUMBER  12      
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL092017               
+1500 UTC WED AUG 23 2017                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL DEPRESSION HARVEY WAS LOCATED NEAR  
+LATITUDE 21.5 NORTH...LONGITUDE 92.5 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z WED 00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN 12Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+GFMX 290N 870W 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+MOBILE AL      34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+GULFPORT MS    34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   4( 5)
+ 
+STENNIS MS     34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   5( 7)
+ 
+BURAS LA       34  X   X( X)   X( X)   1( 1)   1( 2)   1( 3)   6( 9)
+ 
+GFMX 280N 890W 34  X   X( X)   X( X)   1( 1)   X( 1)   1( 2)   5( 7)
+ 
+JACKSON MS     34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+NEW ORLEANS LA 34  X   X( X)   X( X)   1( 1)   2( 3)   1( 4)   7(11)
+ 
+GFMX 280N 910W 34  X   X( X)   3( 3)   2( 5)   3( 8)   2(10)   7(17)
+GFMX 280N 910W 50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+BATON ROUGE LA 34  X   X( X)   X( X)   1( 1)   3( 4)   2( 6)   8(14)
+ 
+MORGAN CITY LA 34  X   X( X)   X( X)   3( 3)   3( 6)   2( 8)   9(17)
+ 
+ALEXANDRIA LA  34  X   X( X)   X( X)   1( 1)   4( 5)   3( 8)   7(15)
+ 
+LAFAYETTE LA   34  X   X( X)   X( X)   3( 3)   4( 7)   3(10)   9(19)
+LAFAYETTE LA   50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+NEW IBERIA LA  34  X   X( X)   X( X)   3( 3)   4( 7)   3(10)  10(20)
+NEW IBERIA LA  50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+GFMX 280N 930W 34  X   1( 1)   7( 8)  10(18)   4(22)   4(26)   7(33)
+GFMX 280N 930W 50  X   X( X)   X( X)   2( 2)   1( 3)   1( 4)   4( 8)
+GFMX 280N 930W 64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+SHREVEPORT LA  34  X   X( X)   X( X)   X( X)   3( 3)   3( 6)   3( 9)
+ 
+FORT POLK LA   34  X   X( X)   X( X)   2( 2)   6( 8)   4(12)   8(20)
+ 
+LAKE CHARLES   34  X   X( X)   1( 1)   5( 6)   6(12)   5(17)   9(26)
+LAKE CHARLES   50  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   3( 4)
+ 
+CAMERON LA     34  X   X( X)   2( 2)   6( 8)   7(15)   5(20)   9(29)
+CAMERON LA     50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   3( 6)
+CAMERON LA     64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+JASPER TX      34  X   X( X)   X( X)   4( 4)   8(12)   4(16)   7(23)
+ 
+KOUNTZE TX     34  X   X( X)   1( 1)   6( 7)  11(18)   5(23)   6(29)
+KOUNTZE TX     50  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   2( 4)
+ 
+PORT ARTHUR TX 34  X   X( X)   2( 2)   7( 9)   9(18)   5(23)   7(30)
+PORT ARTHUR TX 50  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   3( 6)
+ 
+GALVESTON TX   34  X   X( X)   3( 3)  13(16)  16(32)   4(36)   5(41)
+GALVESTON TX   50  X   X( X)   X( X)   1( 1)   5( 6)   3( 9)   3(12)
+GALVESTON TX   64  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+HOUSTON TX     34  X   X( X)   2( 2)  10(12)  16(28)   5(33)   6(39)
+HOUSTON TX     50  X   X( X)   X( X)   X( X)   4( 4)   2( 6)   2( 8)
+HOUSTON TX     64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+AUSTIN TX      34  X   X( X)   X( X)   5( 5)  14(19)   9(28)   3(31)
+AUSTIN TX      50  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   1( 5)
+ 
+SAN ANTONIO TX 34  X   X( X)   X( X)   6( 6)  14(20)   7(27)   3(30)
+SAN ANTONIO TX 50  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   X( 5)
+ 
+FREEPORT TX    34  X   X( X)   3( 3)  19(22)  19(41)   3(44)   5(49)
+FREEPORT TX    50  X   X( X)   X( X)   2( 2)   7( 9)   3(12)   2(14)
+FREEPORT TX    64  X   X( X)   X( X)   1( 1)   1( 2)   1( 3)   1( 4)
+ 
+GFMX 280N 950W 34  X   1( 1)   9(10)  31(41)  11(52)   1(53)   3(56)
+GFMX 280N 950W 50  X   X( X)   X( X)   9( 9)   6(15)   2(17)   2(19)
+GFMX 280N 950W 64  X   X( X)   X( X)   1( 1)   2( 3)   1( 4)   1( 5)
+ 
+HIGH ISLAND TX 34  X   X( X)   2( 2)  10(12)  13(25)   4(29)   6(35)
+HIGH ISLAND TX 50  X   X( X)   X( X)   1( 1)   3( 4)   3( 7)   3(10)
+HIGH ISLAND TX 64  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   X( 2)
+ 
+MATAGORDA TX   34  X   X( X)   4( 4)  25(29)  21(50)   2(52)   3(55)
+MATAGORDA TX   50  X   X( X)   X( X)   4( 4)  11(15)   3(18)   1(19)
+MATAGORDA TX   64  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   1( 5)
+ 
+PORT O CONNOR  34  X   X( X)   4( 4)  30(34)  20(54)   3(57)   2(59)
+PORT O CONNOR  50  X   X( X)   X( X)   5( 5)  15(20)   1(21)   2(23)
+PORT O CONNOR  64  X   X( X)   X( X)   1( 1)   4( 5)   1( 6)   1( 7)
+ 
+ROCKPORT TX    34  X   X( X)   4( 4)  31(35)  21(56)   2(58)   3(61)
+ROCKPORT TX    50  X   X( X)   X( X)   6( 6)  14(20)   2(22)   1(23)
+ROCKPORT TX    64  X   X( X)   X( X)   1( 1)   4( 5)   1( 6)   1( 7)
+ 
+CORPUS CHRISTI 34  X   X( X)   4( 4)  26(30)  20(50)   3(53)   2(55)
+CORPUS CHRISTI 50  X   X( X)   X( X)   5( 5)  11(16)   1(17)   1(18)
+CORPUS CHRISTI 64  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   1( 5)
+ 
+GFMX 270N 960W 34  X   1( 1)  17(18)  44(62)   9(71)   1(72)   2(74)
+GFMX 270N 960W 50  X   X( X)   1( 1)  21(22)   8(30)   1(31)   1(32)
+GFMX 270N 960W 64  X   X( X)   X( X)   6( 6)   3( 9)   1(10)   X(10)
+ 
+MCALLEN TX     34  X   X( X)   4( 4)  19(23)   8(31)   3(34)   1(35)
+MCALLEN TX     50  X   X( X)   X( X)   2( 2)   3( 5)   X( 5)   X( 5)
+MCALLEN TX     64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+HARLINGEN TX   34  X   1( 1)   6( 7)  27(34)   8(42)   3(45)   2(47)
+HARLINGEN TX   50  X   X( X)   X( X)   7( 7)   4(11)   1(12)   X(12)
+HARLINGEN TX   64  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+BROWNSVILLE TX 34  X   1( 1)   9(10)  27(37)   7(44)   2(46)   2(48)
+BROWNSVILLE TX 50  X   X( X)   X( X)   9( 9)   3(12)   X(12)   1(13)
+BROWNSVILLE TX 64  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+GFMX 250N 960W 34  X   3( 3)  35(38)  13(51)   2(53)   1(54)   2(56)
+GFMX 250N 960W 50  X   X( X)   7( 7)  10(17)   X(17)   1(18)   X(18)
+GFMX 250N 960W 64  X   X( X)   1( 1)   3( 4)   1( 5)   X( 5)   X( 5)
+ 
+LA PESCA MX    34  X   1( 1)   1( 2)   4( 6)   3( 9)   X( 9)   1(10)
+ 
+TAMPICO MX     34  X   X( X)   2( 2)   1( 3)   1( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER BLAKE                                                    
+NNNN                                                                

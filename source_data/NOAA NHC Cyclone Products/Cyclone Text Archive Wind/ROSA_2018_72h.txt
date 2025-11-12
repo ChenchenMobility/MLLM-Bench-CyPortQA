@@ -1,0 +1,88 @@
+
+ZCZC MIAPWSEP5 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE ROSA WIND SPEED PROBABILITIES NUMBER  16                  
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP202018               
+0300 UTC SAT SEP 29 2018                                            
+                                                                    
+AT 0300Z THE CENTER OF HURRICANE ROSA WAS LOCATED NEAR LATITUDE 18.4
+NORTH...LONGITUDE 118.0 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 95   
+KTS...110 MPH...175 KM/H.                                           
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SAT 12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED 00Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+SAN DIEGO CA   34  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   X( 6)
+ 
+YUMA AZ        34  X   X( X)   X( X)   X( X)   X( X)  10(10)   X(10)
+ 
+TIJUANA        34  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   X( 5)
+ 
+ENSENADA       34  X   X( X)   X( X)   X( X)   4( 4)   6(10)   X(10)
+ 
+IS GUADALUPE   34  X   X( X)   X( X)   2( 2)  12(14)   1(15)   X(15)
+IS GUADALUPE   50  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+PUNTA EUGENIA  34  X   X( X)   X( X)   3( 3)  22(25)   3(28)   X(28)
+PUNTA EUGENIA  50  X   X( X)   X( X)   X( X)   5( 5)   X( 5)   X( 5)
+ 
+P ABREOJOS     34  X   X( X)   X( X)   2( 2)   7( 9)   1(10)   X(10)
+ 
+P PENASCO      34  X   X( X)   X( X)   X( X)   1( 1)  12(13)   X(13)
+ 
+BAHIA KINO     34  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   X( 5)
+ 
+ISLA CLARION   34  5   3( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+20N 115W       34  5   5(10)   2(12)   X(12)   X(12)   X(12)   X(12)
+ 
+25N 115W       34  X   3( 3)   4( 7)   7(14)   7(21)   X(21)   X(21)
+ 
+15N 120W       34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+20N 120W       34 48  16(64)   X(64)   X(64)   X(64)   X(64)   X(64)
+20N 120W       50  3   4( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+25N 120W       34  X   6( 6)  14(20)  13(33)   2(35)   X(35)   X(35)
+25N 120W       50  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+30N 120W       34  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER BLAKE                                                    
+NNNN                                                                

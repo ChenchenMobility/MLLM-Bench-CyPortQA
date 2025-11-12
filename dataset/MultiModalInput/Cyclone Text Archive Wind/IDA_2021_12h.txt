@@ -1,0 +1,157 @@
+
+ZCZC MIAPWSAT4 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE IDA WIND SPEED PROBABILITIES NUMBER  11                   
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL092021               
+0300 UTC SUN AUG 29 2021                                            
+                                                                    
+AT 0300Z THE CENTER OF HURRICANE IDA WAS LOCATED NEAR LATITUDE 27.2 
+NORTH...LONGITUDE 88.0 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 90 KTS
+...105 MPH...165 KM/H.                                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SUN 12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU 00Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+TALLAHASSEE FL 34  2   X( 2)   X( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+ST MARKS FL    34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+APALACHICOLA   34  4   3( 7)   1( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+GFMX 290N 850W 34  4   3( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+PANAMA CITY FL 34  4   4( 8)   2(10)   X(10)   X(10)   X(10)   X(10)
+ 
+DESTIN EXEC AP 34  4   6(10)   3(13)   X(13)   X(13)   X(13)   X(13)
+ 
+BIRMINGHAM AL  34  X   4( 4)   3( 7)   1( 8)   1( 9)   X( 9)   X( 9)
+ 
+MONTGOMERY AL  34  2   5( 7)   3(10)   X(10)   1(11)   X(11)   X(11)
+ 
+WHITING FLD FL 34  4  10(14)   3(17)   X(17)   X(17)   X(17)   X(17)
+ 
+PENSACOLA FL   34  5  13(18)   3(21)   1(22)   X(22)   X(22)   X(22)
+ 
+GFMX 290N 870W 34 60   2(62)   X(62)   X(62)   X(62)   X(62)   X(62)
+GFMX 290N 870W 50  3   1( 4)   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+MOBILE AL      34  9  44(53)   2(55)   X(55)   X(55)   X(55)   X(55)
+MOBILE AL      50  2   5( 7)   1( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+GULFPORT MS    34 36  48(84)   2(86)   X(86)   X(86)   X(86)   X(86)
+GULFPORT MS    50  3  27(30)   2(32)   X(32)   X(32)   X(32)   X(32)
+GULFPORT MS    64  X   6( 6)   1( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+STENNIS MS     34 44  49(93)   2(95)   X(95)   X(95)   X(95)   X(95)
+STENNIS MS     50  3  56(59)   3(62)   X(62)   X(62)   X(62)   X(62)
+STENNIS MS     64  X  16(16)   2(18)   X(18)   X(18)   X(18)   X(18)
+ 
+BURAS LA       34 97   3(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+BURAS LA       50 51  44(95)   X(95)   X(95)   X(95)   X(95)   X(95)
+BURAS LA       64  7  56(63)   1(64)   X(64)   X(64)   X(64)   X(64)
+ 
+GFMX 280N 890W 34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+GFMX 280N 890W 50 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+GFMX 280N 890W 64 96   X(96)   X(96)   X(96)   X(96)   X(96)   X(96)
+ 
+JACKSON MS     34  3  33(36)  18(54)   4(58)   1(59)   X(59)   X(59)
+JACKSON MS     50  X   5( 5)   4( 9)   2(11)   X(11)   X(11)   X(11)
+ 
+NEW ORLEANS LA 34 55  44(99)   1(99)   X(99)   X(99)   X(99)   X(99)
+NEW ORLEANS LA 50  5  85(90)   3(93)   X(93)   X(93)   X(93)   X(93)
+NEW ORLEANS LA 64  X  65(65)   4(69)   X(69)   X(69)   X(69)   X(69)
+ 
+GFMX 280N 910W 34 72  10(82)   X(82)   X(82)   1(83)   X(83)   X(83)
+GFMX 280N 910W 50  8   8(16)   X(16)   X(16)   X(16)   X(16)   X(16)
+GFMX 280N 910W 64  2   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+BATON ROUGE LA 34  8  85(93)   4(97)   X(97)   X(97)   X(97)   X(97)
+BATON ROUGE LA 50  2  64(66)  13(79)   1(80)   X(80)   X(80)   X(80)
+BATON ROUGE LA 64  X  32(32)  13(45)   X(45)   X(45)   X(45)   X(45)
+ 
+MORGAN CITY LA 34 26  70(96)   1(97)   X(97)   X(97)   X(97)   X(97)
+MORGAN CITY LA 50  4  71(75)   3(78)   1(79)   X(79)   X(79)   X(79)
+MORGAN CITY LA 64  X  40(40)   4(44)   X(44)   X(44)   X(44)   X(44)
+ 
+ALEXANDRIA LA  34  3  39(42)  16(58)   1(59)   X(59)   X(59)   X(59)
+ALEXANDRIA LA  50  X   7( 7)   7(14)   X(14)   X(14)   X(14)   X(14)
+ALEXANDRIA LA  64  X   1( 1)   1( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+LAFAYETTE LA   34  4  74(78)   5(83)   X(83)   X(83)   X(83)   X(83)
+LAFAYETTE LA   50  1  27(28)   7(35)   X(35)   1(36)   X(36)   X(36)
+LAFAYETTE LA   64  X   7( 7)   4(11)   X(11)   X(11)   X(11)   X(11)
+ 
+NEW IBERIA LA  34  5  78(83)   4(87)   X(87)   X(87)   X(87)   X(87)
+NEW IBERIA LA  50  2  33(35)   5(40)   1(41)   X(41)   X(41)   X(41)
+NEW IBERIA LA  64  X   9( 9)   3(12)   X(12)   X(12)   X(12)   X(12)
+ 
+GFMX 280N 930W 34  4   8(12)   2(14)   X(14)   X(14)   X(14)   X(14)
+ 
+SHREVEPORT LA  34  X   8( 8)   4(12)   1(13)   X(13)   X(13)   X(13)
+ 
+FORT POLK LA   34  3  20(23)   9(32)   X(32)   X(32)   X(32)   X(32)
+FORT POLK LA   50  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+LAKE CHARLES   34  3  23(26)   6(32)   X(32)   X(32)   X(32)   X(32)
+LAKE CHARLES   50  X   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+CAMERON LA     34  4  20(24)   2(26)   X(26)   X(26)   X(26)   X(26)
+CAMERON LA     50  X   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+JASPER TX      34  3   8(11)   4(15)   X(15)   1(16)   X(16)   X(16)
+ 
+KOUNTZE TX     34  3   6( 9)   3(12)   X(12)   X(12)   X(12)   X(12)
+ 
+PORT ARTHUR TX 34  3   7(10)   4(14)   X(14)   1(15)   X(15)   X(15)
+ 
+GALVESTON TX   34  3   5( 8)   1( 9)   1(10)   X(10)   X(10)   X(10)
+ 
+HOUSTON TX     34  1   5( 6)   2( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+FREEPORT TX    34  1   5( 6)   1( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+GFMX 280N 950W 34  2   4( 6)   1( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+HIGH ISLAND TX 34  3   6( 9)   2(11)   X(11)   X(11)   X(11)   X(11)
+ 
+MATAGORDA TX   34  X   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

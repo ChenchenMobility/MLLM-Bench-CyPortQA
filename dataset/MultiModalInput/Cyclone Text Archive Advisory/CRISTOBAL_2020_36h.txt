@@ -1,0 +1,93 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Depression Three Intermediate Advisory Number 2A
+NWS National Hurricane Center Miami FL       AL032020
+100 AM CDT Tue Jun 02 2020
+ 
+...DEPRESSION GETTING BETTER ORGANIZED OVER BAY OF CAMPECHE...
+...HEAVY RAINFALL LIKELY OVER PORTIONS OF MEXICO AND CENTRAL
+AMERICA...
+ 
+ 
+SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.6N 92.0W
+ABOUT 95 MI...155 KM W OF CAMPECHE MEXICO
+ABOUT 185 MI...300 KM ENE OF COATZACOALCOS MEXICO
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Campeche to Puerto de Veracruz
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 100 AM CDT (0600 UTC), the center of Tropical Depression Three
+was located near latitude 19.6 North, longitude 92.0 West. The
+depression is moving toward the west near 5 mph (7 km/h). This
+heading at a slower forward speed is expected to continue this
+morning. The depression is forecast to move west-southwestward or
+southward at a even slower forward speed this afternoon and tonight,
+and meander over the southern Bay of Campeche through late
+Wednesday.  On the forecast track, the center of the cyclone is
+forecast to be near the coast of the southern Bay of Campeche
+Tuesday night through Thursday.
+ 
+Recent satellite-derived wind data indicate that maximum sustained
+winds have increased near 35 mph (55 km/h) with higher gusts.
+Gradual strengthening is expected during the next couple of days and
+the depression is forecast to become a tropical storm later today.
+ 
+The estimated minimum central pressure is 1003 mb (29.62 inches)
+based on nearby surface observations.
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Depression Three can be found in the
+Tropical Cyclone Discussion under AWIPS header MIATCDAT3, WMO
+header WTNT43 KNHC, and on the web at
+https://www.hurricanes.gov/text/MIATCDAT3.shtml
+ 
+RAINFALL:  Tropical Depression Three is expected to produce rain
+accumulations of 10 to 15 inches over parts of the Mexican states
+of Tabasco and Veracruz,  portions of Guatemala and the Yucatan
+Peninsula. This system is also expected to produce rain
+accumulations of 5 to 10 inches over parts of El Salvador and
+Honduras. Isolated maximum rainfall amounts of 20 inches are
+possible in the Mexican states of Tabasco, Veracruz, Chiapas and
+portions of Guatemala. This rainfall may produce life-threatening
+flash floods and mudslides.
+ 
+WIND:  Tropical storm conditions are expected to first reach the
+coast within the warning area Tuesday night.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 AM CDT.
+ 
+$$
+Forecaster Stewart
+ 
+NNNN

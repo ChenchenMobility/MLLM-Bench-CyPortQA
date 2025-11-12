@@ -1,0 +1,128 @@
+
+ZCZC MIAPWSAT5 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM TAMMY WIND SPEED PROBABILITIES NUMBER   2            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL202023               
+0300 UTC THU OCT 19 2023                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM TAMMY WAS LOCATED NEAR        
+LATITUDE 13.0 NORTH...LONGITUDE 53.1 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z THU 12Z THU 00Z FRI 12Z FRI 00Z SAT 00Z SUN 00Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z THU 00Z FRI 12Z FRI 00Z SAT 00Z SUN 00Z MON 00Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+BERMUDA        34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+PONCE PR       34  X   X( X)   X( X)   X( X)   3( 3)   7(10)   1(11)
+ 
+AGUADILLA PR   34  X   X( X)   X( X)   X( X)   2( 2)   6( 8)   X( 8)
+ 
+SAN JUAN PR    34  X   X( X)   X( X)   X( X)   1( 1)   6( 7)   X( 7)
+ 
+VIEQUES PR     34  X   X( X)   X( X)   X( X)  10(10)  10(20)   1(21)
+VIEQUES PR     50  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   X( 5)
+VIEQUES PR     64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+SAINT THOMAS   34  X   X( X)   X( X)   1( 1)  13(14)  13(27)   1(28)
+SAINT THOMAS   50  X   X( X)   X( X)   X( X)   2( 2)   7( 9)   X( 9)
+SAINT THOMAS   64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+SAINT JOHN     34  X   X( X)   X( X)   1( 1)  15(16)  13(29)   1(30)
+SAINT JOHN     50  X   X( X)   X( X)   X( X)   3( 3)   6( 9)   1(10)
+SAINT JOHN     64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+SAINT CROIX    34  X   X( X)   X( X)   1( 1)  13(14)   9(23)   1(24)
+SAINT CROIX    50  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   1( 7)
+SAINT CROIX    64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+SAINT MAARTEN  34  X   X( X)   X( X)   4( 4)  38(42)  11(53)   1(54)
+SAINT MAARTEN  50  X   X( X)   X( X)   X( X)  14(14)   6(20)   1(21)
+SAINT MAARTEN  64  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   X( 4)
+ 
+SABA           34  X   X( X)   X( X)   5( 5)  35(40)   8(48)   1(49)
+SABA           50  X   X( X)   X( X)   X( X)  12(12)   4(16)   X(16)
+SABA           64  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   X( 4)
+ 
+ST EUSTATIUS   34  X   X( X)   X( X)   6( 6)  38(44)   7(51)   1(52)
+ST EUSTATIUS   50  X   X( X)   X( X)   X( X)  15(15)   3(18)   X(18)
+ST EUSTATIUS   64  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   X( 4)
+ 
+ST KITTS-NEVIS 34  X   X( X)   1( 1)   7( 8)  40(48)   5(53)   X(53)
+ST KITTS-NEVIS 50  X   X( X)   X( X)   1( 1)  16(17)   2(19)   X(19)
+ST KITTS-NEVIS 64  X   X( X)   X( X)   X( X)   4( 4)   1( 5)   X( 5)
+ 
+BARBUDA        34  X   X( X)   2( 2)  10(12)  45(57)   5(62)   X(62)
+BARBUDA        50  X   X( X)   X( X)   1( 1)  20(21)   2(23)   X(23)
+BARBUDA        64  X   X( X)   X( X)   X( X)   5( 5)   1( 6)   X( 6)
+ 
+ANTIGUA        34  X   X( X)   1( 1)   7( 8)  32(40)   2(42)   X(42)
+ANTIGUA        50  X   X( X)   X( X)   1( 1)   7( 8)   X( 8)   X( 8)
+ANTIGUA        64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+GUADELOUPE     34  X   X( X)   5( 5)  24(29)  31(60)   2(62)   X(62)
+GUADELOUPE     50  X   X( X)   X( X)   5( 5)  16(21)   X(21)   X(21)
+GUADELOUPE     64  X   X( X)   X( X)   1( 1)   4( 5)   1( 6)   X( 6)
+ 
+AVES           34  X   X( X)   1( 1)   2( 3)  14(17)   2(19)   1(20)
+AVES           50  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   X( 4)
+AVES           64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+DOMINICA       34  X   1( 1)   5( 6)  25(31)  15(46)   1(47)   X(47)
+DOMINICA       50  X   X( X)   X( X)   6( 6)   9(15)   1(16)   X(16)
+DOMINICA       64  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+MARTINIQUE     34  X   X( X)   2( 2)  14(16)   6(22)   X(22)   X(22)
+MARTINIQUE     50  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+SAINT LUCIA    34  X   1( 1)   6( 7)  10(17)   4(21)   X(21)   X(21)
+SAINT LUCIA    50  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+SAINT VINCENT  34  X   1( 1)   2( 3)   4( 7)   3(10)   X(10)   X(10)
+ 
+BARBADOS       34  X   2( 2)  13(15)   4(19)   2(21)   X(21)   X(21)
+BARBADOS       50  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+GRENADA        34  X   X( X)   1( 1)   1( 2)   1( 3)   1( 4)   X( 4)
+ 
+TRINIDADTOBAGO 34  X   X( X)   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER PAPIN                                                    
+NNNN                                                                

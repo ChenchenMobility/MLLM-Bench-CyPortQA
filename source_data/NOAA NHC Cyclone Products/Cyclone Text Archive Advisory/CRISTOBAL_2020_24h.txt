@@ -1,0 +1,94 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM CCA
+ 
+BULLETIN
+Tropical Storm Cristobal Intermediate Advisory Number 4A
+NWS National Hurricane Center Miami FL       AL032020
+100 PM CDT Tue Jun 02 2020
+ 
+Corrected header to reflect Tropical Storm 
+ 
+...CRISTOBAL MOVING SLOWLY OVER THE BAY OF
+CAMPECHE...
+...THREAT OF HEAVY RAINS CONTINUES...
+ 
+ 
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.2N 92.8W
+ABOUT 155 MI...255 KM WSW OF CAMPECHE MEXICO
+ABOUT 125 MI...200 KM ENE OF COATZACOALCOS MEXICO
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...SW OR 220 DEGREES AT 3 MPH...6 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Campeche to Puerto de Veracruz
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within the
+next within 24 to 36 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 100 PM CDT (1800 UTC), the center of Tropical Storm Cristobal was
+located near latitude 19.2 North, longitude 92.8 West. Cristobal is
+moving toward the southwest near 3 mph (6 km/h). The storm is
+forecast to move slowly southwestward or southward through tonight,
+and meander over the southern Bay of Campeche through late
+Wednesday.  On the forecast track, the center of Cristobal is
+forecast to be near the coast of the southern Bay of Campeche
+tonight through Thursday.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher
+gusts.  Some strengthening is possible during the next day or so.
+ 
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Cristobal can be found in the
+Tropical Cyclone Discussion under AWIPS header MIATCDAT3, WMO
+header WTNT43 KNHC, and on the web at
+https://www.hurricanes.gov/text/MIATCDAT3.shtml
+ 
+RAINFALL: Cristobal is expected to produce total rain accumulations
+of 10 to 20 inches with isolated maximum amounts of 25 inches over
+parts of the Mexican states of Tabasco, Veracruz, and Campeche.  The
+depression is also expected to produce total rain accumulations of
+10 to 15 inches over northern Chiapas and other Mexican states,
+Quintana Roo and Yucatan. Additional rainfall of 10 to 15 inches,
+with isolated amounts of 25 inches is expected along the Pacific
+coasts of Chiapas, Guatemala, and El Salvador. Some of these Pacific
+locations received 20 inches of rain over the weekend, and storm
+total amounts of 35 inches are possible.  Rainfall in all of these
+areas may produce life-threatening flash floods and
+mudslides.
+ 
+WIND:  Tropical storm conditions are affecting the coast within
+portions of the warning area.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 PM CDT.
+ 
+$$
+Forecaster Pasch
+ 
+NNNN

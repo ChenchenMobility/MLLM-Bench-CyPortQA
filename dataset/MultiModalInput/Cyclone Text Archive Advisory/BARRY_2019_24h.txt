@@ -1,0 +1,185 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Barry Advisory Number   9
+NWS National Hurricane Center Miami FL       AL022019
+1000 AM CDT Fri Jul 12 2019
+
+...HURRICANE HUNTERS REPORT BARRY IS STRENGTHENING...
+...DANGEROUS STORM SURGE, HEAVY RAINS, AND WIND CONDITIONS
+EXPECTED ACROSS THE NORTH-CENTRAL GULF COAST...
+
+
+SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...28.2N 90.4W
+ABOUT 100 MI...160 KM SW OF THE MOUTH OF THE MISSISSIPPI RIVER
+ABOUT 115 MI...185 KM SSE OF MORGAN CITY LOUISIANA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY...
+
+A Storm Surge Warning has been issued for Lake Pontchartrain
+and east of Shell Beach to Biloxi Mississippi.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT...
+
+A Hurricane Warning is in effect for...
+* Intracoastal City to Grand Isle
+
+A Tropical Storm Warning is in effect for...
+* Mouth of the Pearl River to Grand Isle
+* Lake Pontchartrain and Lake Maurepas including metropolitan New
+Orleans
+* Intracoastal City to Cameron
+
+A Storm Surge Warning is in effect for...
+* Intracoastal City to Biloxi
+* Lake Pontchartrain
+
+A Storm Surge Watch is in effect for...
+* Biloxi to the Mississippi/Alabama border
+
+A Hurricane Watch is in effect for...
+* Mouth of the Mississippi River to Grand Isle
+* Intracoastal City to Cameron
+
+A Tropical Storm Watch is in effect for...
+* East of the Mouth of the Pearl River to the Mississippi/Alabama
+border
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+
+A Storm Surge Warning means there is a danger of life-threatening
+inundation from rising water moving inland from the coastline
+during the next 36 hours in the indicated locations.  For a
+depiction of areas at risk please see the National Weather
+Service Storm Surge Watch/Warning Graphic available at
+hurricanes.gov.  This is a life-threatening situation.  Persons
+located within these areas should take all necessary actions to
+protect life and property from rising water and the potential for
+other dangerous conditions.  Promptly follow evacuation and other
+instructions from local officials.
+
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation from rising water moving inland from the
+coastline in the indicated locations during the next 48 hours.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds conditions that make outside preparations difficult or
+dangerous.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area generally within 48 hours.
+
+Interests elsewhere along the Gulf Coast from the Upper Texas Coast
+to the Florida Panhandle should monitor the progress of this system.
+
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 1000 AM CDT (1500 UTC), the center of Tropical Storm Barry was
+located near latitude 28.2 North, longitude 90.4 West. Barry is
+moving toward the west-northwest near 5 mph (7 km/h).  A motion
+toward the northwest is expected to begin later today, followed by a
+turn toward the north Saturday night. On the forecast track, the
+center of Barry will approach the central or southeastern coast of
+Louisiana through tonight and then make landfall over the central
+Louisiana coast on Saturday.  After landfall, Barry is expected to
+move generally northward through the Mississippi Valley through
+Sunday.
+
+Reports from Air Force Reserve and NOAA Hurricane Hunter aircraft
+indicate that maximum sustained winds have increased to near 65 mph
+(100 km/h) with higher gusts.  Additional strengthening is forecast
+before landfall, and Barry is expected to be a hurricane when the
+center reaches the Louisiana coast.  Weakening is expected after
+Barry moves inland.
+
+Tropical-storm-force winds extend outward up to 175 miles (280 km)
+from the center.  The NOAA automated station at the Southwest Pass
+of the Mississippi River recently reported sustained winds of
+54 mph and a wind gust of 60 mph at an elevation of 125 ft.
+
+The minimum central pressure based on aircraft and surface
+observations is 998 mb (29.47 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+Key Messages for Barry can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2 and WMO header WTNT42 KNHC.
+
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+
+Mouth of the Atchafalaya River to Shell Beach...3 to 6 ft
+Shell Beach to Biloxi MS...3 to 5 ft
+Intracoastal City to the Mouth of the Atchafalaya River...3 to 5 ft
+Lake Pontchartrain...3 to 5 ft
+Biloxi MS to the Mississippi/Alabama border...2 to 4 ft
+Lake Maurepas...1 to 3 ft
+
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances. For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+
+RAINFALL:  Barry is expected to produce total rain accumulations of
+10 to 20 inches over south-central and southeast Louisiana along
+with southwest Mississippi, with isolated maximum amounts of
+25 inches.  These rains are expected to lead to dangerous, life
+threatening flooding over portions of the central Gulf Coast into
+the Lower Mississippi Valley.  Over the remainder of the Lower
+Mississippi Valley, total rain accumulations of 4 to 8 inches are
+expected, with isolated maximum amounts of 12 inches.
+
+WIND:  Hurricane conditions are expected in the Hurricane Warning
+area tonight or Saturday, with tropical storm conditions beginning
+during the next several hours.  Hurricane conditions are possible
+within the Hurricane Watch area by tonight or Saturday morning.
+Tropical storm conditions are spreading across the Tropical Storm
+Warning area in southeastern Louisiana at this time.  Tropical storm
+conditions are possible in the Tropical Storm Watch area by tonight
+or Saturday. Wind gusts to tropical-storm force in squalls are
+possible along portions of the coasts of Alabama and the western
+Florida Panhandle through Saturday night.
+
+TORNADOES:  A couple tornadoes are possible this afternoon through
+tonight across southeast Louisiana, far southern Mississippi, and
+the Alabama coast.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 100 PM CDT.
+Next complete advisory at 400 PM CDT.
+
+$$
+Forecaster Beven
+
+NNNN

@@ -1,0 +1,107 @@
+
+ZCZC MIAPWSEP4 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+HURRICANE HILARY WIND SPEED PROBABILITIES NUMBER  14                
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP092023               
+2100 UTC SAT AUG 19 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF HURRICANE HILARY WAS LOCATED NEAR LATITUDE   
+23.8 NORTH...LONGITUDE 114.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+95 KTS...110 MPH...175 KM/H.                                        
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SAT 06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED 18Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+OXNARD CA      34  X   4( 4)   4( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+SANTA CRUZ IS  34  X   3( 3)   3( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+LONG BEACH/LA  34  X   6( 6)  16(22)   X(22)   X(22)   X(22)   X(22)
+ 
+S CATALINA IS  34  X   9( 9)  13(22)   X(22)   X(22)   X(22)   X(22)
+ 
+SAN DIEGO CA   34  X  23(23)  37(60)   X(60)   X(60)   X(60)   X(60)
+SAN DIEGO CA   50  X   X( X)  10(10)   X(10)   X(10)   X(10)   X(10)
+SAN DIEGO CA   64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+YUMA AZ        34  X   5( 5)   9(14)   X(14)   X(14)   X(14)   X(14)
+ 
+TIJUANA        34  X  14(14)  42(56)   X(56)   X(56)   X(56)   X(56)
+TIJUANA        50  X   X( X)   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+ENSENADA       34  X  58(58)  19(77)   X(77)   X(77)   X(77)   X(77)
+ENSENADA       50  X   6( 6)  18(24)   X(24)   X(24)   X(24)   X(24)
+ENSENADA       64  X   X( X)   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+IS GUADALUPE   34  5  16(21)   X(21)   X(21)   X(21)   X(21)   X(21)
+ 
+PUNTA EUGENIA  34 84  16(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+PUNTA EUGENIA  50  5  83(88)   X(88)   X(88)   X(88)   X(88)   X(88)
+PUNTA EUGENIA  64  X  47(47)   X(47)   X(47)   X(47)   X(47)   X(47)
+ 
+P ABREOJOS     34 99   1(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+P ABREOJOS     50 18   2(20)   X(20)   X(20)   X(20)   X(20)   X(20)
+P ABREOJOS     64  1   1( 2)   X( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+CABO SAN LUCAS 34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+SAN JOSE CABO  34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+LA PAZ         34  5   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+LORETO         34 41   X(41)   X(41)   X(41)   X(41)   X(41)   X(41)
+ 
+P PENASCO      34  2  27(29)   X(29)   X(29)   X(29)   X(29)   X(29)
+ 
+HERMOSILLO     34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+BAHIA KINO     34 19   6(25)   X(25)   X(25)   X(25)   X(25)   X(25)
+ 
+GUAYMAS        34 11   3(14)   X(14)   X(14)   X(14)   X(14)   X(14)
+ 
+25N 115W       34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+25N 115W       50 85   X(85)   X(85)   X(85)   X(85)   X(85)   X(85)
+25N 115W       64 25   X(25)   X(25)   X(25)   X(25)   X(25)   X(25)
+ 
+25N 120W       34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+30N 120W       34  X   8( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

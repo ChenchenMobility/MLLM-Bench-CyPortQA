@@ -1,0 +1,142 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Delta Intermediate Advisory Number 11A
+NWS National Hurricane Center Miami FL       AL262020
+700 AM CDT Wed Oct 07 2020
+ 
+...DELTA BRINGING A LIFE-THREATENING STORM SURGE AND STRONG WINDS 
+TO NORTHEASTERN PORTIONS OF THE YUCATAN PENINSULA...
+ 
+ 
+SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.1N 87.4W
+ABOUT 35 MI...55 KM W OF CANCUN MEXICO
+MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...974 MB...28.76 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Tulum to Dzilam Mexico
+* Cozumel
+ 
+A Tropical Storm Warning is in effect for...
+* Cuba province of Pinar del Rio
+* Punta Herrero to Tulum Mexico
+* Dzilam to Progreso Mexico
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area. 
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+Interests along the northern Gulf of Mexico coast should monitor
+the progress of Delta.  Hurricane and Storm Surge Watches will
+likely be issued for a portion of this area later this morning.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 AM CDT (1200 UTC), the center of Hurricane Delta was located
+by satellite images and surface observation inland over northeastern 
+Mexico near latitude 21.1 North, longitude 87.4 West. Delta is 
+moving toward the northwest near 17 mph (28 km/h). A 
+west-northwestward to northwestward motion is expected over the 
+next day or so.  A slower northwestward to north-northwestward 
+motion is forecast to begin on Thursday, and a northward motion is 
+likely Thursday night and Friday.  On the forecast track, the 
+center of Delta will move over the northeastern portion of the 
+Yucatan Peninsula this morning.  Delta is forecast to move over the 
+southern Gulf of Mexico this afternoon, be over the southern or 
+central Gulf of Mexico through Thursday, and approach the northern 
+Gulf coast on Friday.
+ 
+Maximum sustained winds are near 105 mph (165 km/h) with higher
+gusts.  Although some additional weakening is likely when Delta 
+moves over the Yucatan peninsula this morning, re-strengthening is 
+forecast when the hurricane moves over the southern Gulf of Mexico 
+Wednesday night and Thursday, and Delta could become a category 4 
+hurricane again by late Thursday.  Weakening is expected as Delta 
+approaches the northern Gulf coast on Friday.
+ 
+Hurricane-force winds extend outward up to 30 miles (45 km) from
+the center and tropical-storm-force winds extend outward up to 140
+miles (220 km).  A WeatherFlow observing site at Puerto Morelos, 
+Mexico, has recently reported sustained winds of 54 mph (87 km/h) 
+and a gust to 75 mph (122 km/h) after the passage of the center 
+over that location.  A wind gust to 64 mph (104 km/h) was recently 
+reported on Cozumel, Mexico. 
+ 
+The estimated minimum central pressure based on surface 
+observations is 974 mb (28.76 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Delta can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1, WMO header WTNT41
+KNHC, and on the web at www.hurricanes.gov/text/MIATCDAT1.shtml.
+ 
+STORM SURGE:  A life-threatening storm surge will raise water levels
+in areas of onshore winds by as much as 6 to 9 ft above normal 
+tide levels along the northern coast of the Yucatan Peninsula from 
+Cabo Catoche to Progreso, and 5 to 7 ft above normal tide levels 
+along the eastern coast of the Yucatan Peninsula from Tulum to Cabo
+Catoche.  Near the coast, the surge will be accompanied by large
+and destructive waves.
+ 
+WIND:  In the Yucatan Peninsula, dangerous hurricane conditions are 
+expected in portions of the warning area during the next few hours, 
+with tropical storm conditions already occuring.  Tropical storm 
+conditions are expected in the tropical storm warning area to 
+continue for the next several hours.  In Cuba, tropical storm 
+conditions could continue over far western portions of the island 
+during the next few hours.
+ 
+RAINFALL:  Through early Thursday, Delta is expected to produce 4 to
+6 inches of rain, with isolated maximum totals of 10 inches, across
+portions of the northern Yucatan Peninsula. This rainfall may result
+in areas of significant flash flooding. In addition, 2 to 4 inches
+of rain, with isolated higher amounts, are expected across portions
+of western Cuba. This rainfall may result in areas of flash flooding
+and mudslides.
+ 
+Friday through Saturday, Delta is expected to produce 4 to 8 inches
+of rain, with isolated maximum totals of 12 inches across portions
+of the central Gulf Coast north into portions of the Lower
+Mississippi Valley. These rainfall amounts will lead to flash,
+urban, and small stream flooding, along with minor river flooding.
+Heavy rainfall will eventually spread into the Tennessee Valley, and
+interior southeastern United States this weekend into early next
+week.
+ 
+SURF:  Swells generated by Delta will affect land areas around the
+northwestern Caribbean Sea for the next day or so. These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Brown
+ 
+NNNN

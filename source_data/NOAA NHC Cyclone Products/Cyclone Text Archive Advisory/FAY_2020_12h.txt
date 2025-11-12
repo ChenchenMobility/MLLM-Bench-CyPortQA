@@ -1,0 +1,99 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Fay Advisory Number   3
+NWS National Hurricane Center Miami FL       AL062020
+500 AM EDT Fri Jul 10 2020
+ 
+...FAY SLIGHTLY STRONGER AS IT HEADS NORTHWARD JUST OFFSHORE OF THE
+DELMARVA PENINSULA...
+ 
+ 
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...37.4N 74.8W
+ABOUT 65 MI...105 KM SSE OF OCEAN CITY MARYLAND
+ABOUT 105 MI...165 KM S OF CAPE MAY NEW JERSEY
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Cape May New Jersey to Watch Hill Rhode Island including Long
+Island and Long Island Sound
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM EDT (0900 UTC), the center of Tropical Storm Fay was
+located near latitude 37.4 North, longitude 74.8 West. Fay is moving
+toward the north near 10 mph (17 km/h).   A northward to
+north-northeastward motion at a faster forward speed is expected
+over the next couple of days.  On the forecast track, the center of
+Fay is forecast to move near the mid-Atlantic coast today and move
+inland over the mid-Atlantic or the northeast United States late
+tonight or on Saturday.
+
+Reports from an Air Force Hurricane Hunter aircraft indicate that 
+the maximum sustained winds have increased to near 50 mph (85 km/h) 
+with higher gusts.  Little change in strength is forecast today and 
+tonight while the center remains over water.  Weakening should begin 
+after the center moves inland.
+
+Tropical-storm-force winds extend outward up to 205 miles (335 km)
+to the northeast and southeast of the center.
+ 
+The Air Force plane reported a minimum central pressure of 1002 mb 
+(29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Fay can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1 and WMO header WTNT41 KNHC.
+ 
+RAINFALL:  Fay is expected to produce 2 to 4 inches of rain with
+isolated maxima of 7 inches along and near the track from the lower
+Maryland Eastern Shore and Delaware northward into New Jersey,
+eastern Pennsylvania, southeast New York, and southern New England.
+These rains may result in flash flooding where the heaviest amounts
+occur.  Widespread river flooding is not expected at this time.
+ 
+WIND:  Tropical storm conditions are expected to first reach the
+coast within the warning area today and spread northward through the
+warning area tonight.
+ 
+STORM SURGE: Minor flooding is possible along the coast for portions
+of the Tropical Storm Warning area.
+ 
+TORNADOES: Isolated tornadoes are possible today over portions of
+New Jersey, southeast New York, and southern New England.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Pasch
+ 
+NNNN

@@ -1,0 +1,142 @@
+
+ZCZC MIAPWSAT4 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM ETA WIND SPEED PROBABILITIES NUMBER  41              
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL292020               
+1500 UTC TUE NOV 10 2020                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM ETA WAS LOCATED NEAR LATITUDE 
+22.7 NORTH...LONGITUDE 85.3 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+50 KTS...60 MPH...95 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  STANDARD TIME (EST)...SUBTRACT 5 HOURS FROM Z TIME      
+   CENTRAL  STANDARD TIME (CST)...SUBTRACT 6 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z TUE 00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT 12Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+KINGS BAY GA   34  X   X( X)   X( X)   1( 1)   X( 1)   1( 2)   1( 3)
+ 
+WAYCROSS GA    34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+MAYPORT NS FL  34  X   X( X)   X( X)   1( 1)   1( 2)   1( 3)   X( 3)
+ 
+GAINESVILLE FL 34  X   X( X)   X( X)   1( 1)   1( 2)   1( 3)   1( 4)
+ 
+THE VILLAGES   34  X   X( X)   X( X)   1( 1)   1( 2)   1( 3)   1( 4)
+ 
+ORLANDO FL     34  X   X( X)   X( X)   1( 1)   1( 2)   X( 2)   1( 3)
+ 
+COCOA BEACH FL 34  X   X( X)   1( 1)   2( 3)   2( 5)   X( 5)   1( 6)
+ 
+PATRICK AFB    34  X   X( X)   1( 1)   2( 3)   2( 5)   1( 6)   X( 6)
+ 
+FT PIERCE FL   34  X   X( X)   2( 2)   1( 3)   2( 5)   X( 5)   1( 6)
+ 
+W PALM BEACH   34  X   X( X)   2( 2)   1( 3)   2( 5)   X( 5)   X( 5)
+ 
+FT LAUDERDALE  34  X   1( 1)   1( 2)   2( 4)   1( 5)   1( 6)   X( 6)
+ 
+MARATHON FL    34  X   1( 1)   3( 4)   2( 6)   2( 8)   X( 8)   X( 8)
+ 
+KEY WEST FL    34  X   2( 2)   3( 5)   3( 8)   2(10)   X(10)   1(11)
+ 
+NAPLES FL      34  X   1( 1)   4( 5)   4( 9)   3(12)   1(13)   X(13)
+ 
+FT MYERS FL    34  X   X( X)   1( 1)   2( 3)   1( 4)   1( 5)   X( 5)
+ 
+VENICE FL      34  X   1( 1)   4( 5)   7(12)   5(17)   1(18)   1(19)
+ 
+TAMPA FL       34  X   1( 1)   3( 4)   4( 8)   5(13)   2(15)   X(15)
+ 
+CEDAR KEY FL   34  X   X( X)   2( 2)   4( 6)   6(12)   2(14)   1(15)
+ 
+TALLAHASSEE FL 34  X   X( X)   X( X)   1( 1)   2( 3)   2( 5)   3( 8)
+ 
+ST MARKS FL    34  X   X( X)   X( X)   1( 1)   2( 3)   3( 6)   3( 9)
+ 
+APALACHICOLA   34  X   X( X)   2( 2)   3( 5)   8(13)   5(18)   3(21)
+APALACHICOLA   50  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+GFMX 290N 850W 34  X   1( 1)   2( 3)   5( 8)  11(19)   4(23)   2(25)
+GFMX 290N 850W 50  X   X( X)   X( X)   1( 1)   3( 4)   1( 5)   X( 5)
+GFMX 290N 850W 64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+PANAMA CITY FL 34  X   X( X)   1( 1)   2( 3)   7(10)   5(15)   4(19)
+PANAMA CITY FL 50  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+DESTIN EXEC AP 34  X   X( X)   X( X)   X( X)   2( 2)   3( 5)   3( 8)
+ 
+COLUMBUS GA    34  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   3( 4)
+ 
+BIRMINGHAM AL  34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+MONTGOMERY AL  34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   4( 6)
+ 
+WHITING FLD FL 34  X   X( X)   X( X)   X( X)   2( 2)   3( 5)   4( 9)
+ 
+PENSACOLA FL   34  X   X( X)   X( X)   X( X)   2( 2)   3( 5)   3( 8)
+ 
+GFMX 290N 870W 34  X   X( X)   2( 2)   2( 4)   8(12)   5(17)   4(21)
+GFMX 290N 870W 50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+MOBILE AL      34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   4( 7)
+ 
+GULFPORT MS    34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   2( 4)
+ 
+STENNIS MS     34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ 
+BURAS LA       34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+GFMX 280N 890W 34  X   X( X)   2( 2)   1( 3)   3( 6)   3( 9)   3(12)
+ 
+GFMX 280N 910W 34  X   X( X)   X( X)   1( 1)   X( 1)   1( 2)   1( 3)
+ 
+COZUMEL MX     34  X   1( 1)   1( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+CP SAN ANTONIO 34  6   3( 9)   2(11)   1(12)   2(14)   X(14)   X(14)
+ 
+HAVANA         34  X   2( 2)   3( 5)   2( 7)   2( 9)   X( 9)   X( 9)
+ 
+ISLE OF PINES  34  X   2( 2)   2( 4)   1( 5)   1( 6)   X( 6)   X( 6)
+ 
+PENSACOLA NAS  34  X   X( X)   1( 1)   X( 1)   4( 5)   6(11)   3(14)
+ 
+KEESLER AB     34  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   3( 8)
+ 
+$$                                                                  
+FORECASTER STEWART                                                  
+NNNN                                                                

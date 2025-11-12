@@ -1,0 +1,88 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Hurricane Beryl Intermediate Advisory Number 6A
+NWS National Hurricane Center Miami FL       AL022018
+800 PM AST Fri Jul 06 2018
+
+...BERYL CONTINUING WESTWARD ACROSS THE TROPICAL ATLANTIC...
+
+
+SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...10.6N 48.3W
+ABOUT 925 MI...1490 KM ESE OF THE LESSER ANTILLES
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...994 MB...29.36 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Hurricane Watch is in effect for...
+* Dominica
+
+A Tropical Storm Watch is in effect for...
+* Martinique
+* Guadeloupe
+* St. Martin
+* St. Barthelemy
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+
+Interests elsewhere in the Lesser Antilles should monitor the
+progress of Beryl, as additional watches could be required for other
+islands later tonight or early Saturday.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM AST (0000 UTC), the center of Hurricane Beryl was located
+near latitude 10.6 North, longitude 48.3 West.  Beryl is moving
+toward the west near 15 mph (24 km/h).  A faster westward to
+west-northwestward motion is expected to begin over the weekend and
+continue through early next week.  On the forecast track, the center
+of Beryl will approach the Lesser Antilles over the weekend and
+cross the island chain late Sunday or Monday.
+
+Maximum sustained winds are near 80 mph (130 km/h) with higher
+gusts.  Some strengthening is forecast during the next couple of
+days, and Beryl could still be a hurricane when it reaches the
+Lesser Antilles late Sunday or Monday.  Weakening is expected once
+Beryl reaches the eastern Caribbean Sea on Monday, but the system
+may not degenerate into an open trough until it reaches the vicinity
+of Hispaniola and the central Caribbean Sea.
+
+Hurricane-force winds extend outward up to 10 miles (20 km) from
+the center, and tropical-storm-force winds extend outward up to
+35 miles (55 km).
+
+The estimated minimum central pressure is 994 mb (29.36 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND:  Tropical storm or hurricane conditions are possible within
+the watch areas by late Sunday or Monday.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM AST.
+
+$$
+Forecaster Beven
+
+NNNN

@@ -1,0 +1,156 @@
+
+ZCZC MIAPWSAT4 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM MARCO WIND SPEED PROBABILITIES NUMBER  13            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL142020               
+1500 UTC SUN AUG 23 2020                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM MARCO WAS LOCATED NEAR        
+LATITUDE 24.7 NORTH...LONGITUDE 87.3 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 60 KTS...70 MPH...110 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z SUN 00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU 12Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+APALACHICOLA   34  1   2( 3)   1( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+GFMX 290N 850W 34  1   3( 4)   X( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+PANAMA CITY FL 34  1   3( 4)   1( 5)   X( 5)   1( 6)   X( 6)   X( 6)
+ 
+DESTIN EXEC AP 34  X   2( 2)   2( 4)   X( 4)   1( 5)   X( 5)   X( 5)
+ 
+MONTGOMERY AL  34  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+WHITING FLD FL 34  X   2( 2)   3( 5)   X( 5)   1( 6)   X( 6)   X( 6)
+ 
+PENSACOLA FL   34  X   2( 2)   3( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+ 
+GFMX 290N 870W 34  1  13(14)   3(17)   1(18)   X(18)   X(18)   X(18)
+ 
+MOBILE AL      34  X   2( 2)  12(14)   3(17)   X(17)   X(17)   X(17)
+ 
+GULFPORT MS    34  X   3( 3)  35(38)   5(43)   1(44)   X(44)   X(44)
+GULFPORT MS    50  X   1( 1)   4( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+GULFPORT MS    64  X   X( X)   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+STENNIS MS     34  X   3( 3)  46(49)   7(56)   1(57)   X(57)   X(57)
+STENNIS MS     50  X   X( X)  11(11)   2(13)   X(13)   X(13)   X(13)
+STENNIS MS     64  X   X( X)   2( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+BURAS LA       34  X  22(22)  49(71)   2(73)   1(74)   X(74)   X(74)
+BURAS LA       50  X   5( 5)  26(31)   2(33)   X(33)   X(33)   X(33)
+BURAS LA       64  X   X( X)   6( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+GFMX 280N 890W 34  3  88(91)   2(93)   X(93)   X(93)   X(93)   X(93)
+GFMX 280N 890W 50  X  55(55)   6(61)   X(61)   X(61)   X(61)   X(61)
+GFMX 280N 890W 64  X  20(20)   4(24)   X(24)   X(24)   X(24)   X(24)
+ 
+JACKSON MS     34  X   1( 1)   5( 6)   3( 9)   1(10)   X(10)   X(10)
+ 
+NEW ORLEANS LA 34  X   4( 4)  54(58)   9(67)   2(69)   X(69)   X(69)
+NEW ORLEANS LA 50  X   X( X)  24(24)   6(30)   1(31)   X(31)   X(31)
+NEW ORLEANS LA 64  X   X( X)   5( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+ 
+GFMX 280N 910W 34  X   8( 8)  14(22)   2(24)   X(24)   X(24)   X(24)
+GFMX 280N 910W 50  X   1( 1)   4( 5)   X( 5)   1( 6)   X( 6)   X( 6)
+GFMX 280N 910W 64  X   X( X)   2( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+BATON ROUGE LA 34  X   2( 2)  33(35)  18(53)   2(55)   X(55)   X(55)
+BATON ROUGE LA 50  X   X( X)   9( 9)   8(17)   X(17)   X(17)   X(17)
+BATON ROUGE LA 64  X   X( X)   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)
+ 
+MORGAN CITY LA 34  X   2( 2)  38(40)  15(55)   2(57)   X(57)   X(57)
+MORGAN CITY LA 50  X   X( X)  11(11)   7(18)   X(18)   X(18)   X(18)
+MORGAN CITY LA 64  X   X( X)   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+ALEXANDRIA LA  34  X   1( 1)   6( 7)  17(24)   6(30)   X(30)   X(30)
+ALEXANDRIA LA  50  X   X( X)   1( 1)   3( 4)   1( 5)   X( 5)   X( 5)
+ 
+LAFAYETTE LA   34  X   1( 1)  18(19)  18(37)   3(40)   X(40)   X(40)
+LAFAYETTE LA   50  X   X( X)   3( 3)   5( 8)   1( 9)   X( 9)   X( 9)
+LAFAYETTE LA   64  X   X( X)   1( 1)   1( 2)   X( 2)   X( 2)   X( 2)
+ 
+NEW IBERIA LA  34  X   1( 1)  21(22)  17(39)   3(42)   X(42)   X(42)
+NEW IBERIA LA  50  X   X( X)   4( 4)   4( 8)   2(10)   X(10)   X(10)
+NEW IBERIA LA  64  X   X( X)   1( 1)   1( 2)   X( 2)   X( 2)   X( 2)
+ 
+GFMX 280N 930W 34  X   2( 2)   2( 4)   3( 7)   2( 9)   X( 9)   X( 9)
+ 
+SHREVEPORT LA  34  X   X( X)   2( 2)   4( 6)   7(13)   X(13)   X(13)
+ 
+FORT POLK LA   34  X   1( 1)   3( 4)  12(16)   7(23)   X(23)   X(23)
+FORT POLK LA   50  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+LAKE CHARLES   34  X   1( 1)   3( 4)  10(14)   6(20)   X(20)   X(20)
+LAKE CHARLES   50  X   X( X)   X( X)   2( 2)   2( 4)   X( 4)   X( 4)
+ 
+CAMERON LA     34  X   2( 2)   3( 5)   9(14)   4(18)   X(18)   X(18)
+CAMERON LA     50  X   X( X)   X( X)   3( 3)   2( 5)   X( 5)   X( 5)
+CAMERON LA     64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+JASPER TX      34  X   X( X)   2( 2)   6( 8)   8(16)   X(16)   X(16)
+ 
+KOUNTZE TX     34  X   X( X)   2( 2)   4( 6)   6(12)   X(12)   X(12)
+ 
+PORT ARTHUR TX 34  X   X( X)   3( 3)   3( 6)   6(12)   X(12)   X(12)
+ 
+GALVESTON TX   34  X   1( 1)   2( 3)   2( 5)   4( 9)   X( 9)   X( 9)
+ 
+HOUSTON TX     34  X   X( X)   1( 1)   1( 2)   4( 6)   X( 6)   X( 6)
+ 
+FREEPORT TX    34  X   X( X)   1( 1)   1( 2)   2( 4)   X( 4)   X( 4)
+ 
+GFMX 280N 950W 34  X   1( 1)   1( 2)   1( 3)   2( 5)   X( 5)   X( 5)
+ 
+HIGH ISLAND TX 34  X   X( X)   2( 2)   3( 5)   4( 9)   X( 9)   X( 9)
+ 
+MATAGORDA TX   34  X   X( X)   1( 1)   1( 2)   2( 4)   X( 4)   X( 4)
+ 
+PORT O CONNOR  34  X   X( X)   1( 1)   X( 1)   2( 3)   X( 3)   X( 3)
+ 
+PENSACOLA NAS  34  X   6( 6)   4(10)   2(12)   X(12)   X(12)   X(12)
+ 
+KEESLER AB     34  X   9( 9)  31(40)   3(43)   X(43)   X(43)   X(43)
+KEESLER AB     50  X   1( 1)   6( 7)   X( 7)   1( 8)   X( 8)   X( 8)
+KEESLER AB     64  X   X( X)   1( 1)   1( 2)   X( 2)   X( 2)   X( 2)
+ 
+$$                                                                  
+FORECASTER LATTO                                                    
+NNNN                                                                

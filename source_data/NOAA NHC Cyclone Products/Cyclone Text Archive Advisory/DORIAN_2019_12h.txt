@@ -1,0 +1,149 @@
+
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Hurricane Dorian Intermediate Advisory Number 56A
+NWS National Hurricane Center Miami FL       AL052019
+800 AM AST Sat Sep 07 2019
+
+...TROPICAL STORM FORCE WINDS OCCURRING OVER PORTIONS OF
+SOUTHEASTERN MASSACHUSETTS...
+...HURRICANE CONDITIONS EXPECTED IN PORTIONS OF NOVA SCOTIA LATER
+TODAY...
+
+
+SUMMARY OF 800 AM AST...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...40.9N 67.0W
+ABOUT 160 MI...230 KM SE OF NANTUCKET MASSACHUSETTS
+ABOUT 310 MI...255 KM SW OF HALIFAX NOVA SCOTIA
+MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
+PRESENT MOVEMENT...NE OR 50 DEGREES AT 25 MPH...41 KM/H
+MINIMUM CENTRAL PRESSURE...965 MB...28.50 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Hurricane Warning is in effect for...
+* Eastern Nova Scotia from Lower East Pubnico to Brule
+* Western Newfoundland from Indian Harbour to Hawke's Bay
+
+A Hurricane Watch is in effect for...
+* Prince Edward Island
+* Magdalen Islands
+
+A Tropical Storm Warning is in effect for...
+* Woods Hole to Sagamore Beach MA
+* Nantucket and Martha's Vineyard MA
+* East of Bar Harbor to Eastport ME
+* Prince Edward Island
+* Southwestern Nova Scotia from Avonport to north of Lower East
+Pubnico
+* Fundy National Park to Shediac
+* Stone's Cove to Indian Harbour
+* Hawke's Bay to Fogo Island
+* Mutton Bay to Mary's Harbour
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  Preparations to protect life and
+property should be rushed to completion.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected within the warning area in this case within the next 12
+hours.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+
+Interests elsewhere along the New England coasts of the United
+States should monitor the progress of Dorian.
+
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM AST (1200 UTC), the center of Hurricane Dorian was located
+near latitude 40.9 North, longitude 67.0 West.  Dorian is moving
+toward the northeast near 25 mph (41 km/h), and this general motion
+is expected through Sunday.  On the forecast track, the center of
+Dorian should pass to the southeast of extreme southeastern New
+England this morning, and then move across Nova Scotia and
+Newfoundland later today and tonight.
+
+Maximum sustained winds are near 85 mph (140 km/h) with higher
+gusts.  Some slight weakening is forecast, but Dorian is expected to
+move over Nova Scotia with hurricane-force winds.  Thereafter,
+Dorian is forecast to become a powerful post-tropical cyclone over
+eastern Canada by tonight or early Sunday.
+
+Hurricane-force winds extend outward up to 105 miles (165 km) from
+the center, and tropical-storm-force winds extend outward up to 310
+miles (500 km).  A NOAA buoy at Nantucket Shoals, Massachusetts,
+recently reported a sustained wind of 64 mph (104 km/h) and a gust
+of 80 mph (129 km/h).  A Weatherflow station at Sagamore Beach,
+Massachusetts, recently reported sustained winds of 40 mph (64 km/h)
+and a gust of 51 mph (82 km/h).
+
+The estimated minimum central pressure is 965 mb (28.50 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+WIND: Tropical storm conditions are expected to continue in the
+warning area over portions of extreme southeastern Massachusetts
+during the next few hours.  These conditions should spread into
+the warning area in Maine by this afternoon.
+
+Regardless of whether Dorian is a hurricane or a post-tropical
+cyclone, hurricane conditions are expected in the Hurricane Warning
+area in Nova Scotia and Newfoundland beginning later today, and they
+are possible in the Hurricane Watch area by tonight.  Tropical storm
+conditions are expected in the Tropical Storm Warning area in
+eastern Canada later today and tonight.
+
+STORM SURGE: Storm Surge is likely in the Gulf of St. Lawrence, the
+Southwest Coast of Newfoundland, and Eastern Nova Scotia.
+
+RAINFALL:  Dorian is expected to produce the following rainfall
+totals through Saturday:
+
+Extreme Southeastern New England and far eastern Maine...1 to 3
+inches.
+
+Nova Scotia...3 to 5 inches, isolated 7 inches.
+
+New Brunswick and Prince Edward Island...2 to 4 inches
+
+Newfoundland and far eastern Quebec...1 to 2 inches
+
+This rainfall may cause life-threatening flash floods
+
+SURF:  Large swells are increasing along the coast in Atlantic
+Canada, and they will continue to affect that area during the next
+few days.  Swells along the mid-Atlantic and New England coasts of
+the U.S. will continue for a couple of more days.  These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM AST.
+
+$$
+Forecaster Beven
+
+NNNN

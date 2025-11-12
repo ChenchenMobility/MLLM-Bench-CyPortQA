@@ -1,0 +1,140 @@
+
+ZCZC MIAPWSAT3 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM CRISTOBAL WIND SPEED PROBABILITIES NUMBER   6        
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL032020               
+0300 UTC WED JUN 03 2020                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM CRISTOBAL WAS LOCATED NEAR    
+LATITUDE 19.1 NORTH...LONGITUDE 92.3 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z WED 12Z WED 00Z THU 12Z THU 00Z FRI 00Z SAT 00Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z WED 00Z THU 12Z THU 00Z FRI 00Z SAT 00Z SUN 00Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+APALACHICOLA   34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+GFMX 290N 850W 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+PANAMA CITY FL 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+DESTIN EXEC AP 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+WHITING FLD FL 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+PENSACOLA FL   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+GFMX 290N 870W 34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   5( 8)
+ 
+MOBILE AL      34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+GULFPORT MS    34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   8( 9)
+ 
+STENNIS MS     34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   8( 9)
+ 
+BURAS LA       34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   9(11)
+ 
+GFMX 280N 890W 34  X   X( X)   X( X)   X( X)   X( X)   7( 7)  11(18)
+ 
+JACKSON MS     34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+NEW ORLEANS LA 34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   9(11)
+ 
+GFMX 280N 910W 34  X   X( X)   X( X)   X( X)   X( X)   9( 9)  14(23)
+GFMX 280N 910W 50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+GFMX 280N 910W 64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+BATON ROUGE LA 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  10(11)
+ 
+MORGAN CITY LA 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  12(13)
+ 
+ALEXANDRIA LA  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ 
+LAFAYETTE LA   34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  10(11)
+ 
+NEW IBERIA LA  34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  10(11)
+ 
+GFMX 280N 930W 34  X   X( X)   X( X)   X( X)   X( X)   5( 5)  13(18)
+ 
+SHREVEPORT LA  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+FORT POLK LA   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+LAKE CHARLES   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   8( 8)
+ 
+CAMERON LA     34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  11(12)
+ 
+JASPER TX      34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+KOUNTZE TX     34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+PORT ARTHUR TX 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ 
+GALVESTON TX   34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   7( 8)
+ 
+HOUSTON TX     34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+FREEPORT TX    34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+GFMX 280N 950W 34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   6( 8)
+ 
+HIGH ISLAND TX 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+MATAGORDA TX   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+PORT O CONNOR  34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+GFMX 270N 960W 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   4( 5)
+ 
+GFMX 250N 960W 34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ 
+FRONTERA MX    34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+FRONTERA MX    50  1   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+MERIDA MX      34  X   X( X)   X( X)   2( 2)   5( 7)   2( 9)   1(10)
+ 
+COZUMEL MX     34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   1( 4)
+ 
+PENSACOLA NAS  34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   5( 7)
+ 
+KEESLER AB     34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   9(12)
+ 
+$$                                                                  
+FORECASTER BROWN                                                    
+NNNN                                                                

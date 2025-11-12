@@ -1,0 +1,201 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Zeta Advisory Number  11
+NWS National Hurricane Center Miami FL       AL282020
+400 AM CDT Tue Oct 27 2020
+ 
+...ZETA CONTINUES TO PRODUCE STRONG WINDS AND HEAVY RAINFALL ACROSS
+THE NORTHERN PORTIONS OF THE YUCATAN PENINSULA...
+...STORM SURGE AND HURRICANE WARNINGS ISSUED FOR THE NORTHERN GULF
+COAST...
+ 
+ 
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.0N 88.4W
+ABOUT 85 MI...140 KM ESE OF PROGRESO MEXICO
+ABOUT 560 MI...905 KM S OF THE MOUTH OF THE MISSISSIPPI RIVER
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...984 MB...29.06 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+A Storm Surge Warning has been issued from Intracoastal City,
+Louisiana, to Navarre, Florida, including Lake Borgne, Lake
+Pontchartrain, Vermilion Bay, Pensacola Bay, and Mobile Bay.
+ 
+A Hurricane Warning has been issued from Morgan City, Louisiana,
+to the Mississippi/Alabama border, including Lake Pontchartrain,
+Lake Maurepas, and metropolitan New Orleans.
+ 
+A Tropical Storm Warning has been issued from the 
+Mississippi/Alabama border to the Okaloosa/Walton County Line,
+Florida.
+ 
+The government of Mexico has changed the Hurricane Warning to a 
+Tropical Storm Warning from Punta Allen to Progreso, including 
+Cozumel.
+ 
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Intracoastal City Louisiana to Navarre Florida
+* Lake Borgne, Lake Pontchartrain, Vermilion Bay, Pensacola Bay, and
+Mobile Bay
+ 
+A Hurricane Warning is in effect for...
+* Morgan City Louisiana to the Mississippi/Alabama border
+* Lake Pontchartrain, Lake Maurepas, and Metropolitan New Orleans
+ 
+A Tropical Storm Warning is in effect for...
+* Punta Allen to Progreso Mexico
+* Cozumel
+* Mississippi/Alabama border to Okaloosa/Walton County Line Florida
+ 
+A Tropical Storm Watch is in effect for...
+* West of Morgan City to Intracoastal City Louisiana
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a
+depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.  This is a life-threatening situation.  Persons
+located within these areas should take all necessary actions to
+protect life and property from rising water and the potential for
+other dangerous conditions.  Promptly follow evacuation and other
+instructions from local officials. A Storm Surge Watch means there
+is a possibility of life-threatening inundation, from rising water
+moving inland from the coastline, in the indicated locations during
+the next 48 hours. For a depiction of areas at risk, please see the
+National Weather Service Storm Surge Watch/Warning Graphic,
+available at hurricanes.gov.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 AM CDT (0900 UTC), the center of Tropical Storm Zeta was 
+located over the northern Yucatan Peninsula near latitude 21.0 
+North, longitude 88.4 West. Zeta is moving toward the northwest near 
+14 mph (22 km/h), and this general motion is forecast to continue 
+today.  Zeta should turn toward the north tonight, and a faster 
+northward to north-northeastward motion is expected on Wednesday.  
+On the forecast track, the center of Zeta will move over the 
+southern Gulf of Mexico later this morning, and over the central 
+Gulf of Mexico tonight.  Zeta is forecast to approach the northern 
+Gulf Coast on Wednesday, and make landfall within the hurricane 
+warning area late Wednesday or Wednesday night. 
+ 
+Maximum sustained winds have decreased to near 70 mph (110 km/h) 
+with higher gusts.  Zeta is forecast to re-strengthen when it moves 
+over the southern Gulf of Mexico later this morning, and become a 
+hurricane again later today.  Zeta is forecast to be at or near 
+hurricane strength when it approaches the northern Gulf Coast late 
+Wednesday.
+ 
+Tropical-storm-force winds extend outward up to 140 miles (220 km)
+from the center.
+ 
+The estimated minimum central pressure is 984 mb (29.06 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Zeta can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT3, WMO header WTNT43
+KNHC, and on the web at www.hurricanes.gov/text/MIATCDAT3.shtml.
+ 
+STORM SURGE:  A dangerous storm surge will raise water levels by
+as much as 2 to 4 feet above normal tide levels along the immediate
+coast in the Tropical Storm Warning area within areas of onshore 
+flow. 
+ 
+The combination of a dangerous storm surge and the tide will cause
+normally dry areas near the coast to be flooded by rising waters
+moving inland from the shoreline.  The water could reach the
+following heights above ground somewhere in the indicated areas if
+the peak surge occurs at the time of high tide...
+ 
+Port Fourchon LA to Dauphin Island AL including Lake Borgne...4-6
+ft
+Intracoastal City LA to Port Fourchon LA including Vermilion
+Bay...2-4 ft
+Dauphin Island AL to Navarre FL including Mobile Bay and Pensacola
+Bay...2-4 ft
+Lake Pontchartrain...2-4 ft
+Navarre FL to Yankeetown FL including Choctawhatchee Bay and Saint
+Andrew Bay...1-3 ft
+ 
+The deepest water will occur along the immediate coast near and to
+the right of the landfall location, where the surge will be
+accompanied by large and dangerous waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle,
+and can vary greatly over short distances.  For information
+specific to your area, please see products issued by your local
+National Weather Service forecast office.
+ 
+RAINFALL:  Rainfall totals of 4 to 8 inches with local amounts of 12
+inches are possible through Tuesday along and east-northeast of
+Zeta’s track across the Yucatan Peninsula of Mexico and the Cayman
+Islands. An additional 1 to 3 inches of rain will be possible across
+western Cuba through Tuesday.
+ 
+An initial area of heavy rains will begin to impact the central Gulf
+Coast tonight, spreading north into the Tennessee Valley on
+Wednesday.  The core of the heavy rains associated with Zeta will
+push northeast from eastern Louisiana, across southern Mississippi,
+Alabama, northern Georgia through Wednesday night, and through the
+southern Appalachians into the Mid-Atlantic on Thursday. Rainfall
+totals of 2 to 4 inches with isolated amounts of 6 inches are
+expected across these areas, resulting in flash, urban, small
+stream, and minor river flooding.
+ 
+WIND:  Tropical storm conditions will continue within the warning 
+area in Mexico this morning.
+ 
+Hurricane conditions are expected within the Hurricane Warning area
+on the northern Gulf Coast late Wednesday, with tropical storm 
+conditions beginning Wednesday afternoon. Tropical storm conditions 
+are expected within the Tropical Storm Warning area on the 
+northern Gulf coast by late Wednesday, and tropical storm 
+conditions are possible within the Tropical Storm Watch area late 
+Wednesday.
+ 
+TORNADOES:  A few tornadoes are possible Wednesday and Wednesday
+night over southeastern Mississippi, southern Alabama, and the
+western Panhandle of Florida.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Brown
+ 
+NNNN

@@ -1,0 +1,17 @@
+{
+  "models_to_run": [
+    "run_mistral.py",
+    "run_gpt4o.py",
+    "run_llama3_2.py",
+    "run_gemini_flash.py",
+    "run_llava1_6.py",
+    "run_gemma3.py",
+    "run_qwen2_5vl.py"
+  ],
+  "args": {
+    "start": 0,
+    "end": 5,
+    "dataset": "./dataset",
+    "output": "./outputs"
+  }
+}

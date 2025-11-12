@@ -1,0 +1,73 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM PHILIPPE WIND SPEED PROBABILITIES NUMBER  30         
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL172023               
+2100 UTC SAT SEP 30 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM PHILIPPE WAS LOCATED NEAR     
+LATITUDE 16.3 NORTH...LONGITUDE 56.5 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SAT 06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED 18Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+SAINT MAARTEN  34  X   X( X)   1( 1)   2( 3)   4( 7)   1( 8)   X( 8)
+ 
+SABA           34  X   X( X)   1( 1)   1( 2)   3( 5)   X( 5)   1( 6)
+ 
+ST EUSTATIUS   34  X   X( X)   1( 1)   2( 3)   2( 5)   1( 6)   X( 6)
+ 
+ST KITTS-NEVIS 34  X   X( X)   1( 1)   2( 3)   3( 6)   1( 7)   X( 7)
+ 
+BARBUDA        34  X   1( 1)   2( 3)   3( 6)   6(12)   1(13)   X(13)
+ 
+ANTIGUA        34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+GUADELOUPE     34  X   2( 2)   1( 3)   2( 5)   3( 8)   1( 9)   X( 9)
+ 
+DOMINICA       34  X   2( 2)   1( 3)   1( 4)   2( 6)   X( 6)   X( 6)
+ 
+SAINT LUCIA    34  X   1( 1)   1( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+BARBADOS       34  X   2( 2)   X( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER REINHART                                                 
+NNNN                                                                

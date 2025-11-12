@@ -1,0 +1,121 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Potential Tropical Cyclone Twenty-Six
+Intermediate Advisory Number 1A
+NWS National Hurricane Center Miami FL       AL262020
+800 PM EDT Sun Oct 04 2020
+ 
+...DISTURBANCE JUST SOUTH OF JAMAICA FORECAST TO STRENGTHEN OVER
+THE NORTHWESTERN CARIBBEAN SEA...
+ 
+ 
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.9N 76.9W
+ABOUT 75 MI...125 KM S OF KINGSTON JAMAICA
+ABOUT 325 MI...525 KM ESE OF GRAND CAYMAN
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Watch is in effect for...
+* Cuban provinces of Pinar del Rio and Artemisa
+* Isle of Youth
+ 
+A Tropical Storm Warning is in effect for...
+* Cayman Islands including Little Cayman and Cayman Brac
+ 
+A Tropical Storm Watch is in effect for...
+* Cuba province of La Habana
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM EDT (0000 UTC), the disturbance was centered near latitude
+16.9 North, longitude 76.9 West. The system is moving toward the
+west-northwest near 10 mph (17 km/h), and this general motion should
+continue for the next day or so.  A faster northwestward motion is
+expected on Tuesday.  On the forecast track, the center of the
+disturbance is expected to pass just south of Jamaica tonight and
+early Monday, move near or over the Cayman Islands Monday night, and
+approach the Isle of Youth and western Cuba Tuesday afternoon or
+evening.  The system is forecast to move into the southeastern Gulf
+of Mexico Tuesday night or early Wednesday.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher
+gusts. Strengthening is expected during the next few days and the
+system is forecast to be a tropical storm when it nears the Cayman
+Islands on Monday, and a hurricane when it moves near or over
+western Cuba on Tuesday.
+ 
+Conditions are conducive for development and the system is forecast
+to become a tropical depression or storm tonight or early Monday. *
+Formation chance through 48 hours...high...near 100 percent *
+Formation chance through 5 days...high...near 100 percent
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Potential Tropical Cyclone Twenty-Six can be found
+in the Tropical Cyclone Discussion under AWIPS header MIATCDAT1,
+WMO header WTNT41 KNHC, and on the web at
+www.hurricanes.gov/text/MIATCDAT1.shtml.
+ 
+STORM SURGE:  A dangerous storm surge will raise water levels by
+as much as 3 to 5 feet above normal tide levels along the immediate
+coast of the Isle of Youth and along the south coast of western
+Cuba near and to right of where the center makes landfall. Near the
+coast, the surge will be accompanied by large and dangerous waves.
+ 
+RAINFALL:  Through midweek, this system has the potential to produce
+3 to 5 inches of rain with isolated maximum totals of 8 inches
+across Jamaica, southern Haiti, and western Cuba. This rainfall
+could lead to life-threatening flash floods and mudslides.  Over
+the Cayman Islands, 2 to 4 inches of rainfall will be possible with
+this system.
+ 
+WIND:  Tropical storm conditions are expected in the Cayman Islands
+beginning late Monday.  Hurricane conditions are possible within
+the Hurricane Watch area by Tuesday afternoon, with tropical storm
+conditions possible by early Tuesday.  Tropical Storm conditions
+are possible in the Tropical Storm Watch area in Cuba by early
+Tuesday.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Cangialosi
+ 
+NNNN

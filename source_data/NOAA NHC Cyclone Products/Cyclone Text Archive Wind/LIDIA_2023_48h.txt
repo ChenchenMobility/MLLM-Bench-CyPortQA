@@ -1,0 +1,93 @@
+
+ZCZC MIAPWSEP5 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM LIDIA WIND SPEED PROBABILITIES NUMBER  22            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP152023               
+1500 UTC SUN OCT 08 2023                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM LIDIA WAS LOCATED NEAR        
+LATITUDE 16.9 NORTH...LONGITUDE 112.8 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 60 KTS...70 MPH...110 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z SUN 00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU 12Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CABO SAN LUCAS 34  X   1( 1)   3( 4)   6(10)   2(12)   X(12)   X(12)
+ 
+SAN JOSE CABO  34  X   1( 1)   3( 4)   4( 8)   3(11)   X(11)   X(11)
+ 
+LA PAZ         34  X   X( X)   1( 1)   2( 3)   2( 5)   X( 5)   X( 5)
+ 
+ISLAS MARIAS   34  X   X( X)   2( 2)  17(19)  53(72)   X(72)   X(72)
+ISLAS MARIAS   50  X   X( X)   X( X)   1( 1)  32(33)   X(33)   X(33)
+ISLAS MARIAS   64  X   X( X)   X( X)   X( X)  11(11)   X(11)   X(11)
+ 
+MAZATLAN       34  X   X( X)   X( X)   5( 5)  18(23)   X(23)   X(23)
+MAZATLAN       50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+MAZATLAN       64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+SAN BLAS       34  X   X( X)   X( X)   7( 7)  55(62)   X(62)   X(62)
+SAN BLAS       50  X   X( X)   X( X)   X( X)  23(23)   X(23)   X(23)
+SAN BLAS       64  X   X( X)   X( X)   X( X)   8( 8)   X( 8)   X( 8)
+ 
+P VALLARTA     34  X   X( X)   X( X)   2( 2)  35(37)   X(37)   X(37)
+P VALLARTA     50  X   X( X)   X( X)   X( X)   8( 8)   X( 8)   X( 8)
+ 
+BARRA NAVIDAD  34  X   X( X)   X( X)   1( 1)   6( 7)   X( 7)   X( 7)
+ 
+MANZANILLO     34  X   X( X)   X( X)   5( 5)   9(14)   X(14)   X(14)
+ 
+15N 110W       34  3   3( 6)   2( 8)   2(10)   X(10)   X(10)   X(10)
+ 
+20N 110W       34  3   5( 8)  39(47)  30(77)   X(77)   X(77)   X(77)
+20N 110W       50  X   X( X)   8( 8)  24(32)   1(33)   X(33)   X(33)
+20N 110W       64  X   X( X)   2( 2)  11(13)   X(13)   X(13)   X(13)
+ 
+ISLA SOCORRO   34  7  36(43)  45(88)   4(92)   X(92)   X(92)   X(92)
+ISLA SOCORRO   50  X   3( 3)  45(48)   6(54)   X(54)   X(54)   X(54)
+ISLA SOCORRO   64  X   1( 1)  17(18)   4(22)   X(22)   X(22)   X(22)
+ 
+ISLA CLARION   34  6   7(13)   2(15)   1(16)   X(16)   X(16)   X(16)
+ 
+15N 115W       34  3   3( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+20N 115W       34  3   3( 6)   2( 8)   1( 9)   X( 9)   X( 9)   X( 9)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                

@@ -1,0 +1,108 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Zeta Advisory Number   3
+NWS National Hurricane Center Miami FL       AL282020
+500 AM EDT Sun Oct 25 2020
+ 
+...ZETA MEANDERING OVER THE NORTHWESTERN CARIBBEAN SEA...
+...EXPECTED TO PRODUCE HEAVY RAINFALL AND TROPICAL-STORM-FORCE
+WINDS ACROSS PORTIONS OF THE NORTHWESTERN CARIBBEAN...
+ 
+ 
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.7N 83.5W
+ABOUT 305 MI...490 KM SSE OF THE WESTERN TIP OF CUBA
+ABOUT 295 MI...475 KM SE OF COZUMEL MEXICO
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 1 MPH...2 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Pinar del Rio Cuba
+ 
+A Tropical Storm Watch is in effect for...
+* Tulum to Rio Lagartos Mexico
+* Cozumel
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM EDT (0900 UTC), the center of Tropical Storm Zeta was
+located a NOAA reconnaissance aircraft near latitude 17.7 North,
+longitude 83.6 West. Zeta is currently stationary and is continuing
+to re-organize. However, a slow north-northwestward to northwestward
+motion is expected to resume later today. A turn toward the
+west-northwest and an increase in forward speed are forecast by
+Monday, followed by a faster northwestward motion on Tuesday. On the
+forecast track, the center of Zeta will pass south of western Cuba
+early Monday and move near or over the northern Yucatan Peninsula or
+Yucatan Channel late Monday, move into the southern Gulf of Mexico
+on Tuesday, and reach the central Gulf of Mexico by late Tuesday.
+ 
+Data from the aircraft indicate that maximum sustained winds are
+near 40 mph (65 km/h) with higher gusts. Gradual strengthening is
+expected during the next 48 to 72 hours, and Zeta is forecast to
+become a hurricane by early Tuesday.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km),
+mainly southeast of the center.
+ 
+The estimated minimum central pressure based on reports from the
+NOAA aircraft is 1005 mb (29.68 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Zeta can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDAT3 and WMO header
+WTNT43 KNHC.
+ 
+RAINFALL:  Heavy rainfall bands will be expansive along and
+east-northeast of Zeta’s track. Across portions of central and
+western Cuba, the Cayman Islands, Jamaica, the northeast Yucatan
+peninsula of Mexico, Southern Florida and the Keys, storm total
+rainfall of 4 to 8 inches with local amounts of 12 inches are
+possible through Wednesday.
+ 
+By Wednesday, heavy rainfall associated with Zeta will begin to
+affect the central Gulf Coast region, which may lead to flash
+flooding in urban areas.
+ 
+WIND:  Tropical storm conditions are expected within the warning
+area in Cuba by Monday morning.
+ 
+Tropical storm conditions are possible within the watch area in
+Mexico by Monday evening.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Stewart
+ 
+NNNN

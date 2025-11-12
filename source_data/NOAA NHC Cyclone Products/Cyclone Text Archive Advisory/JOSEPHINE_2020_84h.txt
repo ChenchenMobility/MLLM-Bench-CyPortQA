@@ -1,0 +1,57 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Depression Eleven Advisory Number   5
+NWS National Hurricane Center Miami FL       AL112020
+500 PM AST Wed Aug 12 2020
+ 
+...DEPRESSION NOT YET A TROPICAL STORM...
+ 
+ 
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...12.7N 45.7W
+ABOUT 1220 MI...1960 KM ESE OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Interests in the Leeward Islands should monitor the progress of
+this system.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM AST (2100 UTC), the center of Tropical Depression Eleven
+was located near latitude 12.7 North, longitude 45.7 West. The
+depression is moving toward the west near 15 mph (24 km/h).  A turn 
+toward the west-northwest at a similar forward speed is expected 
+tonight, with this motion continuing through the rest of the week.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Gradual strengthening is forecast during the next 48 hours, and the
+depression is expected to become a tropical storm tonight.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM AST.
+ 
+$$
+Forecaster Beven
+ 
+NNNN

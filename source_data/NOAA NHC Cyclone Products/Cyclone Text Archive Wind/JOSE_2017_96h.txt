@@ -1,0 +1,97 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM JOSE WIND SPEED PROBABILITIES NUMBER   1             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL122017               
+1500 UTC TUE SEP 05 2017                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM JOSE WAS LOCATED NEAR LATITUDE
+12.3 NORTH...LONGITUDE 39.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+35 KTS...40 MPH...65 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z TUE 00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT 12Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+PONCE PR       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+AGUADILLA PR   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+SAN JUAN PR    34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+VIEQUES PR     34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   7( 8)
+ 
+SAINT THOMAS   34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   9(11)
+SAINT THOMAS   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+SAINT THOMAS   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+SAINT CROIX    34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   7( 9)
+ 
+SAINT MAARTEN  34  X   X( X)   X( X)   X( X)   X( X)   7( 7)  13(20)
+SAINT MAARTEN  50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   6( 8)
+SAINT MAARTEN  64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+ST KITTS-NEVIS 34  X   X( X)   X( X)   X( X)   X( X)   8( 8)   9(17)
+ST KITTS-NEVIS 50  X   X( X)   X( X)   X( X)   X( X)   3( 3)   4( 7)
+ST KITTS-NEVIS 64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+BARBUDA        34  X   X( X)   X( X)   X( X)   X( X)  16(16)  11(27)
+BARBUDA        50  X   X( X)   X( X)   X( X)   X( X)   5( 5)   6(11)
+BARBUDA        64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   3( 5)
+ 
+ANTIGUA        34  X   X( X)   X( X)   X( X)   X( X)  13(13)   9(22)
+ANTIGUA        50  X   X( X)   X( X)   X( X)   X( X)   4( 4)   3( 7)
+ANTIGUA        64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+GUADELOUPE     34  X   X( X)   X( X)   X( X)   X( X)  12(12)   5(17)
+GUADELOUPE     50  X   X( X)   X( X)   X( X)   X( X)   4( 4)   2( 6)
+GUADELOUPE     64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+AVES           34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   3( 5)
+ 
+DOMINICA       34  X   X( X)   X( X)   X( X)   X( X)   7( 7)   2( 9)
+ 
+MARTINIQUE     34  X   X( X)   X( X)   X( X)   X( X)   6( 6)   2( 8)
+ 
+SAINT LUCIA    34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   1( 5)
+ 
+BARBADOS       34  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   1( 5)
+ 
+$$                                                                  
+FORECASTER LANDSEA                                                  
+NNNN                                                                

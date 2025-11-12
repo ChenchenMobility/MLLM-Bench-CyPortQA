@@ -1,0 +1,94 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Fay Advisory Number   1
+NWS National Hurricane Center Miami FL       AL062020
+500 PM EDT Thu Jul 09 2020
+ 
+...RECONNAISSANCE AIRCRAFT FINDS TROPICAL STORM FAY HAS FORMED
+JUST OFF THE COAST OF NORTH CAROLINA...
+...EXPECTED TO BRING HEAVY RAINFALL AND GUSTY WINDS TO PORTIONS OF
+THE MID-ATLANTIC COAST AND SOUTHERN NEW ENGLAND...
+ 
+ 
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...35.5N 74.9W
+ABOUT 40 MI...65 KM ENE OF CAPE HATTERAS NORTH CAROLINA
+ABOUT 195 MI...310 KM S OF OCEAN CITY MARYLAND
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+A Tropical Storm Warning has been issued from Cape May New Jersey
+northward to Watch Hill, Rhode Island, including Long Island and
+Long Island Sound.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Cape May New Jersey to Watch Hill Rhode Island including Long 
+Island and Long Island Sound
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM EDT (2100 UTC), the center of Tropical Storm Fay was 
+located near latitude 35.5 North, longitude 74.9 West. Fay is moving 
+toward the north near 7 mph (11 km/h).  A northward to north- 
+northeastward motion at a faster forward speed is expected over the 
+next couple of days.  On the forecast track, the center of Fay is 
+forecast to move near the mid-Atlantic coast on Friday, and move 
+inland over the northeast United States on Saturday. 
+ 
+Data from an Air Force Reserve reconnaissance aircraft indicate 
+that maximum sustained winds are near 45 mph (75 km/h) with 
+higher gusts.  Some slight strengthening is forecast tonight and 
+Friday.  Weakening should begin after the center moves inland on 
+Saturday. 
+ 
+Tropical-storm-force winds extend outward up to 140 miles (220 km)
+primarily to the east and southeast of the center. 
+ 
+The latest minimum central pressure reported by reconnaissance 
+aircraft is 1005 mb (29.68 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Fay can be found in the Tropical Cyclone 
+Discussion under AWIPS header MIATCDAT1 and WMO header WTNT41 KNHC. 
+
+RAINFALL:  Fay is expected to produce 3 to 5 inches of rain along 
+and near the track of Fay across the mid-Atlantic states into 
+southeast New York and southern New England. These rains may result 
+in flash flooding where the heaviest amounts occur. 
+
+WIND:  Tropical storm conditions are expected to first reach the
+coast within the warning area on Friday and spread northward 
+through the warning area Friday night.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM EDT.
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Brown
+ 
+NNNN

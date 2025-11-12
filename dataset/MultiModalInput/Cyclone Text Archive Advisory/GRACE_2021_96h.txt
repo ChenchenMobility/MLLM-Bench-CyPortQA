@@ -1,0 +1,126 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Grace Intermediate Advisory Number 8A
+NWS National Hurricane Center Miami FL       AL072021
+800 AM AST Sun Aug 15 2021
+ 
+...DISORGANIZED GRACE CONTINUES MOVING WEST-NORTHWESTWARD OVER THE 
+NORTHEASTERN CARIBBEAN SEA...
+ 
+ 
+SUMMARY OF 800 AM AST...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.1N 65.4W
+ABOUT 55 MI...90 KM SW OF ST. CROIX
+ABOUT 100 MI...160 KM SSE OF SAN JUAN PUERTO RICO
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...1010 MB...29.83 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Tropical Storm Warnings for Saba and Sint Eustatius have been 
+discontinued.
+ 
+The Tropical Storm Warnings for St. Martin and St. Barthelemy have 
+been discontinued.
+
+The Tropical Storm Warning for Sint Maarten has been discontinued.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* U.S. Virgin Islands
+* Puerto Rico, including Vieques and Culebra
+* Dominican Republic from the southern Haitian border to Samana
+ 
+A Tropical Storm Watch is in effect for...
+* North coast of the Dominican Republic from the Haitian border to
+Samana
+* Entire coast of Haiti
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere in the the Turks and Caicos Islands, the 
+southeastern Bahamas, and Cuba should monitor the progress of Grace. 
+Additional watches and warnings could be required for some of these 
+areas later today.
+ 
+For storm information specific to your area in the United States, 
+including possible inland watches and warnings, please monitor 
+products issued by your local National Weather Service forecast 
+office. For storm information specific to your area outside of the 
+United States, please monitor products issued by your national 
+meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM AST (1200 UTC), the center of Tropical Storm Grace was
+located near latitude 17.1 North, longitude 65.4 West. Grace is
+moving toward the west-northwest near 16 mph (26 km/h). A continued
+west-northwestward motion at a slower forward speed is expected over
+the next few days.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher
+gusts. Some strengthening is expected before Grace reaches
+Hispaniola on Monday. Weakening is forecast as the system crosses
+Hispaniola Monday and Monday night. Little change in strength is
+expected on Tuesday.
+ 
+Tropical-storm-force winds extend outward up to 35 miles (55 km)
+from the center.
+ 
+The estimated minimum central pressure is 1010 mb (29.83 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Grace can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2 and WMO header WTNT42 KNHC
+and on the web at
+www.hurricanes.gov/graphics_at2.shtml?key_messages.
+ 
+WIND:  Tropical storm conditions are expected within portions of 
+the warning areas in the U.S. Virgin Islands and Puerto Rico today, 
+and in the Dominican Republic tonight and Monday.  Tropical storm 
+conditions are possible within the watch area in the Dominican 
+Republic Monday, and in Haiti on Monday night.
+ 
+RAINFALL:  Grace is expected to produce the following rainfall
+amounts Sunday into Tuesday:
+ 
+Over the northern Leeward Islands and Virgin Islands...3 to 6
+inches. This rainfall may produce scattered areas of flash and urban
+flooding.
+ 
+Over Puerto Rico...3 to 6 inches with isolated maximum totals of 8
+inches.  Heavy rainfall could lead to flash, urban and small stream
+flooding and possible mudslides.
+ 
+Over Haiti and the Dominican Republic...4 to 7 inches with isolated 
+maximum totals of 10 inches. Heavy rainfall could lead to flash and 
+urban flooding and possible mudslides from Monday into Tuesday.
+ 
+By mid to late week, heavy rainfall from this system could impact
+portions of Cuba, the Bahamas and Florida.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM AST.
+ 
+$$
+Forecaster Pasch
+ 
+NNNN

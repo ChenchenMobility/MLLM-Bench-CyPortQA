@@ -1,0 +1,59 @@
+
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+TROPICAL STORM CLAUDETTE ADVISORY NUMBER   5
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL032015
+1100 AM AST TUE JUL 14 2015
+
+...CLAUDETTE WEAKENING...
+...EXPECTED TO BECOME POST-TROPICAL TONIGHT...
+
+
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...41.4N 61.3W
+ABOUT 250 MI...400 KM SSE OF HALIFAX NOVA SCOTIA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...NE OR 50 DEGREES AT 21 MPH...33 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+
+DISCUSSION AND 48-HOUR OUTLOOK
+------------------------------
+At 1100 AM AST (1500 UTC), the center of Tropical Storm Claudette
+was located near latitude 41.4 North, longitude 61.3 West. Claudette
+is moving toward the northeast near 21 mph (33 km/h).  A turn
+toward the north-northeast with some further increase in forward
+speed is expected through Wednesday.
+
+Maximum sustained winds have decreased to near 40 mph (65 km/h) with
+higher gusts. Additional weakening is likely, and Claudette is
+expected to become a post-tropical cyclone tonight.  Dissipation is
+forecast on Wednesday.
+
+Tropical storm force winds extend outward up to 70 miles (110 km)
+from the center.
+
+The estimated minimum central pressure is 1005 mb (29.68 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+None
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM AST.
+
+$$
+Forecaster Kimberlain
+
+NNNN

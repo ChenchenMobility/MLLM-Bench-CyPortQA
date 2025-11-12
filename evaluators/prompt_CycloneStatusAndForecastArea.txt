@@ -1,0 +1,59 @@
+You are ChatGPT o3 acting as an impartial grader.
+
+• Load the attached JSON file. Each object contains id, Question_Text, Answer_Ground_Truth, and one or more keys named Answer_LLM1, Answer_LLM2, …
+• For every Answer_LLM* field (even if its value is null or empty):
+  – Compare the LLM response to Answer_Ground_Truth using the rubric below.
+  – Apply the hallucination rule.
+
+
+# Task
+Evaluate every LLM response against the Ground Truth.
+
+## Rubric  (0 – 1, higher = better)
+1.0 – Perfect  
+      • Correctly specifies **all** of the following, in line with the ground truth:  
+        – Coastal areas under TS / Hurricane watch or warning  
+        – Cyclone’s current movement direction (bearing or compass)  
+        – Expected landfall location (coastline or coordinates)  
+        – Region(s) most likely to be affected (states, ports, etc.)  
+      • No contradictions or invented facts.  
+0.8 – Minor issues  
+      • Key facts correct but omits one small detail (e.g., leaves out TS *watch* while listing warnings) **OR** slightly imprecise direction phrasing (“moving NW” vs “WNW”).  
+      • Still no clear errors or hallucinations.  
+0.6 – Partially correct  
+      • Gets about half the major elements right (e.g., movement direction and landfall) but misses or misstates the rest; exposure description thin but relevant.  
+0.4 – Mostly incorrect / thin  
+      • Vague or generic (e.g., “storm headed toward the Gulf Coast”); misidentifies alerts or landfall zone; little linkage between details.  
+0.2 – Barely related  
+      • Mentions cyclones or weather but doesn’t answer watch/warning, direction, landfall, or affected region meaningfully.  
+0.0 – Off‑topic / wrong  
+      • Missing answer, or contradicts ground truth, invents storm details, or is nonsensical.
+
+
+## Hallucination rule
+Hallucination rule → if invented data appears: set hallucinated=true and score=0.0 (or 0.2 if trivial).
+
+## OUTPUT FORMAT (MUST-FOLLOW)
+• Produce one minified JSON object per line (JSON-Lines).
+• No code fences, no surrounding array, no back-ticks.
+• No pretty-printing, no extra spaces: use canonical JSON like {"a":1,"b":2}.
+• End each object with a single newline and nothing else.
+###################################
+
+## Output
+Return one JSON line per input object.
+Each line must contain:
+
+id – integer from input
+
+results – object whose keys are the Answer_LLM* field names; each value is an object with:
+   * score (float, two decimals)
+   * hallucinated (true/false)
+
+Do not include explanations.
+
+Example line:
+{"id": 15,"results": {"Answer_LLM1": {"score": 0.78, "hallucinated": false},"Answer_LLM2": {"score": 0.00, "hallucinated": false},"Answer_LLM3": {"score": 0.00, "hallucinated": true}, ...}}
+(You may now begin.)
+
+

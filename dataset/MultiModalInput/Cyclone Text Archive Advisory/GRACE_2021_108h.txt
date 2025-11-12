@@ -1,0 +1,135 @@
+
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Grace Intermediate Advisory Number 6A
+NWS National Hurricane Center Miami FL       AL072021
+800 PM AST Sat Aug 14 2021
+ 
+...POORLY ORGANIZED GRACE NOW NEAR GUADELOUPE...
+...SQUALLY WEATHER MOVING ACROSS THE LESSER ANTILLES...
+ 
+ 
+SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.6N 61.5W
+ABOUT 15 MI...25 KM N OF GUADELOUPE
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 23 MPH...37 KM/H
+MINIMUM CENTRAL PRESSURE...1010 MB...29.83 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of the Dominican Republic has issued a Tropical Storm 
+Warning from Cabo Caucedo northward to Samana. 
+
+The government of the Dominican Republic has issued a Tropical Storm 
+Watch from the south coast of the Dominican Republic from Haiti 
+border eastward to Cabo Caucedo and for the north coast of the 
+Dominican Republic from Samana westward to the Haiti border. 
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Antigua and Barbuda, Anguilla, St. Kitts and Nevis, and Montserrat
+* Saba and Sint Eustatius
+* Sint Maarten
+* St. Martin and St. Barthelemy
+* British Virgin Islands
+* U.S. Virgin Islands
+* Puerto Rico, including Vieques and Culebra
+* Dominican Republic from Cabo Caucedo to Samana
+ 
+A Tropical Storm Watch is in effect for...
+* South coast of the Dominican Republic from the Haitian border to 
+Cabo Caucedo
+* North coast of the Dominican Republic from the Haitian border to
+Samana
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere in the Dominican Republic, Haiti, the Turks and
+Caicos Islands, the southeastern Bahamas, and Cuba should monitor
+the progress of Grace.  Additional watches and warnings could be
+required for this area tonight or on Sunday.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM AST (0000 UTC), the poorly-defined center of Tropical 
+Storm Grace was relocated to near latitude 16.6 North, longitude 
+61.5 West.  Grace is moving quickly toward the west near 23 mph (37 
+km/h).  A motion toward the west-northwest with a gradual decrease 
+in forward speed is expected during the next several days.  On the 
+forecast track, the center of Grace is expected to pass through 
+the Leeward Islands tonight, near the Virgin Islands and Puerto Rico 
+on Sunday, near or over the Dominican Republic Sunday night and 
+Monday, and then near or over Haiti Monday night.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher
+gusts. Some strengthening is forecast during the next day or two.
+Grace is likely to weaken while it moves near and across the Greater
+Antilles Monday and Tuesday.
+ 
+Tropical-storm-force winds extend outward up to 35 miles (55 km) to
+the north of the center.
+ 
+The estimated minimum central pressure is 1010 mb (29.83 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Grace can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2 and WMO header WTNT42 KNHC
+and on the web at
+www.hurricanes.gov/graphics_at2.shtml?key_messages.
+ 
+WIND:  Tropical storm conditions are expected within the warning
+area in the Leeward Islands tonight, and in the Virgin Islands and
+Puerto Rico on Sunday, and in the Dominican Republic Sunday night. 
+Tropical storm conditions are possible within the watch area in the 
+Dominican Republic Sunday night and Monday.
+ 
+RAINFALL:  Grace is expected to produce the following rainfall
+amounts Saturday into Tuesday:
+ 
+Over the northern Leeward Islands and Virgin Islands...3 to 6
+inches. This rainfall may produce scattered areas of flash and urban
+flooding.
+ 
+Over Puerto Rico...3 to 6 inches with isolated maximum totals of 8
+inches.  Heavy rainfall could lead to flash, urban and small stream
+flooding and possible mudslides.
+ 
+Over Haiti and the Dominican Republic...4 to 7 inches with
+isolated maximum totals of 10 inches. Heavy rainfall could lead to
+flash and urban flooding and possible mudslides from Monday into
+Tuesday.
+ 
+By mid to late next week heavy rainfall from this system could
+impact portions of Cuba, the Bahamas and Florida.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM AST.
+ 
+$$
+Forecaster Papin/Brown
+ 
+NNNN

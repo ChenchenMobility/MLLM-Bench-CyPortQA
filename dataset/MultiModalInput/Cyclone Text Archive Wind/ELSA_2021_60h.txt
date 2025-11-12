@@ -1,0 +1,224 @@
+
+ZCZC MIAPWSAT5 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM ELSA WIND SPEED PROBABILITIES NUMBER  18             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL052021               
+2100 UTC SUN JUL 04 2021                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM ELSA WAS LOCATED NEAR LATITUDE
+19.8 NORTH...LONGITUDE 77.9 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+50 KTS...60 MPH...95 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SUN 06Z MON 18Z MON 06Z TUE 18Z TUE 18Z WED 18Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z MON 18Z MON 06Z TUE 18Z TUE 18Z WED 18Z THU 18Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+NANTUCKET MA   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+PROVIDENCE RI  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+MONTAUK POINT  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+NYC JFK AIRPRT 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+ATLANTIC CITY  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+DOVER DE       34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+CAPE HENLOPEN  34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+OCEAN CITY MD  34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   5( 7)
+ 
+PAX RIVER NAS  34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+WALLOPS CDA    34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   4( 7)
+ 
+RICHMOND VA    34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ 
+DANVILLE VA    34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+NORFOLK NAS    34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   3( 7)
+ 
+NORFOLK VA     34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   3( 7)
+ 
+OCEANA NAS VA  34  X   X( X)   X( X)   X( X)   X( X)   5( 5)   5(10)
+ 
+ELIZABETH CTY  34  X   X( X)   X( X)   X( X)   X( X)   5( 5)   3( 8)
+ 
+GREENSBORO NC  34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+ 
+RALEIGH NC     34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   2( 6)
+ 
+ROCKY MT NC    34  X   X( X)   X( X)   X( X)   X( X)   5( 5)   2( 7)
+ 
+CAPE HATTERAS  34  X   X( X)   X( X)   X( X)   X( X)   8( 8)   5(13)
+ 
+FAYETTEVILLE   34  X   X( X)   X( X)   X( X)   X( X)   6( 6)   1( 7)
+ 
+CHARLOTTE NC   34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+ 
+CHERRY PT NC   34  X   X( X)   X( X)   X( X)   X( X)   7( 7)   2( 9)
+ 
+NEW RIVER NC   34  X   X( X)   X( X)   X( X)   X( X)   9( 9)   5(14)
+ 
+MOREHEAD CITY  34  X   X( X)   X( X)   X( X)   X( X)  10(10)   3(13)
+ 
+SURF CITY NC   34  X   X( X)   X( X)   X( X)   X( X)  11(11)   3(14)
+ 
+WILMINGTON NC  34  X   X( X)   X( X)   X( X)   X( X)   7( 7)   2( 9)
+ 
+BALD HEAD ISL  34  X   X( X)   X( X)   X( X)   1( 1)  11(12)   2(14)
+ 
+FLORENCE SC    34  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   1( 7)
+ 
+COLUMBIA SC    34  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   1( 7)
+ 
+LITTLE RIVER   34  X   X( X)   X( X)   X( X)   1( 1)  10(11)   1(12)
+ 
+MYRTLE BEACH   34  X   X( X)   X( X)   X( X)   1( 1)  10(11)   1(12)
+ 
+GEORGETOWN SC  34  X   X( X)   X( X)   X( X)   1( 1)   8( 9)   1(10)
+ 
+CHARLESTON SC  34  X   X( X)   X( X)   X( X)   4( 4)  11(15)   X(15)
+ 
+BEAUFORT MCAS  34  X   X( X)   X( X)   X( X)   6( 6)   9(15)   X(15)
+ 
+AUGUSTA GA     34  X   X( X)   X( X)   X( X)   2( 2)   5( 7)   X( 7)
+ 
+SAVANNAH GA    34  X   X( X)   X( X)   X( X)   5( 5)   7(12)   X(12)
+ 
+KINGS BAY GA   34  X   X( X)   X( X)   1( 1)  14(15)   5(20)   1(21)
+KINGS BAY GA   50  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   X( 4)
+ 
+WAYCROSS GA    34  X   X( X)   X( X)   X( X)   9( 9)   3(12)   X(12)
+ 
+MAYPORT NS FL  34  X   X( X)   X( X)   1( 1)  16(17)   5(22)   X(22)
+MAYPORT NS FL  50  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   X( 4)
+ 
+JACKSONVILLE   34  X   X( X)   X( X)   X( X)  14(14)   3(17)   X(17)
+JACKSONVILLE   50  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+GAINESVILLE FL 34  X   X( X)   X( X)   1( 1)  18(19)   2(21)   X(21)
+GAINESVILLE FL 50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+GAINESVILLE FL 64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+DAYTONA BEACH  34  X   X( X)   X( X)   1( 1)  14(15)   1(16)   X(16)
+ 
+THE VILLAGES   34  X   X( X)   X( X)   2( 2)  20(22)   1(23)   X(23)
+THE VILLAGES   50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+ 
+ORLANDO FL     34  X   X( X)   1( 1)   2( 3)  15(18)   X(18)   X(18)
+ 
+COCOA BEACH FL 34  X   X( X)   2( 2)   5( 7)  10(17)   1(18)   X(18)
+ 
+PATRICK AFB    34  X   X( X)   2( 2)   6( 8)  10(18)   X(18)   X(18)
+ 
+FT PIERCE FL   34  X   1( 1)   3( 4)   5( 9)   6(15)   1(16)   X(16)
+ 
+W PALM BEACH   34  X   2( 2)   4( 6)   6(12)   3(15)   1(16)   X(16)
+ 
+FT LAUDERDALE  34  X   4( 4)   6(10)   5(15)   3(18)   X(18)   X(18)
+ 
+MIAMI FL       34  X   3( 3)   2( 5)   3( 8)   3(11)   X(11)   X(11)
+ 
+HOMESTEAD ARB  34  X   3( 3)   4( 7)   2( 9)   2(11)   X(11)   X(11)
+ 
+MARATHON FL    34  1  16(17)  28(45)   4(49)   X(49)   X(49)   X(49)
+MARATHON FL    50  X   1( 1)   7( 8)   1( 9)   X( 9)   X( 9)   X( 9)
+MARATHON FL    64  X   X( X)   1( 1)   1( 2)   X( 2)   X( 2)   X( 2)
+ 
+KEY WEST FL    34  1  18(19)  42(61)   6(67)   X(67)   X(67)   X(67)
+KEY WEST FL    50  X   1( 1)  19(20)   3(23)   1(24)   X(24)   X(24)
+KEY WEST FL    64  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+NAPLES FL      34  X   3( 3)  16(19)  21(40)   7(47)   X(47)   X(47)
+NAPLES FL      50  X   X( X)   2( 2)   8(10)   1(11)   X(11)   X(11)
+NAPLES FL      64  X   X( X)   X( X)   1( 1)   1( 2)   X( 2)   X( 2)
+ 
+FT MYERS FL    34  X   1( 1)   3( 4)  15(19)   8(27)   X(27)   X(27)
+FT MYERS FL    50  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+VENICE FL      34  X   1( 1)   6( 7)  26(33)  15(48)   X(48)   X(48)
+VENICE FL      50  X   X( X)   X( X)   7( 7)   8(15)   X(15)   X(15)
+VENICE FL      64  X   X( X)   X( X)   1( 1)   1( 2)   X( 2)   X( 2)
+ 
+TAMPA FL       34  X   X( X)   3( 3)  14(17)  23(40)   1(41)   X(41)
+TAMPA FL       50  X   X( X)   X( X)   1( 1)  10(11)   X(11)   X(11)
+TAMPA FL       64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+ 
+CEDAR KEY FL   34  X   X( X)   1( 1)   6( 7)  24(31)   1(32)   X(32)
+CEDAR KEY FL   50  X   X( X)   X( X)   X( X)   8( 8)   X( 8)   X( 8)
+CEDAR KEY FL   64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+ 
+TALLAHASSEE FL 34  X   X( X)   X( X)   X( X)   7( 7)   2( 9)   X( 9)
+ 
+ST MARKS FL    34  X   X( X)   X( X)   X( X)   9( 9)   1(10)   X(10)
+ 
+APALACHICOLA   34  X   X( X)   X( X)   2( 2)   8(10)   X(10)   X(10)
+ 
+GFMX 290N 850W 34  X   X( X)   X( X)   4( 4)  10(14)   1(15)   X(15)
+ 
+PANAMA CITY FL 34  X   X( X)   X( X)   1( 1)   4( 5)   X( 5)   X( 5)
+ 
+GFMX 290N 870W 34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+GRAND BAHAMA   34  X   2( 2)   2( 4)   2( 6)   3( 9)   X( 9)   X( 9)
+ 
+NEW PROVIDENCE 34  2   2( 4)   1( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+ 
+ANDROS         34  2   3( 5)   1( 6)   1( 7)   X( 7)   X( 7)   X( 7)
+ 
+GREAT EXUMA    34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+CP SAN ANTONIO 34  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+HAVANA         34  1  32(33)  20(53)   1(54)   X(54)   X(54)   X(54)
+HAVANA         50  X   5( 5)   8(13)   1(14)   X(14)   X(14)   X(14)
+HAVANA         64  X   X( X)   2( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+ISLE OF PINES  34  1   6( 7)   3(10)   1(11)   X(11)   X(11)   X(11)
+ 
+CIENFUEGOS     34 14  69(83)   X(83)   X(83)   X(83)   X(83)   X(83)
+CIENFUEGOS     50  X  28(28)   X(28)   X(28)   X(28)   X(28)   X(28)
+CIENFUEGOS     64  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+CAMAGUEY       34 36   1(37)   X(37)   X(37)   X(37)   X(37)   X(37)
+ 
+$$                                                                  
+FORECASTER PASCH                                                    
+NNNN                                                                

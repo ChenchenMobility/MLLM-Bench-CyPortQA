@@ -1,0 +1,187 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Delta Intermediate Advisory Number 17A
+NWS National Hurricane Center Miami FL       AL262020
+700 PM CDT Thu Oct 08 2020
+ 
+...DELTA EXPECTED TO BRING HURRICANE CONDITIONS AND A
+LIFE-THREATENING STORM SURGE TO PORTIONS OF THE NORTHERN GULF COAST
+ON FRIDAY...
+ 
+ 
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...25.3N 93.5W
+ABOUT 310 MI...500 KM S OF CAMERON LOUISIANA
+MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
+PRESENT MOVEMENT...NNW OR 330 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...956 MB...28.23 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* High Island Texas to Ocean Springs Mississippi including
+Calcasieu Lake, Vermilion Bay, Lake Pontchartrain, Lake Maurepas,
+and Lake Borgne
+ 
+A Hurricane Warning is in effect for...
+* High Island Texas to Morgan City Louisiana
+ 
+A Tropical Storm Warning is in effect for...
+* West of High Island to Sargent Texas
+* East of Morgan City Louisiana to the mouth of the Pearl River,
+including New Orleans
+* Lake Pontchartrain and Lake Maurepas
+ 
+A Tropical Storm Watch is in effect for...
+* East of the mouth of the Pearl River to Bay St. Louis Mississippi
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a depiction
+of areas at risk, please see the National Weather Service Storm
+Surge Watch/Warning Graphic, available at hurricanes.gov.  This is a
+life-threatening situation.  Persons located within these areas
+should take all necessary actions to protect life and property from
+rising water and the potential for other dangerous conditions.
+Promptly follow evacuation and other instructions from local
+officials.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued 36
+hours before the anticipated first occurrence of tropical-storm-
+force winds, conditions that make outside preparations difficult or
+dangerous.  Preparations to protect life and property should be
+rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 PM CDT (0000 UTC), the center of Hurricane Delta was located
+near latitude 25.3 North, longitude 93.5 West.  Delta is moving
+toward the north-northwest near 12 mph (19 km/h).  A turn toward the
+north is forecast overnight, followed by a north-northeastward
+motion Friday and Friday night.  On the forecast track, the center
+of Delta will move over the northwestern Gulf of Mexico on Friday,
+and then move inland within the hurricane warning area Friday
+afternoon or Friday night.
+ 
+Maximum sustained winds are near 115 mph (185 km/h) with higher
+gusts.  Delta is a category 3 hurricane on the Saffir-Simpson
+Hurricane Wind Scale.  Additional strengthening is possible tonight.
+Some weakening is anticipated as Delta approaches the northern Gulf
+coast on Friday, with rapid weakening expected after the center
+moves inland.
+ 
+Hurricane-force winds extend outward up to 35 miles (55 km) from
+the center and tropical-storm-force winds extend outward up to 160
+miles (260 km).  NOAA buoy 42002, just to the north of Delta's 
+center, recently measured a sustained wind of 54 mph (86 km/h) and 
+a wind gust to 65 mph (104 km/h).
+ 
+The minimum central pressure estimated from Hurricane Hunter
+observations is 956 mb (28.23 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Delta can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1, WMO header WTNT41
+KNHC, and on the web at www.hurricanes.gov/text/MIATCDAT1.shtml.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Rockefeller Wildlife Refuge, LA to Morgan City, LA including
+Vermilion Bay...7-11 ft
+Holly Beach, LA to Rockefeller Wildlife Refuge, LA...5-8 ft
+Sabine Pass to Holly Beach, LA...4-7 ft
+Morgan City, LA to Port Fourchon, LA...4-7 ft
+Port Fourchon, LA to the Mouth of the Mississippi River...3-5 ft
+Calcasieu Lake...3-5 ft
+High Island, TX to Sabine Pass...2-4 ft
+Mouth of the Mississippi River to Ocean Springs, MS...2-4 ft
+Lake Borgne, Lake Pontchartrain, and Lake Maurepas...2-4 ft
+Ocean Springs, MS to the AL/FL border including Mobile Bay...1-3 ft
+Sabine Lake...1-3 ft
+Port O'Connor, TX to High Island, TX including Galveston Bay...
+1-3 ft
+ 
+It is important to note that small changes in the track, structure,
+or intensity of Delta could have large impacts on where the highest
+storm surge occurs.  Users are urged to stay tuned for possible
+changes and updates.
+ 
+The deepest water will occur along the immediate coast near and to
+the east of the landfall location, where the surge will be
+accompanied by large and dangerous waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle,
+and can vary greatly over short distances.  For information
+specific to your area, please see products issued by your local
+National Weather Service forecast office.
+ 
+WIND:  Hurricane conditions are expected within the hurricane
+warning area by Friday afternoon or evening, with tropical storm
+conditions expected within this area by early Friday.  Tropical
+storm conditions are expected within the tropical storm warning
+areas on Friday, and are possible within the tropical storm watch
+area Friday night.
+ 
+RAINFALL:  Friday through Saturday, Delta is expected to produce 5
+to 10 inches of rain, with isolated maximum totals of 15 inches,
+from southwest into south-central Louisiana.  These rainfall amounts
+will lead to significant flash, urban, small stream flooding, along
+with minor to major river flooding.
+ 
+For extreme east Texas into northern Louisiana, southern Arkansas
+and western Mississippi, Delta is expected to produce 3 to 6 inches
+of rain, with isolated maximum totals of 10 inches.  These rainfall
+amounts will lead to flash, urban, small stream and isolated minor
+river flooding.
+ 
+As Delta moves farther inland, 1 to 3 inches of rain, with locally
+higher amounts, are expected in the Tennessee Valley and Mid-
+Atlantic this weekend.
+ 
+TORNADOES:  There is a risk of a few tornadoes beginning late
+tonight and continuing through Friday over southern portions of
+Louisiana and Mississippi.
+ 
+SURF:  Swells from Delta will begin to affect portions of the
+northern and western Gulf coast during the next several hours.
+These swells are likely to cause life-threatening surf and rip
+current conditions. Please consult products from your local weather
+office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 PM CDT.
+ 
+$$
+Forecaster Pasch
+ 
+NNNN

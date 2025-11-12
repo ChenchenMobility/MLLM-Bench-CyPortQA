@@ -1,0 +1,138 @@
+
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Delta Intermediate Advisory Number 5A
+NWS National Hurricane Center Miami FL       AL262020
+800 PM EDT Mon Oct 05 2020
+ 
+...DATA FROM A NOAA HURRICANE HUNTER AIRCRAFT INDICATE THAT DELTA
+HAS BECOME A HURRICANE...
+ 
+ 
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.5N 79.6W
+ABOUT 150 MI...245 KM SSW OF NEGRIL JAMAICA
+ABOUT 220 MI...355 KM SSE OF GRAND CAYMAN
+MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...980 MB...28.94 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Cuba province of Pinar del Rio
+* Tulum to Rio Lagartos Mexico
+* Cozumel
+ 
+A Hurricane Watch is in effect for...
+* Cuban province of Artemisa
+* Isle of Youth
+ 
+A Tropical Storm Warning is in effect for...
+* Cayman Islands including Little Cayman and Cayman Brac
+* Isle of Youth
+ 
+A Tropical Storm Watch is in effect for...
+* Cuba province of La Habana
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area, generally within 48 hours.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM EDT (0000 UTC), the center of Hurricane Delta was located
+near latitude 16.5 North, longitude 79.6 West. Delta is moving
+toward the west-northwest near 8 mph (13 km/h). A faster
+northwestward motion is expected Tuesday through Wednesday night.  
+On the forecast track, the center of Delta is expected to pass
+southwest of the Cayman Islands early Tuesday, and approach the
+northeastern portion of the Yucatan peninsula and the Yucatan
+Channel Tuesday afternoon or evening.  Delta is forecast to move
+over the southern Gulf of Mexico Tuesday night or early Wednesday,
+and be over the south-central Gulf of Mexico on Wednesday and
+Wednesday night.
+ 
+Data from a NOAA Hurricane Hunter aircraft indicate that the
+maximum sustained winds have increased to near 75 mph (120 km/h)
+with higher gusts.  Additional rapid strengthening is expected
+during the next day or so, and Delta is expected to be a major
+hurricane when it nears the Yucatan Peninsula.
+ 
+Hurricane-force winds extend outward up to 15 miles (25 km) from
+the center and tropical-storm-force winds extend up to 70 miles (110
+km) from the center.
+ 
+The minimum central pressure estimated from data provided by the
+NOAA reconnaissance aircraft is 980 mb (28.94 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Delta can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1, WMO header WTNT41
+KNHC, and on the web at www.hurricanes.gov/text/MIATCDAT1.shtml.
+ 
+STORM SURGE:  A dangerous storm surge will raise water levels by
+as much as 4 to 7 feet above normal tide levels along coast of the
+Yucatan peninsula within the hurricane warning area, near and to
+right of where the center makes landfall. Near the coast, the surge
+will be accompanied by large and dangerous waves.
+ 
+WIND:  Tropical storm conditions are expected in the Cayman Islands
+later tonight.  Hurricane conditions are expected within the
+hurricane warning area in the Yucatan Peninsula Tuesday night, with
+tropical storm conditions beginning late Tuesday.  Hurricane
+conditions are expected within a portion of the the Hurricane
+Warning area in western Cuba by late Tuesday night, with tropical
+storm conditions expected beginning late Tuesday.  Hurricane
+conditions are possible on the Isle of Youth beginning Tuesday
+afternoon with tropical storm conditions expected by early Tuesday.
+Tropical storm conditions are possible in the Tropical Storm Watch
+area in Cuba on Tuesday.
+ 
+RAINFALL:  Through midweek, Delta is expected to produce 3 to 6
+inches of rain with isolated maximum totals of 8 inches across
+Jamaica, the Cayman Islands, western Cuba and the northern Yucatan
+Peninsula. This rainfall could lead to significant flash floods and
+mudslides.
+ 
+Later this week into the weekend, Delta is expected to bring heavy
+rainfall across portions of the central Gulf Coast into the
+southeastern United States.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Cangialosi
+ 
+NNNN

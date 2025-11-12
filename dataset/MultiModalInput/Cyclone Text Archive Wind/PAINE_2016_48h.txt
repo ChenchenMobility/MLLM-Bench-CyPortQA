@@ -1,0 +1,72 @@
+
+ZCZC MIAPWSEP2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM PAINE WIND SPEED PROBABILITIES NUMBER   4            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP172016               
+2100 UTC SUN SEP 18 2016                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM PAINE WAS LOCATED NEAR        
+LATITUDE 18.5 NORTH...LONGITUDE 112.9 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 50 KTS...60 MPH...95 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 64 KT ARE SHOWN WHEN THE 5-DAY CUMULATIVE         
+PROBABILITY IS AT LEAST 1 PERCENT.                                  
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SUN 06Z MON 18Z MON 06Z TUE 18Z TUE 18Z WED 18Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z MON 18Z MON 06Z TUE 18Z TUE 18Z WED 18Z THU 18Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+IS GUADALUPE   34  X   X( X)   1( 1)   1( 2)  10(12)   X(12)   X(12)
+ 
+PUNTA EUGENIA  34  X   X( X)   2( 2)   2( 4)   4( 8)   X( 8)   X( 8)
+ 
+P ABREOJOS     34  X   1( 1)   2( 3)   1( 4)   1( 5)   X( 5)   X( 5)
+ 
+ISLA SOCORRO   34  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+ISLA CLARION   34 16   2(18)   1(19)   X(19)   X(19)   X(19)   X(19)
+ 
+20N 115W       34 79  13(92)   X(92)   X(92)   X(92)   X(92)   X(92)
+20N 115W       50  7  32(39)   X(39)   X(39)   X(39)   X(39)   X(39)
+20N 115W       64  1   7( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+25N 115W       34  X   5( 5)  10(15)   2(17)   1(18)   X(18)   X(18)
+ 
+20N 120W       34  X   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+25N 120W       34  X   2( 2)   5( 7)   3(10)   1(11)   X(11)   X(11)
+ 
+$$                                                                  
+FORECASTER PASCH                                                    
+NNNN                                                                

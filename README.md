@@ -1,173 +1,118 @@
 # CyPortQA
 
-> **Anonymous research benchmark for cyclone preparedness in Port Operation (AAAI 2026 submission)**
-
-CyPortQA is the first **multimodal QA benchmark** that evaluates how well multimodal large‑language models (MLLMs) can
-1. understand **tropical‑cyclone forecasts**,
-2. reason about **port‑level impacts**, and
-3. recommend **operational strategies**.
-
-The dataset fuses real‑world NOAA hurricane products, USCG port‑condition bulletins, and AIS‑derived port‑performance metrics collected from **2015 – 2023** to generate **117 k +** question–answer pairs across three task groups:
-
-| Task | Core Ability | Example Question |
-|------|--------------|------------------|
-| **S1** | Situation Understanding | *“Does Port X fall inside the uncertainty cone at T‑24 h?”* |
-| **S2** | Impact Estimation | *“What is the expected recovery duration (days)?”* |
-| **S3** | Decision Reasoning | *“Which port‑condition bulletin should be issued now?”* |
+**CyPortQA** is the first **multimodal benchmark** designed to evaluate how large language models (LLMs and MLLMs) understand and reason about **tropical cyclone impacts on port operations**.  
+It connects meteorological forecasts, operational bulletins, and port performance data to test whether models can interpret hazards and recommend realistic operational actions.
 
 ---
 
-## Repository layout
+## 🌊 Overview
 
-```
-Datasets/
-  CyPortQA/                 # benchmark JSON + templates
-  Source_data/              # raw NOAA / USCG / experiment data (⇢ Git LFS)
-Codes/
-  Data Collection/          # scripts that build Source_data/
-  Senario Encoding/         # converts raw data → Encoded_senario.JSON
-  Model Runing - Colab/     # Colab notebooks for baseline runs
-  Model Runing - Local/     # local inference scripts (Python ≥ 3.10)
-  o3 LLM Judger/            # evaluation prompts + judge harness
-  Performance Eval/         # aggregation & plotting utilities
-requirements.txt            # pip alternative to the conda env below
-LICENSE                     # MIT
-README.md                   # you are here
-```
+Ports are vital nodes in global trade — yet tropical cyclones routinely disrupt maritime logistics and port operations.  
+CyPortQA provides a large-scale, structured benchmark to test whether multimodal models can:
 
-> **Note**  Large files (> 100 MB) are tracked with **Git LFS** to keep the repo lightweight.
+1. **Understand** official NOAA/NHC cyclone forecast graphics and advisories  
+2. **Estimate** potential disruptions and recovery durations  
+3. **Reason** about operational decisions under uncertainty  
+
+Each QA item is grounded in real data from **2015 – 2023**, fusing:
+- **NOAA/NHC tropical cyclone forecast products**  
+- **USCG port-condition bulletins**  
+- **AIS-derived vessel activity and performance data**
+
+The benchmark includes **117 k + QA pairs** organized into three ability categories:
+
+| **Task** | **Core Ability** | **Example Question** |
+|-----------|------------------|----------------------|
+| **S1 – Situation Understanding** | Spatial reasoning over cyclone maps | “Is Port X inside the uncertainty cone at T − 24 h?” |
+| **S2 – Impact Estimation** | Quantitative reasoning over storm impact | “What is the expected recovery duration (hours)?” |
+| **S3 – Decision Reasoning** | Operational strategy and policy judgment | “Which port condition should be issued now?” |
 
 ---
 
-## Quick start
+## 🧭 Repository Structure
 
-### 1 · Set up the environment (conda recommended)
+```
+source_data/
+  ├── CyPortQA_Imbalanced/
+  ├── NOAA NHC Cyclone Products/
+  ├── Port_Condition_Bullitens/
+  ├── CyPortQA_template.JSON
+  └── Encoded_senario.JSON
 
+dataset/
+  ├── CyPortQA.json
+  └── MultiModalInput/
+
+models/
+  ├── run_mistral.py
+  ├── run_gpt4o.py
+  ├── run_llama3_2.py
+  ├── run_gemini_flash.py
+  ├── run_llava1_6.py
+  ├── run_gemma3.py
+  ├── run_qwen2_5vl.py
+  └── run.py          # master runner to execute multiple models
+
+config.json           # select which models and arguments to run
+outputs/              # model responses and logs
+README.md
+```
+
+---
+
+## ⚙️ How to Run
+
+### 1. Set up the environment
 ```bash
-# clone anonymously (no forks that reveal identity)
-git clone https://github.com/anon-researcher/CyPortQA-Anon.git
-cd CyPortQA-Anon
-
-# create & activate environment
+pip install -r requirements.txt
+# or
 conda env create -f environment.yml
 conda activate cyportqa
-# ‑ or ‑
-# pip install -r requirements.txt
 ```
 
-<details>
-<summary>📦 <code>environment.yml</code> (click to expand)</summary>
-
-```yaml
-name: cyportqa
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - python=3.10
-  - pip
-  - git-lfs
-  - pip:
-      - torch>=2.2
-      - transformers>=4.43
-      - datasets>=2.19
-      - tiktoken>=0.6
-      - numpy
-      - pandas
-      - matplotlib
-      - tqdm
-      - scikit-learn
-```
-
-</details>
-
-### 2 · Run a baseline (Colab or local)
-Open the notebook in **`Codes/Model Runing - Colab/`** *or* the script in **`Model Runing - Local/`** and supply your API key(s) when prompted:
-
-```bash
-export OPENAI_API_KEY=xxxxx   # ChatGPT‑4o
-export GEMINI_API_KEY=xxxxx   # Gemini 2.5 Flash‑Lite
-```
-
-The runner downloads `CyPortQA.JSON`, performs inference, and writes model outputs to `Datasets/Source_data/Experiments_data/<model_name>/`.
-
-### 3 · Judge responses
-
-```bash
-python Codes/o3\ LLM\ Judger/judge.py \
-       --pred_dir Datasets/Source_data/Experiments_data/<model_name>/ \
-       --save_path Datasets/Source_data/Experiments_data/<model_name>_scored.jsonl
-```
-
-### 4 · Aggregate scores & plot
-
-```bash
-python Codes/Performance\ Eval/aggregate.py --root Datasets/Source_data/Experiments_data/
-```
-
----
-
-## Dataset schema
-
-* `CyPortQA.JSON`              root list of QA items
-* `CyPortQA_template.JSON`     template library (48 templates)
-* `Encoded_senario.JSON`       encoded scenario metadata (weather + port info)
-
-Each QA record contains:
-```jsonc
+### 2. Choose which models to run
+Edit `config.json` to specify your models and arguments:
+```json
 {
-  "qa_id": "S1.1-000042",
-  "scenario_id": "HARVEY_2017_PORT001_Tm24h",
-  "task": "S1.1",           // task category
-  "question": "Does Port X …?",
-  "answer": "True",         // ground‑truth
-  "metadata": { ... }        // cone geoJSON, forecast table slice, etc.
+  "models_to_run": ["run_mistral.py", "run_gpt4o.py"],
+  "args": {"start": 0, "end": 5, "dataset": "./dataset", "output": "./outputs"}
 }
 ```
 
-> The benchmark *does not* redistribute raw NOAA imagery; scripts in `Data Collection/` download them from the official public endpoints given a scenario timestamp.
-
----
-
-## Adding new models
-
-1. Place your inference script or notebook under `Codes/Model Runing -*`.
-2. Save predictions to `Datasets/Source_data/Experiments_data/<model_name>/` (one JSONL per scenario).
-3. Re‑run the judging and aggregation steps above.
-
----
-
-## .gitignore (excerpt)
-```
-# bookkeeping
-__pycache__/
-*.log
-*.ipynb_checkpoints/
-
-# credentials
-.env
-*.key
-
-# large or generated artefacts
-Datasets/Source_data/Experiments_data/
-Datasets/Source_data/NOAA*/
-Datasets/Source_data/CyPort*Events/
+### 3. Run benchmark
+```bash
+python models/run.py
 ```
 
----
-
-## License
-
-CyPortQA is released under the **MIT License**. See the [LICENSE](LICENSE) file for the full text.
+Each model script loads the **CyPortQA** dataset, performs multimodal reasoning,  
+and saves results automatically to `./outputs/<model_name>/`.
 
 ---
 
-## Citation (to be updated post‑review)
+## 📈 What’s Inside
+
+- **Dataset:** `CyPortQA.json` — QA pairs across 2,900 + real cyclone–port scenarios  
+- **Templates:** `CyPortQA_template.JSON` — 48 question-generation templates  
+- **Encoded metadata:** `Encoded_senario.JSON` — storm, port, and lead-time metadata  
+- **Source data:** NOAA/NHC cyclone products and USCG bulletins used to construct the benchmark  
+
+Together, these components allow consistent evaluation of multimodal understanding and decision reasoning in extreme-weather contexts.
+
+---
+
+## 📜 License & Citation
+
+Released under the **MIT License**.  
+Please cite the following if you use CyPortQA in your research:
 
 ```bibtex
-@misc{cyportqa2025,
-  title  = {CyPortQA: Benchmarking Multimodal LLMs for Cyclone Preparedness in Port Operation},
-  year   = {2025},
-  note   = {Anonymous submission, AAAI 2026}
+@misc{kuai2025cyportqa,
+  author       = {Chenchen Kuai and Chenhao Wu and Yang Zhou and Xiubin Bruce Wang and Tianbao Yang and Zhengzhong Tu and Zihao Li and Yunlong Zhang},
+  title        = {CyPortQA: Benchmarking Multimodal Large Language Models for Cyclone Preparedness in Port Operation},
+  year         = {2025},
+  eprint       = {2508.15846},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.CL},
+  url          = {https://arxiv.org/abs/2508.15846}
 }
 ```

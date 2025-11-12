@@ -1,0 +1,93 @@
+
+ZCZC MIAPWSAT2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM GORDON WIND SPEED PROBABILITIES NUMBER   9           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072018               
+1500 UTC TUE SEP 04 2018                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM GORDON WAS LOCATED NEAR       
+LATITUDE 28.5 NORTH...LONGITUDE 86.8 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 55 KTS...65 MPH...100 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z TUE 00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z WED 12Z WED 00Z THU 12Z THU 12Z FRI 12Z SAT 12Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+PANAMA CITY FL 34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+DESTIN EXEC AP 34 14   X(14)   X(14)   X(14)   X(14)   X(14)   X(14)
+ 
+MONTGOMERY AL  34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+WHITING FLD FL 34 10   2(12)   X(12)   X(12)   X(12)   X(12)   X(12)
+ 
+PENSACOLA FL   34 32   1(33)   X(33)   X(33)   X(33)   X(33)   X(33)
+ 
+GFMX 290N 870W 34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+GFMX 290N 870W 50 70   X(70)   X(70)   X(70)   X(70)   X(70)   X(70)
+GFMX 290N 870W 64 10   X(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+ 
+MOBILE AL      34 74  14(88)   X(88)   X(88)   X(88)   X(88)   X(88)
+MOBILE AL      50  8  12(20)   X(20)   X(20)   X(20)   X(20)   X(20)
+MOBILE AL      64  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+GULFPORT MS    34 73  24(97)   X(97)   X(97)   X(97)   X(97)   X(97)
+GULFPORT MS    50  7  32(39)   X(39)   X(39)   X(39)   X(39)   X(39)
+GULFPORT MS    64  X   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+STENNIS MS     34 29  52(81)   1(82)   X(82)   X(82)   X(82)   X(82)
+STENNIS MS     50  1  25(26)   X(26)   X(26)   X(26)   X(26)   X(26)
+STENNIS MS     64  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+BURAS LA       34  7   5(12)   X(12)   X(12)   X(12)   X(12)   X(12)
+ 
+GFMX 280N 890W 34  2   X( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+JACKSON MS     34  1  26(27)   8(35)   X(35)   X(35)   X(35)   X(35)
+ 
+NEW ORLEANS LA 34  2  11(13)   1(14)   X(14)   X(14)   X(14)   X(14)
+ 
+BATON ROUGE LA 34  1   2( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+ALEXANDRIA LA  34  1   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+SHREVEPORT LA  34  X   1( 1)   X( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER STEWART                                                  
+NNNN                                                                
