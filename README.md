@@ -106,13 +106,15 @@ Released under the **MIT License**.
 Please cite the following if you use CyPortQA in your research:
 
 ```bibtex
-@misc{kuai2025cyportqa,
-  author       = {Chenchen Kuai and Chenhao Wu and Yang Zhou and Xiubin Bruce Wang and Tianbao Yang and Zhengzhong Tu and Zihao Li and Yunlong Zhang},
-  title        = {CyPortQA: Benchmarking Multimodal Large Language Models for Cyclone Preparedness in Port Operation},
-  year         = {2025},
-  eprint       = {2508.15846},
-  archivePrefix= {arXiv},
-  primaryClass = {cs.CL},
-  url          = {https://arxiv.org/abs/2508.15846}
+@inproceedings{kuai2025cyportqa,
+  author    = {Chenchen Kuai and Chenhao Wu and Yang Zhou and Bruce Wang and Tianbao Yang and Zhengzhong Tu and Zihao Li and Yunlong Zhang},
+  title     = {{CyPortQA}: Benchmarking Multimodal Large Language Models for Cyclone Preparedness in Port Operation},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2026},
+  volume    = {40},
+  number    = {45},
+  pages     = {38781--38789},
+  doi       = {10.1609/aaai.v40i45.41222},
+  url       = {https://ojs.aaai.org/index.php/AAAI/article/view/41222}
 }
 ```
