@@ -106,7 +106,7 @@ Released under the **MIT License**.
 Please cite the following if you use CyPortQA in your research:
 
 ```bibtex
-@inproceedings{kuai2025cyportqa,
+@inproceedings{kuai2026cyportqa,
   author    = {Chenchen Kuai and Chenhao Wu and Yang Zhou and Bruce Wang and Tianbao Yang and Zhengzhong Tu and Zihao Li and Yunlong Zhang},
   title     = {{CyPortQA}: Benchmarking Multimodal Large Language Models for Cyclone Preparedness in Port Operation},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
